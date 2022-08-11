@@ -1,0 +1,289 @@
+1. Gene SMUFR_1490 inibido.
+rxn13783_c0 :  --> cpd17042_c0
+
+2. Gene SMUFR_1372 inibido.
+rxn13783_c0 :  --> cpd17042_c0
+
+3. Gene SMUFR_0972 inibido.
+rxn13783_c0 :  --> cpd17042_c0
+
+4. Gene SMUFR_0711 inibido.
+rxn13783_c0 :  --> cpd17042_c0
+
+5. Gene SMUFR_1705 inibido.
+rxn13783_c0 :  --> cpd17042_c0
+
+6. Gene SMUFR_1491 inibido.
+rxn13783_c0 :  --> cpd17042_c0
+
+7. Gene SMUFR_0873 inibido.
+rxn13783_c0 :  --> cpd17042_c0
+
+8. Gene SMUFR_1620 inibido.
+rxn13783_c0 :  --> cpd17042_c0
+
+9. Gene SMUFR_1118 inibido.
+rxn13783_c0 :  --> cpd17042_c0
+
+10. Gene SMUFR_1077 inibido.
+rxn01649_c0 : cpd00009_c0 + cpd01217_c0 --> cpd00309_c0 + cpd00475_c0rxn01859_c0 : cpd00009_c0 + cpd00438_c0 --> cpd00128_c0 + cpd00509_c0rxn01646_c0 : cpd00009_c0 + cpd02016_c0 --> cpd00067_c0 + cpd00133_c0 + cpd00475_c0rxn01799_c0 : cpd00009_c0 + cpd00412_c0 <=> cpd00092_c0 + cpd00509_c0rxn01548_c0 : cpd00009_c0 + cpd00311_c0 --> cpd00207_c0 + cpd00475_c0rxn01446_c0 : cpd00009_c0 + cpd00277_c0 --> cpd00207_c0 + cpd00509_c0rxn01138_c0 : cpd00009_c0 + cpd00182_c0 --> cpd00128_c0 + cpd00475_c0rxn01647_c0 : cpd00009_c0 + cpd03471_c0 --> cpd00067_c0 + cpd00218_c0 + cpd00475_c0rxn01985_c0 : cpd00009_c0 + cpd03279_c0 --> cpd00226_c0 + cpd00509_c0rxn01358_c0 : cpd00009_c0 + cpd00246_c0 --> cpd00226_c0 + cpd00475_c0
+
+11. Gene SMUFR_1075 inibido.
+rxn01649_c0 : cpd00009_c0 + cpd01217_c0 --> cpd00309_c0 + cpd00475_c0rxn01859_c0 : cpd00009_c0 + cpd00438_c0 --> cpd00128_c0 + cpd00509_c0rxn01646_c0 : cpd00009_c0 + cpd02016_c0 --> cpd00067_c0 + cpd00133_c0 + cpd00475_c0rxn01799_c0 : cpd00009_c0 + cpd00412_c0 <=> cpd00092_c0 + cpd00509_c0rxn01548_c0 : cpd00009_c0 + cpd00311_c0 --> cpd00207_c0 + cpd00475_c0rxn01446_c0 : cpd00009_c0 + cpd00277_c0 --> cpd00207_c0 + cpd00509_c0rxn01138_c0 : cpd00009_c0 + cpd00182_c0 --> cpd00128_c0 + cpd00475_c0rxn01647_c0 : cpd00009_c0 + cpd03471_c0 --> cpd00067_c0 + cpd00218_c0 + cpd00475_c0rxn01985_c0 : cpd00009_c0 + cpd03279_c0 --> cpd00226_c0 + cpd00509_c0rxn01358_c0 : cpd00009_c0 + cpd00246_c0 --> cpd00226_c0 + cpd00475_c0
+
+12. Gene SMUFR_1350 inibido.
+rxn00650_c0 : cpd00001_c0 + cpd01017_c0 --> cpd00033_c0 + cpd00084_c0rxn12645_c0 : cpd00001_c0 + cpd11581_c0 --> cpd00033_c0 + cpd00132_c0rxn12636_c0 : cpd00001_c0 + cpd00067_c0 + cpd11590_c0 --> cpd00035_c0 + cpd00060_c0rxn12845_c0 : cpd00001_c0 + cpd15604_c0 --> cpd00033_c0 + cpd00107_c0rxn12633_c0 : cpd00001_c0 + cpd11593_c0 --> cpd00035_c0 + cpd00041_c0rxn12641_c0 : cpd00001_c0 + cpd11585_c0 --> cpd00033_c0 + cpd00035_c0rxn12844_c0 : cpd00001_c0 + cpd15603_c0 --> cpd00033_c0 + cpd00084_c0rxn12640_c0 : cpd00001_c0 + cpd11586_c0 --> cpd00023_c0 + cpd00035_c0rxn12635_c0 : cpd00001_c0 + cpd11591_c0 --> cpd00033_c0 + cpd00060_c0rxn12637_c0 : cpd00001_c0 + cpd11589_c0 --> cpd00033_c0 + cpd00041_c0rxn12638_c0 : cpd00001_c0 + cpd11588_c0 --> cpd00033_c0 + cpd00129_c0rxn12846_c0 : cpd00001_c0 + cpd15605_c0 --> cpd00033_c0 + cpd00066_c0rxn12847_c0 : cpd00001_c0 + cpd15606_c0 --> cpd00033_c0 + cpd00069_c0rxn12642_c0 : cpd00001_c0 + cpd11584_c0 --> cpd00035_c0 + cpd00119_c0rxn12646_c0 : cpd00001_c0 + cpd11580_c0 --> cpd00033_c0 + cpd00053_c0rxn12644_c0 : cpd00001_c0 + cpd11582_c0 --> cpd00035_c0 + cpd00161_c0rxn12634_c0 : cpd00001_c0 + cpd11592_c0 --> cpd00023_c0 + cpd00033_c0rxn12643_c0 : cpd00001_c0 + cpd11583_c0 --> cpd00035_c0 + cpd00107_c0rxn12639_c0 : cpd00001_c0 + cpd11587_c0 --> cpd00035_c0 + cpd00053_c0
+
+13. Gene SMUFR_1061 inibido.
+rxn00831_c0 : cpd00001_c0 + cpd00114_c0 --> cpd00009_c0 + cpd00246_c0rxn01521_c0 : cpd00001_c0 + cpd00299_c0 --> cpd00009_c0 + cpd00412_c0rxn00132_c0 : cpd00001_c0 + cpd00018_c0 --> cpd00009_c0 + cpd00182_c0rxn01507_c0 : cpd00001_c0 + cpd00294_c0 --> cpd00009_c0 + cpd00438_c0rxn00913_c0 : cpd00001_c0 + cpd00126_c0 --> cpd00009_c0 + cpd00311_c0rxn01445_c0 : cpd00001_c0 + cpd00296_c0 --> cpd00009_c0 + cpd00277_c0rxn00363_c0 : cpd00001_c0 + cpd00046_c0 --> cpd00009_c0 + cpd00367_c0rxn01961_c0 : cpd00001_c0 + cpd00497_c0 --> cpd00009_c0 + cpd01217_c0rxn01218_c0 : cpd00001_c0 + cpd00206_c0 --> cpd00009_c0 + cpd00654_c0rxn01670_c0 : cpd00001_c0 + cpd00355_c0 --> cpd00009_c0 + cpd02016_c0rxn01145_c0 : cpd00001_c0 + cpd00298_c0 --> cpd00009_c0 + cpd00184_c0rxn00708_c0 : cpd00001_c0 + cpd00091_c0 --> cpd00009_c0 + cpd00249_c0rxn02400_c0 : cpd00001_c0 + cpd00873_c0 --> cpd00009_c0 + cpd03471_c0
+
+14. Gene SMUFR_1043 inibido.
+rxn00545_c0 : cpd00002_c0 + cpd00072_c0 --> cpd00008_c0 + cpd00067_c0 + cpd00290_c0rxn02314_c0 : cpd00002_c0 + cpd00805_c0 <=> cpd00008_c0 + cpd00067_c0 + cpd02371_c0rxn01343_c0 : cpd00002_c0 + cpd00238_c0 --> cpd00008_c0 + cpd00067_c0 + cpd00349_c0
+
+15. Gene SMUFR_1846 inibido.
+rxn00898_c0 : cpd02498_c0 --> cpd00001_c0 + cpd00123_c0rxn03437_c0 : cpd02535_c0 --> cpd00001_c0 + cpd00508_c0
+
+16. Gene SMUFR_1467 inibido.
+rxn00001_c0 : cpd00001_c0 + cpd00012_c0 --> 2.0 cpd00009_c0 + cpd00067_c0
+
+17. Gene SMUFR_1405 inibido.
+rxn08295_c0 : cpd00002_c0 + cpd15307_c0 --> cpd00008_c0 + cpd15522_c0rxn08299_c0 : cpd00002_c0 + cpd15311_c0 --> cpd00008_c0 + cpd15526_c0rxn10255_c0 : cpd00002_c0 + cpd15703_c0 --> cpd00008_c0 + cpd15679_c0rxn08294_c0 : cpd00002_c0 + cpd15306_c0 --> cpd00008_c0 + cpd15521_c0rxn08300_c0 : cpd00002_c0 + cpd15312_c0 --> cpd00008_c0 + cpd15527_c0rxn10253_c0 : cpd00002_c0 + cpd15701_c0 --> cpd00008_c0 + cpd15677_c0rxn10256_c0 : cpd00002_c0 + cpd15704_c0 --> cpd00008_c0 + cpd15680_c0rxn08296_c0 : cpd00002_c0 + cpd15308_c0 --> cpd00008_c0 + cpd15523_c0rxn08297_c0 : cpd00002_c0 + cpd15309_c0 --> cpd00008_c0 + cpd15524_c0rxn10258_c0 : cpd00002_c0 + cpd15706_c0 --> cpd00008_c0 + cpd15682_c0rxn08298_c0 : cpd00002_c0 + cpd15310_c0 --> cpd00008_c0 + cpd15525_c0rxn10257_c0 : cpd00002_c0 + cpd15705_c0 --> cpd00008_c0 + cpd15681_c0rxn10254_c0 : cpd00002_c0 + cpd15702_c0 --> cpd00008_c0 + cpd15678_c0
+
+18. Gene SMUFR_0632 inibido.
+rxn08669_c0 : cpd00001_c0 + cpd02090_c0 --> cpd00067_c0 + cpd00080_c0 + cpd00100_c0rxn00758_c0 : cpd00001_c0 + cpd00507_c0 --> cpd00067_c0 + cpd00080_c0 + cpd00098_c0rxn01073_c0 : cpd00001_c0 + cpd00908_c0 --> cpd00067_c0 + cpd00080_c0 + cpd00162_c0
+
+19. Gene SMUFR_0293 inibido.
+rxn08975_c0 : cpd00004_c0 + cpd00067_c0 + cpd15560_c0 --> cpd00003_c0 + cpd15561_c0rxn08971_c0 : cpd00004_c0 + cpd00067_c0 + cpd15500_c0 --> cpd00003_c0 + cpd15499_c0rxn08976_c0 : cpd00004_c0 + cpd00067_c0 + cpd15352_c0 --> cpd00003_c0 + cpd15353_c0
+
+20. Gene SMUFR_1042 inibido.
+rxn00148_c0 : cpd00002_c0 + cpd00020_c0 --> cpd00008_c0 + cpd00061_c0 + cpd00067_c0
+
+21. Gene SMUFR_1400 inibido.
+rxn00100_c0 : cpd00002_c0 + cpd00655_c0 --> cpd00008_c0 + cpd00010_c0 + cpd00067_c0
+
+22. Gene SMUFR_0194 inibido.
+rxn02187_c0 : cpd00668_c0 --> cpd02569_c0rxn02186_c0 : cpd00005_c0 + cpd00067_c0 + cpd00668_c0 --> cpd00006_c0 + cpd02498_c0rxn03436_c0 : cpd00498_c0 --> cpd10162_c0rxn03435_c0 : cpd00006_c0 + cpd02535_c0 --> cpd00005_c0 + cpd00067_c0 + cpd10162_c0rxn01790_c0 : cpd00006_c0 + cpd00408_c0 --> cpd00005_c0 + cpd00067_c0 + cpd00712_c0rxn03068_c0 : cpd00006_c0 + cpd02498_c0 --> cpd00005_c0 + cpd00067_c0 + cpd02569_c0
+
+23. Gene SMUFR_1249 inibido.
+rxn00297_c0 : cpd00037_c0 --> cpd00861_c0rxn00292_c0 : cpd00001_c0 + cpd00037_c0 --> cpd00014_c0 + cpd00492_c0
+
+24. Gene SMUFR_0391 inibido.
+rxn03903_c0 : cpd00286_c0 + cpd02862_c0 --> cpd00091_c0 + cpd02948_c0rxn03904_c0 : cpd00286_c0 + cpd02968_c0 --> cpd00091_c0 + cpd03494_c0
+
+25. Gene SMUFR_1742 inibido.
+rxn10052_c0 : cpd00018_c0 + cpd00421_c0 --> cpd00008_c0 + cpd00012_c0rxn01127_c0 : cpd00002_c0 + cpd00067_c0 + cpd00294_c0 --> cpd00008_c0 + cpd00177_c0rxn00097_c0 : cpd00002_c0 + cpd00018_c0 + cpd00067_c0 --> 2.0 cpd00008_c0
+
+26. Gene SMUFR_0945 inibido.
+rxn00692_c0 : cpd00001_c0 + cpd00033_c0 + cpd00125_c0 --> cpd00054_c0 + cpd00087_c0
+
+27. Gene SMUFR_1440 inibido.
+rxn05466_c0 : cpd00013_e0 --> cpd00013_c0
+
+28. Gene SMUFR_0259 inibido.
+rxn02380_c0 : cpd00863_c0 --> cpd00072_c0rxn00558_c0 : cpd00079_c0 --> cpd00072_c0rxn01977_c0 : cpd00079_c0 --> cpd00863_c0
+
+29. Gene SMUFR_0973 inibido.
+rxn08793_c0 : cpd00159_c0 + cpd15500_c0 --> cpd00020_c0 + cpd15499_c0rxn08792_c0 : cpd00159_c0 + cpd15560_c0 --> cpd00020_c0 + cpd15561_c0rxn00145_c0 : 2.0 cpd00109_c0 + cpd00159_c0 --> cpd00020_c0 + 2.0 cpd00067_c0 + 2.0 cpd00110_c0rxn00499_c0 : cpd00003_c0 + cpd00159_c0 --> cpd00004_c0 + cpd00020_c0 + cpd00067_c0
+
+30. Gene SMUFR_1793 inibido.
+rxn00295_c0 : cpd00037_c0 --> cpd00175_c0rxn00214_c0 : cpd00026_c0 --> cpd00043_c0
+
+31. Gene SMUFR_1202 inibido.
+rxn00369_c0 : cpd00038_c0 + cpd00367_c0 --> cpd00031_c0 + cpd00046_c0 + cpd00067_c0rxn00715_c0 : cpd00068_c0 + cpd00249_c0 --> cpd00067_c0 + cpd00090_c0 + cpd00091_c0rxn00365_c0 : cpd00002_c0 + cpd00367_c0 --> cpd00008_c0 + cpd00046_c0 + cpd00067_c0rxn00709_c0 : cpd00002_c0 + cpd00249_c0 --> cpd00008_c0 + cpd00067_c0 + cpd00091_c0rxn00368_c0 : cpd00062_c0 + cpd00367_c0 --> cpd00014_c0 + cpd00046_c0 + cpd00067_c0rxn00713_c0 : cpd00038_c0 + cpd00249_c0 --> cpd00031_c0 + cpd00067_c0 + cpd00091_c0
+
+32. Gene SMUFR_0278 inibido.
+rxn06937_c0 : cpd00002_c0 + cpd00023_c0 + cpd11912_c0 --> cpd00012_c0 + cpd00018_c0 + cpd00067_c0 + cpd12227_c0rxn13782_c0 :  --> cpd17041_c0
+
+33. Gene SMUFR_0623 inibido.
+rxn00747_c0 : cpd00102_c0 --> cpd00095_c0
+
+34. Gene SMUFR_0446 inibido.
+rxn02175_c0 : cpd00002_c0 + cpd00834_c0 --> cpd00012_c0 + cpd00655_c0
+
+35. Gene SMUFR_1052 inibido.
+rxn00903_c0 : cpd00024_c0 + cpd00156_c0 --> cpd00023_c0 + cpd00123_c0rxn00806_c0 : cpd00024_c0 + cpd00107_c0 --> cpd00023_c0 + cpd00200_c0rxn01575_c0 : cpd00024_c0 + cpd00322_c0 --> cpd00023_c0 + cpd00508_c0
+
+36. Gene SMUFR_0409 inibido.
+rxn01509_c0 : cpd00002_c0 + cpd00067_c0 + cpd00296_c0 --> cpd00008_c0 + cpd00295_c0rxn00239_c0 : cpd00002_c0 + cpd00067_c0 + cpd00126_c0 --> cpd00008_c0 + cpd00031_c0rxn09562_c0 : cpd00067_c0 + cpd00115_c0 + cpd00126_c0 --> cpd00031_c0 + cpd00177_c0
+
+37. Gene SMUFR_0195 inibido.
+rxn00737_c0 : cpd00161_c0 --> cpd00013_c0 + cpd00094_c0
+
+38. Gene SMUFR_0458 inibido.
+rxn01256_c0 : cpd00216_c0 --> cpd00219_c0
+
+39. Gene SMUFR_1313 inibido.
+rxn13784_c0 :  --> cpd17043_c0
+
+40. Gene SMUFR_0712 inibido.
+rxn13784_c0 :  --> cpd17043_c0
+
+41. Gene SMUFR_0620 inibido.
+rxn00251_c0 : cpd00009_c0 + cpd00032_c0 + cpd00067_c0 --> cpd00001_c0 + cpd00011_c0 + cpd00061_c0
+
+42. Gene SMUFR_1273 inibido.
+rxn00139_c0 : cpd00012_c0 + cpd00018_c0 + cpd00067_c0 --> cpd00103_c0 + cpd00128_c0
+
+43. Gene SMUFR_1365 inibido.
+rxn00126_c0 : cpd00001_c0 + cpd00002_c0 + cpd00060_c0 --> cpd00009_c0 + cpd00012_c0 + cpd00017_c0 + cpd00067_c0
+
+44. Gene SMUFR_0949 inibido.
+rxn01143_c0 : cpd00002_c0 + cpd00184_c0 --> cpd00008_c0 + cpd00067_c0 + cpd00298_c0rxn01518_c0 : cpd00002_c0 + cpd00412_c0 --> cpd00008_c0 + cpd00067_c0 + cpd00299_c0
+
+45. Gene SMUFR_0936 inibido.
+rxn01211_c0 : cpd00001_c0 + cpd00347_c0 --> cpd00067_c0 + cpd00201_c0rxn00690_c0 : cpd00002_c0 + cpd00047_c0 + cpd00087_c0 --> cpd00008_c0 + cpd00009_c0 + cpd00201_c0
+
+46. Gene SMUFR_1149 inibido.
+rxn00260_c0 : cpd00024_c0 + cpd00041_c0 --> cpd00023_c0 + cpd00032_c0rxn00527_c0 : cpd00024_c0 + cpd00069_c0 <=> cpd00023_c0 + cpd00868_c0rxn02339_c0 : cpd00024_c0 + cpd01974_c0 --> cpd00023_c0 + cpd00830_c0
+
+47. Gene SMUFR_0130 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+48. Gene SMUFR_1685 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+49. Gene SMUFR_1148 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+50. Gene SMUFR_0565 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+51. Gene SMUFR_1872 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+52. Gene SMUFR_0412 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+53. Gene SMUFR_1553 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+54. Gene SMUFR_1824 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+55. Gene SMUFR_1588 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+56. Gene SMUFR_1376 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+57. Gene SMUFR_1823 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+58. Gene SMUFR_1820 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+59. Gene SMUFR_1729 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+60. Gene SMUFR_1540 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+61. Gene SMUFR_1640 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+62. Gene SMUFR_0483 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+63. Gene SMUFR_1115 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+64. Gene SMUFR_1424 inibido.
+rxn13782_c0 :  --> cpd17041_c0
+
+65. Gene SMUFR_0298 inibido.
+rxn01116_c0 : cpd00171_c0 --> cpd00198_c0
+
+66. Gene SMUFR_1498 inibido.
+rxn00313_c0 : cpd00067_c0 + cpd00516_c0 --> cpd00011_c0 + cpd00039_c0
+
+67. Gene SMUFR_1603 inibido.
+rxn00547_c0 : cpd00002_c0 + cpd00082_c0 --> cpd00008_c0 + cpd00067_c0 + cpd00072_c0
+
+68. Gene SMUFR_1598 inibido.
+rxn00283_c0 : cpd00035_c0 --> cpd00117_c0
+
+69. Gene SMUFR_0193 inibido.
+rxn00011_c0 : cpd00011_c0 + cpd03049_c0 --> cpd00020_c0 + cpd00056_c0 + cpd00067_c0rxn02185_c0 : cpd00056_c0 + cpd00668_c0 --> cpd00020_c0 + cpd03049_c0rxn03194_c0 : cpd00094_c0 + cpd03049_c0 --> cpd00056_c0 + cpd00498_c0
+
+70. Gene SMUFR_1080 inibido.
+rxn01986_c0 : cpd00509_c0 --> cpd00510_c0rxn00778_c0 : cpd00475_c0 --> cpd00101_c0
+
+71. Gene SMUFR_0981 inibido.
+rxn00784_c0 : cpd00510_c0 --> cpd00071_c0 + cpd00102_c0
+
+72. Gene SMUFR_0846 inibido.
+rxn02285_c0 : cpd00006_c0 + cpd00773_c0 --> cpd00005_c0 + cpd00067_c0 + cpd02820_c0
+
+73. Gene SMUFR_0018 inibido.
+rxn00770_c0 : cpd00002_c0 + cpd00101_c0 --> cpd00018_c0 + cpd00067_c0 + cpd00103_c0
+
+74. Gene SMUFR_0914 inibido.
+rxn00770_c0 : cpd00002_c0 + cpd00101_c0 --> cpd00018_c0 + cpd00067_c0 + cpd00103_c0
+
+75. Gene SMUFR_0982 inibido.
+rxn01648_c0 : cpd00009_c0 + cpd00367_c0 --> cpd00307_c0 + cpd00475_c0rxn01366_c0 : cpd00009_c0 + cpd00249_c0 --> cpd00092_c0 + cpd00475_c0rxn01799_c0 : cpd00009_c0 + cpd00412_c0 <=> cpd00092_c0 + cpd00509_c0
+
+76. Gene SMUFR_1364 inibido.
+rxn00461_c0 : cpd00037_c0 + cpd00061_c0 --> cpd00009_c0 + cpd02820_c0
+
+77. Gene SMUFR_1323 inibido.
+rxn00461_c0 : cpd00037_c0 + cpd00061_c0 --> cpd00009_c0 + cpd02820_c0
+
+78. Gene SMUFR_0765 inibido.
+rxn02596_c0 : cpd00001_c0 + cpd01133_c0 --> cpd00108_c0 + cpd00382_c0rxn00817_c0 : cpd00001_c0 + cpd03198_c0 --> cpd00027_c0 + cpd00108_c0rxn00818_c0 : cpd00001_c0 + cpd00382_c0 --> cpd00076_c0 + cpd00108_c0rxn03838_c0 : cpd00001_c0 + cpd03200_c0 --> cpd00108_c0 + cpd03198_c0
+
+79. Gene SMUFR_1412 inibido.
+rxn00119_c0 : cpd00002_c0 + cpd00067_c0 + cpd00091_c0 --> cpd00008_c0 + cpd00014_c0rxn01517_c0 : cpd00002_c0 + cpd00067_c0 + cpd00299_c0 --> cpd00008_c0 + cpd00978_c0
+
+80. Gene SMUFR_0980 inibido.
+rxn01368_c0 : cpd00001_c0 + cpd00067_c0 + cpd00367_c0 --> cpd00013_c0 + cpd00249_c0rxn01800_c0 : cpd00001_c0 + cpd00067_c0 + cpd00654_c0 --> cpd00013_c0 + cpd00412_c0
+
+81. Gene SMUFR_0117 inibido.
+rxn00086_c0 : cpd00006_c0 + 2.0 cpd00042_c0 --> cpd00005_c0 + cpd00067_c0 + cpd00111_c0
+
+82. Gene SMUFR_0728 inibido.
+rxn00086_c0 : cpd00006_c0 + 2.0 cpd00042_c0 --> cpd00005_c0 + cpd00067_c0 + cpd00111_c0
+
+83. Gene SMUFR_1469 inibido.
+rxn10191_c0 : 45.0 cpd00002_c0 + 45.0 cpd00117_c0 + cpd15661_c0 --> 45.0 cpd00012_c0 + 45.0 cpd00018_c0 + 90.0 cpd00067_c0 + cpd15663_c0
+
+84. Gene SMUFR_1471 inibido.
+rxn10191_c0 : 45.0 cpd00002_c0 + 45.0 cpd00117_c0 + cpd15661_c0 --> 45.0 cpd00012_c0 + 45.0 cpd00018_c0 + 90.0 cpd00067_c0 + cpd15663_c0
+
+85. Gene SMUFR_0398 inibido.
+rxn01265_c0 : cpd00012_c0 + cpd00873_c0 --> cpd00103_c0 + cpd00218_c0
+
+86. Gene SMUFR_0940 inibido.
+rxn00704_c0 : cpd00089_c0 --> cpd00079_c0
+
+87. Gene SMUFR_0244 inibido.
+rxn01200_c0 : cpd00102_c0 + cpd00238_c0 --> cpd00101_c0 + cpd00198_c0rxn00785_c0 : cpd00072_c0 + cpd00102_c0 --> cpd00198_c0 + cpd00236_c0
+
+88. Gene SMUFR_0774 inibido.
+rxn00355_c0 : cpd00062_c0 + cpd00348_c0 --> cpd00012_c0 + cpd00043_c0
+
+89. Gene SMUFR_0824 inibido.
+rxn01602_c0 : cpd00006_c0 + cpd00330_c0 --> cpd00005_c0 + cpd00067_c0 + cpd00393_c0rxn00686_c0 : cpd00006_c0 + cpd00087_c0 --> cpd00005_c0 + cpd00067_c0 + cpd00330_c0
+
+90. Gene SMUFR_1487 inibido.
+rxn05596_c0 : cpd00067_e0 + cpd00205_c0 --> cpd00067_c0 + cpd00205_e0
+
+91. Gene SMUFR_0773 inibido.
+rxn00808_c0 : cpd00002_c0 + cpd00108_c0 --> cpd00008_c0 + cpd00067_c0 + cpd00348_c0
+
+92. Gene SMUFR_1496 inibido.
+rxn00193_c0 : cpd00023_c0 --> cpd00186_c0
+
+93. Gene SMUFR_0746 inibido.
+rxn05197_c0 : cpd00067_e0 + cpd00092_e0 --> cpd00067_c0 + cpd00092_c0
+
+94. Gene SMUFR_1595 inibido.
+rxn00342_c0 : cpd00001_c0 + cpd00132_c0 --> cpd00013_c0 + cpd00041_c0
+
+95. Gene SMUFR_0397 inibido.
+rxn05289_c0 : cpd00005_c0 + cpd00067_c0 + cpd11420_c0 --> cpd00006_c0 + cpd11421_c0
+
+96. Gene SMUFR_0757 inibido.
+rxn05289_c0 : cpd00005_c0 + cpd00067_c0 + cpd11420_c0 --> cpd00006_c0 + cpd11421_c0
+
+Total de genes inibidos que interrompem a geracao de biomassa = 96

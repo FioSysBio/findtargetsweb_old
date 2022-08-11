@@ -1,0 +1,11 @@
+*** INICIO DA EXECUCAO *** 
+Modelo/Organismo/Nome/Email/Metodo = iJN678, Escherichia coli, Hans Dieter, hdp@trash-mail.com, 1
+
+
+INICIO DO ITEM 1
+GRAVOU ARQUIVO COM OS DADOS DE GENE/REACAO DA REDE
+GEROU FBA 
+FBA = <Solution 0.063 at 0x7f990f1f9898>
+INICIO DO ITEM 2
+GEROU FVA 
+INICIO DA VERIFICACAO ENTRE FBA/FVA 

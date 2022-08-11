@@ -1,0 +1,27 @@
+*** INICIO DA EXECUCAO *** 
+Modelo/Organismo/Nome/Email/Metodo = CCBH4851, Pseudomonas aeruginosa, Fabricio, fabs.fiocruz@gmail.com, 1
+
+
+INICIO DO ITEM 1
+GRAVOU ARQUIVO COM OS DADOS DE GENE/REACAO DA REDE
+GEROU FBA 
+FBA = <Solution 1.037 at 0x7fe52ea947f0>
+INICIO DO ITEM 2
+GEROU FVA 
+INICIO DA VERIFICACAO ENTRE FBA/FVA 
+Lista de reacoes a analisar = 77
+GENERATED FILE 01-fva.csv
+GENERATED FILE /var/www/html/findtargetsweb3/FindTargetsWEB/results/2019-05-31_12.59.58.781224//02-reacoesFVADifZero.txt
+INICIO DO ITEM 3
+len(listReactPerturb) = 77
+Total de reacoes cujo FBA zerou = 76
+INICIO DA BIFURCACAO
+if len(model.genes) = True
+INICIO DO ITEM 4
+INICIO DO ITEM 5
+INICIO DO ITEM 6
+INICIO DO ITEM 7
+INICIO DO ITEM 8
+INICIO DO ITEM 9
+INICIO DO ITEM 10
+ACABOU!!! SEJA FELIZ!!!

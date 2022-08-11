@@ -1,0 +1,29 @@
+*** INICIO DA EXECUCAO *** 
+Modelo/Organismo/Nome/Email/Metodo = Pseudomonas_aeruginosa_NCGM2_S1, Pseudomonas aeruginosa, Aditi, aditigm.bbi18@rvce.edu.in, 1
+
+
+INICIO DO ITEM 1
+GRAVOU ARQUIVO COM OS DADOS DE GENE/REACAO DA REDE
+GEROU FBA 
+FBA = <Solution 121.690 at 0x7f12b2afdbe0>
+INICIO DO ITEM 2
+GEROU FVA 
+INICIO DA VERIFICACAO ENTRE FBA/FVA 
+Lista de reacoes a analisar = 251
+GENERATED FILE 01-fva.csv
+GENERATED FILE /var/www/html/findtargetsweb3/FindTargetsWEB/results/2020-02-03_09.23.27.247012//02-reacoesFVADifZero.txt
+INICIO DO ITEM 3
+len(listReactPerturb) = 251
+Total de reacoes cujo FBA zerou = 217
+INICIO DA BIFURCACAO
+if len(model.genes) = True
+INICIO DO ITEM 4
+INICIO DO ITEM 5
+INICIO DO ITEM 6
+list_acron_kegg = ['pae', 'paev', 'paei', 'pau', 'pap', 'pag', 'paf', 'pnc', 'paeb', 'pdk', 'psg', 'prp', 'paep', 'paer', 'paem', 'pael', 'paes', 'paeu', 'paeg', 'paec', 'paeo']
+len my_list_genes = 183
+INICIO DO ITEM 7
+INICIO DO ITEM 8
+INICIO DO ITEM 9
+INICIO DO ITEM 10
+ACABOU!!! SEJA FELIZ!!!

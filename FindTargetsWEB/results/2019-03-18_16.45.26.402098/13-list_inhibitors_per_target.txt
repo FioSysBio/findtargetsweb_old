@@ -1,0 +1,47 @@
+A0A0M3KKX1;BE0009124;DB06847;5-[(3S)-3-(2-methoxybiphenyl-4-yl)but-1-yn-1-yl]-6-methylpyrimidine-2,4-diamine;experimental;unknown;
+A0A0M3KKX1;BE0009124;DB07140;5-[(3R)-3-(5-methoxybiphenyl-3-yl)but-1-yn-1-yl]-6-methylpyrimidine-2,4-diamine;experimental;unknown;
+A0A0M3KKX1;BE0009124;DB07142;5-[(3R)-3-(5-methoxy-3',5'-dimethylbiphenyl-3-yl)but-1-yn-1-yl]-6-methylpyrimidine-2,4-diamine;experimental;unknown;
+A0A0M3KKX1;BE0009124;DB07153;6-methyl-5-[3-methyl-3-(3,4,5-trimethoxyphenyl)but-1-yn-1-yl]pyrimidine-2,4-diamine;experimental;unknown;
+A0A0M3KKX1;BE0009124;DB08234;5-[3-(2,5-dimethoxyphenyl)prop-1-yn-1-yl]-6-ethylpyrimidine-2,4-diamine;experimental;unknown;
+P0A017;BE0004138;DB07938;5-[[(2R)-2-cyclopropyl-7,8-dimethoxy-chroman-5-yl]methyl]pyrimidine-2,4-diamine;experimental;unknown;
+P0A017;BE0004138;DB08234;5-[3-(2,5-dimethoxyphenyl)prop-1-yn-1-yl]-6-ethylpyrimidine-2,4-diamine;experimental;unknown;
+P0A017;BE0004138;DB08741;5-[[(2R)-2-cyclopropyl-7,8-dimethoxy-2H-chromen-5-yl]methyl]pyrimidine-2,4-diamine;experimental;unknown;
+P0ABQ4;BE0002010;DB02015;Dihydrofolic Acid;experimental;unknown;
+P0ABQ4;BE0002010;DB02363;2'-Monophosphoadenosine-5'-Diphosphate;experimental;unknown;
+P0ABQ4;BE0002010;DB11596;Levoleucovorin;approved;unknown;
+P0ABQ4;BE0002010;DB03461;2'-Monophosphoadenosine 5'-Diphosphoribose;experimental;unknown;
+P0ABQ4;BE0002010;DB12769;Lometrexol;investigational;unknown;
+P0ABQ4;BE0002010;DB03904;Urea;approved;unknown;
+P0ABQ4;BE0002010;DB07262;1-{[N-(1-IMINO-GUANIDINO-METHYL)]SULFANYLMETHYL}-3-TRIFLUOROMETHYL-BENZENE;experimental;unknown;
+Q51225;BE0002980;DB03147;Flavin adenine dinucleotide;approved;unknown;
+P0A9M2;BE0002080;DB04566;Inosinic Acid;experimental;unknown;
+P58758;BE0004050;DB02270;Dimethylallyl S-Thiolodiphosphate;experimental;unknown;
+P0A6I9;BE0001231;DB01690;Bis(Adenosine)-5'-Triphosphate;experimental;unknown;
+P69441;BE0001244;DB01717;Bis(Adenosine)-5'-Pentaphosphate;experimental;unknown;
+P0A721;BE0001932;DB03280;P1-(5'-Adenosyl)P5-(5'-Thymidyl)Pentaphosphate;experimental;unknown;
+P26281;BE0001450;DB02119;6-Hydroxymethyl-7,8-Dihydropterin;experimental;unknown;
+P26281;BE0001450;DB02596;Alpha,Beta-Methyleneadenosine-5'-Triphosphate;experimental;unknown;
+P26281;BE0001450;DB03197;6-Hydroxymethylpterin;experimental;unknown;
+P26281;BE0001450;DB04047;[Pterin-6-Yl Methanyl]-Phosphonophosphate;experimental;unknown;
+P26281;BE0001450;DB04158;6-(Adenosine Tetraphosphate-Methyl)-7,8-Dihydropterin;experimental;unknown;
+P26281;BE0001450;DB04610;7,8-dihydro-6-hydroxymethyl-7-methyl-7-[2-phenylethyl]-pterin;experimental;unknown;
+P43777;BE0001488;DB02278;7,8-Dihydro-7,7-Dimethyl-6-Hydroxypterin;experimental;unknown;
+P44490;BE0001714;DB04482;Cmp-2-Keto-3-Deoxy-Octulosonic Acid;experimental;unknown;
+P00959;BE0001537;DB02151;Methionine Phosphonate;experimental;unknown;
+P00959;BE0001537;DB02229;5'-O-[(L-Methionyl)-Sulphamoyl]Adenosine;experimental;unknown;
+P00959;BE0001537;DB03799;Trifluoromethionine;experimental;unknown;
+P00959;BE0001537;DB03816;Difluoromethionine;experimental;unknown;
+P00959;BE0001537;DB04015;Methionine Phosphinate;experimental;unknown;
+P00953;BE0001343;DB01831;Tryptophanyl-5'amp;experimental;unknown;
+P00953;BE0001343;DB00150;L-Tryptophan;approved, nutraceutical, withdrawn;unknown;inhibitor
+P00953;BE0001343;DB04272;Citric Acid;approved, nutraceutical, vet_approved;unknown;
+P00953;BE0001343;DB04537;L-Tryptophanamide;experimental;unknown;
+P00953;BE0001343;DB00150;L-Tryptophan;approved, nutraceutical, withdrawn;unknown;substrateinhibitor
+P60906;BE0001795;DB03811;Histidinol;experimental;unknown;
+P60906;BE0001795;DB04201;Histidyl-Adenosine Monophosphate;experimental;unknown;
+P0A8M5;BE0001579;DB03355;5'-O-(N-(L-Threonyl)-Sulfamoyl)Adenosine;experimental;unknown;
+P0A8M5;BE0001579;DB03869;5'-O-(N-(L-Seryl)-Sulfamoyl)Adenosine;experimental;unknown;
+P0A8M5;BE0001579;DB04024;N'-L-Seryl-3'-Amino-(3'-Deoxy)-Adenosine;experimental;unknown;
+P77390;BE0000805;DB00336;Nitrofural;approved, investigational, vet_approved;yes;inhibitor
+P0A6E4;BE0001754;DB00536;Guanidine;approved;unknown;
+P0A6E4;BE0001754;DB09462;Glycerin;approved, investigational;unknown;

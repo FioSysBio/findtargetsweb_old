@@ -1,0 +1,156 @@
+Shigella flexneri OX
+Escherichia coli (strain K12) OX
+Escherichia coli O157:H7 OX
+Shigella dysenteriae serotype 1 (strain Sd197) OX
+Citrobacter koseri (strain ATCC BAA-895 / CDC 4225-83 / SGSC4696) OX
+Enterobacter lignolyticus (strain SCF1) OX
+Citrobacter sp. 50677481 OX
+Citrobacter rodentium (strain ICC168) OX
+Escherichia coli ISC11 OX
+Kosakonia oryziphila OX
+Klebsiella aerogenes (strain ATCC 13048 / DSM 30053 / JCM 1235 / KCTC 2190 / NBRC 13534 / NCIMB 10102 / NCTC 10006) OX
+Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX
+Salmonella arizonae (strain ATCC BAA-731 / CDC346-86 / RSK2980) OX
+Enterobacter sp. (strain 638) OX
+Salmonella enterica subsp. arizonae OX
+Klebsiella sp. RIT-PI-d OX
+Enterobacter asburiae OX
+Atlantibacter hermannii NBRC 105704 OX
+Enterobacteriaceae bacterium (strain FGI 57) OX
+Cedecea davisae DSM 4568 OX
+Pseudescherichia vulneris NBRC 102420 OX
+Klebsiella pneumoniae subsp. rhinoscleromatis OX
+Klebsiella pneumoniae subsp. pneumoniae (strain HS11286) OX
+Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH 78578) OX
+Buttiauxella agrestis ATCC 33320 OX
+Franconibacter pulveris OX
+Enterobacter sp. NFR05 OX
+Erwinia billingiae (strain Eb661) OX
+Serratia odorifera DSM 4582 OX
+Gibbsiella quercinecans OX
+Erwinia iniecta OX
+Yersinia pestis OX
+Yersinia nurmii OX
+Mangrovibacter sp. MFB070 OX
+Pantoea alhagi OX
+Pluralibacter gergoviae OX
+Chania multitudinisentens RB-25 OX
+Enterobacterales bacterium CwR94 OX
+Pantoea cypripedii OX
+Serratia symbiotica str. Tucson OX
+Pantoea wallisii OX
+Ewingella americana ATCC 33852 OX
+bacteria symbiont BFo1 of Frankliniella occidentalis OX
+Pantoea ananatis (strain LMG 20103) OX
+Hafnia alvei FB1 OX
+Serratia sp. Leaf50 OX
+Serratia ficaria OX
+Erwinia tasmaniensis (strain DSM 17950 / CIP 109463 / Et1/99) OX
+Serratia sp. DD3 OX
+Pantoea stewartii subsp. stewartii DC283 OX
+Shimwellia blattae (strain ATCC 29907 / DSM 4481 / JCM 1650 / NBRC 105725 / CDC 9005-74) OX
+Dickeya dadantii (strain 3937) OX
+Erwinia sp. Leaf53 OX
+Serratia fonticola OX
+Tatumella morbirosei OX
+Serratia sp. S1B OX
+Photorhabdus asymbiotica subsp. asymbiotica (strain ATCC 43949 / 3105-77) OX
+Yersiniaceae bacterium 2016Iso3 OX
+Photorhabdus luminescens subsp. laumondii (strain DSM 15139 / CIP 105565 / TT01) OX
+Plautia stali symbiont OX
+Brenneria sp. EniD312 OX
+Erwinia gerundensis OX
+Photorhabdus luminescens subsp. laumondii (strain DSM 15139 / CIP 105565 / TT01) OX
+Candidatus Erwinia dacicola OX
+Erwinia mallotivora OX
+Serratia sp. (strain ATCC 39006) OX
+Pectobacterium atrosepticum (strain SCRI 1043 / ATCC BAA-672) OX
+Tatumella ptyseos ATCC 33301 OX
+Erwinia sp. OLSSP12 OX
+Xenorhabdus stockiae OX
+Izhakiella capsodis OX
+Brenneria salicis ATCC 15712
+Sodalis praecaptivus OX
+Edwardsiella ictaluri (strain 93-146) OX
+Lonsdalea quercina OX
+Xenorhabdus cabanillasii JM26 OX
+bacteria symbiont BFo2 of Frankliniella occidentalis OX
+Enterobacillus tribolii OX
+Xenorhabdus doucetiae OX
+Xenorhabdus bovienii (strain SS-2004) OX
+Sodalis glossinidius (strain morsitans) OX
+Pragia fontium OX
+Budvicia aquatica OX
+Xenorhabdus szentirmaii DSM 16338 OX
+Leminorella grimontii ATCC 33999
+Proteus mirabilis (strain HI4320) OX
+Acyrthosiphon pisum OX
+Erwinia tracheiphila OX
+Xenorhabdus nematophila (strain ATCC 19061 / DSM 3370 / LMG 1036 / NCIB 9965 / AN6) OX
+Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633) OX
+Vibrio azureus NBRC 104587 OX
+Photobacterium damselae subsp. damselae CIP 102761 OX
+Moellerella wisconsensis ATCC 35017 OX
+Morganella morganii subsp. morganii KT OX
+Vibrio nereis OX
+Frischella perrara OX
+Vibrio diazotrophicus OX
+Photobacterium gaetbulicola Gung47 OX
+Vibrio sp. (strain N418) OX
+Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961) OX
+Photobacterium iliopiscarium OX
+Salinivibrio sp. KP-1 OX
+Providencia sneebia DSM 19967 OX
+Vibrio ponticus OX
+Plesiomonas shigelloides 302-73 OX
+Vibrio genomosp. F6 str. FF-238 OX
+Enterovibrio calviensis FF-85 OX
+Vibrio aerogenes CECT 7868 OX
+Vibrio galatheae OX
+Vibrio proteolyticus NBRC 13287 OX
+Photobacterium aphoticum OX
+Providencia heimbachae ATCC 35613 OX
+Vibrio xiamenensis OX
+Providencia stuartii (strain MRSN 2154) OX
+Photobacterium jeanii OX
+Vibrio vulnificus (strain YJ016) OX
+Vibrio tasmaniensis (strain LGP32) OX
+Vibrio furnissii (strain DSM 14383 / NCTC 11218) OX
+Vibrio sp. V15_P4S5T153 OX
+Aeromonas hydrophila subsp. hydrophila (strain ATCC 7966 / DSM 30187 / JCM 1027 / KCTC 2358 / NCIMB 9240) OX
+Aeromonas sp. RU39B OX
+Vibrio tapetis subsp. tapetis OX
+Photobacterium marinum OX
+Photobacterium lipolyticum OX
+Photobacterium ganghwense OX
+Gilliamella bombicola OX
+Vibrio sp. 10N.286.49.C2 OX
+Vibrio variabilis OX
+Vibrio metschnikovii CIP 69.14 OX
+Vibrio mangrovi OX
+Vibrio maritimus OX
+Vibrio palustris OX
+Grimontia hollisae CIP 101886 OX
+Photobacterium profundum (strain SS9) OX
+Vibrio caribbeanicus ATCC BAA-2122 OX
+Marinomonas sp. S3726 OX
+Vibrio sp. 10N.286.49.B3 OX
+Aliivibrio fischeri (strain ATCC 700601 / ES114) OX
+Vibrio nigripulchritudo OX
+Vibrio genomosp. F10 OX
+Enterovibrio pacificus OX
+Colwellia psychrerythraea (strain 34H / ATCC BAA-681) OX
+Vibrio sp. HA2012 OX
+Vibrio sp. UCD-FRSSP16_10 OX
+Photobacterium halotolerans OX
+Thalassotalea sp. ND16A OX
+Vibrio rumoiensis 1S-45 OX
+Vibrio sp. qd031 OX
+Colwellia sp. MT41 OX
+Rodentibacter trehalosifermentans OX
+Haemophilus pittmaniae HK 85 OX
+Oceanisphaera avium OX
+Tolumonas auensis (strain DSM 9187 / TA4) OX
+Alteromonadales bacterium alter-6D02 OX
+Moritella viscosa OX
+Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd) OX

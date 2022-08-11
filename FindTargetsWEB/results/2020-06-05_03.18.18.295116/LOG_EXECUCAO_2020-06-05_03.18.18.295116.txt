@@ -1,0 +1,20 @@
+*** INICIO DA EXECUCAO *** 
+Modelo/Organismo/Nome/Email/Metodo = COBRAModel, Streptococcus mutans, Rafael Rodrigues de Siqueira, rrs-123@gmail.com, 1
+
+
+INICIO DO ITEM 1
+GRAVOU ARQUIVO COM OS DADOS DE GENE/REACAO DA REDE
+GEROU FBA 
+FBA = <Solution 21.974 at 0x7f63f91f67b8>
+INICIO DO ITEM 2
+GEROU FVA 
+INICIO DA VERIFICACAO ENTRE FBA/FVA 
+Lista de reacoes a analisar = 218
+GENERATED FILE 01-fva.csv
+GENERATED FILE /var/www/html/findtargetsweb3/FindTargetsWEB/results/2020-06-05_03.18.18.295116//02-reacoesFVADifZero.txt
+INICIO DO ITEM 3
+len(listReactPerturb) = 218
+Total de reacoes cujo FBA zerou = 128
+INICIO DA BIFURCACAO
+if len(model.genes) = True
+INICIO DO ITEM 4

@@ -1,0 +1,254 @@
+cpd00013_e --> 
+cpd00030_e --> 
+cpd00048_e --> 
+cpd00063_e --> 
+cpd00099_e --> 
+cpd10515_e --> 
+41.6918 cpd00001_c + 41.8483 cpd00002_c + 0.001967 cpd00003_c + 4.5e-05 cpd00004_c + 0.000366 cpd00005_c + 0.000118 cpd00006_c + 5e-06 cpd00010_c + 4.5e-05 cpd00015_c + 0.000915 cpd00018_c + 4.5e-05 cpd00022_c + 0.002745 cpd00026_c + 1e-06 cpd00028_c + 1e-06 cpd00030_c + 0.18576 cpd00038_c + 0.1153 cpd00052_c + 0.12445 cpd00062_c + 1e-06 cpd00063_c + 2e-06 cpd00078_c + 1e-06 cpd00099_c + 0.022602 cpd00115_c + 0.032027 cpd00118_c + 0.14092 cpd00155_c + 0.023243 cpd00241_c + 0.006405 cpd00264_c + 0.045754 cpd00345_c + 0.023243 cpd00356_c + 0.022602 cpd00357_c + 0.29832 cpd01326_c + 3.9e-05 cpd11455_c + 0.001462 cpd11456_c + 0.000353 cpd11652_c + 0.44656 cpd11770_c + 0.39165 cpd12003_c + 0.25714 cpd12036_c + 0.22877 cpd12060_c + 0.53258 cpd12100_c + 0.1336 cpd12105_c + 0.18759 cpd12132_c + 0.36786 cpd12133_c + 0.19217 cpd12164_c + 0.11988 cpd12194_c + 0.20955 cpd12226_c + 0.22877 cpd12227_c + 0.082357 cpd12228_c + 0.22053 cpd12229_c + 0.079612 cpd12255_c + 0.25256 cpd12256_c + 0.20955 cpd12313_c + 0.16105 cpd12335_c + 0.049414 cpd12336_c + 9.6e-05 cpd12801_c + 0.002525 cpd15501_p + 0.001136 cpd15503_p + 0.010103 cpd15505_p + 0.010229 cpd15506_p + 0.001264 cpd15508_p + 0.007686 cpd99100_e + 0.007 cpd99107_e --> 41.6918 cpd00008_c + 41.6936 cpd00009_c + 0.66819 cpd00012_c + 41.6914 cpd00067_c + 0.11988 cpd11751_c + 0.44656 cpd11906_c + 0.25714 cpd11907_c + 0.20955 cpd11908_c + 0.20955 cpd11909_c + 0.079612 cpd11910_c + 0.22877 cpd11911_c + 0.22877 cpd11912_c + 0.53258 cpd11913_c + 0.082357 cpd11914_c + 0.25256 cpd11915_c + 0.39165 cpd11916_c + 0.29832 cpd11917_c + 0.1336 cpd11918_c + 0.16105 cpd11919_c + 0.19217 cpd11920_c + 0.18759 cpd11921_c + 0.22053 cpd11922_c + 0.049414 cpd11923_c + 0.36786 cpd11924_c
+2.0 cpd00020_c + cpd00067_c --> cpd00011_c + cpd00668_c
+2.0 cpd00338_c --> 2.0 cpd00001_c + cpd00067_c + cpd00689_c
+2.0 cpd02656_c --> cpd00220_c + cpd02882_c
+cpd00001_c + 4.0 cpd00689_c --> 4.0 cpd00013_c + cpd00755_c
+cpd00002_c + cpd00091_c --> cpd00008_c + cpd00014_c
+cpd00002_c + cpd00050_c --> cpd00012_c + cpd00015_c
+cpd00017_c + cpd00067_c --> cpd00011_c + cpd00837_c
+cpd00023_c --> cpd00186_c
+cpd00062_c + cpd00089_c --> cpd00012_c + cpd00026_c
+cpd00026_c --> cpd00043_c
+cpd01476_c + cpd10515_c --> cpd00028_c + 2.0 cpd00067_c
+cpd00002_c + cpd00126_c --> cpd00008_c + cpd00031_c
+cpd00062_c + cpd02611_c --> cpd00012_c + cpd00037_c
+cpd00037_c --> cpd00175_c
+cpd00001_c + 2.0 cpd00003_c + cpd00037_c --> 2.0 cpd00004_c + 3.0 cpd00067_c + cpd02782_c
+cpd00001_c + cpd00038_c --> cpd00047_c + cpd00067_c + cpd02978_c
+3.0 cpd00001_c + cpd00038_c --> cpd00012_c + cpd00047_c + cpd00067_c + cpd00957_c
+cpd00067_c + cpd00516_c --> cpd00011_c + cpd00039_c
+cpd00002_c + cpd00041_c + cpd00067_c --> cpd00008_c + cpd01977_c
+cpd00002_c + cpd00048_c + cpd00067_c --> cpd00012_c + cpd00193_c
+cpd00002_c + cpd00220_c --> cpd00008_c + cpd00050_c
+cpd00001_c + 2.0 cpd00002_c + cpd00053_c + cpd00242_c --> 2.0 cpd00008_c + cpd00009_c + cpd00023_c + cpd00067_c + cpd00146_c
+cpd00009_c + cpd00067_c + cpd02820_c --> cpd00037_c + cpd00061_c
+cpd00002_c + cpd00022_c + cpd00242_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00070_c
+cpd00001_c + cpd00290_c --> cpd00009_c + cpd00067_c + cpd00072_c
+cpd00053_c + cpd00072_c --> cpd00023_c + cpd00288_c
+cpd00072_c --> cpd00079_c
+cpd00072_c --> cpd00235_c
+3.0 cpd00001_c + 3.0 cpd00006_c + cpd00239_c --> 3.0 cpd00005_c + 4.0 cpd00067_c + cpd00081_c
+cpd00083_c --> cpd00001_c + cpd00900_c
+cpd00005_c + cpd00067_c + cpd00330_c --> cpd00006_c + cpd00087_c
+cpd00135_c + cpd00345_c --> cpd00060_c + cpd00087_c
+cpd00002_c + cpd00089_c --> cpd00012_c + cpd00387_c
+cpd00079_c --> cpd00089_c
+cpd00067_c + cpd00810_c --> cpd00011_c + cpd00091_c
+cpd00095_c --> cpd00102_c
+cpd00003_c + cpd00100_c --> cpd00004_c + cpd00067_c + cpd00448_c
+cpd00002_c + cpd00101_c --> cpd00018_c + cpd00103_c
+cpd00072_c + cpd00102_c --> cpd00198_c + cpd00236_c
+cpd00002_c + cpd00103_c --> cpd00012_c + cpd01775_c
+cpd00001_c + cpd00053_c + cpd00103_c --> cpd00012_c + cpd00023_c + cpd01982_c
+cpd00012_c + cpd02642_c --> cpd00093_c + cpd00103_c
+cpd00018_c + cpd00106_c --> cpd02375_c
+cpd00051_c + cpd00106_c --> cpd02152_c
+cpd00001_c + cpd00114_c --> cpd02884_c
+cpd00038_c + cpd00041_c + cpd00114_c --> cpd00009_c + cpd00031_c + 2.0 cpd00067_c + cpd02375_c
+cpd00001_c + cpd00003_c + cpd01324_c --> cpd00004_c + 2.0 cpd00067_c + cpd00119_c
+cpd02498_c --> cpd00001_c + cpd00123_c
+cpd00001_c + cpd00022_c + cpd00123_c --> cpd00010_c + cpd00067_c + cpd01646_c
+cpd00001_c + cpd00123_c + cpd00125_c --> cpd00087_c + cpd00712_c
+cpd00001_c + cpd00002_c + cpd00053_c + cpd00497_c --> cpd00012_c + cpd00018_c + cpd00023_c + cpd00067_c + cpd00126_c
+cpd00041_c + cpd00146_c --> cpd00009_c + 2.0 cpd00067_c + cpd00343_c
+cpd00064_c + cpd00146_c --> cpd00009_c + 2.0 cpd00067_c + cpd00274_c
+cpd00002_c + cpd00067_c + cpd00169_c --> cpd00008_c + cpd00203_c
+cpd00171_c --> cpd00198_c
+cpd00171_c --> cpd00817_c
+cpd00067_c + cpd02605_c --> cpd00011_c + cpd00200_c
+cpd00113_c + cpd00202_c --> cpd00012_c + cpd00283_c
+cpd00932_c --> cpd00009_c + cpd00067_c + cpd00216_c
+cpd00216_c --> cpd00219_c
+cpd00023_c + cpd08210_c --> cpd00053_c + cpd00216_c
+cpd00235_c --> cpd00485_c
+cpd00001_c + cpd00061_c + cpd00236_c --> cpd00009_c + cpd00067_c + cpd02857_c
+cpd00103_c + cpd00247_c --> cpd00012_c + cpd00810_c
+cpd00067_c + cpd00147_c + cpd00264_c --> cpd00118_c + cpd00837_c
+cpd00002_c + cpd00041_c + cpd00274_c --> cpd00012_c + cpd00018_c + cpd02152_c
+cpd00001_c + cpd00282_c --> cpd00067_c + cpd00343_c
+cpd00113_c + cpd00283_c --> cpd00012_c + cpd00350_c
+cpd00288_c --> cpd03671_c
+cpd00002_c + cpd00802_c --> cpd00008_c + cpd00290_c
+cpd00002_c + cpd00298_c --> cpd00008_c + cpd00297_c
+cpd00125_c + cpd00299_c --> cpd00298_c + cpd00330_c
+cpd00002_c + cpd00023_c + cpd00683_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00330_c
+cpd00006_c + cpd00009_c + cpd00346_c --> cpd00005_c + cpd01977_c
+cpd00020_c + cpd00346_c --> 2.0 cpd00001_c + cpd00067_c + cpd02120_c
+cpd00089_c + cpd00357_c --> cpd00012_c + cpd00626_c
+cpd00002_c + cpd00383_c --> cpd00008_c + cpd02030_c
+cpd00005_c + cpd00067_c + cpd00712_c --> cpd00006_c + cpd00408_c
+cpd00002_c + cpd00085_c + cpd00408_c --> cpd00012_c + cpd00018_c + cpd00644_c
+cpd00095_c + cpd00448_c --> cpd00802_c
+cpd00001_c + cpd02698_c --> cpd00036_c + cpd00504_c
+cpd00504_c --> cpd00516_c
+cpd00626_c --> cpd00001_c + cpd00521_c
+cpd00521_c --> cpd00522_c
+cpd00002_c + cpd00186_c + cpd00890_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00525_c
+cpd00002_c + cpd00516_c + cpd00525_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02964_c
+cpd00002_c + cpd00873_c --> cpd00012_c + cpd00638_c
+cpd00003_c + cpd00641_c --> cpd00004_c + cpd00067_c + cpd01324_c
+cpd00001_c + cpd00807_c --> cpd00009_c + cpd00067_c + cpd00641_c
+cpd00005_c + cpd00067_c + cpd00668_c --> cpd00006_c + cpd02498_c
+cpd02857_c --> cpd00009_c + cpd00067_c + cpd00699_c
+cpd00001_c + cpd01716_c --> cpd00699_c
+cpd00001_c + cpd00774_c --> cpd00755_c
+cpd00005_c + cpd00067_c + cpd02820_c --> cpd00006_c + cpd00773_c
+cpd00002_c + cpd00035_c + cpd00773_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00890_c
+4.0 cpd00011_c + cpd02083_c --> 4.0 cpd00067_c + cpd00774_c
+cpd00023_c + cpd00930_c --> cpd00024_c + cpd00807_c
+cpd00001_c + cpd00061_c + cpd00817_c --> cpd00009_c + cpd00067_c + cpd02730_c
+cpd00067_c + cpd02666_c --> cpd00011_c + cpd00834_c
+2.0 cpd00067_c + cpd00103_c + cpd02333_c --> cpd00011_c + cpd00012_c + cpd00873_c
+cpd00001_c + cpd02730_c --> cpd00009_c + cpd00067_c + cpd00875_c
+cpd00052_c + cpd00875_c --> cpd00012_c + cpd02546_c
+cpd00005_c + cpd00067_c + cpd00900_c --> cpd00006_c + cpd01999_c
+cpd02843_c --> cpd00001_c + cpd00930_c
+cpd00005_c + cpd00067_c + cpd00931_c --> cpd00006_c + cpd02720_c
+cpd00001_c + cpd00067_c + cpd00957_c --> cpd00013_c + cpd00931_c
+cpd00009_c + cpd00067_c + cpd00932_c --> cpd00061_c + cpd02030_c
+cpd00229_c + cpd00954_c --> cpd02961_c
+cpd00067_c + cpd00956_c --> cpd00001_c + cpd00011_c + cpd02210_c
+cpd00956_c --> cpd02642_c
+cpd00001_c + cpd01710_c --> cpd01646_c
+cpd00001_c + cpd01710_c --> cpd02693_c
+cpd00001_c + cpd01775_c --> cpd00012_c + cpd01777_c
+cpd00001_c + cpd01777_c --> cpd02979_c
+cpd00002_c + cpd00033_c + cpd01982_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02394_c
+cpd00005_c + cpd00067_c + cpd02120_c --> cpd00006_c + cpd02465_c
+cpd00002_c + cpd02826_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02140_c
+cpd00001_c + cpd00078_c + cpd02465_c --> cpd00010_c + cpd02724_c
+cpd00003_c + cpd02693_c --> cpd00004_c + cpd00067_c + cpd02605_c
+2.0 cpd00001_c + cpd00009_c + cpd00067_c + cpd02656_c --> cpd02882_c + cpd11225_c
+cpd00001_c + cpd00002_c + cpd00053_c + cpd02678_c --> cpd00008_c + cpd00009_c + cpd00023_c + cpd00067_c + cpd02826_c
+cpd00023_c + cpd02724_c --> cpd00024_c + cpd02698_c
+cpd00053_c + cpd02991_c --> cpd00023_c + cpd00067_c + cpd02843_c + cpd02851_c
+cpd00106_c + cpd02851_c --> cpd02921_c
+cpd00087_c + cpd02884_c --> cpd00201_c + cpd02851_c
+cpd00002_c + cpd00041_c + cpd02893_c --> cpd00008_c + cpd00009_c + 2.0 cpd00067_c + cpd02921_c
+cpd00002_c + cpd00731_c + cpd02964_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02968_c
+3.0 cpd00001_c + cpd02978_c --> 3.0 cpd00009_c + 3.0 cpd00067_c + cpd02961_c
+cpd02979_c --> cpd02991_c
+cpd00014_c + cpd03495_c --> cpd00037_c + cpd03494_c
+cpd00005_c + cpd00067_c + cpd10162_c --> cpd00006_c + cpd02535_c
+cpd00498_c --> cpd10162_c
+cpd03830_c --> cpd03831_c
+cpd00022_c + cpd03671_c --> cpd00010_c + cpd00067_c + cpd02611_c
+cpd08210_c --> cpd00020_c + cpd00067_c + cpd00443_c
+cpd00091_c + cpd03494_c --> cpd00286_c + cpd02968_c
+cpd00012_c + cpd08287_c --> cpd00052_c + cpd08286_c
+cpd00002_c + cpd08287_c --> cpd00008_c + cpd08288_c
+cpd00020_c + cpd00067_c + cpd00102_c --> cpd00011_c + cpd08289_c
+cpd00046_c + cpd08301_c --> cpd08288_c
+cpd00002_c + cpd04920_c --> cpd00012_c + cpd03830_c
+cpd00238_c --> cpd04918_c
+cpd00002_c + cpd04918_c --> cpd00008_c + cpd08316_c
+cpd00001_c + cpd08316_c --> cpd00009_c + cpd00067_c + cpd04920_c
+cpd00005_c + cpd00067_c + cpd08289_c --> cpd00006_c + cpd08286_c
+cpd00001_c + cpd02720_c --> cpd00009_c + cpd00067_c + cpd02882_c
+cpd00004_c + cpd00067_c + cpd08301_c --> cpd00001_c + cpd00003_c + cpd08615_c
+cpd00004_c + cpd00067_c + cpd11465_c --> cpd00003_c + cpd11464_c
+cpd00004_c + cpd00067_c + cpd11471_c --> cpd00003_c + cpd11470_c
+cpd00004_c + cpd00067_c + cpd11473_c --> cpd00003_c + cpd11472_c
+cpd00001_c + cpd11465_c --> cpd11478_c
+cpd00001_c + cpd11473_c --> cpd11479_c
+cpd00001_c + cpd11475_c --> cpd11482_c
+cpd00001_c + cpd11471_c --> cpd11483_c
+cpd00005_c + cpd00067_c + cpd11486_c --> cpd00006_c + cpd11479_c
+cpd00005_c + cpd00067_c + cpd11487_c --> cpd00006_c + cpd11482_c
+cpd00005_c + cpd00067_c + cpd11488_c --> cpd00006_c + cpd11478_c
+cpd00005_c + cpd00067_c + cpd11490_c --> cpd00006_c + cpd11483_c
+cpd00067_c + cpd11470_c + cpd11492_c --> cpd00011_c + cpd11487_c + cpd11493_c
+cpd00067_c + cpd11464_c + cpd11492_c --> cpd00011_c + cpd11486_c + cpd11493_c
+cpd00067_c + cpd11472_c + cpd11492_c --> cpd00011_c + cpd11490_c + cpd11493_c
+cpd00010_c + cpd11492_c --> cpd00070_c + cpd11493_c
+cpd00013_p --> cpd00013_c
+cpd00001_c + cpd00002_c + cpd10515_p --> cpd00008_c + cpd00009_c + cpd00067_c + cpd10515_c
+cpd00002_c + cpd00067_c + cpd00069_c + cpd11751_c --> cpd00012_c + cpd00018_c + cpd12194_c
+cpd00002_c + cpd00035_c + cpd00067_c + cpd11906_c --> cpd00012_c + cpd00018_c + cpd11770_c
+cpd00002_c + cpd00051_c + cpd00067_c + cpd11907_c --> cpd00012_c + cpd00018_c + cpd12036_c
+cpd00002_c + cpd00067_c + cpd00084_c + cpd11910_c --> cpd00012_c + cpd00018_c + cpd12255_c
+cpd00002_c + cpd00033_c + cpd00067_c + cpd11913_c --> cpd00012_c + cpd00018_c + cpd12100_c
+cpd00002_c + cpd00067_c + cpd00119_c + cpd11914_c --> cpd00012_c + cpd00018_c + cpd12228_c
+cpd00002_c + cpd00067_c + cpd00322_c + cpd11915_c --> cpd00012_c + cpd00018_c + cpd12256_c
+cpd00002_c + cpd00067_c + cpd00107_c + cpd11916_c --> cpd00012_c + cpd00018_c + cpd12003_c
+cpd00002_c + cpd00039_c + cpd00067_c + cpd11917_c --> cpd00012_c + cpd00018_c + cpd01326_c
+cpd00002_c + cpd00060_c + cpd00067_c + cpd11918_c --> cpd00012_c + cpd00018_c + cpd12105_c
+cpd00002_c + cpd00066_c + cpd00067_c + cpd11919_c --> cpd00012_c + cpd00018_c + cpd12335_c
+cpd00002_c + cpd00067_c + cpd00129_c + cpd11920_c --> cpd00012_c + cpd00018_c + cpd12164_c
+cpd00002_c + cpd00054_c + cpd00067_c + cpd11921_c --> cpd00012_c + cpd00018_c + cpd12132_c
+cpd00002_c + cpd00067_c + cpd00161_c + cpd11922_c --> cpd00012_c + cpd00018_c + cpd12229_c
+cpd00002_c + cpd00065_c + cpd00067_c + cpd11923_c --> cpd00012_c + cpd00018_c + cpd12336_c
+cpd00002_c + cpd00067_c + cpd00156_c + cpd11924_c --> cpd00012_c + cpd00018_c + cpd12133_c
+cpd00002_c + cpd00041_c + cpd00067_c + cpd11909_c --> cpd00012_c + cpd00018_c + cpd12226_c
+cpd00020_c + cpd00067_c + cpd00094_c --> cpd00011_c + cpd00498_c
+cpd00063_e --> cpd00063_p
+cpd00099_e --> cpd00099_p
+cpd10515_e --> cpd10515_p
+cpd00001_p + cpd15514_p --> cpd00117_p + cpd15503_p
+cpd15512_p --> 2.0 cpd00117_p + cpd15515_p
+cpd00001_p + cpd15515_p --> cpd00117_p + cpd15508_p
+cpd00030_e --> cpd00030_p
+cpd03495_c + cpd15511_p --> cpd02229_c + cpd15512_p
+cpd00013_e --> cpd00013_p
+cpd00048_e --> cpd00048_p
+cpd00001_c + cpd00002_c + cpd00063_p --> cpd00008_c + cpd00009_c + cpd00063_c + cpd00067_c
+cpd00099_c --> cpd00099_p
+cpd00002_c + cpd00644_c --> cpd00008_c + cpd02201_c
+cpd00387_c --> cpd00008_c + cpd00067_c + cpd00155_c
+0.5 cpd00080_c + 0.13 cpd15239_c + 0.03 cpd15268_c + 0.33 cpd15277_c + 0.51 cpd15572_c --> 0.01 cpd11422_c + cpd11493_c
+cpd00015_c + cpd00041_c + cpd00095_c --> 2.0 cpd00001_c + cpd00009_c + 2.0 cpd00067_c + cpd00982_c + cpd02333_c
+cpd00054_c + 0.02 cpd11427_c --> cpd00046_c + cpd00067_c + 0.02 cpd11455_c
+cpd00286_c + cpd17092_c --> cpd00091_c + cpd17098_c
+cpd17051_c --> cpd00001_c + cpd15572_c
+cpd00005_c + cpd00067_c + cpd14938_c --> cpd00006_c + cpd17051_c
+cpd00067_c + cpd11492_c + cpd15277_c --> cpd00011_c + cpd11493_c + cpd14938_c
+cpd00026_c + cpd17062_c --> cpd00014_c + cpd17063_c
+2.0 cpd11468_c + cpd17068_c --> 2.0 cpd11493_c + cpd17066_c
+cpd17069_c + cpd17070_c --> cpd00014_c + cpd00067_c + cpd17067_c
+cpd02546_c + cpd17066_c --> cpd00046_c + cpd00067_c + cpd17055_c
+cpd02546_c + cpd17055_c --> cpd00046_c + cpd00067_c + cpd17054_c
+cpd00002_c + cpd17067_c --> cpd00008_c + cpd00067_c + cpd17068_c
+cpd11480_c + cpd17072_c --> cpd00067_c + cpd11493_c + cpd17070_c
+cpd00037_c + cpd11482_c --> cpd11493_c + cpd17071_c
+cpd00001_c + cpd17071_c --> cpd00029_c + cpd17072_c
+cpd00001_c + cpd17070_c --> 2.0 cpd00067_c + cpd00091_c + cpd17069_c
+cpd00052_c + cpd00067_c + 0.02 cpd11422_c --> cpd00012_c + 0.02 cpd11427_c
+0.02 cpd11455_c --> cpd00011_c + 0.02 cpd11456_c
+2.0 cpd03495_c --> 2.0 cpd00067_c + 2.0 cpd02229_c + cpd15511_p
+3.0 cpd00007_c + cpd00791_c --> 3.0 cpd00025_c + cpd01476_c
+cpd03831_c + cpd17058_c --> cpd00008_c + cpd17059_c
+cpd03831_c + cpd17054_c --> cpd00008_c + cpd17058_c
+cpd00146_c + cpd17059_c --> cpd00009_c + cpd17060_c
+3.0 cpd00002_c + cpd17060_c --> 3.0 cpd00008_c + 3.0 cpd00067_c + cpd17061_c
+cpd00043_c + cpd17061_c --> cpd00014_c + cpd17062_c
+cpd11770_c + cpd17063_c --> cpd11906_c + cpd17064_c
+cpd00026_c + cpd17064_c --> cpd00014_c + cpd17065_c
+cpd00026_c + cpd17065_c --> cpd00014_c + cpd99093_c
+cpd00522_c + cpd99093_c --> cpd00067_c + cpd00297_c + cpd99094_c
+cpd00001_c + cpd00002_c + cpd99094_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd99094_p
+cpd00946_c + cpd01999_c --> cpd00031_c + cpd00067_c + cpd99096_c
+cpd01999_c + cpd99096_c --> cpd00031_c + cpd00067_c + cpd99097_c
+cpd01999_c + cpd99097_c --> cpd00031_c + cpd00067_c + cpd99098_c
+cpd00001_c + cpd99098_c --> cpd00946_c + cpd99099_c
+cpd00001_c + cpd00002_c + cpd99099_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd99099_p
+cpd99094_p + cpd99099_p --> cpd00001_p + cpd99100_p
+cpd99100_p --> cpd99100_e
+cpd00003_c + cpd02782_c --> cpd00004_c + cpd00067_c + cpd99101_c
+cpd00023_c + cpd99101_c --> cpd00024_c + cpd00067_c + cpd99102_c
+cpd00022_c + cpd99102_c --> cpd00010_c + cpd99103_c
+cpd99103_c --> cpd17095_c
+cpd17095_c + cpd17098_c --> cpd00014_c + cpd00067_c + cpd17099_c
+cpd00002_c + cpd00013_c + cpd17095_c --> cpd00008_c + cpd00009_c + 2.0 cpd00067_c + cpd99104_c
+cpd17099_c + cpd99104_c --> cpd00014_c + cpd00067_c + cpd99105_c
+cpd99105_c --> cpd99105_p
+30.0 cpd99105_p --> 29.0 cpd00067_p + 29.0 cpd02229_p + cpd99106_p
+cpd99094_p + cpd99106_p --> cpd99107_p
+cpd99107_p --> cpd99107_e
+cpd00175_c --> cpd00001_c + cpd02810_c
+cpd00004_c + cpd00067_c + cpd02810_c --> cpd00003_c + cpd17092_c

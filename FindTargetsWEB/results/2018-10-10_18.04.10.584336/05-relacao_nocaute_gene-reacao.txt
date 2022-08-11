@@ -1,0 +1,355 @@
+1. Gene PA1610 inibido.
+rxn13846 : cpd11484_c <=> cpd00001_c + cpd15294_crxn05331 : cpd11480_c <=> cpd00001_c + cpd11469_crxn05334 : cpd11483_c <=> cpd00001_c + cpd11471_crxn05329 : cpd11478_c <=> cpd00001_c + cpd11465_crxn05330 : cpd11479_c <=> cpd00001_c + cpd11473_crxn05338 : cpd00006_c + cpd11482_c --> cpd00005_c + cpd00067_c + cpd11487_crxn05333 : cpd11482_c <=> cpd00001_c + cpd11475_crxn13843 : cpd17051_c <=> cpd00001_c + cpd15572_crxn13840 : cpd11481_c <=> cpd00001_c + cpd15239_c
+
+2. Gene PA1806 inibido.
+rxn05327 : cpd00004_c + cpd00067_c + cpd11475_c --> cpd00003_c + cpd11474_crxn05324 : cpd00004_c + cpd00067_c + cpd11469_c --> cpd00003_c + cpd11468_crxn05438 : cpd00004_c + cpd00067_c + cpd11518_c --> cpd00003_c + cpd11519_crxn08396 : cpd00004_c + cpd00067_c + cpd15572_c --> cpd00003_c + cpd15268_crxn05433 : cpd00004_c + cpd00067_c + cpd11498_c --> cpd00003_c + cpd11499_crxn05437 : cpd00004_c + cpd00067_c + cpd11514_c --> cpd00003_c + cpd11515_crxn05435 : cpd00004_c + cpd00067_c + cpd11506_c --> cpd00003_c + cpd11507_crxn05448 : cpd00004_c + cpd00067_c + cpd11560_c --> cpd00003_c + cpd11561_crxn13838 : cpd00004_c + cpd00067_c + cpd15239_c --> cpd00003_c + cpd15277_crxn05325 : cpd00004_c + cpd00067_c + cpd11471_c --> cpd00003_c + cpd11470_crxn05447 : cpd00004_c + cpd00067_c + cpd11556_c --> cpd00003_c + cpd11557_crxn05434 : cpd00004_c + cpd00067_c + cpd11502_c --> cpd00003_c + cpd11503_crxn05436 : cpd00004_c + cpd00067_c + cpd11510_c --> cpd00003_c + cpd11511_crxn05445 : cpd00004_c + cpd00067_c + cpd11548_c --> cpd00003_c + cpd11549_crxn05464 : cpd00004_c + cpd00067_c + cpd11572_c --> cpd00003_c + cpd11573_crxn05322 : cpd00004_c + cpd00067_c + cpd11465_c --> cpd00003_c + cpd11464_crxn05326 : cpd00004_c + cpd00067_c + cpd11473_c --> cpd00003_c + cpd11472_crxn05449 : cpd00004_c + cpd00067_c + cpd11564_c --> cpd00003_c + cpd11565_crxn13850 : cpd00004_c + cpd00067_c + cpd15294_c --> cpd00003_c + cpd11466_crxn05450 : cpd00004_c + cpd00067_c + cpd11568_c --> cpd00003_c + cpd11569_crxn05442 : cpd00004_c + cpd00067_c + cpd11535_c --> cpd00003_c + cpd11536_crxn05446 : cpd00004_c + cpd00067_c + cpd11552_c --> cpd00003_c + cpd11553_crxn05323 : cpd00004_c + cpd00067_c + cpd11467_c --> cpd00003_c + cpd11466_crxn05443 : cpd00004_c + cpd00067_c + cpd11539_c --> cpd00003_c + cpd11540_crxn05439 : cpd00004_c + cpd00067_c + cpd11523_c --> cpd00003_c + cpd11524_crxn05444 : cpd00004_c + cpd00067_c + cpd11543_c --> cpd00003_c + cpd11544_crxn05441 : cpd00004_c + cpd00067_c + cpd11531_c --> cpd00003_c + cpd11532_crxn05328 : cpd00004_c + cpd00067_c + cpd11477_c --> cpd00003_c + cpd11476_crxn05440 : cpd00004_c + cpd00067_c + cpd11527_c --> cpd00003_c + cpd11528_c
+
+3. Gene PA2967 inibido.
+rxn07993 : cpd00005_c + cpd00067_c + cpd15376_c --> cpd00006_c + cpd15370_crxn13844 : cpd00005_c + cpd00067_c + cpd14938_c --> cpd00006_c + cpd17051_crxn05410 : cpd00005_c + cpd00067_c + cpd11546_c --> cpd00006_c + cpd11547_crxn05461 : cpd00005_c + cpd00067_c + cpd11570_c --> cpd00006_c + cpd11571_crxn05389 : cpd00005_c + cpd00067_c + cpd11525_c --> cpd00006_c + cpd11526_crxn05337 : cpd00006_c + cpd11479_c --> cpd00005_c + cpd00067_c + cpd11486_crxn05422 : cpd00005_c + cpd00067_c + cpd11558_c --> cpd00006_c + cpd11559_crxn05426 : cpd00005_c + cpd00067_c + cpd11562_c --> cpd00006_c + cpd11563_crxn05340 : cpd00006_c + cpd11480_c --> cpd00005_c + cpd00067_c + cpd11489_crxn05385 : cpd00005_c + cpd00067_c + cpd11521_c --> cpd00006_c + cpd11522_crxn05405 : cpd00005_c + cpd00067_c + cpd11541_c --> cpd00006_c + cpd11542_crxn05364 : cpd00005_c + cpd00067_c + cpd11500_c --> cpd00006_c + cpd11501_crxn05342 : cpd00006_c + cpd11484_c --> cpd00005_c + cpd00067_c + cpd11491_crxn05368 : cpd00005_c + cpd00067_c + cpd11504_c --> cpd00006_c + cpd11505_crxn05393 : cpd00005_c + cpd00067_c + cpd11529_c --> cpd00006_c + cpd11530_crxn05376 : cpd00005_c + cpd00067_c + cpd11512_c --> cpd00006_c + cpd11513_crxn05360 : cpd00005_c + cpd00067_c + cpd11496_c --> cpd00006_c + cpd11497_crxn05430 : cpd00005_c + cpd00067_c + cpd11566_c --> cpd00006_c + cpd11567_crxn05339 : cpd00006_c + cpd11478_c --> cpd00005_c + cpd00067_c + cpd11488_crxn05397 : cpd00005_c + cpd00067_c + cpd11533_c --> cpd00006_c + cpd11534_crxn05414 : cpd00005_c + cpd00067_c + cpd11550_c --> cpd00006_c + cpd11551_crxn05341 : cpd00006_c + cpd11483_c --> cpd00005_c + cpd00067_c + cpd11490_crxn05372 : cpd00005_c + cpd00067_c + cpd11508_c --> cpd00006_c + cpd11509_crxn05336 : cpd00006_c + cpd11481_c --> cpd00005_c + cpd00067_c + cpd11485_crxn05401 : cpd00005_c + cpd00067_c + cpd11537_c --> cpd00006_c + cpd11538_crxn05380 : cpd00005_c + cpd00067_c + cpd11516_c --> cpd00006_c + cpd11517_crxn05418 : cpd00005_c + cpd00067_c + cpd11554_c --> cpd00006_c + cpd11555_c
+
+4. Gene PA3117 inibido.
+rxn01643 : cpd00005_c + cpd01977_c --> cpd00006_c + cpd00009_c + cpd00346_c
+
+5. Gene PA0025 inibido.
+rxn01740 : cpd00006_c + cpd00383_c --> cpd00005_c + cpd00067_c + cpd01716_c
+
+6. Gene PA0265 inibido.
+rAB00001 : cpd00001_c + cpd00003_c + cpd00229_c --> cpd00004_c + cpd00067_c + cpd00139_crxn00509 : cpd00001_c + cpd00006_c + cpd00199_c --> cpd00005_c + cpd00036_c + 2.0 cpd00067_c
+
+7. Gene PA0350 inibido.
+rxn00686 : cpd00006_c + cpd00087_c --> cpd00005_c + cpd00067_c + cpd00330_c
+
+8. Gene PA1609 inibido.
+rxn05429 : cpd00067_c + cpd11492_c + cpd11565_c --> cpd00011_c + cpd11493_c + cpd11566_crxn05345 : cpd00067_c + cpd11468_c + cpd11492_c --> cpd00011_c + cpd11491_c + cpd11493_crxn05388 : cpd00067_c + cpd11492_c + cpd11524_c --> cpd00011_c + cpd11493_c + cpd11525_crxn05404 : cpd00067_c + cpd11492_c + cpd11540_c --> cpd00011_c + cpd11493_c + cpd11541_crxn13851 : cpd00067_c + cpd11492_c + cpd15277_c --> cpd00011_c + cpd11493_c + cpd14938_crxn05417 : cpd00067_c + cpd11492_c + cpd11553_c --> cpd00011_c + cpd11493_c + cpd11554_crxn05409 : cpd00067_c + cpd11492_c + cpd11545_c --> cpd00011_c + cpd11493_c + cpd11546_crxn05350 : cpd00067_c + cpd11472_c + cpd11492_c --> cpd00011_c + cpd11490_c + cpd11493_crxn05367 : cpd00067_c + cpd11492_c + cpd11503_c --> cpd00011_c + cpd11493_c + cpd11504_crxn02933 : cpd00003_c + cpd02691_c --> cpd00004_c + cpd00067_c + cpd02124_crxn05347 : cpd00067_c + cpd11492_c + cpd11494_c --> cpd00011_c + cpd11488_c + cpd11493_crxn05343 : cpd00067_c + cpd11470_c + cpd11492_c --> cpd00011_c + cpd11487_c + cpd11493_crxn05392 : cpd00067_c + cpd11492_c + cpd11528_c --> cpd00011_c + cpd11493_c + cpd11529_crxn05384 : cpd00067_c + cpd11492_c + cpd11520_c --> cpd00011_c + cpd11493_c + cpd11521_crxn05344 : cpd00067_c + cpd11466_c + cpd11492_c --> cpd00011_c + cpd11485_c + cpd11493_crxn05371 : cpd00067_c + cpd11492_c + cpd11507_c --> cpd00011_c + cpd11493_c + cpd11508_crxn05460 : cpd00067_c + cpd11476_c + cpd11492_c --> cpd00011_c + cpd11493_c + cpd11570_crxn05375 : cpd00067_c + cpd11492_c + cpd11511_c --> cpd00011_c + cpd11493_c + cpd11512_crxn05421 : cpd00067_c + cpd11492_c + cpd11557_c --> cpd00011_c + cpd11493_c + cpd11558_crxn05359 : cpd00067_c + cpd11492_c + cpd11495_c --> cpd00011_c + cpd11493_c + cpd11496_crxn05425 : cpd00067_c + cpd11492_c + cpd11561_c --> cpd00011_c + cpd11493_c + cpd11562_crxn05396 : cpd00067_c + cpd11492_c + cpd11532_c --> cpd00011_c + cpd11493_c + cpd11533_crxn05400 : cpd00067_c + cpd11492_c + cpd11536_c --> cpd00011_c + cpd11493_c + cpd11537_crxn05346 : cpd00067_c + cpd11464_c + cpd11492_c --> cpd00011_c + cpd11486_c + cpd11493_crxn05363 : cpd00067_c + cpd11492_c + cpd11499_c --> cpd00011_c + cpd11493_c + cpd11500_crxn05379 : cpd00067_c + cpd11492_c + cpd11515_c --> cpd00011_c + cpd11493_c + cpd11516_crxn05348 : cpd00067_c + cpd11474_c + cpd11492_c --> cpd00011_c + cpd11489_c + cpd11493_crxn05413 : cpd00067_c + cpd11492_c + cpd11549_c --> cpd00011_c + cpd11493_c + cpd11550_c
+
+9. Gene PA1796 inibido.
+rxn01211 : cpd00001_c + cpd00347_c --> cpd00067_c + cpd00201_crxn00907 : cpd00006_c + cpd00125_c --> cpd00005_c + cpd00347_c
+
+10. Gene PA2977 inibido.
+rxn02285 : cpd00006_c + cpd00773_c --> cpd00005_c + cpd00067_c + cpd02820_c
+
+11. Gene PA3650 inibido.
+rxn03958 : cpd00006_c + cpd08286_c --> cpd00005_c + cpd00067_c + cpd08289_c
+
+12. Gene PA3770 inibido.
+rxn00834 : cpd00001_c + cpd00003_c + cpd00114_c --> cpd00004_c + cpd00067_c + cpd00497_c
+
+13. Gene PA3803 inibido.
+rxn05293 : cpd00004_c + cpd00067_c + cpd08301_c --> cpd00001_c + cpd00003_c + cpd08615_c
+
+14. Gene PA4557 inibido.
+rxn08352 : cpd00004_c + cpd00067_c + cpd08615_c --> cpd00001_c + cpd00003_c + cpd00202_crxn08756 : cpd00004_c + cpd00067_c + cpd08615_c --> cpd00001_c + cpd00003_c + cpd00113_c
+
+15. Gene PA4666 inibido.
+rxn06591 : cpd00005_c + cpd00067_c + cpd12227_c --> cpd00006_c + cpd02345_c + cpd11912_c
+
+16. Gene PA4759 inibido.
+rxn02929 : cpd00006_c + cpd02465_c --> cpd00005_c + cpd00067_c + cpd02120_c
+
+17. Gene PA3333 inibido.
+rxn05349 : cpd00022_c + cpd11493_c --> cpd00010_c + cpd11494_crxn08766 : cpd00022_c + cpd00067_c + cpd11492_c --> cpd00010_c + cpd00011_c + cpd11488_crxn08002 : cpd00067_c + cpd11492_c + cpd15239_c --> cpd00011_c + cpd11493_c + cpd15376_c
+
+18. Gene PA3645 inibido.
+rxn05462 : cpd11571_c --> cpd00001_c + cpd11572_crxn05398 : cpd11534_c --> cpd00001_c + cpd11535_crxn05411 : cpd11547_c --> cpd00001_c + cpd11548_crxn05331 : cpd11480_c <=> cpd00001_c + cpd11469_crxn05377 : cpd11513_c --> cpd00001_c + cpd11514_crxn05334 : cpd11483_c <=> cpd00001_c + cpd11471_crxn05386 : cpd11522_c --> cpd00001_c + cpd11523_crxn05329 : cpd11478_c <=> cpd00001_c + cpd11465_crxn05427 : cpd11563_c --> cpd00001_c + cpd11564_crxn05330 : cpd11479_c <=> cpd00001_c + cpd11473_crxn05415 : cpd11551_c --> cpd00001_c + cpd11552_crxn05333 : cpd11482_c <=> cpd00001_c + cpd11475_crxn13843 : cpd17051_c <=> cpd00001_c + cpd15572_crxn05402 : cpd11538_c --> cpd00001_c + cpd11539_crxn13840 : cpd11481_c <=> cpd00001_c + cpd15239_crxn05365 : cpd11501_c --> cpd00001_c + cpd11502_crxn13846 : cpd11484_c <=> cpd00001_c + cpd15294_crxn05381 : cpd11517_c --> cpd00001_c + cpd11518_crxn05390 : cpd11526_c --> cpd00001_c + cpd11527_crxn05431 : cpd11567_c --> cpd00001_c + cpd11568_crxn05332 : cpd11481_c --> cpd00001_c + cpd11477_crxn05369 : cpd11505_c --> cpd00001_c + cpd11506_crxn05406 : cpd11542_c --> cpd00001_c + cpd11543_crxn05335 : cpd11484_c --> cpd00001_c + cpd11467_crxn05419 : cpd11555_c --> cpd00001_c + cpd11556_crxn07980 : cpd15370_c --> cpd00001_c + cpd15568_crxn05373 : cpd11509_c --> cpd00001_c + cpd11510_crxn05394 : cpd11530_c --> cpd00001_c + cpd11531_crxn05361 : cpd11497_c --> cpd00001_c + cpd11498_crxn05423 : cpd11559_c --> cpd00001_c + cpd11560_c
+
+19. Gene PA3651 inibido.
+rxn10224 : cpd00052_c + cpd15681_c <=> cpd00012_c + cpd15687_crxn10222 : cpd00052_c + cpd15679_c <=> cpd00012_c + cpd15685_crxn08306 : cpd00052_c + cpd15521_c <=> cpd00012_c + cpd15417_crxn08309 : cpd00052_c + cpd15524_c --> cpd00012_c + cpd15419_crxn08307 : cpd00052_c + cpd15522_c <=> cpd00012_c + cpd15423_crPY00163 : cPY00120_c + cpd00052_c + cpd00067_c --> cPY00121_c + cpd00012_crxn08308 : cpd00052_c + cpd15523_c <=> cpd00012_c + cpd15422_crPY00168 : cPY00125_c + cpd00052_c + cpd00067_c --> cPY00126_c + cpd00012_crxn13889 : cpd00052_c + cpd00067_c + 0.02 cpd11422_c --> cpd00012_c + 0.02 cpd11427_crxn08310 : cpd00052_c + cpd15525_c <=> cpd00012_c + cpd15418_crxn10221 : cpd00052_c + cpd15678_c <=> cpd00012_c + cpd15684_crxn08311 : cpd00052_c + cpd15526_c <=> cpd00012_c + cpd15421_crxn08312 : cpd00052_c + cpd15527_c <=> cpd00012_c + cpd15420_crxn10220 : cpd00052_c + cpd15677_c <=> cpd00012_c + cpd15683_crxn10225 : cpd00052_c + cpd15682_c <=> cpd00012_c + cpd15688_crxn10223 : cpd00052_c + cpd15680_c <=> cpd00012_c + cpd15686_c
+
+20. Gene PA0581 inibido.
+rxn08549 : cpd00080_c + cpd15277_c --> cpd11493_c + cpd15327_crxn08552 : cpd00080_c + cpd11825_c --> cpd11493_c + cpd15328_crxn08551 : cpd00080_c + cpd15268_c --> cpd11493_c + cpd15329_crxn10205 : cpd00080_c + cpd11432_c --> cpd00010_c + cpd15671_crxn10210 : cpd00080_c + cpd11441_c --> cpd00010_c + cpd15676_crxn10208 : cpd00080_c + cpd11437_c --> cpd00010_c + cpd15674_crxn10207 : cpd00080_c + cpd11435_c --> cpd00010_c + cpd15673_crxn10203 : cpd00080_c + cpd01695_c --> cpd00010_c + cpd15331_crxn10202 : cpd00080_c + cpd00134_c --> cpd00010_c + cpd15327_crxn10204 : cpd00080_c + cpd00327_c --> cpd00010_c + cpd15329_crxn08550 : cpd00080_c + cpd15239_c --> cpd11493_c + cpd15326_crxn10206 : cpd00080_c + cpd11434_c --> cpd00010_c + cpd15672_crxn10209 : cpd00080_c + cpd11439_c --> cpd00010_c + cpd15675_crxn08546 : cpd00080_c + cpd11468_c --> cpd11493_c + cpd15325_crxn08547 : cpd00080_c + cpd11466_c --> cpd11493_c + cpd15331_crxn08548 : cpd00080_c + cpd15294_c --> cpd11493_c + cpd15330_c
+
+21. Gene PA2969 inibido.
+rxn08550 : cpd00080_c + cpd15239_c --> cpd11493_c + cpd15326_crxn08552 : cpd00080_c + cpd11825_c --> cpd11493_c + cpd15328_c
+
+22. Gene PA1010 inibido.
+rxn01644 : cpd00020_c + cpd00346_c --> 2.0 cpd00001_c + cpd00067_c + cpd02120_c
+
+23. Gene PA2584 inibido.
+rxn10261 : cpd00080_c + cpd15685_c --> cpd00046_c + cpd15718_crxn10260 : cpd00080_c + cpd15684_c --> cpd00046_c + cpd15717_crxn09113 : cpd00080_c + cpd15421_c --> cpd00046_c + cpd15547_crxn09108 : cpd00080_c + cpd15417_c --> cpd00046_c + cpd15542_crxn10263 : cpd00080_c + cpd15687_c --> cpd00046_c + cpd15720_crxn09114 : cpd00080_c + cpd15420_c --> cpd00046_c + cpd15548_crxn09109 : cpd00080_c + cpd15423_c --> cpd00046_c + cpd15543_crxn13815 : cpd00080_c + 0.02 cpd11427_c --> cpd00046_c + cpd00067_c + 0.02 cpd11454_crPY00175 : cPY00126_c + cpd00080_c --> cPY00133_c + cpd00046_c + cpd00067_crxn09110 : cpd00080_c + cpd15422_c --> cpd00046_c + cpd15544_crxn10259 : cpd00080_c + cpd15683_c --> cpd00046_c + cpd15716_crxn09111 : cpd00080_c + cpd15419_c --> cpd00046_c + cpd15545_crxn10264 : cpd00080_c + cpd15688_c --> cpd00046_c + cpd15721_crxn09112 : cpd00080_c + cpd15418_c --> cpd00046_c + cpd15546_crxn10262 : cpd00080_c + cpd15686_c --> cpd00046_c + cpd15719_crPY00172 : cPY00121_c + cpd00080_c --> cPY00130_c + cpd00046_c + cpd00067_c
+
+24. Gene PA3639 inibido.
+rxn00533 : cpd00002_c + cpd00022_c + cpd00242_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00070_crxn06673 : cpd00022_c + cpd12543_c --> cpd00070_c + cpd12848_c
+
+25. Gene PA4847 inibido.
+rxn00533 : cpd00002_c + cpd00022_c + cpd00242_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00070_crxn06673 : cpd00022_c + cpd12543_c --> cpd00070_c + cpd12848_c
+
+26. Gene PA4848 inibido.
+rxn00533 : cpd00002_c + cpd00022_c + cpd00242_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00070_crxn06673 : cpd00022_c + cpd12543_c --> cpd00070_c + cpd12848_crxn06672 : cpd00002_c + cpd00242_c + cpd12848_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd12543_c
+
+27. Gene PA3112 inibido.
+rxn00533 : cpd00002_c + cpd00022_c + cpd00242_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00070_crxn06673 : cpd00022_c + cpd12543_c --> cpd00070_c + cpd12848_c
+
+28. Gene PA3659 inibido.
+rxn03087 : cpd00024_c + cpd02698_c --> cpd00023_c + cpd02724_crxn00527 : cpd00024_c + cpd00069_c <=> cpd00023_c + cpd00868_c
+
+29. Gene PA5425 inibido.
+rxn10053 : cpd00001_c + cpd00002_c + cpd00011_c + cpd02140_c --> cpd00008_c + cpd00009_c + 2.0 cpd00067_c + cpd02893_crxn02938 : cpd00067_c + cpd02893_c --> cpd00011_c + cpd02140_crxn05229 : cpd00002_c + cpd00242_c + cpd02140_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02893_c
+
+30. Gene PA0024 inibido.
+rxn02303 : cpd00007_c + 2.0 cpd00067_c + cpd02083_c --> 2.0 cpd00001_c + 2.0 cpd00011_c + cpd00791_c
+
+31. Gene PA0330 inibido.
+rxn00777 : cpd00101_c --> cpd00171_c
+
+32. Gene PA0342 inibido.
+rxn01520 : cpd00125_c + cpd00299_c --> cpd00298_c + cpd00330_c
+
+33. Gene PA0402 inibido.
+rxn01018 : cpd00041_c + cpd00146_c --> cpd00009_c + 2.0 cpd00067_c + cpd00343_c
+
+34. Gene PA0432 inibido.
+rxn00141 : cpd00001_c + cpd00019_c --> cpd00135_c + cpd00182_c
+
+35. Gene PA0546 inibido.
+rxn00126 : cpd00001_c + cpd00002_c + cpd00060_c --> cpd00009_c + cpd00012_c + cpd00017_c
+
+36. Gene PA0548 inibido.
+rxn01200 : cpd00102_c + cpd00238_c --> cpd00101_c + cpd00198_crxn00785 : cpd00072_c + cpd00102_c --> cpd00198_c + cpd00236_c
+
+37. Gene PA0582 inibido.
+rxn02504 : cpd02961_c --> cpd00229_c + cpd00954_c
+
+38. Gene PA0607 inibido.
+rxn01116 : cpd00171_c --> cpd00198_c
+
+39. Gene PA0655 inibido.
+rxn12880 : cpd00007_c + cpd16764_c --> cJB00124_c
+
+40. Gene PA0904 inibido.
+rxn00337 : cpd00002_c + cpd00041_c + cpd00067_c --> cpd00008_c + cpd01977_c
+
+41. Gene PA0945 inibido.
+rxn02937 : cpd00002_c + cpd02826_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02140_c
+
+42. Gene PA1013 inibido.
+rxn03147 : cpd00002_c + cpd00041_c + cpd02893_c --> cpd00008_c + cpd00009_c + 2.0 cpd00067_c + cpd02921_c
+
+43. Gene PA1162 inibido.
+rxn01973 : cpd00001_c + cpd02698_c --> cpd00036_c + cpd00504_c
+
+44. Gene PA1681 inibido.
+rxn01255 : cpd00932_c --> cpd00009_c + cpd00067_c + cpd00216_c
+
+45. Gene PA1758 inibido.
+rxn01257 : cpd00053_c + cpd00216_c --> cpd00023_c + cpd08210_c
+
+46. Gene PA1792 inibido.
+rxn13884 : cpd00001_c + cpd17070_c --> 2.0 cpd00067_c + cpd00091_c + cpd17069_c
+
+47. Gene PA1959 inibido.
+rxn03901 : cpd00001_c + cpd02229_c --> cpd00009_c + cpd00067_c + cpd00286_crxn03900 : cpd00002_c + cpd01352_c --> cpd00008_c + cpd00286_c
+
+48. Gene PA2165 inibido.
+rxn13643 : cpd00387_c --> cpd00008_c + cpd00067_c + cpd00155_c
+
+49. Gene PA2629 inibido.
+rxn03136 : cpd02921_c --> cpd00106_c + cpd02851_crxn00800 : cpd02375_c --> cpd00018_c + cpd00106_c
+
+50. Gene PA2876 inibido.
+rxn00710 : cpd00067_c + cpd00810_c --> cpd00011_c + cpd00091_c
+
+51. Gene PA2964 inibido.
+rxn03841 : cpd08210_c --> cpd00020_c + cpd00067_c + cpd00443_c
+
+52. Gene PA2968 inibido.
+rxn05454 : cpd00010_c + cpd11544_c --> cpd11432_c + cpd11493_crxn05458 : cpd00010_c + cpd11476_c --> cpd00134_c + cpd11493_crxn05455 : cpd00010_c + cpd11565_c --> cpd11435_c + cpd11493_crxn05358 : cpd00760_c + cpd11493_c --> cpd00010_c + cpd11495_crxn05465 : cpd00070_c + cpd11493_c --> cpd00010_c + cpd11492_crxn05453 : cpd00010_c + cpd11540_c --> cpd11437_c + cpd11493_crxn05408 : cpd00481_c + cpd11493_c --> cpd00010_c + cpd11545_crxn05459 : cpd00010_c + cpd11573_c --> cpd00327_c + cpd11493_crxn05452 : cpd00010_c + cpd11519_c --> cpd11434_c + cpd11493_crxn05451 : cpd00010_c + cpd11515_c --> cpd11439_c + cpd11493_crxn05457 : cpd00010_c + cpd11466_c --> cpd01695_c + cpd11493_crxn05456 : cpd00010_c + cpd11569_c --> cpd11441_c + cpd11493_crxn05383 : cpd01882_c + cpd11493_c --> cpd00010_c + cpd11520_c
+
+53. Gene PA2981 inibido.
+rxn13880 : cpd00002_c + cpd17067_c --> cpd00008_c + cpd00067_c + cpd17068_c
+
+54. Gene PA3050 inibido.
+rxn01360 : cpd00007_c + cpd00282_c --> cpd00025_c + cpd00247_crxn08336 : cpd00282_c + cpd15500_c --> cpd00247_c + cpd15499_crJB00259 : cpd00282_c + cpd01351_c --> cJB00125_c + cpd00247_crxn08335 : cpd00282_c + cpd15560_c --> cpd00247_c + cpd15561_c
+
+55. Gene PA3108 inibido.
+rxn00790 : cpd00001_c + cpd00053_c + cpd00103_c --> cpd00012_c + cpd00023_c + cpd01982_c
+
+56. Gene PA3111 inibido.
+rxn00689 : cpd00002_c + cpd00023_c + cpd00087_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd06227_crxn01603 : cpd00002_c + cpd00023_c + cpd00683_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00330_c
+
+57. Gene PA3134 inibido.
+rxn06937 : cpd00002_c + cpd00023_c + cpd00067_c + cpd11912_c --> cpd00012_c + cpd00018_c + cpd12227_c
+
+58. Gene PA3163 inibido.
+rxn00364 : cpd00002_c + cpd00046_c --> cpd00008_c + cpd00096_crxn01219 : cpd00002_c + cpd00206_c --> cpd00008_c + cpd00533_c
+
+59. Gene PA3171 inibido.
+rxn08353 : cpd00017_c + cpd15360_c --> cpd00019_c + cpd00067_c + cpd15561_crxn05003 : cJB00124_c + cpd00017_c --> cJB00125_c + cpd00019_crxn03395 : cpd00017_c + cpd03445_c --> cpd00019_c + cpd00067_c + cpd03446_crxn12892 : cpd00017_c + cpd16765_c --> cpd00019_c + cpd16767_c
+
+60. Gene PA3296 inibido.
+rxn03167 : 3.0 cpd00001_c + cpd02978_c --> 3.0 cpd00009_c + 3.0 cpd00067_c + cpd02961_crxn01398 : cpd00001_c + cpd00478_c --> cpd00009_c + cpd00067_c + cpd00263_c
+
+61. Gene PA3527 inibido.
+rxn01465 : cpd00001_c + cpd00282_c --> cpd00067_c + cpd00343_c
+
+62. Gene PA3627 inibido.
+rxn03910 : cpd08288_c --> cpd00046_c + cpd08301_c
+
+63. Gene PA3633 inibido.
+rxn03907 : cpd00052_c + cpd08286_c --> cpd00012_c + cpd08287_c
+
+64. Gene PA3637 inibido.
+rxn00412 : cpd00001_c + cpd00002_c + cpd00053_c + cpd00062_c --> cpd00008_c + cpd00009_c + cpd00023_c + cpd00052_c + 2.0 cpd00067_crxn00410 : cpd00002_c + cpd00013_c + cpd00062_c --> cpd00008_c + cpd00009_c + cpd00052_c + 2.0 cpd00067_c
+
+65. Gene PA3643 inibido.
+rxn13874 : cpd17069_c + cpd17070_c --> cpd00014_c + cpd00067_c + cpd17067_c
+
+66. Gene PA3644 inibido.
+rxn13882 : cpd00037_c + cpd11482_c --> cpd11493_c + cpd17071_c
+
+67. Gene PA3646 inibido.
+rxn13881 : cpd11480_c + cpd17072_c --> cpd00067_c + cpd11493_c + cpd17070_c
+
+68. Gene PA3654 inibido.
+rxn01517 : cpd00002_c + cpd00299_c --> cpd00008_c + cpd00978_crxn00119 : cpd00002_c + cpd00091_c --> cpd00008_c + cpd00014_c
+
+69. Gene PA3666 inibido.
+rxn03031 : cpd00001_c + cpd00078_c + cpd02465_c --> cpd00010_c + cpd02724_c
+
+70. Gene PA3686 inibido.
+rxn08067 : cpd00018_c + cpd00068_c --> cpd00008_c + cpd00090_crxn08066 : cpd00018_c + cpd00038_c --> cpd00008_c + cpd00031_crxn01127 : cpd00002_c + cpd00294_c --> cpd00008_c + cpd00177_crxn00097 : cpd00002_c + cpd00018_c --> 2.0 cpd00008_c
+
+71. Gene PA3763 inibido.
+rxn03084 : cpd00001_c + cpd00002_c + cpd00053_c + cpd02678_c --> cpd00008_c + cpd00009_c + cpd00023_c + cpd00067_c + cpd02826_c
+
+72. Gene PA3769 inibido.
+rxn00917 : cpd00001_c + cpd00002_c + cpd00053_c + cpd00497_c --> cpd00012_c + cpd00018_c + cpd00023_c + cpd00067_c + cpd00126_c
+
+73. Gene PA3807 inibido.
+rxn00839 : cpd00002_c + cpd00177_c --> cpd00008_c + cpd00115_crxn01678 : cpd00002_c + cpd00978_c --> cpd00008_c + cpd00358_crxn01673 : cpd00002_c + cpd00533_c --> cpd00008_c + cpd00356_crxn00237 : cpd00002_c + cpd00031_c --> cpd00008_c + cpd00038_crxn01353 : cpd00002_c + cpd00295_c --> cpd00008_c + cpd00241_crxn00409 : cpd00002_c + cpd00096_c --> cpd00008_c + cpd00052_crxn00117 : cpd00002_c + cpd00014_c --> cpd00008_c + cpd00062_crxn01512 : cpd00002_c + cpd00297_c --> cpd00008_c + cpd00357_c
+
+74. Gene PA4003 inibido.
+rxn10199 : cpd03495_c --> cpd02229_c + cpd15665_c
+
+75. Gene PA4043 inibido.
+rxn01466 : cpd00113_c + cpd00283_c --> cpd00012_c + cpd00350_crxn13826 : cpd00113_c + cpd00202_c --> cpd00012_c + cpd00283_c
+
+76. Gene PA4044 inibido.
+rxn03909 : cpd00020_c + cpd00067_c + cpd00102_c --> cpd00011_c + cpd08289_c
+
+77. Gene PA4050 inibido.
+rxn09103 : cpd00001_c + cpd15544_c --> cpd00009_c + cpd00067_c + cpd15537_crxn10269 : cpd00001_c + cpd15720_c --> cpd00009_c + cpd00067_c + cpd15726_crPY00173 : cPY00130_c + cpd00001_c --> cPY00131_c + cpd00009_crxn10265 : cpd00001_c + cpd15716_c --> cpd00009_c + cpd00067_c + cpd15722_crxn09104 : cpd00001_c + cpd15545_c --> cpd00009_c + cpd00067_c + cpd15538_crxn10270 : cpd00001_c + cpd15721_c --> cpd00009_c + cpd00067_c + cpd15727_crxn09105 : cpd00001_c + cpd15546_c --> cpd00009_c + cpd00067_c + cpd15539_crxn10268 : cpd00001_c + cpd15719_c --> cpd00009_c + cpd00067_c + cpd15725_crPY00176 : cPY00133_c + cpd00001_c --> cPY00134_c + cpd00009_crxn10267 : cpd00001_c + cpd15718_c --> cpd00009_c + cpd00067_c + cpd15724_crxn09106 : cpd00001_c + cpd15547_c --> cpd00009_c + cpd00067_c + cpd15540_crxn09101 : cpd00001_c + cpd15542_c --> cpd00009_c + cpd00067_c + cpd15535_crxn09107 : cpd00001_c + cpd15548_c --> cpd00009_c + cpd00067_c + cpd15541_crxn09102 : cpd00001_c + cpd15543_c --> cpd00009_c + cpd00067_c + cpd15536_crxn10266 : cpd00001_c + cpd15717_c --> cpd00009_c + cpd00067_c + cpd15723_crxn13887 : cpd00001_c + 0.02 cpd11454_c --> cpd00009_c + 0.02 cpd11652_c
+
+78. Gene PA4406 inibido.
+rxn13883 : cpd00001_c + cpd17071_c --> cpd00029_c + cpd17072_c
+
+79. Gene PA4411 inibido.
+rxn02286 : cpd00002_c + cpd00035_c + cpd00773_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00890_c
+
+80. Gene PA4412 inibido.
+rxn03408 : cpd00037_c + cpd03494_c --> cpd00014_c + cpd03495_c
+
+81. Gene PA4414 inibido.
+rxn02008 : cpd00002_c + cpd00186_c + cpd00890_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00525_c
+
+82. Gene PA4415 inibido.
+rxn03904 : cpd00286_c + cpd02968_c --> cpd00091_c + cpd03494_c
+
+83. Gene PA4416 inibido.
+rxn03164 : cpd00002_c + cpd02964_c + cpd15595_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02968_c
+
+84. Gene PA4417 inibido.
+rxn02011 : cpd00002_c + cpd00516_c + cpd00525_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02964_c
+
+85. Gene PA4450 inibido.
+rxn00461 : cpd00037_c + cpd00061_c --> cpd00009_c + cpd00067_c + cpd02820_c
+
+86. Gene PA4569 inibido.
+rxn09037 : 5.0 cpd00113_c + cpd00350_c --> 5.0 cpd00012_c + cpd02557_crxn05028 : cpd00113_c + cpd02557_c --> cpd00012_c + cpd02172_c
+
+87. Gene PA4655 inibido.
+rxn12218 : cpd00021_c + cpd01476_c --> cpd00028_c + 2.0 cpd00067_c
+
+88. Gene PA4662 inibido.
+rxn00193 : cpd00023_c --> cpd00186_c
+
+89. Gene PA4664 inibido.
+rxn09179 : 1.5 cpd00007_c + cpd00791_c --> 3.0 cpd00001_c + cpd01476_c
+
+90. Gene PA4669 inibido.
+rxn03908 : cpd00002_c + cpd08287_c --> cpd00008_c + cpd08288_c
+
+91. Gene PA4670 inibido.
+rxn00770 : cpd00002_c + cpd00101_c --> cpd00018_c + cpd00103_c
+
+92. Gene PA4693 inibido.
+rxn10226 : cpd00054_c + cpd15683_c --> cpd00046_c + cpd00067_c + cpd15689_crxn09211 : cpd00054_c + cpd15420_c --> cpd00046_c + cpd00067_c + cpd15558_crxn09207 : cpd00054_c + cpd15422_c --> cpd00046_c + cpd00067_c + cpd15554_crxn10231 : cpd00054_c + cpd15688_c --> cpd00046_c + cpd00067_c + cpd15694_crPY00164 : cPY00121_c + cpd00054_c --> cPY00122_c + cpd00046_c + cpd00067_crxn10227 : cpd00054_c + cpd15684_c --> cpd00046_c + cpd00067_c + cpd15690_crxn10229 : cpd00054_c + cpd15686_c --> cpd00046_c + cpd00067_c + cpd15692_crxn09208 : cpd00054_c + cpd15419_c --> cpd00046_c + cpd00067_c + cpd15555_crxn10228 : cpd00054_c + cpd15685_c --> cpd00046_c + cpd00067_c + cpd15691_crxn09209 : cpd00054_c + cpd15418_c --> cpd00046_c + cpd00067_c + cpd15556_crxn10230 : cpd00054_c + cpd15687_c --> cpd00046_c + cpd00067_c + cpd15693_crxn09205 : cpd00054_c + cpd15417_c --> cpd00046_c + cpd00067_c + cpd15552_crPY00169 : cPY00126_c + cpd00054_c --> cPY00127_c + cpd00046_c + cpd00067_crxn13816 : cpd00054_c + 0.02 cpd11427_c --> cpd00046_c + cpd00067_c + 0.02 cpd11455_crxn09206 : cpd00054_c + cpd15423_c --> cpd00046_c + cpd00067_c + cpd15553_crxn09210 : cpd00054_c + cpd15421_c --> cpd00046_c + cpd00067_c + cpd15557_c
+
+93. Gene PA4748 inibido.
+rxn00747 : cpd00102_c --> cpd00095_c
+
+94. Gene PA4749 inibido.
+rxn01485 : cpd03671_c --> cpd00288_c
+
+95. Gene PA4750 inibido.
+rxn02201 : cpd00443_c + cpd02920_c --> cpd00012_c + cpd00683_c
+
+96. Gene PA4770 inibido.
+rxn05602 : cpd00067_e + cpd00159_e --> cpd00067_c + cpd00159_crxn10171 : cpd00067_e + cpd00221_e --> cpd00067_c + cpd00221_crxn05470 : cpd00067_e + cpd00139_e --> cpd00067_c + cpd00139_c
+
+97. Gene PA4854 inibido.
+rxn00832 : cpd00001_c + cpd00114_c --> cpd02884_crxn03137 : cpd00201_c + cpd02851_c --> cpd00087_c + cpd02884_c
+
+98. Gene PA4855 inibido.
+rxn02895 : cpd00002_c + cpd00033_c + cpd01982_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02394_c
+
+99. Gene PA4938 inibido.
+rxn00838 : cpd00038_c + cpd00041_c + cpd00114_c --> cpd00009_c + cpd00031_c + 2.0 cpd00067_c + cpd02375_c
+
+100. Gene PA4957 inibido.
+rxn09201 : 2.0 cpd00067_c + cpd15556_c --> cpd00011_c + cpd15532_crxn13894 : 0.02 cpd11455_c --> cpd00011_c + 0.02 cpd11456_crPY00170 : cPY00127_c + cpd00067_c --> cPY00128_c + cpd00011_crxn09197 : 2.0 cpd00067_c + cpd15552_c --> cpd00011_c + cpd15528_crxn10236 : 2.0 cpd00067_c + cpd15693_c --> cpd00011_c + cpd15699_crxn09202 : 2.0 cpd00067_c + cpd15557_c --> cpd00011_c + cpd15533_crxn09198 : 2.0 cpd00067_c + cpd15553_c --> cpd00011_c + cpd15529_crxn10232 : 2.0 cpd00067_c + cpd15689_c --> cpd00011_c + cpd15695_crxn09203 : 2.0 cpd00067_c + cpd15558_c --> cpd00011_c + cpd15534_crxn09199 : 2.0 cpd00067_c + cpd15554_c --> cpd00011_c + cpd15530_crxn10237 : 2.0 cpd00067_c + cpd15694_c --> cpd00011_c + cpd15700_crPY00165 : cPY00122_c + cpd00067_c --> cPY00123_c + cpd00011_crxn10235 : 2.0 cpd00067_c + cpd15692_c --> cpd00011_c + cpd15698_crxn10233 : 2.0 cpd00067_c + cpd15690_c --> cpd00011_c + cpd15696_crxn09200 : 2.0 cpd00067_c + cpd15555_c --> cpd00011_c + cpd15531_crxn10234 : 2.0 cpd00067_c + cpd15691_c --> cpd00011_c + cpd15697_c
+
+101. Gene PA5034 inibido.
+rxn02288 : 4.0 cpd00067_c + cpd00774_c --> 4.0 cpd00011_c + cpd02083_c
+
+102. Gene PA5038 inibido.
+rxn02212 : cpd02857_c --> cpd00009_c + cpd00067_c + cpd00699_c
+
+103. Gene PA5039 inibido.
+rxn01739 : cpd00002_c + cpd00383_c --> cpd00008_c + cpd02030_c
+
+104. Gene PA5063 inibido.
+rxn12879 : cpd00017_c + cpd16766_c --> cpd00019_c + cpd16764_crxn09039 : cpd00017_c + cpd15359_c --> cpd00019_c + cpd00067_c + cpd15361_c
+
+105. Gene PA5223 inibido.
+rxn09042 : 0.5 cpd00007_c + cpd03446_c --> cpd15359_crxn13108 : cpd00007_c + cpd16767_c --> cpd16766_c
+
+106. Gene PA5243 inibido.
+rxn00029 : 2.0 cpd00338_c --> 2.0 cpd00001_c + cpd00067_c + cpd00689_c
+
+107. Gene PA5259 inibido.
+rxn02264 : cpd00755_c --> cpd00001_c + cpd00774_c
+
+108. Gene PA5260 inibido.
+rxn00060 : cpd00001_c + 4.0 cpd00689_c --> 4.0 cpd00013_c + cpd00755_c
+
+109. Gene PA5278 inibido.
+rxn01974 : cpd00504_c --> cpd00516_c
+
+110. Gene PA5322 inibido.
+rxn00704 : cpd00089_c --> cpd00079_crxn01329 : cpd00235_c --> cpd00485_c
+
+111. Gene PA5331 inibido.
+rxn01362 : cpd00012_c + cpd00810_c --> cpd00103_c + cpd00247_c
+
+112. Gene PA5336 inibido.
+rxn01509 : cpd00002_c + cpd00296_c --> cpd00008_c + cpd00295_crxn00239 : cpd00002_c + cpd00126_c --> cpd00008_c + cpd00031_c
+
+113. Gene PA5357 inibido.
+rxn00966 : cpd00216_c --> cpd00020_c + cpd00136_c
+
+114. Gene PA5358 inibido.
+rxn03893 : cpd00136_c + cpd02557_c --> cpd00012_c + cpd03443_crxn05034 : cpd00136_c + cpd02172_c --> cpd00012_c + cpd02419_c
+
+115. Gene PA5549 inibido.
+rxn00555 : cpd00053_c + cpd00072_c --> cpd00023_c + cpd00288_c
+
+116. Gene PA5552 inibido.
+rxn03638 : cpd00022_c + cpd03671_c --> cpd00010_c + cpd00067_c + cpd02611_crxn00293 : cpd00062_c + cpd02611_c --> cpd00012_c + cpd00037_c
+
+117. Gene PA3164 inibido.
+rxn02476 : cpd00061_c + cpd02030_c --> cpd00009_c + cpd00067_c + cpd00932_crxn01268 : cpd00003_c + cpd00219_c --> cpd00004_c + cpd00011_c + cpd00868_c
+
+118. Gene SPONTANEOUS inibido.
+rxn05468 : cpd00007_e --> cpd00007_crxn05064 : 2.0 cpd00067_c + cpd01101_c --> cpd00011_c + cpd00013_c
+
+Total de genes inibidos que interrompem a geracao de biomassa = 118

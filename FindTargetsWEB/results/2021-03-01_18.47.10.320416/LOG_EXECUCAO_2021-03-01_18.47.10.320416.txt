@@ -1,0 +1,16 @@
+*** INICIO DA EXECUCAO *** 
+Modelo/Organismo/Nome/Email/Metodo = M_MODEL1507180020, Pseudomonas aeruginosa, Fabricio A B Silva, fabs.fiocruz@gmail.com, 2
+
+
+INICIO DO ITEM 1
+GRAVOU ARQUIVO COM OS DADOS DE GENE/REACAO DA REDE
+GEROU FBA 
+FBA = <Solution 21.902 at 0x7fb3193aa0f0>
+INICIO DO ITEM 2
+GEROU FVA 
+INICIO DA VERIFICACAO ENTRE FBA/FVA 
+Lista de reacoes a analisar = 381
+GENERATED FILE 01-fva.csv
+GENERATED FILE /var/www/html/findtargetsweb3/FindTargetsWEB/results/2021-03-01_18.47.10.320416//02-reacoesFVADifZero.txt
+INICIO DO ITEM 3
+len(listReactPerturb) = 381

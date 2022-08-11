@@ -1,0 +1,903 @@
+3HAD100: 3hdecACP_c --> h2o_c + tdec2eACP_c
+KPN_00193
+KPN_00983
+----------------
+
+3HAD121: 3hcddec5eACP_c --> h2o_c + t3c5ddeceACP_c
+KPN_00193
+KPN_00983
+----------------
+
+3HAD141: 3hcmrs7eACP_c --> h2o_c + t3c7mrseACP_c
+KPN_00193
+KPN_00983
+----------------
+
+3HAD161: 3hcpalm9eACP_c --> h2o_c + t3c9palmeACP_c
+KPN_00193
+KPN_00983
+----------------
+
+3HAD181: 3hcvac11eACP_c --> h2o_c + t3c11vaceACP_c
+KPN_00193
+KPN_00983
+----------------
+
+3HAD40: 3haACP_c --> but2eACP_c + h2o_c
+KPN_00193
+KPN_00983
+----------------
+
+3HAD60: 3hhexACP_c --> h2o_c + thex2eACP_c
+KPN_00193
+KPN_00983
+----------------
+
+3HAD80: 3hoctACP_c --> h2o_c + toct2eACP_c
+KPN_00193
+KPN_00983
+----------------
+
+3OAR100: 3odecACP_c + h_c + nadph_c <=> 3hdecACP_c + nadp_c
+KPN_01091
+----------------
+
+3OAR121: 3ocddec5eACP_c + h_c + nadph_c --> 3hcddec5eACP_c + nadp_c
+KPN_01091
+----------------
+
+3OAR140: 3omrsACP_c + h_c + nadph_c <=> 3hmrsACP_c + nadp_c
+KPN_01091
+----------------
+
+3OAR141: 3ocmrs7eACP_c + h_c + nadph_c --> 3hcmrs7eACP_c + nadp_c
+KPN_01091
+----------------
+
+3OAR161: 3ocpalm9eACP_c + h_c + nadph_c --> 3hcpalm9eACP_c + nadp_c
+KPN_01091
+----------------
+
+3OAR181: 3ocvac11eACP_c + h_c + nadph_c --> 3hcvac11eACP_c + nadp_c
+KPN_01091
+----------------
+
+3OAR40: actACP_c + h_c + nadph_c <=> 3haACP_c + nadp_c
+KPN_01091
+----------------
+
+3OAR60: 3ohexACP_c + h_c + nadph_c <=> 3hhexACP_c + nadp_c
+KPN_01091
+----------------
+
+3OAR80: 3ooctACP_c + h_c + nadph_c <=> 3hoctACP_c + nadp_c
+KPN_01091
+----------------
+
+3OAS100: h_c + malACP_c + ocACP_c --> 3odecACP_c + ACP_c + co2_c
+KPN_01093
+KPN_02713
+----------------
+
+3OAS121: cdec3eACP_c + h_c + malACP_c --> 3ocddec5eACP_c + ACP_c + co2_c
+KPN_02713
+----------------
+
+3OAS140: ddcaACP_c + h_c + malACP_c --> 3omrsACP_c + ACP_c + co2_c
+KPN_01093
+KPN_02713
+----------------
+
+3OAS141: cddec5eACP_c + h_c + malACP_c --> 3ocmrs7eACP_c + ACP_c + co2_c
+KPN_02713
+----------------
+
+3OAS161: h_c + malACP_c + tdeACP_c --> 3ocpalm9eACP_c + ACP_c + co2_c
+KPN_02713
+----------------
+
+3OAS181: h_c + hdeACP_c + malACP_c --> 3ocvac11eACP_c + ACP_c + co2_c
+KPN_01093
+----------------
+
+3OAS60: butACP_c + h_c + malACP_c --> 3ohexACP_c + ACP_c + co2_c
+KPN_01093
+KPN_02713
+----------------
+
+3OAS80: h_c + hexACP_c + malACP_c --> 3ooctACP_c + ACP_c + co2_c
+KPN_01093
+KPN_02713
+----------------
+
+A5PISO: ru5p_D_c <=> ara5p_c
+KPN_03043
+KPN_03607
+----------------
+
+ACCOAC: accoa_c + atp_c + hco3_c --> adp_c + h_c + malcoa_c + pi_c
+KPN_02706
+KPN_03664
+KPN_00198
+KPN_03665
+----------------
+
+ACGK: acglu_c + atp_c --> acg5p_c + adp_c
+KPN_04248
+----------------
+
+ACGS: accoa_c + glu_L_c --> acglu_c + coa_c + h_c
+KPN_03226
+----------------
+
+ACLS: h_c + 2.0 pyr_c --> alac_S_c + co2_c
+KPN_00082
+KPN_04267
+KPN_04268
+KPN_04074
+KPN_00083
+KPN_04073
+----------------
+
+ACODA: acorn_c + h2o_c --> ac_c + orn_c
+KPN_01464
+KPN_04246
+----------------
+
+ACOTA: acorn_c + akg_c <=> acg5sa_c + glu_L_c
+KPN_01221
+KPN_03745
+KPN_01493
+----------------
+
+ADSK: aps_c + atp_c --> adp_c + h_c + paps_c
+KPN_03112
+----------------
+
+ADSL1r: dcamp_c <=> amp_c + fum_c
+KPN_01139
+----------------
+
+ADSL2r: 25aics_c <=> aicar_c + fum_c
+KPN_01139
+----------------
+
+ADSS: asp_L_c + gtp_c + imp_c --> dcamp_c + gdp_c + 2.0 h_c + pi_c
+KPN_04576
+----------------
+
+AGMHE: adphep_DD_c --> adphep_LD_c
+KPN_03963
+----------------
+
+AGPAT160: 1hdecg3p_c + palmACP_c --> ACP_c + pa160_c
+KPN_03436
+----------------
+
+AGPAT161: 1hdec9eg3p_c + hdeACP_c --> ACP_c + pa161_c
+KPN_03436
+----------------
+
+AGPAT181: 1odec11eg3p_c + octeACP_c --> ACP_c + pa181_c
+KPN_03436
+----------------
+
+AGPR: acg5sa_c + nadp_c + pi_c <=> acg5p_c + h_c + nadph_c
+KPN_04247
+----------------
+
+AICART: 10fthf_c + aicar_c <=> fprica_c + thf_c
+KPN_04388
+----------------
+
+AIRC2: air_c + atp_c + hco3_c --> 5caiz_c + adp_c + h_c + pi_c
+KPN_00477
+----------------
+
+AIRC3: 5aizc_c <=> 5caiz_c
+KPN_00478
+----------------
+
+ALAALAr: 2.0 ala_D_c + atp_c <=> adp_c + alaala_c + h_c + pi_c
+KPN_00323
+KPN_00096
+----------------
+
+ALAR: ala_L_c <=> ala_D_c
+KPN_02308
+KPN_04440
+----------------
+
+ALATA_L: akg_c + ala_L_c <=> glu_L_c + pyr_c
+----------------
+
+ANPRT: anth_c + prpp_c --> ppi_c + pran_c
+KPN_01256
+----------------
+
+ANS: chor_c + gln_L_c --> anth_c + glu_L_c + h_c + pyr_c
+KPN_01257
+KPN_01256
+----------------
+
+ARGSL: argsuc_c <=> arg_L_c + fum_c
+KPN_04249
+KPN_03580
+----------------
+
+ARGSS: asp_L_c + atp_c + citr_L_c --> amp_c + argsuc_c + h_c + ppi_c
+KPN_04249
+KPN_03580
+----------------
+
+ASAD: aspsa_c + nadp_c + pi_c <=> 4pasp_c + h_c + nadph_c
+KPN_03799
+----------------
+
+ASPCT: asp_L_c + cbp_c --> cbasp_c + h_c + pi_c
+KPN_04656
+KPN_04657
+----------------
+
+ASPK: asp_L_c + atp_c <=> 4pasp_c + adp_c
+KPN_04412
+KPN_04234
+KPN_00002
+----------------
+
+ASPTA: akg_c + asp_L_c <=> glu_L_c + oaa_c
+KPN_00645
+KPN_00955
+----------------
+
+ATPPRT: atp_c + prpp_c --> ppi_c + prbatp_c
+KPN_02475
+----------------
+
+BPNT: h2o_c + pap_c --> amp_c + pi_c
+----------------
+
+Biomass: 0.007 adphep_LD_c + 0.621 ala_L_c + 0.306 arg_L_c + 0.204 asn_L_c + 0.31 asp_L_c + 71.785 atp_c + 0.0013 clpn160_p + 0.0004 clpn161_p + 0.0002 clpn181_p + 0.117 ctp_c + 0.078 cys_L_c + 0.017 datp_c + 0.022 dctp_c + 0.022 dgtp_c + 0.142 dtdprmn_c + 0.017 dttp_c + 0.011 gam6p_c + 0.251 gln_L_c + 0.304 glu_L_c + 0.539 gly_c + 0.124 gtp_c + 66.51913 h2o_c + 0.089 his_L_c + 0.199 ile_L_c + 0.005 kdo_c + 0.383 leu_L_c + 0.0204 lipidA_c + 0.239 lys_L_c + 0.053 man1p_c + 0.095 met_L_c + 0.011 murein5px4p_p + 0.01148 pe160_c + 0.02952 pe160_p + 0.00364 pe161_c + 0.00936 pe161_p + 0.00224 pe181_c + 0.00576 pe181_p + 0.001185 pg160_c + 0.001015 pg160_p + 0.000377 pg161_c + 0.000323 pg161_p + 0.000215 pg181_c + 0.000185 pg181_p + 0.211 phe_L_c + 0.191 pro_L_c + 0.444 ser_L_c + 0.265 thr_L_c + 0.066 trp_L_c + 0.0408 ttdca_c + 0.066 tyr_L_c + 0.003 udpg_c + 0.076 udpgal_c + 0.001 udpgalur_c + 0.107 utp_c + 0.319 val_L_c --> 71.7 adp_c + 71.7 h_c + 71.7 pi_c + 0.51169 ppi_c
+----------------
+
+CBPS: 2.0 atp_c + gln_L_c + h2o_c + hco3_c --> 2.0 adp_c + cbp_c + glu_L_c + 2.0 h_c + pi_c
+KPN_00041
+KPN_00040
+----------------
+
+CHORM: chor_c --> pphn_c
+KPN_02922
+KPN_02920
+----------------
+
+CHORS: 3psme_c --> chor_c + pi_c
+KPN_02719
+----------------
+
+CLPNS160pp: 2.0 pg160_p <=> clpn160_p + glyc_p
+KPN_00817
+KPN_02190
+----------------
+
+CLPNS161pp: 2.0 pg161_p <=> clpn161_p + glyc_p
+KPN_00817
+KPN_02190
+----------------
+
+CLPNS181pp: 2.0 pg181_p <=> clpn181_p + glyc_p
+KPN_00817
+KPN_02190
+----------------
+
+CTPS2: atp_c + gln_L_c + h2o_c + utp_c --> adp_c + ctp_c + glu_L_c + 2.0 h_c + pi_c
+KPN_03124
+----------------
+
+CYSTL: cyst_L_c + h2o_c --> hcys_L_c + nh4_c + pyr_c
+KPN_03428
+KPN_01511
+----------------
+
+DAPDC: 26dap_M_c + h_c --> co2_c + lys_L_c
+KPN_03252
+----------------
+
+DAPE: 26dap_LL_c <=> 26dap_M_c
+KPN_04308
+----------------
+
+DASYN160: ctp_c + h_c + pa160_c --> cdpdhdecg_c + ppi_c
+KPN_00188
+----------------
+
+DASYN161: ctp_c + h_c + pa161_c --> cdpdhdec9eg_c + ppi_c
+KPN_00188
+----------------
+
+DASYN181: ctp_c + h_c + pa181_c --> cdpdodec11eg_c + ppi_c
+KPN_00188
+----------------
+
+DDPA: e4p_c + h2o_c + pep_c --> 2dda7p_c + pi_c
+KPN_00758
+KPN_02162
+KPN_02923
+----------------
+
+DHAD1: 23dhmb_c --> 3mob_c + h2o_c
+KPN_04270
+----------------
+
+DHAD2: 23dhmp_c --> 3mop_c + h2o_c
+KPN_04270
+----------------
+
+DHDPRy: 23dhdp_c + h_c + nadph_c --> nadp_c + thdp_c
+KPN_00039
+----------------
+
+DHDPS: aspsa_c + pyr_c --> 23dhdp_c + 2.0 h2o_c + h_c
+KPN_02812
+----------------
+
+DHFR: dhf_c + h_c + nadph_c <=> nadp_c + thf_c
+KPN_01523
+KPN_00045
+----------------
+
+DHORTS: dhor_S_c + h2o_c <=> cbasp_c + h_c
+KPN_01074
+----------------
+
+DHQS: 2dda7p_c --> 3dhq_c + pi_c
+KPN_03760
+----------------
+
+DHQTi: 3dhq_c --> 3dhsk_c + h2o_c
+KPN_00073
+----------------
+
+DTMPK: atp_c + dtmp_c <=> adp_c + dtdp_c
+KPN_01096
+----------------
+
+EX_nh4_e: nh4_e <=> 
+----------------
+
+EX_pi_e: pi_e <=> 
+----------------
+
+EX_so4_e: so4_e <=> 
+----------------
+
+G1PACT: accoa_c + gam1p_c --> acgam1p_c + coa_c + h_c
+KPN_04135
+----------------
+
+G1PTT: dttp_c + g1p_c + h_c --> dtdpglu_c + ppi_c
+KPN_02490
+KPN_02496
+KPN_04289
+----------------
+
+G3PAT160: glyc3p_c + palmACP_c --> 1hdecg3p_c + ACP_c
+KPN_04429
+----------------
+
+G3PAT161: glyc3p_c + hdeACP_c --> 1hdec9eg3p_c + ACP_c
+KPN_04429
+----------------
+
+G3PAT181: glyc3p_c + octeACP_c --> 1odec11eg3p_c + ACP_c
+KPN_04429
+----------------
+
+G3PD2: glyc3p_c + nadp_c <=> dhap_c + h_c + nadph_c
+KPN_03952
+----------------
+
+G5SADs: glu5sa_c --> 1pyr5c_c + h2o_c + h_c
+KPN_SPONT
+----------------
+
+GALUi: g1p_c + h_c + utp_c --> ppi_c + udpg_c
+KPN_02202
+----------------
+
+GF6PTA: f6p_c + gln_L_c --> gam6p_c + glu_L_c
+KPN_04134
+----------------
+
+GK1: atp_c + gmp_c <=> adp_c + gdp_c
+KPN_03996
+----------------
+
+GLA: nad_c + udpgalur_c <=> 2.0 h_c + nadh_c + udpglcur_c
+KPN_02492
+----------------
+
+GLNS: atp_c + glu_L_c + nh4_c --> adp_c + gln_L_c + h_c + pi_c
+KPN_01021
+KPN_04178
+----------------
+
+GLUPRT: gln_L_c + h2o_c + prpp_c --> glu_L_c + ppi_c + pram_c
+KPN_02702
+----------------
+
+GLUR: glu_D_c <=> glu_L_c
+KPN_04256
+----------------
+
+GMHEPAT: atp_c + gmhep1p_c + h_c --> adphep_DD_c + ppi_c
+KPN_03453
+----------------
+
+GMHEPK: atp_c + gmhep7p_c --> adp_c + gmhep17bp_c + h_c
+KPN_03453
+----------------
+
+GMHEPPA: gmhep17bp_c + h2o_c --> gmhep1p_c + pi_c
+KPN_00214
+----------------
+
+GMPS2: atp_c + gln_L_c + h2o_c + xmp_c --> amp_c + glu_L_c + gmp_c + 2.0 h_c + ppi_c
+KPN_02833
+----------------
+
+HCO3E: co2_c + h2o_c <=> h_c + hco3_c
+KPN_00134
+KPN_02014
+----------------
+
+HISTD: h2o_c + histd_c + 2.0 nad_c --> 3.0 h_c + his_L_c + 2.0 nadh_c
+KPN_02476
+----------------
+
+HISTP: h2o_c + hisp_c --> histd_c + pi_c
+KPN_02478
+----------------
+
+HSDy: hom_L_c + nadp_c <=> aspsa_c + h_c + nadph_c
+KPN_04234
+KPN_00002
+----------------
+
+HSK: atp_c + hom_L_c --> adp_c + h_c + phom_c
+KPN_00003
+----------------
+
+HSST: hom_L_c + succoa_c --> coa_c + suchms_c
+KPN_04394
+----------------
+
+HSTPT: glu_L_c + imacp_c --> akg_c + hisp_c
+KPN_02477
+----------------
+
+IG3PS: gln_L_c + prlp_c --> aicar_c + eig3p_c + glu_L_c + h_c
+KPN_02481
+KPN_02479
+----------------
+
+IGPDH: eig3p_c --> h2o_c + imacp_c
+KPN_02478
+----------------
+
+IGPS: 2cpr5p_c + h_c --> 3ig3p_c + co2_c + h2o_c
+KPN_01255
+----------------
+
+ILETA: akg_c + ile_L_c <=> 3mop_c + glu_L_c
+KPN_04269
+----------------
+
+IMPC: h2o_c + imp_c <=> fprica_c
+KPN_04388
+----------------
+
+IMPD: h2o_c + imp_c + nad_c --> h_c + nadh_c + xmp_c
+KPN_02834
+----------------
+
+IPMD: 3c2hmp_c + nad_c --> 3c4mop_c + h_c + nadh_c
+KPN_00079
+----------------
+
+IPPMIa: 3c2hmp_c <=> 2ippm_c + h2o_c
+KPN_00078
+KPN_00077
+----------------
+
+IPPMIb: 2ippm_c + h2o_c <=> 3c3hmp_c
+KPN_00078
+KPN_00077
+----------------
+
+IPPS: 3mob_c + accoa_c + h2o_c --> 3c3hmp_c + coa_c + h_c
+KPN_03016
+KPN_00080
+----------------
+
+KARA1: 23dhmb_c + nadp_c <=> alac_S_c + h_c + nadph_c
+KPN_04273
+----------------
+
+KARA2: 2ahbut_c + h_c + nadph_c <=> 23dhmp_c + nadp_c
+KPN_04273
+----------------
+
+KDOPP: h2o_c + kdo8p_c --> kdo_c + pi_c
+KPN_03608
+----------------
+
+KDOPS: ara5p_c + h2o_c + pep_c --> kdo8p_c + pi_c
+KPN_02230
+----------------
+
+LEUTAi: 4mop_c + glu_L_c --> akg_c + leu_L_c
+KPN_04441
+KPN_04269
+KPN_01365
+----------------
+
+LPADSS: lipidX_c + u23ga_c --> h_c + lipidAds_c + udp_c
+KPN_00195
+----------------
+
+MAN6PI: man6p_c <=> f6p_c
+KPN_01515
+----------------
+
+MCOATA: ACP_c + malcoa_c <=> coa_c + malACP_c
+KPN_01090
+KPN_01092
+----------------
+
+MCTP1App: murein5p5p_p --> ala_D_p + murein5px4p_p
+KPN_00667
+KPN_00088
+KPN_00164
+KPN_03767
+----------------
+
+MPTG: 2.0 uaagmda_c --> 2.0 h_c + murein5p5p_p + 2.0 udcpdp_c
+KPN_02849
+KPN_00164
+KPN_03767
+----------------
+
+NDPK2: atp_c + udp_c <=> adp_c + utp_c
+KPN_00456
+KPN_02848
+----------------
+
+NDPK4: atp_c + dtdp_c <=> adp_c + dttp_c
+KPN_00456
+KPN_02848
+----------------
+
+NH4tex: nh4_e <=> nh4_p
+KPN_01445
+KPN_02430
+KPN_00282
+KPN_00956
+KPN_02636
+KPN_SPONT
+----------------
+
+NH4tpp: nh4_p <=> nh4_c
+KPN_00414
+----------------
+
+OCBT: cbp_c + orn_c <=> citr_L_c + h_c + pi_c
+KPN_04659
+----------------
+
+OMCDC: 3c4mop_c + h_c --> 4mop_c + co2_c
+KPN_00079
+----------------
+
+OMPDC: h_c + orot5p_c --> co2_c + ump_c
+KPN_01277
+----------------
+
+ORPT: orot5p_c + ppi_c <=> orot_c + prpp_c
+KPN_03983
+----------------
+
+P5CR: 1pyr5c_c + 2.0 h_c + nadph_c --> nadp_c + pro_L_c
+KPN_00329
+----------------
+
+PAPPT3: udcpp_c + ugmda_c --> uagmda_c + ump_c
+KPN_00091
+----------------
+
+PE160abcpp: atp_c + h2o_c + pe160_c --> adp_c + h_c + pe160_p + pi_c
+KPN_00941
+----------------
+
+PE161abcpp: atp_c + h2o_c + pe161_c --> adp_c + h_c + pe161_p + pi_c
+KPN_00941
+----------------
+
+PE181abcpp: atp_c + h2o_c + pe181_c --> adp_c + h_c + pe181_p + pi_c
+KPN_00941
+----------------
+
+PGAMT: gam1p_c <=> gam6p_c
+KPN_03586
+----------------
+
+PGMT: g1p_c <=> g6p_c
+KPN_03021
+KPN_00711
+----------------
+
+PGSA160: cdpdhdecg_c + glyc3p_c --> cmp_c + h_c + pgp160_c
+KPN_02410
+----------------
+
+PGSA161: cdpdhdec9eg_c + glyc3p_c --> cmp_c + h_c + pgp161_c
+KPN_02410
+----------------
+
+PGSA181: cdpdodec11eg_c + glyc3p_c --> cmp_c + h_c + pgp181_c
+KPN_02410
+----------------
+
+PHETA1: akg_c + phe_L_c <=> glu_L_c + phpyr_c
+KPN_00955
+KPN_04441
+KPN_00645
+KPN_04269
+KPN_01365
+----------------
+
+PItex: pi_e <=> pi_p
+KPN_01445
+KPN_02430
+KPN_00282
+KPN_00956
+KPN_02636
+----------------
+
+PMANM: man1p_c <=> man6p_c
+----------------
+
+PPND: nad_c + pphn_c --> 34hpp_c + co2_c + nadh_c
+KPN_02922
+----------------
+
+PPNDH: h_c + pphn_c --> co2_c + h2o_c + phpyr_c
+KPN_02920
+----------------
+
+PRAGSr: atp_c + gly_c + pram_c <=> adp_c + gar_c + h_c + pi_c
+KPN_04387
+----------------
+
+PRAIS: atp_c + fpram_c --> adp_c + air_c + 2.0 h_c + pi_c
+KPN_02824
+----------------
+
+PRAIi: pran_c --> 2cpr5p_c
+KPN_01255
+----------------
+
+PRAMPC: h2o_c + prbamp_c --> prfp_c
+KPN_02482
+----------------
+
+PRASCS: 5aizc_c + asp_L_c + atp_c <=> 25aics_c + adp_c + h_c + pi_c
+KPN_02810
+----------------
+
+PRATPP: h2o_c + prbatp_c --> h_c + ppi_c + prbamp_c
+KPN_02482
+----------------
+
+PRFGS: atp_c + fgam_c + gln_L_c + h2o_c --> adp_c + fpram_c + glu_L_c + h_c + pi_c
+KPN_02882
+----------------
+
+PRMICI: prfp_c <=> prlp_c
+KPN_02480
+----------------
+
+PSCVT: pep_c + skm5p_c <=> 3psme_c + pi_c
+KPN_00936
+----------------
+
+PSD160: h_c + ps160_c --> co2_c + pe160_c
+KPN_04557
+----------------
+
+PSD161: h_c + ps161_c --> co2_c + pe161_c
+KPN_04557
+----------------
+
+PSD181: h_c + ps181_c --> co2_c + pe181_c
+KPN_04557
+----------------
+
+PSSA160: cdpdhdecg_c + ser_L_c --> cmp_c + h_c + ps160_c
+KPN_02908
+----------------
+
+PSSA161: cdpdhdec9eg_c + ser_L_c --> cmp_c + h_c + ps161_c
+KPN_02908
+----------------
+
+PSSA181: cdpdodec11eg_c + ser_L_c --> cmp_c + h_c + ps181_c
+KPN_02908
+----------------
+
+S7PI: s7p_c --> gmhep7p_c
+KPN_00236
+----------------
+
+SADT2: atp_c + gtp_c + h2o_c + so4_c --> aps_c + gdp_c + pi_c + ppi_c
+KPN_03113
+KPN_03114
+----------------
+
+SDPDS: h2o_c + sl26da_c --> 26dap_LL_c + succ_c
+KPN_02805
+----------------
+
+SDPTA: akg_c + sl26da_c <=> glu_L_c + sl2a6o_c
+KPN_01221
+KPN_03745
+KPN_01493
+----------------
+
+SHK3Dr: 3dhsk_c + h_c + nadph_c <=> nadp_c + skm_c
+KPN_03682
+KPN_00075
+----------------
+
+SHKK: atp_c + skm_c --> adp_c + h_c + skm5p_c
+KPN_03761
+KPN_00332
+----------------
+
+SHSL1: cys_L_c + suchms_c --> cyst_L_c + h_c + succ_c
+KPN_04233
+----------------
+
+SO4tex: so4_e <=> so4_p
+KPN_01445
+KPN_02430
+KPN_00282
+KPN_00956
+KPN_02636
+----------------
+
+SULRi: 5.0 h_c + 3.0 nadph_c + so3_c --> 3.0 h2o_c + h2s_c + 3.0 nadp_c
+KPN_03118
+KPN_03119
+----------------
+
+SULabcpp: atp_c + h2o_c + so4_p --> adp_c + h_c + pi_c + so4_c
+KPN_00779
+KPN_02770
+KPN_02771
+KPN_02772
+KPN_04008
+KPN_02773
+KPN_00778
+KPN_00777
+----------------
+
+T2DECAI: tdec2eACP_c <=> cdec3eACP_c
+KPN_00983
+----------------
+
+TDPDRE: dtdp4d6dg_c --> dtdp4d6dm_c
+KPN_02488
+KPN_02494
+----------------
+
+TDPDRR: dtdp4d6dm_c + h_c + nadph_c --> dtdprmn_c + nadp_c
+KPN_02495
+KPN_02489
+----------------
+
+TDPGDH: dtdpglu_c --> dtdp4d6dg_c + h2o_c
+KPN_02497
+KPN_02491
+KPN_04288
+----------------
+
+TDSK: atp_c + lipidAds_c --> adp_c + h_c + lipidA_c
+KPN_00942
+----------------
+
+THDPS: h2o_c + succoa_c + thdp_c --> coa_c + sl2a6o_c
+KPN_00179
+----------------
+
+THRS: h2o_c + phom_c --> pi_c + thr_L_c
+KPN_00004
+----------------
+
+TMDS: dump_c + mlthf_c --> dhf_c + dtmp_c
+KPN_03236
+----------------
+
+TYRTA: akg_c + tyr_L_c <=> 34hpp_c + glu_L_c
+KPN_00645
+KPN_00955
+KPN_04441
+KPN_01365
+----------------
+
+U23GAAT: 3hmrsACP_c + u3hga_c --> ACP_c + h_c + u23ga_c
+KPN_00192
+----------------
+
+UAAGDS: 26dap_M_c + atp_c + uamag_c --> adp_c + h_c + pi_c + ugmd_c
+KPN_00089
+----------------
+
+UAGAAT: 3hmrsACP_c + uacgam_c <=> ACP_c + u3aga_c
+KPN_00194
+----------------
+
+UAGCVT: pep_c + uacgam_c --> pi_c + uaccg_c
+KPN_03599
+----------------
+
+UAGDP: acgam1p_c + h_c + utp_c --> ppi_c + uacgam_c
+KPN_04135
+----------------
+
+UAGPT3: uacgam_c + uagmda_c --> h_c + uaagmda_c + udp_c
+KPN_00094
+----------------
+
+UAMAGS: atp_c + glu_D_c + uama_c --> adp_c + h_c + pi_c + uamag_c
+KPN_00092
+----------------
+
+UAMAS: ala_L_c + atp_c + uamr_c --> adp_c + h_c + pi_c + uama_c
+KPN_00095
+----------------
+
+UAPGR: h_c + nadph_c + uaccg_c --> nadp_c + uamr_c
+KPN_04350
+----------------
+
+UDCPDP: h2o_c + udcpdp_c --> h_c + pi_c + udcpp_c
+KPN_03461
+KPN_00873
+KPN_01274
+----------------
+
+UDPG4E: udpg_c <=> udpgal_c
+KPN_00773
+----------------
+
+UDPGD: h2o_c + 2.0 nad_c + udpg_c --> 3.0 h_c + 2.0 nadh_c + udpglcur_c
+KPN_02493
+----------------
+
+UGMDDS: alaala_c + atp_c + ugmd_c --> adp_c + h_c + pi_c + ugmda_c
+KPN_00090
+----------------
+
+UHGADA: h2o_c + u3aga_c --> ac_c + u3hga_c
+KPN_00100
+----------------
+
+UMPK: atp_c + ump_c <=> adp_c + udp_c
+KPN_00184
+KPN_00937
+----------------
+
+USHD: h2o_c + u23ga_c --> 2.0 h_c + lipidX_c + ump_c
+KPN_00480
+----------------
+

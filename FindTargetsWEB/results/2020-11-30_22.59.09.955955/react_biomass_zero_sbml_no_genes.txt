@@ -1,0 +1,221 @@
+2dmmq8_e + atp_c + h2o_c --> 2dmmq8_c + adp_c + h_c + pi_c
+2mbcoa_c + ACP_c --> 2mbutACP_c + coa_c
+10m3hddcaACP_c --> 10mtddec2eACP_c + h2o_c
+11m3hddcaACP_c --> 11mtddec2eACP_c + h2o_c
+12m3hmyrsACP_c --> 12mtmrs2eACP_c + h2o_c
+13m3hmyrsACP_c --> 13mtmrs2eACP_c + h2o_c
+14m3hpalmACP_c --> 14mtpalm2eACP_c + h2o_c
+15m3hpalmACP_c --> 15mtpalm2eACP_c + h2o_c
+4m3hhexACP_c --> 4mthex2eACP_c + h2o_c
+5m3hhexACP_c --> 5mthex2eACP_c + h2o_c
+6m3hocACP_c --> 6mtoct2eACP_c + h2o_c
+7m3hocACP_c --> 7mtoct2eACP_c + h2o_c
+8m3hdcaACP_c --> 8mtdec2eACP_c + h2o_c
+9m3hdcaACP_c --> 9mtdec2eACP_c + h2o_c
+10m3oddcaACP_c + h_c + nadph_c --> 10m3hddcaACP_c + nadp_c
+11m3oddcaACP_c + h_c + nadph_c --> 11m3hddcaACP_c + nadp_c
+12m3omyrsACP_c + h_c + nadph_c --> 12m3hmyrsACP_c + nadp_c
+13m3omyrsACP_c + h_c + nadph_c --> 13m3hmyrsACP_c + nadp_c
+14m3opalmACP_c + h_c + nadph_c --> 14m3hpalmACP_c + nadp_c
+15m3opalmACP_c + h_c + nadph_c --> 15m3hpalmACP_c + nadp_c
+4m3ohexACP_c + h_c + nadph_c --> 4m3hhexACP_c + nadp_c
+5m3ohexACP_c + h_c + nadph_c --> 5m3hhexACP_c + nadp_c
+6m3oocACP_c + h_c + nadph_c --> 6m3hocACP_c + nadp_c
+7m3oocACP_c + h_c + nadph_c --> 7m3hocACP_c + nadp_c
+8m3odcaACP_c + h_c + nadph_c --> 8m3hdcaACP_c + nadp_c
+9m3odcaACP_c + h_c + nadph_c --> 9m3hdcaACP_c + nadp_c
+10mddcaACP_c + h_c + malACP_c --> 12m3omyrsACP_c + ACP_c + co2_c
+11mddcaACP_c + h_c + malACP_c --> 13m3omyrsACP_c + ACP_c + co2_c
+12mmyrsACP_c + h_c + malACP_c --> 14m3opalmACP_c + ACP_c + co2_c
+13mmyrsACP_c + h_c + malACP_c --> 15m3opalmACP_c + ACP_c + co2_c
+3mbutACP_c + h_c + malACP_c --> 5m3ohexACP_c + ACP_c + co2_c
+2mbutACP_c + h_c + malACP_c --> 4m3ohexACP_c + ACP_c + co2_c
+4mhexACP_c + h_c + malACP_c --> 6m3oocACP_c + ACP_c + co2_c
+5mhexACP_c + h_c + malACP_c --> 7m3oocACP_c + ACP_c + co2_c
+6mocACP_c + h_c + malACP_c --> 8m3odcaACP_c + ACP_c + co2_c
+7mocACP_c + h_c + malACP_c --> 9m3odcaACP_c + ACP_c + co2_c
+8mdcaACP_c + h_c + malACP_c --> 10m3oddcaACP_c + ACP_c + co2_c
+9mdcaACP_c + h_c + malACP_c --> 11m3oddcaACP_c + ACP_c + co2_c
+adocbip_c + gtp_c + h_c --> agdpcbi_c + ppi_c
+uacgam_c + udcpp_c --> ump_c + unaga_c
+1aihpdecg3p_c + aihpdcoa_c --> coa_c + paai17_c
+1ihpdecg3p_c + ihpdcoa_c --> coa_c + pai17_c
+apoACP_c + coa_c --> ACP_c + h_c + pap_c
+adocbi_c + atp_c --> adocbip_c + adp_c + h_c
+agdpcbi_c + rdmbzi_c --> adocbl_c + gmp_c + h_c
+12daihdglyc_c + udpg_c --> h_c + m12dahglyc_c + udp_c
+m12dahglyc_c + udpg_c --> diglcpgai17_c + h_c + udp_c
+14mpalmACP_c + coa_c --> ACP_c + aihpdcoa_c
+2.0 ala_D_c + atp_c --> adp_c + alaala_c + h_c + pi_c
+45.0 ala_D_c + 45.0 atp_c + prl45tca_c --> 45.0 amp_c + 45.0 h2o_c + 45.0 ppi_c + prl45tcaala_c
+ala_L_c --> ala_D_c
+ala_L_e + h_e --> ala_L_c + h_c
+anth_c + prpp_c --> ppi_c + pran_c
+asn_L_e + h_e --> asn_L_c + h_c
+h2o_c + pap_c --> amp_c + pi_c
+ca2_e + h_c --> ca2_c + h_e
+atp_c + cbi_c + h_c --> adocbi_c + pppi_c
+acbdma14gapuc_c + 45.0 cdpglyc_c --> 45.0 cmp_c + 45.0 h_c + prl45tca_c
+4c2me_c + atp_c --> 2p4c2me_c + adp_c + h_c
+3psme_c --> chor_c + pi_c
+2.0 pg180_c --> clpn180_c + glyc_c
+2.0 pgai17_c --> clpnai17_c + glyc_c
+2.0 pgi17_c --> clpni17_c + glyc_c
+cobalt2_c --> cobalt2_e
+atp_c + cu2_e + h2o_c --> adp_c + cu2_c + h_c + pi_c
+26dap_M_e + atp_c + h2o_c --> 26dap_M_c + adp_c + h_c + pi_c
+ctp_c + h_c + pa180_c --> cdpdodecg_c + ppi_c
+ctp_c + h_c + paai17_c --> cdpdaihpdecg_c + ppi_c
+ctp_c + h_c + pai17_c --> cdpdihpdecg_c + ppi_c
+e4p_c + h2o_c + pep_c --> 2dda7p_c + pi_c
+dhf_c + nadp_c --> fol_c + nadph_c
+dhf_c + h_c + nadph_c --> nadp_c + thf_c
+2dda7p_c --> 3dhq_c + pi_c
+3dhq_c --> 3dhsk_c + h2o_c
+dmpp_c + ipdp_c --> grdp_c + ppi_c
+h2mb4p_c + h_c + nadh_c --> dmpp_c + h2o_c + nad_c
+atp_c + dpcoa_c --> adp_c + coa_c + h_c
+atp_c + dtmp_c --> adp_c + dtdp_c
+dxyl5p_c + h_c + nadph_c --> 2me4p_c + nadp_c
+g3p_c + h_c + pyr_c --> co2_c + dxyl5p_c
+10mtddec2eACP_c + h_c + nadh_c --> 10mddcaACP_c + nad_c
+11mtddec2eACP_c + h_c + nadh_c --> 11mddcaACP_c + nad_c
+12mtmrs2eACP_c + h_c + nadh_c --> 12mmyrsACP_c + nad_c
+13mtmrs2eACP_c + h_c + nadh_c --> 13mmyrsACP_c + nad_c
+14mtpalm2eACP_c + h_c + nadh_c --> 14mpalmACP_c + nad_c
+15mtpalm2eACP_c + h_c + nadh_c --> 15mpalmACP_c + nad_c
+4mthex2eACP_c + h_c + nadh_c --> 4mhexACP_c + nad_c
+5mthex2eACP_c + h_c + nadh_c --> 5mhexACP_c + nad_c
+6mtoct2eACP_c + h_c + nadh_c --> 6mocACP_c + nad_c
+7mtoct2eACP_c + h_c + nadh_c --> 7mocACP_c + nad_c
+8mtdec2eACP_c + h_c + nadh_c --> 8mdcaACP_c + nad_c
+9mtdec2eACP_c + h_c + nadh_c --> 9mdcaACP_c + nad_c
+26dap_M_e --> 
+2dmmq8_e --> 
+ala_L_e --> 
+asn_L_e --> 
+biomass_c --> 
+ca2_e --> 
+cl_e --> 
+cobalt2_e --> 
+cu2_e --> 
+fol_e --> 
+k_e --> 
+mg2_e --> 
+mn2_e --> 
+mqn8_e --> 
+ocdca_e --> 
+pheme_e --> 
+pnto_R_e --> 
+pydx_e --> 
+q8_e --> 
+ribflv_e --> 
+sheme_e --> 
+so4_e --> 
+spmd_e --> 
+thm_e --> 
+zn2_e --> 
+atp_c + fmn_c + h_c --> fad_c + ppi_c
+fol_e + h_e --> fol_c + h_c
+aihpdcoa_c + glyc3p_c --> 1aihpdecg3p_c + coa_c
+glyc3p_c + ihpdcoa_c --> 1ihpdecg3p_c + coa_c
+ctp_c + glyc3p_c + h_c --> cdpglyc_c + ppi_c
+atp_c + cys_L_c + glu_L_c --> adp_c + glucys_c + h_c + pi_c
+glu_D_c --> glu_L_c
+grdp_c + ipdp_c --> frdp_c + ppi_c
+atp_c + glucys_c + gly_c --> adp_c + gthrd_c + h_c + pi_c
+atp_c + h2o_c + pheme_e --> adp_c + h_c + pheme_c + pi_c
+2cpr5p_c + h_c --> 3ig3p_c + co2_c + h2o_c
+m12dihglyc_c + udpg_c --> diglcpgi17_c + h_c + udp_c
+12dihdglyc_c + udpg_c --> h_c + m12dihglyc_c + udp_c
+15mpalmACP_c + coa_c --> ACP_c + ihpdcoa_c
+ipdp_c --> dmpp_c
+ACP_c + ivcoa_c --> 3mbutACP_c + coa_c
+k_e --> k_c
+ACP_c + malcoa_c --> coa_c + malACP_c
+2mecdp_c + nadh_c --> h2mb4p_c + h2o_c + nad_c
+2p4c2me_c --> 2mecdp_c + cmp_c
+2me4p_c + ctp_c + h_c --> 4c2me_c + ppi_c
+atp_c + h2o_c + met_L_c --> amet_c + pi_c + ppi_c
+mqn8_c --> mqn8_e
+h_c + nac_c + prpp_c --> nicrnt_c + ppi_c
+dmbzid_c + nicrnt_c --> 5prdmbz_c + h_c + nac_c
+h_e + ocdca_e --> h_c + ocdca_c
+4mop_c + coa_c + nad_c --> co2_c + ivcoa_c + nadh_c
+3mop_c + coa_c + nad_c --> 2mbcoa_c + co2_c + nadh_c
+h2o_c + paai17_c --> 12daihdglyc_c + pi_c
+h2o_c + pai17_c --> 12dihdglyc_c + pi_c
+h2o_c + pa180_c --> 12dgr180_c + pi_c
+udcpp_c + ugmda_c --> uagmda_c + ump_c
+PGPm1_c + h_c + uaagmda_c --> PGP_c + co2_c + udcpdp_c
+prl45tca_c + 45.0 udpg_c --> 45.0 h_c + prl45tcaglc_c + 45.0 udp_c
+h2o_c + pgp180_c --> pg180_c + pi_c
+h2o_c + pgpai17_c --> pgai17_c + pi_c
+h2o_c + pgpi17_c --> pgi17_c + pi_c
+cdpdodecg_c + glyc3p_c --> cmp_c + h_c + pgp180_c
+cdpdaihpdecg_c + glyc3p_c --> cmp_c + h_c + pgpai17_c
+cdpdihpdecg_c + glyc3p_c --> cmp_c + h_c + pgpi17_c
+atp_c + pnto_R_c --> 4ppan_c + adp_c + h_c
+atp_c + h2o_c + pnto_R_e --> adp_c + h_c + pi_c + pnto_R_c
+4ppcys_c + h_c --> co2_c + pan4p_c
+pran_c --> 2cpr5p_c
+atp_c + r5p_c --> amp_c + h_c + prpp_c
+pep_c + skm5p_c --> 3psme_c + pi_c
+h_c + ps180_c --> co2_c + pe180_c
+h_c + psai17_c --> co2_c + peai17_c
+h_c + psi17_c --> co2_c + pei17_c
+cdpdodecg_c + ser_L_c --> cmp_c + h_c + ps180_c
+cdpdaihpdecg_c + ser_L_c --> cmp_c + h_c + psai17_c
+cdpdihpdecg_c + ser_L_c --> cmp_c + h_c + psi17_c
+atp_c + h_c + pan4p_c --> dpcoa_c + ppi_c
+atp_c + pydx_c --> adp_c + h_c + pydx5p_c
+atp_c + h2o_c + pydx_e --> adp_c + h_c + pi_c + pydx_c
+atp_c + h2o_c + q8_e --> adp_c + h_c + pi_c + q8_c
+atp_c + ribflv_c --> adp_c + fmn_c + h_c
+h_e + ribflv_e --> h_c + ribflv_c
+5prdmbz_c + h2o_c --> pi_c + rdmbzi_c
+atp_c + h2o_c + sheme_e --> adp_c + h_c + pi_c + sheme_c
+3dhsk_c + h_c + nadph_c --> nadp_c + skm_c
+atp_c + skm_c --> adp_c + h_c + skm5p_c
+h_e + so4_e --> h_c + so4_c
+atp_c + h2o_c + spmd_e --> adp_c + h_c + pi_c + spmd_c
+m12dsglyc_c + udpg_c --> diglcpg180_c + h_c + udp_c
+12dgr180_c + udpg_c --> h_c + m12dsglyc_c + udp_c
+24.0 cdpglyc_c + diglcpg180_c --> 24.0 cmp_c + 24.0 h_c + sttca1_c
+24.0 cdpglyc_c + diglcpgai17_c --> ai17tca1_c + 24.0 cmp_c + 24.0 h_c
+24.0 cdpglyc_c + diglcpgi17_c --> 24.0 cmp_c + 24.0 h_c + i17tca1_c
+sttca1_c + 24.0 udpg_c --> 24.0 h_c + sttcaglc_c + 24.0 udp_c
+ai17tca1_c + 24.0 udpg_c --> ai17tcaglc_c + 24.0 h_c + 24.0 udp_c
+i17tca1_c + 24.0 udpg_c --> 24.0 h_c + i17tcaglc_c + 24.0 udp_c
+24.0 ala_D_c + 24.0 atp_c + sttca1_c --> 24.0 amp_c + 24.0 h2o_c + 24.0 ppi_c + sttcaala_D_c
+ai17tca1_c + 24.0 ala_D_c + 24.0 atp_c --> ai17tcaala_D_c + 24.0 amp_c + 24.0 h2o_c + 24.0 ppi_c
+24.0 ala_D_c + 24.0 atp_c + i17tca1_c --> 24.0 amp_c + 24.0 h2o_c + i17tcaala_D_c + 24.0 ppi_c
+h2o_c + 30.0 udpacgal_c + 30.0 udpg_c --> tcam_c + 30.0 udp_c + 30.0 ump_c
+sttca1_c + 24.0 uacgam_c --> 24.0 h_c + sttcaacgam_c + 24.0 udp_c
+ai17tca1_c + 24.0 uacgam_c --> ai17tcaacgam_c + 24.0 h_c + 24.0 udp_c
+i17tca1_c + 24.0 uacgam_c --> 24.0 h_c + i17tcaacgam_c + 24.0 udp_c
+PGPm1_c + prl45tcaala_c --> glyc45tcaala_D_c + udcpp_c
+PGPm1_c + prl45tcaglc_c --> glyc45tcaglc_c + udcpp_c
+PGPm1_c + prl45tca_c --> glyc45tca_c + udcpp_c
+h_c + thm_e --> h_e + thm_c
+atp_c + thm_c --> amp_c + h_c + thmpp_c
+26dap_M_c + atp_c + uamag_c --> adp_c + h_c + pi_c + ugmd_c
+uacmam_c + unaga_c --> acbdma14gapuc_c + h_c + udp_c
+uacgam_c --> uacmam_c
+uacgam_c --> udpacgal_c
+pep_c + uacgam_c --> pi_c + uaccg_c
+acgam1p_c + h_c + utp_c --> ppi_c + uacgam_c
+uacgam_c + uagmda_c --> h_c + uaagmda_c + udp_c
+atp_c + glu_D_c + uama_c --> adp_c + h_c + pi_c + uamag_c
+ala_L_c + atp_c + uamr_c --> adp_c + h_c + pi_c + uama_c
+h_c + nadph_c + uaccg_c --> nadp_c + uamr_c
+h2o_c + udcpdp_c --> h_c + pi_c + udcpp_c
+frdp_c + 8.0 ipdp_c --> 8.0 ppi_c + udcpdp_c
+alaala_c + atp_c + ugmd_c --> adp_c + h_c + pi_c + ugmda_c
+atp_c + ump_c --> adp_c + udp_c
+atp_c + h2o_c + zn2_e --> adp_c + h_c + pi_c + zn2_c
+0.0079397 10fthf_c + 0.0079397 2dmmq8_c + 0.0079397 5mthf_c + 0.0079397 ACP_c + 0.0018061 PGP_c + 0.0079397 adocbl_c + 0.0018061 ai17tca1_c + 0.0018061 ai17tcaacgam_c + 0.0018061 ai17tcaala_D_c + 0.0018061 ai17tcaglc_c + 0.26756 ala_L_c + 0.0079397 amet_c + 0.1934 arg_L_c + 0.14833 asn_L_c + 0.14833 asp_L_c + 41.2914 atp_c + 0.0079397 ca2_c + 0.0079397 cl_c + 0.0085871 clpn180_c + 0.0085871 clpnai17_c + 0.0085871 clpni17_c + 0.0079397 coa_c + 0.0079397 cobalt2_c + 0.026124 ctp_c + 0.0079397 cu2_c + 0.056954 cys_L_c + 0.016967 datp_c + 0.0099099 dctp_c + 0.0099099 dgtp_c + dnarep_c + 0.016967 dttp_c + 0.0079397 fad_c + 0.0079397 fe2_c + 0.0079397 fe3_c + 0.26101 gln_L_c + 0.26101 glu_L_c + 0.40933 gly_c + 0.0018061 glyc45tca_c + 0.0018061 glyc45tcaala_D_c + 0.0018061 glyc45tcaglc_c + 0.0079397 gthrd_c + 0.042403 gtp_c + 41.257 h_c + 0.081948 his_L_c + 0.0018061 i17tca1_c + 0.0018061 i17tcaacgam_c + 0.0018061 i17tcaala_D_c + 0.0018061 i17tcaglc_c + 0.27043 ile_L_c + 0.0079397 k_c + 0.34746 leu_L_c + 0.3237 lys_L_c + 0.1135 met_L_c + 0.0079397 mg2_c + 0.0079397 mn2_c + 0.0079397 mqn8_c + 0.0079397 nad_c + 0.0079397 nadp_c + 0.0085871 pe180_c + 0.0085871 peai17_c + 0.0085871 pei17_c + 0.0085871 pg180_c + 0.0085871 pgai17_c + 0.0085871 pgi17_c + 0.17619 phe_L_c + 0.0079397 pheme_c + 0.16103 pro_L_c + proteinsynth_c + 0.0079397 ptrc_c + 0.0079397 pydx5p_c + 0.0079397 q8_c + 0.0079397 ribflv_c + rnatrans_c + 0.21675 ser_L_c + 0.0079397 sheme_c + 0.0079397 so4_c + 0.0079397 spmd_c + 0.0018061 sttca1_c + 0.0018061 sttcaacgam_c + 0.0018061 sttcaala_D_c + 0.0018061 sttcaglc_c + 0.0018061 tcam_c + 0.0079397 thf_c + 0.0079397 thmpp_c + 0.18684 thr_L_c + 0.054496 trp_L_c + 0.11104 tyr_L_c + 0.0018061 udcpdp_c + 0.028225 utp_c + 0.30772 val_L_c + 0.0079397 zn2_c --> 0.0072242 PGPm1_c + 41.257 adp_c + 0.0079397 apoACP_c + biomass_c + 0.0079397 cbi_c + 0.0079397 dmbzid_c + 45.354 h2o_c + 41.2491 pi_c + 0.1849 ppi_c
+ --> dnarep_c
+ --> proteinsynth_c
+cl_e --> cl_c
+ --> rnatrans_c

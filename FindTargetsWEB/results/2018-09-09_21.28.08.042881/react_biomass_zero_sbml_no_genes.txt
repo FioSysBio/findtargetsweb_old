@@ -1,0 +1,108 @@
+O2 --> 
+Fe2+ --> 
+Glycolate --> 
+0.0001 Ubiquinol-9 + 0.0013602 pe170cyc + 0.0030243 pe190cyc + 0.00079222 pg170cyc + 0.0015844 pg190cyc + 0.00053681 clpn170cyc + 0.00097843 clpn190cyc + 59.81 H2O + 59.81 ATP + 0.10147 AMP + 0.22711 L-Glutamate + 0.0001 Heme + 0.31517 Glycine + 0.43505 L-Alanine + 0.10702 L-Lysine + 0.19852 L-Aspartate + 0.20202 CMP + 0.28478 L-Arginine + 0.15885 L-Glutamine + 0.20628 L-Serine + 0.075597 L-Methionine + 0.055547 L-Tryptophan + 0.13262 L-Phenylalanine + 0.094677 L-Tyrosine + 0.037522 L-Cysteine + 0.099817 UMP + 0.46473 L-Leucine + 0.56945 Putrescine + 0.080962 L-Histidine + 0.0001 5-10-Methylenetetrahydrofolate + 0.19855 GMP + 0.18967 L-Proline + 0.098535 L-Asparagine + 2.5e-05 Glycogen + 0.25796 L-Valine + 0.15587 L-Threonine + 0.03128 dCMP + 0.016114 dAMP + 0.03128 dGMP + 0.016114 dTMP + 0.15571 L-Isoleucine + 0.0078591 clpn160 + 0.0041649 clpn161 + 0.00037815 clpn180 + 0.011889 clpn181 + 0.047824 phosphatidylethanolamine_dihexadecanoyl + 0.020287 phosphatidylethanolamine_dihexadec-9enoyl + 0.0020692 phosphatidylethanolamine_dioctadecanoyl + 0.068198 phosphatidylethanolamine_dioctadec-11-enoyl + 0.012557 Phosphatidylglycerol_dihexadecanoyl + 0.0037982 Phosphatidylglycerol_dihexadec-9-enoyl + 0.00042166 Phosphatidylglycerol_dioctadecanoyl + 0.011557 Phosphatidylglycerol_dioctadec-11-enoyl + 0.053367 Peptidoglycan polymer (n subunits) + 0.025523 Pseudomonas aeruginosa Lipid A --> 59.81 ADP + 59.81 Phosphate + 0.69664 PPi + 59.81 H+
+H2O + NAD + Glycolaldehyde --> NADH + H+ + Glycolate
+Hexadecenoyl-ACP + 1-hexadecanoyl-sn-glycerol_3-phosphate --> pa160161 + ACP
+pa160161 + CTP + H+ --> CDP-pa160161 + PPi
+CDP-pa160161 + L-Serine --> ps160161 + CMP + H+
+ps160161 + H+ --> pe160161 + CO2
+pe160161 + S-Adenosyl-L-methionine --> pe170cyc + H+
+Octadecenoyl-ACP + 1-octadecanoyl-sn-glycerol_3-phosphate --> pa180181 + ACP
+pa180181 + CTP + H+ --> CDP-pa180181 + PPi
+CDP-pa180181 + L-Serine --> ps180181 + CMP + H+
+ps180181 + H+ --> pe180181 + CO2
+pe180181 + S-Adenosyl-L-methionine --> pe190cyc + H+
+CDP-pa160161 + Glycerol-3-phosphate --> pgp160161 + CMP + H+
+pgp160161 + H2O --> pg160161 + Phosphate
+pg160161 + S-Adenosyl-L-methionine --> pg170cyc + H+
+CDP-pa180181 + Glycerol-3-phosphate --> pgp180181 + CMP + H+
+pgp180181 + H2O --> pg180181 + Phosphate
+pg180181 + S-Adenosyl-L-methionine --> pg190cyc + H+
+2.0 clpn160161 + S-Adenosyl-L-methionine --> clpn170cyc + 2.0 H+
+2.0 clpn180181 + S-Adenosyl-L-methionine --> clpn190cyc + 2.0 H+
+2.0 pg180181 --> clpn180181 + Glycerol
+2.0 pg160161 --> clpn160161 + Glycerol
+2.0 5-Aminolevulinate --> 2.0 H2O + H+ + Porphobilinogen
+H2O + 4.0 Porphobilinogen --> 4.0 NH3 + Hydroxymethylbilane
+ATP + UDP --> ADP + UTP
+ATP + UMP --> ADP + UDP
+H2O + ATP + L-Methionine --> Phosphate + PPi + S-Adenosyl-L-methionine
+H2O + S-Adenosyl-homocysteine --> Homocysteine + Adenosine
+L-Glutamate --> D-Glutamate
+ATP + GMP --> ADP + GDP
+L-Alanine --> D-Alanine
+UTP + N-Acetyl-D-glucosamine1-phosphate --> PPi + UDP-N-acetylglucosamine
+H2O + GTP --> Formate + H+ + 7,8-Dihydroneopterin 3'-triphosphate
+ATP + L-Aspartate + H+ --> ADP + 4-Phospho-L-aspartate
+H2O + ATP + L-Aspartate + L-Glutamine --> PPi + AMP + L-Glutamate + L-Asparagine
+UDP-N-acetylglucosamine + Phosphoenolpyruvate --> Phosphate + H+ + UDP-N-acetylglucosamine enolpyruvate
+L-Glutamine + D-fructose-6-phosphate --> L-Glutamate + D-Glucosamine phosphate
+NADP + Tetrahydrofolate --> NADPH + H+ + Dihydrofolate
+ATP + H+ + Glucose-1-phosphate --> PPi + ADPglucose
+Glucose-1-phosphate --> D-glucose-6-phosphate
+H+ + Orotidylic acid --> CO2 + UMP
+Glyceraldehyde3-phosphate --> Glycerone-phosphate
+ATP + ribose-5-phosphate --> AMP + PRPP
+ribose-5-phosphate --> D-Ribulose5-phosphate
+D-fructose-6-phosphate + Glyceraldehyde3-phosphate --> D-Xylulose5-phosphate + D-Erythrose4-phosphate
+H2O + L-Glutamine + PRPP --> PPi + L-Glutamate + 5-Phosphoribosylamine
+Adenylosuccinate --> AMP + Fumarate
+H2O + IMP --> FAICAR
+H2O + NAD + IMP --> NADH + H+ + XMP
+GTP + L-Aspartate + IMP --> Phosphate + GDP + 2.0 H+ + Adenylosuccinate
+ATP + 2.0 D-Alanine --> ADP + Phosphate + H+ + Ala-Ala
+NADP + 5-10-Methylenetetrahydrofolate --> NADPH + 5-10-Methenyltetrahydrofolate
+H2O + ATP + L-Glutamine + XMP --> PPi + AMP + L-Glutamate + H+ + GMP
+Chorismate --> Pyruvate + 4-Hydroxybenzoate
+L-Aspartate + Carbamoylphosphate --> Phosphate + 2.0 H+ + N-Carbamoyl-L-aspartate
+D-Ribulose5-phosphate --> D-Xylulose5-phosphate
+ATP + dAMP --> ADP + dADP
+H2O + 5-10-Methenyltetrahydrofolate --> H+ + 10-Formyltetrahydrofolate
+ATP + dCMP --> ADP + dCDP
+5-O--1-Carboxyvinyl-3-phosphoshikimate --> Phosphate + H+ + Chorismate
+L-Glutamine + Chorismate --> L-Glutamate + ADC
+H2O + Phosphoenolpyruvate + D-Erythrose4-phosphate --> Phosphate + H+ + DAHP
+PPi + Orotidylic acid --> PRPP + Orotate
+H2O + S-Dihydroorotate --> H+ + N-Carbamoyl-L-aspartate
+Isopentenyldiphosphate + Geranyldiphosphate --> PPi + Farnesyldiphosphate
+D-Glucosamine1-phosphate --> D-Glucosamine phosphate
+ATP + dGMP --> ADP + dGDP
+5-10-Methylenetetrahydrofolate + dUMP --> dTMP + Dihydrofolate
+ATP + L-Glutamate + Dihydropteroate --> ADP + Phosphate + H+ + Dihydrofolate
+5-Aminolevulinate --> L-Glutamate1-semialdehyde
+NADPH + 4-Phospho-L-aspartate --> NADP + Phosphate + L-Aspartate4-semialdehyde
+Pyruvate + L-Aspartate4-semialdehyde --> 2.0 H2O + H+ + Dihydrodipicolinate
+ATP + Shikimate --> ADP + 3-phosphoshikimate
+NADP + Shikimate --> NADPH + H+ + 3-Dehydroshikimate
+H2O + N-Succinyl-L-2,6-diaminopimelate --> Succinate + LL-2,6-Diaminopimelate
+LL-2,6-Diaminopimelate --> meso-2,6-Diaminopimelate
+ATP + D-Glutamate + UDP-N-acetylmuramoyl-L-alanine --> ADP + Phosphate + H+ + UDP-N-acetylmuramoyl-L-alanyl-D-glutamate
+ATP + meso-2,6-Diaminopimelate + UDP-N-acetylmuramoyl-L-alanyl-D-glutamate --> ADP + Phosphate + H+ + UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2-6-diaminopimelate
+ABEE + 7,8-Dihydropterin pyrophosphate --> PPi + Dihydropteroate
+DAHP --> Phosphate + H+ + 5-Dehydroquinate
+5-Dehydroquinate --> H2O + 3-Dehydroshikimate
+Hydroxymethylbilane --> H2O + UroporphyrinogenIII
+NADP + UDP-MurNAc --> NADPH + H+ + UDP-N-acetylglucosamine enolpyruvate
+ATP + L-Alanine + UDP-MurNAc --> ADP + Phosphate + H+ + UDP-N-acetylmuramoyl-L-alanine
+4.0 H+ + UroporphyrinogenIII --> 4.0 CO2 + CoproporphyrinogenIII
+O2 + 2.0 H+ + CoproporphyrinogenIII --> 2.0 H2O + 2.0 CO2 + ProtoporphyrinogenIX
+Phosphoenolpyruvate + 3-phosphoshikimate --> Phosphate + H+ + 5-O--1-Carboxyvinyl-3-phosphoshikimate
+ATP + 6-hydroxymethyl dihydropterin --> AMP + 7,8-Dihydropterin pyrophosphate
+Dihydroneopterin --> Glycolaldehyde + 6-hydroxymethyl dihydropterin
+ATP + Glycine + 5-Phosphoribosylamine --> ADP + Phosphate + H+ + GAR
+NADP + tetrahydrodipicolinate --> NADPH + H+ + Dihydrodipicolinate
+ATP + 5'-Phosphoribosylformylglycinamidine --> ADP + Phosphate + H+ + AIR
+H2O + Succinyl-CoA + tetrahydrodipicolinate --> CoA + N-Succinyl-L-2-amino-6-oxopimelate
+H2O + ATP + L-Glutamine + N-Formyl-GAR --> ADP + Phosphate + L-Glutamate + H+ + 5'-Phosphoribosylformylglycinamidine
+2-Oxoglutarate + N-Succinyl-L-2,6-diaminopimelate --> L-Glutamate + N-Succinyl-L-2-amino-6-oxopimelate
+SAICAR --> Fumarate + AICAR
+10-Formyltetrahydrofolate + AICAR --> Tetrahydrofolate + FAICAR
+ATP + L-Aspartate + 5'-Phosphoribosyl-4-carboxy-5-aminoimidazole --> ADP + Phosphate + 2.0 H+ + SAICAR
+ATP + UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2-6-diaminopimelate + Ala-Ala --> ADP + Phosphate + H+ + UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl- D-alanine
+3.0 H2O + 7,8-Dihydroneopterin 3'-triphosphate --> 3.0 Phosphate + 3.0 H+ + Dihydroneopterin
+UDP-N-acetylglucosamine + Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2-6-diaminopimeloyl-D-alanyl-D-alanine --> UDP + Undecaprenyl-diphospho-N-acetylmuramoyl--N-acetylglucosamine-L-ala-D-glu-meso-2-6-diaminopimeloyl-D-ala-D-ala
+Acetyl-CoA + D-Glucosamine1-phosphate --> CoA + H+ + N-Acetyl-D-glucosamine1-phosphate
+ADC --> Pyruvate + H+ + ABEE
+H2O + Bactoprenyl diphosphate --> Phosphate + H+ + Undecaprenylphosphate
+Undecaprenylphosphate + UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl- D-alanine --> UMP + Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2-6-diaminopimeloyl-D-alanyl-D-alanine

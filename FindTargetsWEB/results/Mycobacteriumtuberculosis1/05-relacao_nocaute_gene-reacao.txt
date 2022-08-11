@@ -1,0 +1,409 @@
+1. Gene Rv0129c inibido.
+TDM : 0.522 TREHALOSEMONOMYCOLATE_LPAREN_CY_RPAREN__c --> TREHALOSEDIMYCOLATE_c + 0.522 TRE_cMAPC : 0.008 ARABINOGALACTAN_PEPTIDOGLYCAN_c + 0.238 TREHALOSEMONOMYCOLATE_c --> MAPC_c + 0.238 TRE_c
+
+2. Gene Rv0334 inibido.
+R707 : DTTP_c + G1P_c --> DTDPGLC_c + PPI_c
+
+3. Gene Rv0414c inibido.
+R472 : MAHMPPP_c + MPET_c --> PPI_c + THIP_c
+
+4. Gene Rv0417 inibido.
+R470 : DX5P_c + TS__COSH__TYR_c --> HEMT_c + TS__PROTEIN_c
+
+5. Gene Rv0422c inibido.
+R469 : AMPMP_c + ATP_c --> ADP_c + MAHMPPP_cR468 : AHMMP_c + ATP_c --> ADP_c + AMPMP_c
+
+6. Gene Rv0423c inibido.
+R467 : AIR_c --> AHMMP_c
+
+7. Gene Rv0436c inibido.
+R589 : CDPDG_c + SER_c --> CMP_c + PS_c
+
+8. Gene Rv0437c inibido.
+PE : 1.23 PS_c --> 1.23 CO2_c + PE_c
+
+9. Gene Rv0482 inibido.
+R719 : NADPH_c + UDPNAGPEE_c --> NADP_c + UDPNAM_c
+
+10. Gene Rv0503c inibido.
+R636 : CIS__DELTA__37__ENOYL__DIMETHY__HYDROXY__C56__ACYL__ACP_c + 2.0 NADP_c + SAM_c --> 2.0 NADPH_c + SAH_c + TRANS__KETO__MEROACYL__ACP_cR635 : CIS__DELTA__37__ENOYL__DIMETHY__HYDROXY__C56__ACYL__ACP_c + 2.0 NADP_c + 2.0 SAM_c --> 2.0 NADPH_c + 2.0 SAH_c + TRANS__METHOXY__MEROACYL__ACP_cR627 : CIS__DELTA__2__19_COMMA_31__ENOYL__C50__ACYL__ACP_c + 2.0 NADP_c + 2.0 SAM_c --> CYCLOPROPYL__MEROACYL__ACP_c + 2.0 NADPH_c + 2.0 SAH_c
+
+11. Gene Rv0509 inibido.
+R429 : NADPH_c + TRNA__GLU_c --> GLU1SEMIALD_c + NADP_c
+
+12. Gene Rv0510 inibido.
+R432 : 4.0 PORPHOBILILOGIN_c --> HYDROXYMETHYLBILANE_c + 4.0 NH3_c
+
+13. Gene Rv0511 inibido.
+R440 : 2.0 SAM_c + UROPORPHYRINOGEN__III_c --> PRECORIN__2_c + 2.0 SAH_cR433 : HYDROXYMETHYLBILANE_c --> UROPORPHYRINOGEN__III_c
+
+14. Gene Rv0512 inibido.
+R431 : 2.0 5__AMINO__LEVULINATE_c --> PORPHOBILILOGIN_c
+
+15. Gene Rv0524 inibido.
+R430 : GLU1SEMIALD_c --> 5__AMINO__LEVULINATE_c
+
+16. Gene Rv0533c inibido.
+R620 : EICOSANOYL__COA_c + MALACP_c --> BETA__KETO__C22__ACYL__ACP_c + CO2_c + COA_c
+
+17. Gene Rv0534c inibido.
+R417 : DHN_c + NPP_c --> CO2_c + DMK_c + PPI_c
+
+18. Gene Rv0535 inibido.
+R332 : 5MTA_c + PI_c --> AD_c + MTR1P_c
+
+19. Gene Rv0542c inibido.
+R415 : ATP_c + COA_c + OSB_c --> AMP_c + OSBCOA_c + PPI_c
+
+20. Gene Rv0548c inibido.
+R416 : OSBCOA_c --> COA_c + DHN_c
+
+21. Gene Rv0553 inibido.
+R415 : ATP_c + COA_c + OSB_c --> AMP_c + OSBCOA_c + PPI_c
+
+22. Gene Rv0555 inibido.
+R61 : AKG_c --> CO2_c + SUCCSAL_cR413 : AKG_c + ICHOR_c --> CO2_c + PYR_c + SHCHC_c
+
+23. Gene Rv0557 inibido.
+R602 : AC1PIM1_c + GDPMAN_c --> AC1PIM2_c + GDP_c
+
+24. Gene Rv0562 inibido.
+R691 : HPPP_c + IPP_c --> HEPPP_c + PPI_c
+
+25. Gene Rv0642c inibido.
+R631 : CIS__DELTA__2__19_COMMA_37__ENOYL__C56__ACYL__ACP_c + SAM_c --> CIS__DELTA__37__ENOYL__METHY__HYDROXY__C56__ACYL__ACP_c + SAH_c
+
+26. Gene Rv0643c inibido.
+R632 : CIS__DELTA__37__ENOYL__METHY__HYDROXY__C56__ACYL__ACP_c + 2.0 NADP_c + 2.0 SAM_c --> CIS__METHOXY__MEROACYL__ACP_c + 2.0 NADPH_c + 2.0 SAH_cR635 : CIS__DELTA__37__ENOYL__DIMETHY__HYDROXY__C56__ACYL__ACP_c + 2.0 NADP_c + 2.0 SAM_c --> 2.0 NADPH_c + 2.0 SAH_c + TRANS__METHOXY__MEROACYL__ACP_cR627 : CIS__DELTA__2__19_COMMA_31__ENOYL__C50__ACYL__ACP_c + 2.0 NADP_c + 2.0 SAM_c --> CYCLOPROPYL__MEROACYL__ACP_c + 2.0 NADPH_c + 2.0 SAH_c
+
+27. Gene Rv0644c inibido.
+R632 : CIS__DELTA__37__ENOYL__METHY__HYDROXY__C56__ACYL__ACP_c + 2.0 NADP_c + 2.0 SAM_c --> CIS__METHOXY__MEROACYL__ACP_c + 2.0 NADPH_c + 2.0 SAH_cR633 : CIS__DELTA__37__ENOYL__METHY__HYDROXY__C56__ACYL__ACP_c + 2.0 NADP_c + SAM_c --> CIS__KETO__MEROACYL__ACP_c + 2.0 NADPH_c + SAH_c
+
+28. Gene Rv0645c inibido.
+R634 : CIS__DELTA__37__ENOYL__METHY__HYDROXY__C56__ACYL__ACP_c + NADP_c + SAM_c --> CIS__DELTA__37__ENOYL__DIMETHY__HYDROXY__C56__ACYL__ACP_c + NADPH_c + SAH_c
+
+29. Gene Rv0733 inibido.
+R351 : AMP_c + ATP_c --> 2.0 ADP_c
+
+30. Gene Rv0772 inibido.
+R314 : ATP_c + GLY_c + PRAM_c --> ADP_c + GAR_c + PI_c
+
+31. Gene Rv0803 inibido.
+R316 : ATP_c + FGAR_c + GLN_c --> ADP_c + FGAM_c + GLU_c + PI_c
+
+32. Gene Rv0808 inibido.
+R313 : GLN_c + PRPP_c --> GLU_c + PPI_c + PRAM_c
+
+33. Gene Rv0809 inibido.
+R317 : ATP_c + FGAM_c --> ADP_c + AIR_c + PI_c
+
+34. Gene Rv0956 inibido.
+R315 : FTHF_c + GAR_c --> FGAR_c + THF_c
+
+35. Gene Rv1011 inibido.
+R681 : ATP_c + CDPMDE_c --> 2PCDPMDE_c + ADP_c
+
+36. Gene Rv1017c inibido.
+R287 : ATP_c + R5P_c --> AMP_c + PRPP_c
+
+37. Gene Rv1018c inibido.
+R717 : NAGA1P_c + UTP_c --> PPI_c + UDPNAG_c
+
+38. Gene Rv1086 inibido.
+R687 : GPP_c + IPP_c --> FPP_c + PPI_c
+
+39. Gene Rv1092c inibido.
+R393 : ATP_c + PNTO_c --> 4PPNTO_c + ADP_c
+
+40. Gene Rv1315 inibido.
+R718 : PEP_c + UDPNAG_c --> UDPNAGPEE_c
+
+41. Gene Rv1389 inibido.
+R327 : ATP_c + DGMP_c --> ADP_c + DGDP_cR328 : DATP_c + GMP_c --> DADP_c + GDP_cR357 : ATP_c + GMP_c --> ADP_c + GDP_c
+
+42. Gene Rv1391 inibido.
+R395 : 4PPNCYS_c --> 4PPNTE_c + CO2_cR394 : 4PPNTO_c + CTP_c + CYS_c --> 4PPNCYS_c + CMP_c + PPI_c
+
+43. Gene Rv1392 inibido.
+R259 : ATP_c + MET_c --> PI_c + PPI_c + SAM_c
+
+44. Gene Rv1412 inibido.
+R387 : 2.0 D8RL_c --> A6RP_c + RIBFLAV_c
+
+45. Gene Rv1416 inibido.
+R386 : A6RP_c + DB4P_c --> D8RL_c + PI_c
+
+46. Gene Rv1449c inibido.
+R96 : F6P_c + G3P_c + 0.001 THI_c --> E4P_c + X5P_cR94 : G3P_c + S7P_c + 0.001 THI_c --> R5P_c + X5P_cR93 : R5P_c + 0.001 THI_c + X5P_c --> G3P_c + S7P_cR95 : E4P_c + 0.001 THI_c + X5P_c --> F6P_c + G3P_c
+
+47. Gene Rv1484 inibido.
+R630 : CIS__DELTA__2__3_COMMA_21__ENOYL__C40__ACYL__ACP_c + 8.0 MALACP_c + 16.0 NADPH_c --> 8.0 ACP_c + CIS__DELTA__2__19_COMMA_37__ENOYL__C56__ACYL__ACP_c + 8.0 CO2_c + 16.0 NADP_cR624 : CIS__DELTA__3__ENOYL__C22__ACYL__ACP_c + 5.0 MALACP_c + 10.0 NADPH_c --> 5.0 ACP_c + CIS__DELTA__13__ENOYL__C32__ACYL__ACP_c + 5.0 CO2_c + 10.0 NADP_cR628 : CIS__DELTA__3__ENOYL__C22__ACYL__ACP_c + 8.0 MALACP_c + 16.0 NADPH_c --> 8.0 ACP_c + CIS__DELTA__19__ENOYL__C38__ACYL__ACP_c + 8.0 CO2_c + 16.0 NADP_cR626 : CIS__DELTA__2__3_COMMA_15__ENOYL__C34__ACYL__ACP_c + 8.0 MALACP_c + 16.0 NADPH_c --> 8.0 ACP_c + CIS__DELTA__2__19_COMMA_31__ENOYL__C50__ACYL__ACP_c + 8.0 CO2_c + 16.0 NADP_c
+
+48. Gene Rv1485 inibido.
+R438 : FE2_c + PROTOPORPHYRIN__IX_c --> PROTOHEME__FE2_c
+
+49. Gene Rv1500 inibido.
+R613 : AC4PIM5_c + PPM_c --> AC4PIM6_c + DPP_c
+
+50. Gene Rv1622c inibido.
+R126 : 2.0 HEME__FE2_c + 0.5 O2_c --> 2.0 HEME__FE3_c + 6.0 H_cR127 : 2.0 HEME__FE2_c + 0.5 O2_c --> 2.0 HEME__FE3_c + 2.0 H_cR125 : 2.0 HEME__FE3_c + MKH2_c --> 2.0 HEME__FE2_c + MK_c
+
+51. Gene Rv1623c inibido.
+R126 : 2.0 HEME__FE2_c + 0.5 O2_c --> 2.0 HEME__FE3_c + 6.0 H_cR127 : 2.0 HEME__FE2_c + 0.5 O2_c --> 2.0 HEME__FE3_c + 2.0 H_cR125 : 2.0 HEME__FE3_c + MKH2_c --> 2.0 HEME__FE2_c + MK_c
+
+52. Gene Rv1631 inibido.
+R397 : ATP_c + DPCOA_c --> ADP_c + COA_c
+
+53. Gene Rv1695 inibido.
+R377 : ATP_c + NAD_c --> ADP_c + NADP_c
+
+54. Gene Rv1699 inibido.
+R296 : ATP_c + NH3_c + UTP_c --> ADP_c + CTP_c + PI_cR295 : ATP_c + GLN_c + UTP_c --> ADP_c + CTP_c + GLU_c + PI_c
+
+55. Gene Rv1712 inibido.
+R293 : ATP_c + UMP_c --> ADP_c + UDP_cR309 : ATP_c + DCMP_c --> ADP_c + DCDP_cR307 : ATP_c + CMP_c --> ADP_c + CDP_c
+
+56. Gene Rv1745c inibido.
+R685 : IPP_c --> DMPP_c
+
+57. Gene Rv1886c inibido.
+TDM : 0.522 TREHALOSEMONOMYCOLATE_LPAREN_CY_RPAREN__c --> TREHALOSEDIMYCOLATE_c + 0.522 TRE_cMAPC : 0.008 ARABINOGALACTAN_PEPTIDOGLYCAN_c + 0.238 TREHALOSEMONOMYCOLATE_c --> MAPC_c + 0.238 TRE_c
+
+58. Gene Rv1940 inibido.
+R381 : GTP_c --> D6RP5P_c + FOR_c + PPI_cR385 : RL5P_c --> DB4P_c + FOR_c
+
+59. Gene Rv2051c inibido.
+R14 : DPP_c + GDPMAN_c --> GDP_c + PPM_c
+
+60. Gene Rv2152c inibido.
+R723 : ALA_c + ATP_c + 0.3 UDPNAM_c + 0.7 UDPNGM_c --> ADP_c + PI_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTALA_c
+
+61. Gene Rv2153c inibido.
+R728 : LIPID1_c + UDPNAG_c --> LIPID2_c + UDP_c
+
+62. Gene Rv2155c inibido.
+R724 : ATP_c + DGLU_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTALA_c --> ADP_c + PI_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTALAGLU_c
+
+63. Gene Rv2156c inibido.
+R727 : DPP_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTAGMDAPIMAA_c --> LIPID1_c + UMP_c
+
+64. Gene Rv2157c inibido.
+R726 : ALAALA_c + ATP_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTAGMDAPIM_c --> ADP_c + PI_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTAGMDAPIMAA_c
+
+65. Gene Rv2158c inibido.
+R725 : ATP_c + MDAPIM_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTALAGLU_c --> ADP_c + PI_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTAGMDAPIM_c
+
+66. Gene Rv2178c inibido.
+R270 : E4P_c + PEP_c --> 3DDAH7P_c + PI_c
+
+67. Gene Rv2217 inibido.
+R427b : OCTANOYL__ACP_c --> ACP_c + APO__LIPO_c
+
+68. Gene Rv2218 inibido.
+R427c : APO__LIPO_c + 2.0 H2S_c + 2.0 SAM_c --> 2.0 DA_c + LIPO_c + 2.0 MET_c
+
+69. Gene Rv2220 inibido.
+P__L__GLX : 3.4 GLN_c + 3.4 GLU_c --> P__L__GLX_cR196 : ATP_c + GLU_c + NH3_c --> ADP_c + GLN_c + PI_c
+
+70. Gene Rv2225 inibido.
+R390 : METTHF_c + OMVAL_c --> AKP_c + THF_c
+
+71. Gene Rv2244 inibido.
+R510 : COA_c + TETRADECANOYL__ACP_c --> ACP_c + TETRADECANOYL__COA_cR514 : 9__OCTADECENOYL__ACP_c + COA_c --> 9__OCTADECENOYL__COA_c + ACP_cR511 : COA_c + HEXADECANOYL__ACP_c --> ACP_c + HEXADECANOYL__COA_cR520 : COA_c + NONADECANOYL__ACP_c --> ACP_c + NONADECANOYL__COA_cR517 : COA_c + TETRACOSANOYL__ACP_c --> ACP_c + TETRACOSANOYL__COA_cR533 : ACP_c + PROPIONYLCOA_c --> COA_c + PROPIONYLACP_cR512 : 9__HEXADECENOYL__ACP_c + COA_c --> 9__HEXADECENOYL__COA_c + ACP_cR509 : COA_c + HEXANOYL__ACP_c --> ACP_c + HEXANOYL__COA_cR518 : COA_c + HEXACOSANOYL__ACP_c --> ACP_c + HEXACOSANOYL__COA_cR515 : COA_c + EICOSANOYL__ACP_c --> ACP_c + EICOSANOYL__COA_cR521 : COA_c + HEPTADECANOYL__ACP_c --> ACP_c + HEPTADECANOYL__COA_cR496 : ACCOA_c + ACP_c --> ACACP_c + COA_cR618 : ACP_c + MALCOA_c --> COA_c + MALACP_cR516 : COA_c + DOCOSANOYL__ACP_c --> ACP_c + DOCOSANOYL__COA_cR513 : COA_c + OCTADECANOYL__ACP_c --> ACP_c + OCTADECANOYL__COA_cR522 : COA_c + PENTADECANOYL__ACP_c --> ACP_c + PENTADECANOYL__COA_cR519 : COA_c + OCTACOSANOYL__ACP_c --> ACP_c + OCTACOSANOYL__COA_cR619 : ACP_c + SMMALONYLCOA_c --> COA_c + RMMALONYLACP_c
+
+72. Gene Rv2421c inibido.
+R368 : ATP_c + NACN_c --> NAAD_c + PPI_cR375 : ATP_c + NAMN_c --> NAD_c + PPI_c
+
+73. Gene Rv2445c inibido.
+R294 : ATP_c + UDP_c --> ADP_c + UTP_cR361 : ATP_c + DGDP_c --> ADP_c + DGTP_cR306 : ATP_c + CDP_c --> ADP_c + CTP_cR354 : ATP_c + DADP_c --> ADP_c + DATP_cR358 : ATP_c + GDP_c --> ADP_c + GTP_cR329 : ATP_c + DUDP_c --> ADP_c + DUTP_cR299 : ATP_c + DCDP_c --> ADP_c + DCTP_cR305 : ATP_c + DTDP_c --> ADP_c + DTTP_c
+
+74. Gene Rv2482c inibido.
+R594 : GL3P_c + HEXADECANOYL__ACP_c --> A160GL3P_c + ACP_cR583 : 0.1 9__HEXADECENOYL__COA_c + 0.1 9__OCTADECENOYL__COA_c + 0.1 EICOSANOYL__COA_c + GL3P_c + 0.1 HEXACOSANOYL__COA_c + 0.2 HEXADECANOYL__COA_c + 0.1 NONADECANOYL__COA_c + 0.1 OCTADECANOYL__COA_c + 0.1 PENTADECANOYL__COA_c + 0.1 TETRACOSANOYL__COA_c --> AGL3P_c + COA_c
+
+75. Gene Rv2523c inibido.
+R398 : COA_c --> ACP_cR486 : 2.0 COA_c --> MBT__HOLO_c
+
+76. Gene Rv2524c inibido.
+R500 : ACACP_c + 7.0 MALACP_c + 13.0 NADPH_c --> 9__HEXADECENOYL__ACP_c + 7.0 ACP_c + 7.0 CO2_c + 13.0 NADP_cR534 : 6.0 MALACP_c + 12.0 NADPH_c + PROPIONYLACP_c --> 6.0 ACP_c + 6.0 CO2_c + 12.0 NADP_c + PENTADECANOYL__ACP_cR502 : ACACP_c + 8.0 MALACP_c + 15.0 NADPH_c --> 9__OCTADECENOYL__ACP_c + 8.0 ACP_c + 8.0 CO2_c + 15.0 NADP_cR497 : ACACP_c + 2.0 MALACP_c + 4.0 NADPH_c --> 2.0 ACP_c + 2.0 CO2_c + HEXANOYL__ACP_c + 4.0 NADP_cR536 : HEPTADECANOYL__ACP_c + MALACP_c + 2.0 NADPH_c --> ACP_c + CO2_c + 2.0 NADP_c + NONADECANOYL__ACP_cR504 : ACACP_c + 10.0 MALACP_c + 20.0 NADPH_c --> 10.0 ACP_c + 10.0 CO2_c + DOCOSANOYL__ACP_c + 20.0 NADP_cR497b : ACACP_c + 4.0 MALACP_c + 8.0 NADPH_c --> 4.0 ACP_c + 4.0 CO2_c + 8.0 NADP_c + OCTANOYL__ACP_cR506 : ACACP_c + 12.0 MALACP_c + 24.0 NADPH_c --> 12.0 ACP_c + 12.0 CO2_c + HEXACOSANOYL__ACP_c + 24.0 NADP_cR499 : ACACP_c + 7.0 MALACP_c + 14.0 NADPH_c --> 7.0 ACP_c + 7.0 CO2_c + HEXADECANOYL__ACP_c + 14.0 NADP_cR501 : ACACP_c + 8.0 MALACP_c + 16.0 NADPH_c --> 8.0 ACP_c + 8.0 CO2_c + 16.0 NADP_c + OCTADECANOYL__ACP_cR535 : MALACP_c + 2.0 NADPH_c + PENTADECANOYL__ACP_c --> ACP_c + CO2_c + HEPTADECANOYL__ACP_c + 2.0 NADP_cR503 : ACACP_c + 9.0 MALACP_c + 18.0 NADPH_c --> 9.0 ACP_c + 9.0 CO2_c + EICOSANOYL__ACP_c + 18.0 NADP_cR505 : ACACP_c + 11.0 MALACP_c + 22.0 NADPH_c --> 11.0 ACP_c + 11.0 CO2_c + 22.0 NADP_c + TETRACOSANOYL__ACP_cR498 : ACACP_c + 6.0 MALACP_c + 12.0 NADPH_c --> 6.0 ACP_c + 6.0 CO2_c + 12.0 NADP_c + TETRADECANOYL__ACP_cR507 : ACACP_c + 13.0 MALACP_c + 26.0 NADPH_c --> 13.0 ACP_c + 13.0 CO2_c + 26.0 NADP_c + OCTACOSANOYL__ACP_c
+
+77. Gene Rv2531c inibido.
+R146 : ORN_c --> CO2_c + PTRSC_cR182 : LYS_c --> CADA_c + CO2_c
+
+78. Gene Rv2537c inibido.
+R272 : DQT_c --> DHSK_c
+
+79. Gene Rv2538c inibido.
+R271 : 3DDAH7P_c --> DQT_c + PI_c
+
+80. Gene Rv2539c inibido.
+R274 : ATP_c + SME_c --> ADP_c + SME3P_c
+
+81. Gene Rv2540c inibido.
+R276 : 3PSME_c --> CHOR_c + PI_c
+
+82. Gene Rv2552c inibido.
+R273 : DHSK_c + NADPH_c --> NADP_c + SME_c
+
+83. Gene Rv2573 inibido.
+R391 : AKP_c + NADPH_c --> NADP_c + PANT_c
+
+84. Gene Rv2601 inibido.
+R147 : PTRSC_c + SAM_c --> 5MTA_c + SPRMD_c
+
+85. Gene Rv2610c inibido.
+R598 : GDPMAN_c + PI__TBA_c --> AC1PIM1_c + GDP_c
+
+86. Gene Rv2611c inibido.
+R612 : AC3PIM5_c + HEXADECANOYL__ACP_c --> AC4PIM5_c + ACP_cR605 : AC3PIM2_c + HEXADECANOYL__ACP_c --> AC4PIM2_c + ACP_cR600 : AC2PIM1_c + HEXADECANOYL__ACP_c --> AC3PIM1_c + ACP_cR607 : AC1PIM3_c + HEXADECANOYL__ACP_c --> AC2PIM3_c + ACP_cR609 : AC3PIM3_c + HEXADECANOYL__ACP_c --> AC4PIM3_c + ACP_cR604 : AC2PIM2_c + HEXADECANOYL__ACP_c --> AC3PIM2_c + ACP_cR599 : AC1PIM1_c + HEXADECANOYL__ACP_c --> AC2PIM1_c + ACP_cR601 : AC3PIM1_c + HEXADECANOYL__ACP_c --> AC4PIM1_c + ACP_cR608 : AC2PIM3_c + HEXADECANOYL__ACP_c --> AC3PIM3_c + ACP_cR603 : AC1PIM2_c + HEXADECANOYL__ACP_c --> AC2PIM2_c + ACP_c
+
+87. Gene Rv2612c inibido.
+R597 : CDPDAG__TBA_c + MI_c --> CMP_c + PI__TBA_cR22 : bDG6P_c <=> IP_c
+
+88. Gene Rv2678c inibido.
+R434 : UROPORPHYRINOGEN__III_c --> 4.0 CO2_c + COPROPORPHYRINOGEN__III_c
+
+89. Gene Rv2697c inibido.
+R301 : DUTP_c --> DUMP_c + PPI_c
+
+90. Gene Rv2701c inibido.
+R23 : IP_c --> MI_c + PI_c
+
+91. Gene Rv2726c inibido.
+R237 : DAPIM_c --> MDAPIM_c
+
+92. Gene Rv2786c inibido.
+R389 : ATP_c + FMN_c --> FAD_c + PPI_cR388 : ATP_c + RIBFLAV_c --> ADP_c + FMN_c
+
+93. Gene Rv2868c inibido.
+R683 : MDECPP_c + NADH_c --> HMB4PP_c + NAD_c
+
+94. Gene Rv2870c inibido.
+R679 : DX5P_c + NADPH_c --> MDE4P_c + NADP_c
+
+95. Gene Rv2881c inibido.
+R596 : CTP_c + PA__TBA_c --> CDPDAG__TBA_c + PPI_cR588 : CTP_c + PA_c --> CDPDG_c + PPI_c
+
+96. Gene Rv2900c inibido.
+R32 : FOR_c + NAD_c --> CO2_c + NADH_c
+
+97. Gene Rv2940c inibido.
+R646 : HEXADECANOYL__COA_c + MAS_c --> COA_c + HEXADECANOYL__MAS_cR645 : ACYL__MAS_c + 8.0 NADPH_c + 4.0 SMMALONYLCOA_c --> 4.0 CO2_c + 4.0 COA_c + MYCOCEROSOYL__MAS_c + 8.0 NADP_cR649 : HEXADECANOYL__ACP_c + 2.0 NADPH_c + SMMALONYLCOA_c --> CO2_c + COA_c + 2.0 NADP_c + TUBERCULOSTEROYL__ACP_c
+
+98. Gene Rv2965c inibido.
+R396 : 4PPNTE_c + ATP_c --> DPCOA_c + PPI_c
+
+99. Gene Rv2981c inibido.
+R699 : ATP_c + 2.0 DALA_c --> ADP_c + ALAALA_c + PI_c
+
+100. Gene Rv2992c inibido.
+R428 : ATP_c + GLU_c --> AMP_c + PPI_c + TRNA__GLU_c
+
+101. Gene Rv3048c inibido.
+R352 : ADP_c + O2_c + RTHIO_c --> DADP_c + OTHIO_cR330 : O2_c + RTHIO_c + UDP_c --> DUDP_c + OTHIO_cR297 : CDP_c + O2_c + RTHIO_c --> DCDP_c + OTHIO_cR359 : GDP_c + O2_c + RTHIO_c --> DGDP_c + OTHIO_c
+
+102. Gene Rv3051c inibido.
+R352 : ADP_c + O2_c + RTHIO_c --> DADP_c + OTHIO_cR330 : O2_c + RTHIO_c + UDP_c --> DUDP_c + OTHIO_cR297 : CDP_c + O2_c + RTHIO_c --> DCDP_c + OTHIO_cR359 : GDP_c + O2_c + RTHIO_c --> DGDP_c + OTHIO_c
+
+103. Gene Rv3068c inibido.
+R38 : G6P_c --> G1P_cR92 : R1P_c --> R5P_cR715 : GA1P_c --> GA6P_cR338b : DR1P_c --> R5P_c
+
+104. Gene Rv3106 inibido.
+R133 : 2.0 FERO_c + NADP_c <=> 2.0 FERI_c + NADPH_cR124 : FE3_c + NADPH_c --> FE2_c + NADP_c
+
+105. Gene Rv3227 inibido.
+R275 : PEP_c + SME3P_c --> 3PSME_c + PI_c
+
+106. Gene Rv3247c inibido.
+R304 : ATP_c + DTMP_c --> ADP_c + DTDP_c
+
+107. Gene Rv3248c inibido.
+R260 : SAH_c --> ADN_c + HCYS_c
+
+108. Gene Rv3260c inibido.
+R710 : DTDP4DH6DMAN_c + NADPH_c --> DTDPRHAM_c + NADP_c
+
+109. Gene Rv3264c inibido.
+R13 : GTP_c + MAN1P_c --> GDPMAN_c + PI_c
+
+110. Gene Rv3279c inibido.
+R426 : ATP_c + BIOTIN_c --> AMP_c + BIOTIN__BCCP_c + PPI_c
+
+111. Gene Rv3280 inibido.
+R80 : SMMALONYLCOA_c --> CO2_c + PROPIONYLCOA_cR508 : BIOTIN__CO2_c + HEXACOSANOYL__COA_c --> BIOTIN_c + HEXACOSANOYL__COA__CO2_cR495 : ACCOA_c + BIOTIN__CO2_c --> 0.999 BIOTIN_c + MALCOA_cR163 : 3MBECOA_c + BIOTIN__CO2_c --> 0.999 BIOTIN_c + MGLUTCOA_cR156 : BIOTIN__CO2_c + PROPIONYLCOA_c --> 0.999 BIOTIN_c + SMMALONYLCOA_c
+
+112. Gene Rv3285 inibido.
+R508 : BIOTIN__CO2_c + HEXACOSANOYL__COA_c --> BIOTIN_c + HEXACOSANOYL__COA__CO2_cR427 : ATP_c + BIOTIN__BCCP_c + HCO3_c --> ADP_c + BIOTIN__CO2_c + PI_c
+
+113. Gene Rv3307 inibido.
+R371 : NAC_c + R1P_c --> NACD_c + PI_cR340 : AD_c + R1P_c --> ADN_c + PI_cR372 : NAM_c + R1P_c --> NAMD_c + PI_cR339 : HYXN_c + R1P_c --> INS_c + PI_cR342 : R1P_c + XAN_c --> PI_c + XTSINE_cR338 : DA_c + PI_c --> AD_c + DR1P_cR341 : GN_c + R1P_c --> GSN_c + PI_cR337 : DIN_c + PI_c --> DR1P_c + HYXN_c
+
+114. Gene Rv3356c inibido.
+R107 : METHF_c --> FTHF_cR106 : METTHF_c + NADP_c --> METHF_c + NADPH_c
+
+115. Gene Rv3398c inibido.
+R688 : FPP_c + IPP_c --> GGPP_c + PPI_cR686 : DMPP_c + IPP_c --> GPP_c + PPI_cR689 : GGPP_c + IPP_c --> PPI_c + PPPP_c
+
+116. Gene Rv3465 inibido.
+R709 : DTDP4DH6DGLC_c --> DTDP4DH6DMAN_c
+
+117. Gene Rv3581c inibido.
+R682 : 2PCDPMDE_c --> CMP_c + MDECPP_c
+
+118. Gene Rv3582c inibido.
+R680 : CTP_c + MDE4P_c --> CDPMDE_c + PPI_c
+
+119. Gene Rv3601c inibido.
+R176 : ASP_c --> CO2_c + bALA_c
+
+120. Gene Rv3602c inibido.
+R392 : ATP_c + PANT_c + bALA_c --> AMP_c + PNTO_c + PPI_c
+
+121. Gene Rv3628 inibido.
+R131 : PPI_c --> H_c + 2.0 PI_cR130 : PPI_c --> 2.0 PI_c
+
+122. Gene Rv3790 inibido.
+R697 : DPPR_c --> ARAFDPP_c
+
+123. Gene Rv3791 inibido.
+R697 : DPPR_c --> ARAFDPP_c
+
+124. Gene Rv3792 inibido.
+R705 : ARAFDPP_c + GALACTANDPP_c --> ARA_LSQBKT1_RSQBKTGALACTANDPP_c + DPP_c
+
+125. Gene Rv3793 inibido.
+LAM : 4.5 ARAFDPP_c + 0.064 LM_c --> 4.5 DPP_c + LAM_c
+
+126. Gene Rv3799c inibido.
+R508 : BIOTIN__CO2_c + HEXACOSANOYL__COA_c --> BIOTIN_c + HEXACOSANOYL__COA__CO2_cR163 : 3MBECOA_c + BIOTIN__CO2_c --> 0.999 BIOTIN_c + MGLUTCOA_cR156 : BIOTIN__CO2_c + PROPIONYLCOA_c --> 0.999 BIOTIN_c + SMMALONYLCOA_cR495 : ACCOA_c + BIOTIN__CO2_c --> 0.999 BIOTIN_c + MALCOA_c
+
+127. Gene Rv3800c inibido.
+R638 : HEXACOSANOYL__COA__CO2_c + MEROACYL__AMP_c --> AMP_c + C78__3__OXY__MYCOLATE__ENZ_c + CO2_c + COA_c
+
+128. Gene Rv3801c inibido.
+R550 : ATP_c + COA_c + HEPTADECANOATE_c --> AMP_c + HEPTADECANOYL__COA_c + PPI_cR541 : ATP_c + COA_c + HEXADECANOATE_c --> AMP_c + HEXADECANOYL__COA_c + PPI_cR546 : ATP_c + COA_c + DOCOSANOATE_c --> AMP_c + DOCOSANOYL__COA_c + PPI_cR547 : ATP_c + COA_c + TETRACOSANOATE_c --> AMP_c + PPI_c + TETRACOSANOYL__COA_cR637 : ATP_c + 0.05 CIS__KETO__MEROACYL__ACP_c + 0.05 CIS__METHOXY__MEROACYL__ACP_c + 0.8 CYCLOPROPYL__MEROACYL__ACP_c + 0.05 TRANS__KETO__MEROACYL__ACP_c + 0.05 TRANS__METHOXY__MEROACYL__ACP_c --> ACP_c + MEROACYL__AMP_c + PI_cR548 : ATP_c + COA_c + HEXACOSANOATE_c --> AMP_c + HEXACOSANOYL__COA_c + PPI_cR539 : ATP_c + COA_c + DODECANOATE_c --> AMP_c + DODECANOYL__COA_c + PPI_cR542 : 9__HEXADECENOATE_c + ATP_c + COA_c --> 9__HEXADECENOYL__COA_c + AMP_c + PPI_cR544 : 9__OCTADECENOATE_c + ATP_c + COA_c --> 9__OCTADECENOYL__COA_c + AMP_c + PPI_cR551 : ATP_c + COA_c + NONADECANOATE_c --> AMP_c + NONADECANOYL__COA_c + PPI_cR543 : ATP_c + COA_c + OCTADECANOATE_c --> AMP_c + OCTADECANOYL__COA_c + PPI_cR545 : ATP_c + COA_c + EICOSANOATE_c --> AMP_c + EICOSANOYL__COA_c + PPI_cR549 : ATP_c + COA_c + PENTADECANOATE_c --> AMP_c + PENTADECANOYL__COA_c + PPI_cR537 : ATP_c + COA_c + HEXANOATE_c --> AMP_c + HEXANOYL__COA_c + PPI_cR538 : ATP_c + COA_c + DECANOATE_c --> AMP_c + DECANOYL__COA_c + PPI_cR540 : ATP_c + COA_c + TETRADECANOATE_c --> AMP_c + PPI_c + TETRADECANOYL__COA_c
+
+129. Gene Rv3802c inibido.
+R640 : C78MYCOLATE__ENZ_c + PPM_c --> C78MYCOLATE__PP_c
+
+130. Gene Rv3804c inibido.
+TDM : 0.522 TREHALOSEMONOMYCOLATE_LPAREN_CY_RPAREN__c --> TREHALOSEDIMYCOLATE_c + 0.522 TRE_cMAPC : 0.008 ARABINOGALACTAN_PEPTIDOGLYCAN_c + 0.238 TREHALOSEMONOMYCOLATE_c --> MAPC_c + 0.238 TRE_c
+
+131. Gene Rv3806c inibido.
+R695 : DPP_c + PRPP_c --> DPPPR_c + PPI_c
+
+132. Gene Rv3808c inibido.
+R702 : RHAMNAGDPP_c + 30.0 UDPGALF_c --> GALACTANDPP_c + 30.0 UDP_c
+
+133. Gene Rv3809c inibido.
+R711 : UDPGAL_c --> UDPGALF_c
+
+134. Gene Rv3818 inibido.
+R722 : NADPH_c + UDPNAM_c --> NADP_c + UDPNGM_c
+
+135. Gene Rv3913 inibido.
+R310 : NADPH_c + OTHIO_c --> NAD_c + RTHIO_c
+
+136. Gene orphan inibido.
+R192 : HOMOGEN_c + O2_c --> MACAC_cR861 : GABA_e + H_c --> GABA_cR193 : MACAC_c --> FUACAC_cR920 :  --> DODECANOATE_cR606 : AC1PIM2_c + GDPMAN_c --> AC1PIM3_c + GDP_cR343 : XTSINE_c --> RIB_c + XAN_cR194 : FUACAC_c --> ACTAC_c + FUM_cR921 :  --> TAGcat_cR465 : TYR_c --> TS__COSH__TYR_cR466 : TS__PROTEIN_c --> TS__COSH__TYR_cR922 :  --> PHOSPHATIDYLCHOLINE_cR729 : ATP_c + LIPID2_c + NH3_c --> ADP_c + LIPID2__AMIDATED_c + PI_cR384 : A6RP5P2_c --> A6RP_c + PI_cR923 : ATP_c + 0.001 MBTSEC_c + 0.001 MBTWALL_c --> ADP_c + FE3_c + PI_cR179 : 2A3KB_c --> AMINOACETONE_c + CO2_cR492 : MBTA__SAL_c + MBTB__SER_c + MBTCD__HBA_c + MBTE__LYS_c + MBTF__LYS_c --> 5.0 MBT__HOLO_c + MBT_cR346 : DGTP_c --> DGMP_c + PPI_cR456 : ADENOSYLCOBINIMIDE__P_c + GTP_c --> ADENOSYLCOBINAMIDE__GDP_c + PPI_cR730 : LIPID2__AMIDATED_c --> DPP_c + PEPTIDOGLYCAN_cR610 : AC3PIM3_c + PPM_c --> AC3PIM4_c + DPP_cR731 : ARABINOGALACTANDPP_c + 30.0 PEPTIDOGLYCAN_c --> ARABINOGALACTAN_PEPTIDOGLYCAN_c + DPP_cR493 : 2.0 ACCOA_c + MBT_c + 2.0 NADPH_c --> 2.0 COA_c + MBTSEC_c + 2.0 NADP_cR924 :  --> CIT_c + FE3_cR308 : DCTP_c --> DCMP_c + PPI_cR611 : AC3PIM4_c + PPM_c --> AC3PIM5_c + DPP_cR639 : C78__3__OXY__MYCOLATE__ENZ_c + NADPH_c --> C78MYCOLATE__ENZ_cR374 : ATP_c + NAMD_c --> ADP_c + NAMN_cPROT : 1.324 ALA_c + 0.696 ARG_c + 0.213 ASN_c + 0.537 ASP_c + 40.74 ATP_c + 0.094 CYS_c + 0.283 GLN_c + 0.429 GLU_c + 0.958 GLY_c + 0.208 HIS_c + 0.389 ILE_c + 0.899 LEU_c + 0.192 LYS_c + 0.173 MET_c + 0.26 PHE_c + 0.56 PRO_c + 0.541 SER_c + 0.556 THR_c + 0.132 TRP_c + 0.187 TYR_c + 0.832 VAL_c --> PROTEIN_cR925 :  --> BIOTIN_cR445 : PRECORIN__5_c + SAM_c --> AC_c + PRECORIN__6X_c + SAH_cR458 : COB__II_c + NADH_c --> COB__I_c + NAD_cR926 :  --> CO__II_cR140 : AKG_c + HYDROXYGLU_c --> GLU_c + HYDROXYAKG_cR494 : 9.0 ACCOA_c + MBT_c + 18.0 NADPH_c --> 9.0 COA_c + MBTWALL_c + 18.0 NADP_cR336 : PRPP_c + XAN_c --> PPI_c + XMP_cR927 :  --> MO2_cR459 : COB__III_c + NADH_c --> COB__II_c + NAD_cDNA : 4.44 ATP_c + 0.557 DATP_c + 1.061 DCTP_c + 1.061 DGTP_c + 0.557 DTTP_c --> 4.44 ADP_c + DNA_c + 4.44 PI_c + 3.24 PPI_cR471 : ATP_c + HEMT_c --> ADP_c + MPET_cR223 : OICAP_c --> CO2_c + MOP_cR484 : ELECTROPHILE__X_c + MYCOTHIOL_c --> H2X_c + MYCOTHIOL__S__CONJUGATE_cSM_MOL : 0.012 ACP_c + 0.163 COA_c + 0.159 FAD_c + 0.001 FE2_c + 0.001 FE3_c + 0.001 FERI_c + 0.001 FERO_c + 0.274 FMN_c + 0.01 HEME__FE2_c + 0.01 HEME__FE3_c + 0.012 LIPO_c + 0.163 MAS_c + 0.012 MBT__HOLO_c + 0.146 MK_c + 0.01 MTR1P_c + 0.168 NADP_c + 0.188 NAD_c + 0.01 SPRMD_c --> SMALLMOLECULES_cR928 : BSA_c --> R614 : AC4PIM6_c + PPM_c --> AC4PIM7_c + DPP_cTAG : 0.11 9__HEXADECENOYL__COA_c + 0.11 9__OCTADECENOYL__COA_c + 1.16 DAG_c + 0.11 EICOSANOYL__COA_c + 0.11 HEXACOSANOYL__COA_c + 0.22 HEXADECANOYL__COA_c + 0.11 NONADECANOYL__COA_c + 0.11 OCTADECANOYL__COA_c + 0.11 PENTADECANOYL__COA_c + 0.11 TETRACOSANOYL__COA_c --> 1.1 COA_c + 1.1 PI_c + TAGbio_cR104 : GLAL_c + NAD_c --> GLYCOLATE_c + NADH_cPIMS : 0.082 AC2PIM1_c + 0.082 AC2PIM2_c + 0.082 AC3PIM5_c + 0.082 AC4PIM6_c + 0.082 AC4PIM7_c --> PIMS_cR929 :  --> ELECTROPHILE__X_cR643 : COA_c --> MAS_cR485 : ICHOR_c --> PYR_c + SAL_cR930 :  --> H2X_cR201 : GLUGSAL_c --> P5C_cR473 : THIP_c --> PI_c + THI_cR669 : 0.333 EICOSANOYL__COA_c + 0.333 HEXADECANOYL__COA_c + 0.333 OCTADECANOYL__COA_c + TRE__S_c --> ACYL__TRE__S__COA_cRNA : 1.98 ATP_c + 0.708 CTP_c + 1.13 GTP_c + 0.641 UTP_c --> 1.25 ADP_c + 1.25 PI_c + 3.21 PPI_c + RNA_cR378 : NADP_c --> NAD_c + PI_cR670 : ACYL__TRE__S__COA_c + HYDROXYPHTHIOCERANOYL__COA_c --> 2.0 COA_c + SL1278__CYTO_cR30 : MLT_c --> TRE_cR474 : THI_c --> AHMMP_c + HEMT_cR931 :  --> N__ACETYL__S__CONJUGATE_cR617 : ATP_c + PENTA__METHYL__TRICONTANOYL__COA_c --> ADP_c + PHOSPHO__PENTA__METHYL__TRICONTANOYL__COA_cR904 : SUCC_c --> CIT_cR239 : HSER_c + SUCCOA_c --> COA_c + OSLHSER_cR450 : ATP_c + CO__II_c + HYDROGENOBYRINATE__A__C__DIAMIDE_c --> ADP_c + COB__II__RINICACID__A__C__DIAMIDE_c + PI_cR475 : GTP_c + LLAC_c --> 2__PHOSPHO__L__LACTATE_c + GDP_cR593 : PGP_c --> PG_c + PI_cR451 : COB__II__RINICACID__A__C__DIAMIDE_c + NADH_c --> COB__I__RINICACID__A__C__DIAMIDE_c + NAD_cR108 : FADH2_c + METTHF_c --> FAD_c + MTHF_cR476 : 2__PHOSPHO__L__LACTATE_c + GTP_c --> LPPG_c + PPI_cR571 : PA_c --> DAG_c + PI_cR9 : FRU_c --> GLC_cR180 : AMINOACETONE_c + NADH_c --> 1__AMINO__PROPAN__2__OL_c + NAD_cR824 : ATP_c --> ADP_c + PI_c + SUC_cR847 : AKG_e + H_c --> AKG_cR876 : H_c + LLAC_e --> LLAC_cR890 : SUCC_c --> H_c + SUCC_eR905 : SUCC_c --> FUM_cR810 :  --> AN_cR862 : GLAC_e + H_c --> GLAC_cR571b : 1.16 TAGcat_c --> TAGbio_cR840 : ATP_c --> ADP_c + PI_c + RIB_cR10 : FRU_c --> MAN_cR418 : DMK_c + SAM_c --> MKH2_c + SAH_cR825 : ATP_c --> ADP_c + CELB_c + PI_cR848 : ASP_e + H_c --> ASP_cR157 : SMMALONYLCOA_c --> RMMALONYLCOA_cR877 : H_c + LYS_e --> LYS_cR891 : H_c + THR_e --> THR_cR906 : PI_c --> GL3P_cSL__1 : 0.325 HYDROXYPHTHIOCERANOYL__COA_c + 0.325 PTHIOCERANOYL__COA_c + 0.325 SL1278__WALL_c --> 0.65 COA_c + SL__1_cR811 :  --> CITR_cR863 : GLC_e + H_c --> GLC_cR419 : 4.0 ACCOA_c --> 3.0 COA_c + PIMELOYL__COA_cBIOMASSe : 47.0 ATP_c + 0.022 DNA_c + 0.186 LAM_c + 0.208 MAPC_c + 0.006 PE_c + 0.04 PIMS_c + 0.214 PROTEIN_c + 0.035 P__L__GLX_c + 0.036 RNA_c + 0.05 SMALLMOLECULES_c + 0.016 TAGbio_c --> 47.0 ADP_c + BIOMASS_c + 47.0 PI_cR700 : DPP_c + UDPNAG_c --> NAGDPP_c + UMP_cGLUCAN : 5.5 GLC_c --> GLUCAN_cR849 : ASP_e + 2.0 H_c --> ASP_cR878 : LYS_c --> H_c + LYS_eR892 : THR_c --> H_c + THR_eR919 :  --> PENTADECANOATE_cR907 :  --> PROPANOATE_cR573 : DAG_c --> 0.1 9__OCTADECENOATE_c + 0.1 EICOSANOATE_c + 0.1 HEXACOSANOATE_c + 0.2 HEXADECANOATE_c + MAG_c + 0.1 NONADECANOATE_c + 0.1 OCTADECANOATE_c + 0.1 PENTADECANOATE_c + 0.1 TETRACOSANOATE_cR714 : GA6P_c --> F6P_c + NH3_cR812 :  --> GL_cR864 : GLU_e + H_c --> GLU_cR850 : ASP_e + 3.0 H_c --> ASP_cR893 : H_c + TRP_e --> TRP_cR908 :  --> HEXANOATE_cR172 : HIBUTCOA_c --> COA_c + HIBUT_cR827 : ATP_c --> ADP_c + DAPIM_c + PI_cR879 : 2.0 H_c + MAL_e --> MAL_cR183 : O2_c + OBUT_c + PI_c --> CO2_c + PROPIONYLP_cR814 :  --> GN_cR865 : GLUC_e + H_c --> GLUC_cR800 :  --> NH3_cR851 : CIT_e + 3.0 H_c --> CIT_cR894 : H_c + TYR_e --> TYR_cLM : 0.2 AC3PIM2_c + 3.6 PPM_c --> 3.6 DPP_c + LM_cR828 : ATP_c --> ADP_c + DGLU_c + PI_cR880 : 3.0 H_c + MAL_e --> MAL_cR909 :  --> HEXACOSANOATE_cR716 : ACCOA_c + GA1P_c --> COA_c + NAGA1P_cR815 :  --> HYXN_cR866 : GLY_e + H_c --> GLY_cR422 : SAM__2__OXOBUTANOATE_c --> SAM_cR690 : IPP_c + PPPP_c --> HPPP_c + PPI_cR852 : DA_e + H_c --> DA_cR895 : H_c + URA_e --> URA_cR910 :  --> TETRACOSANOATE_cR881 : H_c + PHE_e --> PHE_cR113 : PAP_c --> AMP_c + PI_cBXT : BIOMASS_c --> R816 :  --> NAC_cR867 : GSN_e + H_c --> GSN_cR853 : DALA_e + H_c --> DALA_cR896 : H_c + URI_e --> URI_cR911 :  --> TETRADECANOATE_cR410 : THFG_c --> GLU_c + THF_cR830 : ATP_c --> ADP_c + GLU_c + PI_cR882 : H_c + PI_e --> PI_cR817 :  --> T3_cR868 : HIS_e + H_c --> HIS_cR854 : DC_e + H_c --> DC_cR897 : H_c + VAL_e --> VAL_cR912 :  --> EICOSANOATE_cR692 : HEPPP_c + IPP_c --> OPP_c + PPI_cR818 :  --> UREA_cR869 : HIS_c --> HIS_e + H_cR855 : DIN_e + H_c --> DIN_cR898 : VAL_c --> H_c + VAL_eR913 :  --> PENTADECANOATE_cR693 : IPP_c + OPP_c --> NPP_c + PPI_cR803 :  --> NO2_cR884 : PRO_c --> H_c + PRO_eDAT : 1.38 MYCOLIPENOYL__ACP_c + 0.69 TRE6P_c --> 1.38 ACP_c + DIACYLTREHALOSE_cR819 :  --> XAN_cR832 : ATP_c --> ADP_c + ILE_c + PI_cR870 : H_c + ILE_e --> ILE_cR842 : ATP_c --> ADP_c + PI_c + THR_cR435 : COPROPORPHYRINOGEN__III_c + 2.0 O2_c --> 2.0 CO2_c + 2.0 H2O2_c + PROTOPORPHYRINOGEN_cR804 :  --> O2_cR856 : DT_e + H_c --> DT_cR899 : PEP_c --> F6P_c + PYR_cR175 : ISUCC_c --> NH3_c + OA_cR914 :  --> HEPTADECANOATE_cR164 : MGLUTCOA_c --> HMGLUTCOA_cPAT : 0.334 MYCOLIPANOIC__ACP_c + 0.668 MYCOLIPDIENOYL__ACP_c + 0.668 MYCOLIPENOYL__ACP_c + 0.334 TRE6P_c --> 1.67 ACP_c + POLYACYLTREHALOSE_cR885 : H_c + PYR_e --> PYR_cR820 : ATP_c --> ADP_c + ALA_cR833 : ATP_c --> ADP_c + LEU_c + PI_cR871 : ILE_c --> H_c + ILE_eR805 :  --> CO2_cR857 : DU_e + H_c --> DU_cR900 : PEP_c --> F1P_c + PYR_cR915 :  --> NONADECANOATE_cR165 : HMGLUTCOA_c --> ACCOA_c + ACTAC_cMPD : 1.01 GDPMAN_c + 1.01 PHOSPHO__PENTA__METHYL__TRICONTANOYL__COA_c --> 1.01 COA_c + 1.01 GDP_c + MPD_cR886 : H_c + SER_e --> SER_cR414 : SHCHC_c --> OSB_cR834 : ATP_c --> ADP_c + LYS_c + PI_cR843 : ATP_c --> ADP_c + PI_c + VAL_cR872 : H_c + INS_e --> INS_cR325 : cAMP_c --> AMP_cR806 :  --> FOR_cR821 : ATP_c --> ADP_c + ARG_c + PI_cR858 : ETH_e + H_c --> ETH_cR901 : PEP_c --> MAN6P_c + PYR_cR916 :  --> HEXADECANOATE_cR887 : SER_c --> H_c + SER_eR696 : DPPPR_c --> DPPR_c + PI_cR835 : ATP_c --> ADP_c + MET_c + PI_cR844 : AC_e + H_c --> AC_cR326 : cGMP_c --> GMP_cR873 : H_c + LAC_e --> LAC_cR807 :  --> GLYCOLATE_cR859 : FUM_e + 2.0 H_c --> FUM_cR902 : PEP_c --> PYR_c + TRE6P_cR822 : ATP_c --> ADP_c + ASN_c + PI_cR917 :  --> 9__HEXADECENOATE_cR845 : AD_e + H_c --> AD_cR888 : 2.0 H_c + SUCC_e --> SUCC_cR836 : ATP_c --> ADP_c + MLT_c + PI_cR874 : H_c + LEU_e --> LEU_cR808 :  --> AC_cR166 : ACTAC_c + ATP_c + COA_c --> AACCOA_c + AMP_c + PPI_cR860 : FUM_e + 3.0 H_c --> FUM_cR903 : CADA_c + H_c --> LYS_cR918 :  --> 9__OCTADECENOATE_cR846 : ADN_e + H_c --> ADN_cR889 : 3.0 H_c + SUCC_e --> SUCC_cR875 : LEU_c --> H_c + LEU_eR439 : FPP_c + PROTOHEME__FE2_c --> HEME__FE2_c + PPI_cR809 :  --> ACAL_c
+
+Total de genes inibidos que interrompem a geracao de biomassa = 136

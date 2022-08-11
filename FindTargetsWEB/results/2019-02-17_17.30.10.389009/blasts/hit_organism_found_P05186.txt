@@ -1,0 +1,1000 @@
+Homo sapiens OX
+Pan paniscus OX
+Pan troglodytes OX
+Gorilla gorilla gorilla OX
+Nomascus leucogenys OX
+Pongo abelii OX
+Macaca nemestrina OX
+Chlorocebus sabaeus OX
+Papio anubis OX
+Cercocebus atys OX
+Macaca fascicularis OX
+Macaca mulatta OX
+Colobus angolensis palliatus OX
+Rhinopithecus bieti OX
+Rhinopithecus roxellana OX
+Aotus nancymaae OX
+Cebus capucinus imitator OX
+Callithrix jacchus OX
+Saimiri boliviensis boliviensis OX
+Tarsius syrichta OX
+Odobenus rosmarus divergens OX
+Propithecus coquereli OX
+Cricetulus griseus OX
+Physeter catodon OX
+Felis catus OX
+Felis catus OX
+Loxodonta africana OX
+Balaenoptera acutorostrata scammoni OX
+Delphinapterus leucas OX
+Sus scrofa OX
+Enhydra lutris kenyoni OX
+Bos taurus OX
+Canis lupus familiaris OX
+Rattus norvegicus OX
+Myotis lucifugus OX
+Heterocephalus glaber OX
+Mesocricetus auratus OX
+Trichechus manatus latirostris OX
+Otolemur garnettii OX
+Mustela putorius furo OX
+Cavia porcellus OX
+Dipodomys ordii OX
+Ictidomys tridecemlineatus OX
+Ursus maritimus OX
+Mus musculus OX
+Erinaceus europaeus OX
+Erinaceus europaeus OX
+Erinaceus europaeus OX
+Homo sapiens OX
+Rattus norvegicus OX
+Delphinapterus leucas OX
+Ailuropoda melanoleuca OX
+Fukomys damarensis OX
+Callithrix jacchus OX
+Ovis aries OX
+Leptonychotes weddellii OX
+Oryctolagus cuniculus OX
+Delphinapterus leucas OX
+Tarsius syrichta OX
+Homo sapiens OX
+Pan troglodytes OX
+Nomascus leucogenys OX
+Monodelphis domestica OX
+Macaca nemestrina OX
+Mandrillus leucophaeus OX
+Papio anubis OX
+Cercocebus atys OX
+Macaca mulatta OX
+Macaca mulatta OX
+Colobus angolensis palliatus OX
+Aotus nancymaae OX
+Saimiri boliviensis boliviensis OX
+Cebus capucinus imitator OX
+Callithrix jacchus OX
+Ovis aries OX
+Sarcophilus harrisii OX
+Tarsius syrichta OX
+Alligator mississippiensis OX
+Alligator sinensis OX
+Propithecus coquereli OX
+Papio anubis OX
+Cercocebus atys OX
+Leptonychotes weddellii OX
+Odobenus rosmarus divergens OX
+Colinus virginianus OX
+Callipepla squamata OX
+Anolis carolinensis OX
+Gallus gallus OX
+Ficedula albicollis OX
+Dipodomys ordii OX
+Gallus gallus OX
+Patagioenas fasciata monilis OX
+Mandrillus leucophaeus OX
+Oreochromis niloticus OX
+Xenopus tropicalis OX
+Salmo salar OX
+Xenopus laevis OX
+Xenopus laevis OX
+Salmo salar OX
+Lepisosteus oculatus OX
+Salmo salar OX
+Danio rerio OX
+Scophthalmus maximus OX
+Gasterosteus aculeatus OX
+Takifugu rubripes OX
+Scleropages formosus OX
+Ictalurus punctatus OX
+Tetraodon nigroviridis OX
+Oryzias latipes OX
+Takifugu rubripes OX
+Scleropages formosus OX
+Austrofundulus limnaeus OX
+Takifugu rubripes OX
+Austrofundulus limnaeus OX
+Xiphophorus maculatus OX
+Poecilia formosa OX
+Xiphophorus maculatus OX
+Astyanax mexicanus OX
+Corvus brachyrhynchos OX
+Gallus gallus OX
+Cuculus canorus OX
+Equus caballus OX
+Amazona aestiva OX
+Latimeria chalumnae OX
+Pelodiscus sinensis OX
+Lepisosteus oculatus OX
+Xenopus tropicalis OX
+Danio rerio OX
+Latimeria chalumnae OX
+Oncorhynchus mykiss OX
+Latimeria chalumnae OX
+Poecilia formosa OX
+Alligator sinensis OX
+Alligator mississippiensis OX
+Scophthalmus maximus OX
+Ictalurus punctatus OX
+Scleropages formosus OX
+Lepisosteus oculatus OX
+Ficedula albicollis OX
+Oryctolagus cuniculus OX
+Odobenus rosmarus divergens OX
+Xiphophorus maculatus OX
+Canis lupus familiaris OX
+Felis catus OX
+Macaca mulatta OX
+Mandrillus leucophaeus OX
+Xiphophorus maculatus OX
+Propithecus coquereli OX
+Astyanax mexicanus OX
+Papio anubis OX
+Austrofundulus limnaeus OX
+Ictalurus punctatus OX
+Cricetulus griseus OX
+Gasterosteus aculeatus OX
+Poecilia formosa OX
+Colobus angolensis palliatus OX
+Oryzias latipes OX
+Rhinopithecus roxellana OX
+Cercocebus atys OX
+Chlorocebus sabaeus OX
+Fukomys damarensis OX
+Macaca nemestrina OX
+Pan paniscus OX
+Mustela putorius furo OX
+Pan troglodytes OX
+Tetraodon nigroviridis OX
+Mesocricetus auratus OX
+Rhinopithecus bieti OX
+Salmo salar OX
+Danio rerio OX
+Gorilla gorilla gorilla OX
+Enhydra lutris kenyoni OX
+Enhydra lutris kenyoni OX
+Homo sapiens OX
+Sus scrofa OX
+Lepisosteus oculatus OX
+Ictalurus punctatus OX
+Myotis lucifugus OX
+Austrofundulus limnaeus OX
+Erinaceus europaeus OX
+Mus musculus OX
+Danio rerio OX
+Dipodomys ordii OX
+Oryctolagus cuniculus OX
+Astyanax mexicanus OX
+Rattus norvegicus OX
+Scophthalmus maximus OX
+Astyanax mexicanus OX
+Tetraodon nigroviridis OX
+Cricetulus griseus OX
+Saimiri boliviensis boliviensis OX
+Mus musculus OX
+Rattus norvegicus OX
+Xiphophorus maculatus OX
+Chlorocebus sabaeus OX
+Bos taurus OX
+Callithrix jacchus OX
+Sus scrofa OX
+Cercocebus atys OX
+Pongo abelii OX
+Astyanax mexicanus OX
+Astyanax mexicanus OX
+Colobus angolensis palliatus OX
+Callipepla squamata OX
+Colinus virginianus OX
+Oreochromis niloticus OX
+Rattus norvegicus OX
+Rattus norvegicus OX
+Bos taurus OX
+Oryzias latipes OX
+Salmo salar OX
+Ictidomys tridecemlineatus OX
+Papio anubis OX
+Poecilia formosa OX
+Cebus capucinus imitator OX
+Pan troglodytes OX
+Homo sapiens OX
+Bos taurus OX
+Xenopus tropicalis OX
+Macaca nemestrina OX
+Nomascus leucogenys OX
+Mus musculus OX
+Delphinapterus leucas OX
+Oryzias latipes OX
+Rhinopithecus bieti OX
+Rhinopithecus roxellana OX
+Oreochromis niloticus OX
+Lepisosteus oculatus OX
+Equus caballus OX
+Gallus gallus OX
+Calypte anna OX
+Ficedula albicollis OX
+Cricetulus griseus OX
+Ictidomys tridecemlineatus OX
+Oreochromis niloticus OX
+Tarsius syrichta OX
+Mus musculus OX
+Rattus norvegicus OX
+Balaenoptera acutorostrata scammoni OX
+Bos taurus OX
+Gasterosteus aculeatus OX
+Pan paniscus OX
+Pan troglodytes OX
+Takifugu rubripes OX
+Ictidomys tridecemlineatus OX
+Felis catus OX
+Ovis aries OX
+Cebus capucinus imitator OX
+Columba livia OX
+Rhinopithecus bieti OX
+Physeter catodon OX
+Otolemur garnettii OX
+Mesocricetus auratus OX
+Lonchura striata domestica OX
+Aotus nancymaae OX
+Tinamus guttatus OX
+Gorilla gorilla gorilla OX
+Homo sapiens OX
+Ovis aries OX
+Alligator sinensis OX
+Nipponia nippon OX
+Cuculus canorus OX
+Macaca nemestrina OX
+Takifugu rubripes OX
+Danio rerio OX
+Danio rerio OX
+Taeniopygia guttata OX
+Tarsius syrichta OX
+Trichechus manatus latirostris OX
+Trichechus manatus latirostris OX
+Meleagris gallopavo OX
+Meleagris gallopavo OX
+Aotus nancymaae OX
+Monodelphis domestica OX
+Loxodonta africana OX
+Anolis carolinensis OX
+Dryobates pubescens OX
+Astyanax mexicanus OX
+Fukomys damarensis OX
+Aptenodytes forsteri OX
+Anas platyrhynchos OX
+Gallus gallus OX
+Danio rerio OX
+Dipodomys ordii OX
+Papio anubis OX
+Nomascus leucogenys OX
+Cercocebus atys OX
+Nipponia nippon OX
+Salmo salar OX
+Takifugu rubripes OX
+Lonchura striata domestica OX
+Callithrix jacchus OX
+Tinamus guttatus OX
+Tetraodon nigroviridis OX
+Calypte anna OX
+Dryobates pubescens OX
+Rattus norvegicus OX
+Aptenodytes forsteri OX
+Taeniopygia guttata OX
+Cavia porcellus OX
+Pongo abelii OX
+Takifugu rubripes OX
+Sus scrofa OX
+Ovis aries OX
+Loxodonta africana OX
+Charadrius vociferus OX
+Colinus virginianus OX
+Heterocephalus glaber OX
+Ovis aries OX
+Mandrillus leucophaeus OX
+Meleagris gallopavo OX
+Columba livia OX
+Astyanax mexicanus OX
+Astyanax mexicanus OX
+Branchiostoma floridae OX
+Manacus vitellinus OX
+Gallus gallus OX
+Lingula unguis OX
+Astyanax mexicanus OX
+Leptonychotes weddellii OX
+Cavia porcellus OX
+Astyanax mexicanus OX
+Corvus brachyrhynchos OX
+Branchiostoma floridae OX
+Ciona savignyi OX
+Astyanax mexicanus OX
+Nipponia nippon OX
+Astyanax mexicanus OX
+Ciona savignyi OX
+Branchiostoma floridae OX
+Astyanax mexicanus OX
+Crassostrea gigas OX
+Bos taurus OX
+Ursus maritimus OX
+Astyanax mexicanus OX
+Ciona intestinalis OX
+Ailuropoda melanoleuca OX
+Cercocebus atys OX
+Branchiostoma floridae OX
+Ciona savignyi OX
+Ciona savignyi OX
+Macaca mulatta OX
+Ciona intestinalis OX
+Calypte anna OX
+Branchiostoma floridae OX
+Crassostrea gigas OX
+Sus scrofa OX
+Tursiops truncatus OX
+Branchiostoma floridae OX
+Branchiostoma floridae OX
+Lingula unguis OX
+Stichopus japonicus OX
+Corvus brachyrhynchos OX
+Takifugu rubripes OX
+Stegodyphus mimosarum OX
+Lottia gigantea OX
+Crassostrea gigas OX
+Biomphalaria glabrata OX
+Strongylocentrotus purpuratus OX
+Ciona savignyi OX
+Ciona savignyi OX
+Strongylocentrotus purpuratus OX
+Ciona intestinalis OX
+Charadrius vociferus OX
+Cryptotermes secundus OX
+Crassostrea gigas OX
+Crassostrea gigas OX
+Daphnia magna OX
+Zootermopsis nevadensis OX
+Homo sapiens OX
+Daphnia pulex OX
+Daphnia pulex OX
+Mus musculus OX
+Branchiostoma floridae OX
+Callipepla squamata OX
+Daphnia magna OX
+Biomphalaria glabrata OX
+Ovis aries OX
+Stegodyphus mimosarum OX
+Dryobates pubescens OX
+Ictidomys tridecemlineatus OX
+Bombyx mori OX
+Stegodyphus mimosarum OX
+Crassostrea gigas OX
+Ixodes scapularis OX
+Daphnia pulex OX
+Stegodyphus mimosarum OX
+Trichoplax sp. H2 OX
+Ramazzottius varieornatus OX
+Lutzomyia longipalpis OX
+Trichoplax adhaerens OX
+Papilio xuthus OX
+Spongiibacter sp. OX
+Stegodyphus mimosarum OX
+Anopheles farauti OX
+Anopheles atroparvus OX
+Stichopus japonicus OX
+Anopheles farauti OX
+Danaus plexippus plexippus OX
+Zootermopsis nevadensis OX
+Zootermopsis nevadensis OX
+Anopheles dirus OX
+Anopheles maculatus OX
+Anopheles stephensi OX
+Anopheles maculatus OX
+Anopheles melas OX
+Anopheles arabiensis OX
+Anopheles gambiae OX
+Anopheles quadriannulatus OX
+Anopheles merus OX
+Anopheles sinensis OX
+Anopheles coluzzii OX
+Ciona intestinalis OX
+Heliothis virescens OX
+Culex quinquefasciatus OX
+Latimeria chalumnae OX
+Anopheles culicifacies OX
+Papilio machaon OX
+Orchesella cincta OX
+Anopheles atroparvus OX
+Anopheles farauti OX
+Anopheles epiroticus OX
+Trichoplax sp. H2 OX
+Trichoplax adhaerens OX
+Anopheles culicifacies OX
+Papilio xuthus OX
+Tribolium castaneum OX
+Clunio marinus OX
+Ramazzottius varieornatus OX
+Papilio xuthus OX
+Anopheles christyi OX
+Gallaecimonas xiamenensis 3-C-1 OX
+Anopheles funestus OX
+Heliothis virescens OX
+Orchesella cincta OX
+Anopheles minimus OX
+Anopheles minimus OX
+Anopheles melas OX
+Charadrius vociferus OX
+Trichoplax sp. H2 OX
+Anopheles darlingi OX
+Pseudohongiella spirulinae OX
+Papilio xuthus OX
+Anopheles darlingi OX
+Papilio machaon OX
+Trichoplax adhaerens OX
+Strigamia maritima OX
+Macrostomum lignano OX
+Lucilia cuprina OX
+Anopheles gambiae OX
+Ramazzottius varieornatus OX
+Anopheles merus OX
+Anopheles albimanus OX
+Bombyx mori OX
+Bombyx mori OX
+Drosophila grimshawi OX
+Heliothis virescens OX
+Anopheles dirus OX
+Anopheles sinensis OX
+Anopheles dirus OX
+Cryptotermes secundus OX
+Anopheles atroparvus OX
+Anopheles culicifacies OX
+Danaus plexippus plexippus OX
+Aedes aegypti OX
+Anopheles sinensis OX
+Ciona savignyi OX
+Anopheles stephensi OX
+Anopheles epiroticus OX
+Stylophora pistillata OX
+Anopheles funestus OX
+Shewanella mangrovi OX
+Anopheles melas OX
+Anopheles albimanus OX
+Orchesella cincta OX
+Capitella teleta OX
+Pediculus humanus subsp. corporis OX
+Anopheles darlingi OX
+Anopheles farauti OX
+Bombyx mori OX
+Shewanella algae OX
+Papilio xuthus OX
+Anopheles atroparvus OX
+Anopheles minimus OX
+Daphnia pulex OX
+Papilio machaon OX
+Macrostomum lignano OX
+Limnohabitans sp. B9-3 OX
+Strongylocentrotus purpuratus OX
+Anopheles arabiensis OX
+Anopheles gambiae OX
+Methylomonas sp. LWB OX
+Aedes albopictus OX
+Aedes aegypti OX
+Scleropages formosus OX
+Glossina fuscipes fuscipes OX
+Culex quinquefasciatus OX
+Glossina brevipalpis OX
+Anopheles coluzzii OX
+Thalassolituus oleivorans MIL-1 OX
+Papilio machaon OX
+Anopheles quadriannulatus OX
+Anopheles merus OX
+Vibrio xiamenensis OX
+Tetranychus urticae OX
+Glossina austeni OX
+Anopheles dirus OX
+Anopheles albimanus OX
+Tribolium castaneum OX
+Glossina morsitans morsitans OX
+Anopheles christyi OX
+Psychromonas ingrahamii (strain 37) OX
+Amphiplicatus metriothermophilus OX
+Drosophila ananassae OX
+Drosophila sechellia OX
+Paraglaciecola polaris LMG 21857 OX
+Musca domestica OX
+Shewanella violacea (strain JCM 10179 / CIP 106290 / LMG 19151 / DSS12) OX
+Thiolapillus brandeum OX
+Drosophila ficusphila OX
+Methylophaga aminisulfidivorans MP OX
+Anopheles funestus OX
+Stomoxys calcitrans OX
+Papilio machaon OX
+Drosophila willistoni OX
+Shewanella benthica KT99 OX
+Drosophila virilis OX
+Lottia gigantea OX
+Alteromonas australica OX
+Aedes albopictus OX
+Stomoxys calcitrans OX
+Papilio xuthus OX
+Pseudohongiella acticola OX
+Ciona savignyi OX
+Crenothrix polyspora OX
+Culex quinquefasciatus OX
+Drosophila ananassae OX
+Shewanella violacea (strain JCM 10179 / CIP 106290 / LMG 19151 / DSS12) OX
+Drosophila mojavensis OX
+Glossina palpalis gambiensis OX
+Anopheles arabiensis OX
+Glossina pallidipes OX
+Musca domestica OX
+Shewanella pealeana (strain ATCC 700345 / ANG-SQ1) OX
+Rhodomicrobium vannielii (strain ATCC 17100 / ATH 3.1.1 / DSM 162 / LMG 4299) OX
+Anopheles epiroticus OX
+Shewanella benthica KT99 OX
+Orchesella cincta OX
+Bombyx mori OX
+Corallincola sp. C4 OX
+Pseudoxanthomonas sp. CF125 OX
+Methylomonas methanica (strain MC09) OX
+Endozoicomonas numazuensis OX
+Aedes albopictus OX
+Capitella teleta OX
+Anopheles christyi OX
+Hahella sp. CCB-MM4 OX
+Aestuariibacter aggregatus OX
+Simiduia agarivorans (strain DSM 21679 / JCM 13881 / BCRC 17597 / SA1) OX
+Anopheles quadriannulatus OX
+Anopheles quadriannulatus OX
+Blastomonas sp. AAP25 OX
+Anopheles epiroticus OX
+Anopheles sinensis OX
+Alteromonas lipolytica OX
+Anopheles gambiae OX
+Anopheles gambiae OX
+Musca domestica OX
+Methylomonas denitrificans OX
+Sphingomonadales bacterium RIFCSPHIGHO2_01_FULL_65_20 OX
+Anopheles coluzzii OX
+Drosophila mojavensis OX
+Drosophila melanogaster OX
+Kordiimonas lacus OX
+Anopheles arabiensis OX
+Drosophila busckii OX
+Glossina fuscipes fuscipes OX
+Anopheles stephensi OX
+Stomoxys calcitrans OX
+Danaus plexippus plexippus OX
+Drosophila busckii OX
+Drosophila virilis OX
+Aedes albopictus OX
+Drosophila grimshawi OX
+Drosophila pseudoobscura pseudoobscura OX
+Stomoxys calcitrans OX
+Shewanella mangrovi OX
+Shewanella sediminis (strain HAW-EB3) OX
+Colwellia sp. PAMC 21821 OX
+Glossina palpalis gambiensis OX
+Glossina morsitans morsitans OX
+Aedes albopictus OX
+Anopheles atroparvus OX
+Drosophila pseudoobscura pseudoobscura OX
+Glossina brevipalpis OX
+Clunio marinus OX
+Alteromonas confluentis OX
+Glaciecola nitratireducens (strain JCM 12485 / KCTC 12276 / FR1064) OX
+Methylobacter tundripaludum (strain ATCC BAA-1195 / SV96) OX
+Drosophila grimshawi OX
+Latimeria chalumnae OX
+Anopheles merus OX
+Aedes aegypti OX
+Shewanella colwelliana OX
+Shewanella colwelliana OX
+Drosophila sechellia OX
+Drosophila sechellia OX
+Methylomonas lenta OX
+Cryptotermes secundus OX
+Pseudoalteromonas ulvae OX
+Phlebotomus papatasi OX
+Bombyx mori OX
+Anopheles minimus OX
+Daphnia magna OX
+Drosophila willistoni OX
+Helobdella robusta OX
+Aedes aegypti OX
+alpha proteobacterium Q-1 OX
+Clunio marinus OX
+Shewanella pealeana (strain ATCC 700345 / ANG-SQ1) OX
+Clunio marinus OX
+Pseudoalteromonas ruthenica OX
+Shewanella sediminis (strain HAW-EB3) OX
+Aedes aegypti OX
+Drosophila simulans OX
+Acyrthosiphon pisum OX
+Dechloromonas aromatica (strain RCB) OX
+Drosophila ficusphila OX
+Musca domestica OX
+Stomoxys calcitrans OX
+Stomoxys calcitrans OX
+Drosophila melanogaster OX
+Grimontia sp. AD028 OX
+Lysobacter gummosus OX
+Lysobacter enzymogenes OX
+Drosophila mojavensis OX
+Drosophila mojavensis OX
+Vibrio aerogenes CECT 7868 OX
+Lucilia cuprina OX
+Drosophila virilis OX
+Drosophila melanogaster OX
+Glaciecola nitratireducens (strain JCM 12485 / KCTC 12276 / FR1064) OX
+Gammaproteobacteria bacterium 50_400_T64 OX
+Thalassotalea sp. PP2-459 OX
+Pseudoalteromonas lipolytica SCSIO 04301 OX
+Ooceraea biroi OX
+Acyrthosiphon pisum OX
+Emcibacter congregatus OX
+Salinivibrio sp. KP-1 OX
+Stomoxys calcitrans OX
+Anopheles atroparvus OX
+Drosophila melanogaster OX
+Oleiphilus messinensis OX
+Thalassospira sp. TSL5-1 OX
+Drosophila pseudoobscura pseudoobscura OX
+Shewanella algae OX
+Danaus plexippus plexippus OX
+Oleispira antarctica RB-8 OX
+Stomoxys calcitrans OX
+Vibrio nigripulchritudo OX
+Drosophila ananassae OX
+Diaphorina citri OX
+Anopheles culicifacies OX
+Anopheles dirus OX
+Drosophila ananassae OX
+Gallaecimonas xiamenensis 3-C-1 OX
+Musca domestica OX
+Alteromonadaceae bacterium Bs31 OX
+Musca domestica OX
+Glaciecola pallidula DSM 14239
+Vibrio diazotrophicus OX
+Lutzomyia longipalpis OX
+Colwellia psychrerythraea (strain 34H / ATCC BAA-681) OX
+Drosophila willistoni OX
+Oleiphilus messinensis OX
+Methylophaga thiooxydans DMS010 OX
+Drosophila willistoni OX
+Shewanella frigidimarina (strain NCIMB 400) OX
+Spongiibacter sp. IMCC21906 OX
+Drosophila sechellia OX
+Anopheles funestus OX
+Papilio xuthus OX
+Thiobacillus denitrificans OX
+Pelodiscus sinensis OX
+Chania multitudinisentens RB-25 OX
+Cellvibrio sp. PSBB023 OX
+Stomoxys calcitrans OX
+Colwellia sp. MT41 OX
+SAR92 bacterium BACL16 MAG-120619-bin48 OX
+Kangiella geojedonensis OX
+Glaciecola sp. KUL10 OX
+Saccharophagus degradans (strain 2-40 / ATCC 43961 / DSM 17024) OX
+Drosophila simulans OX
+Drosophila pseudoobscura pseudoobscura OX
+Drosophila persimilis OX
+Drosophila grimshawi OX
+Alteromonas australica OX
+gamma proteobacterium HTCC2207 OX
+Stomoxys calcitrans OX
+Anopheles culicifacies OX
+Anopheles stephensi OX
+Drosophila grimshawi OX
+Vibrio mangrovi OX
+Capitella teleta OX
+Glossina fuscipes fuscipes OX
+Corallincola sp. C4 OX
+Kangiella geojedonensis OX
+Lucilia cuprina OX
+OM182 bacterium MED-G28 OX
+Rhodnius prolixus OX
+Halioglobus lutimaris OX
+Acyrthosiphon pisum OX
+Lucilia cuprina OX
+Enterovibrio pacificus OX
+Drosophila virilis OX
+Psychromonas ingrahamii (strain 37) OX
+Anopheles farauti OX
+Pediculus humanus subsp. corporis OX
+Aquabacterium olei OX
+Pseudoalteromonas haloplanktis (strain TAC 125) OX
+Musca domestica OX
+Bermanella marisrubri OX
+Pseudoalteromonas ruthenica OX
+Blattella germanica OX
+Glossina pallidipes OX
+Alteromonas lipolytica OX
+gamma proteobacterium BDW918 OX
+Drosophila mojavensis OX
+Drosophila ficusphila OX
+Ideonella sakaiensis (strain 201-F6) OX
+Pseudoalteromonas ulvae OX
+Glossina palpalis gambiensis OX
+Colwellia sp. PAMC 21821 OX
+Methylobacillus flagellatus (strain KT / ATCC 51484 / DSM 6875) OX
+Anopheles maculatus OX
+Glossina pallidipes OX
+Musca domestica OX
+Glossina brevipalpis OX
+Oleibacter sp. HI0075 OX
+Shewanella frigidimarina (strain NCIMB 400) OX
+Drosophila mojavensis OX
+Anopheles darlingi OX
+Drosophila sechellia OX
+Spongiibacter sp. OX
+Lutzomyia longipalpis OX
+Drosophila ficusphila OX
+Colwellia psychrerythraea (strain 34H / ATCC BAA-681) OX
+Drosophila virilis OX
+Papilio machaon OX
+Cryptotermes secundus OX
+Drosophila busckii OX
+Macrostomum lignano OX
+Drosophila melanogaster OX
+Stomoxys calcitrans OX
+Microbulbifer sp. ZGT114 OX
+Paraglaciecola polaris LMG 21857 OX
+Dendroctonus ponderosae OX
+Anopheles albimanus OX
+Methylophilus sp. Leaf416 OX
+Sus scrofa OX
+Diaphorina citri OX
+Glaciecola pallidula DSM 14239
+Sphingopyxis macrogoltabida OX
+Microbulbifer sp. A4B17 OX
+Microbulbifer agarilyticus OX
+Thalassotalea sp. PP2-459 OX
+Drosophila melanogaster OX
+Glaciecola sp. KUL10 OX
+Stomoxys calcitrans OX
+Drosophila ficusphila OX
+Drosophila ananassae OX
+Anopheles farauti OX
+Gammaproteobacteria bacterium 50_400_T64 OX
+Wenzhouxiangella marina OX
+Mizugakiibacter sediminis OX
+Anopheles merus OX
+Drosophila ficusphila OX
+Drosophila busckii OX
+Musca domestica OX
+Drosophila pseudoobscura pseudoobscura OX
+Drosophila persimilis OX
+Glossina austeni OX
+Drosophila busckii OX
+Microbulbifer thermotolerans OX
+Drosophila ananassae OX
+Colwellia sp. MT41 OX
+Drosophila virilis OX
+Lucilia cuprina OX
+Octopus bimaculoides OX
+Macrostomum lignano OX
+Clunio marinus OX
+Glossina morsitans morsitans OX
+Drosophila melanogaster OX
+Dyella sp. OK004 OX
+Musca domestica OX
+Aestuariibacter aggregatus OX
+Anopheles melas OX
+Drosophila willistoni OX
+Zootermopsis nevadensis OX
+Lucilia cuprina OX
+Rattus norvegicus OX
+Methylomonas sp. DH-1 OX
+Nematostella vectensis OX
+Apis mellifera OX
+Cryptotermes secundus OX
+Pseudoalteromonas lipolytica SCSIO 04301 OX
+Drosophila grimshawi OX
+Acyrthosiphon pisum OX
+Methylomonas denitrificans OX
+Culex quinquefasciatus OX
+Musca domestica OX
+Emcibacter congregatus OX
+Drosophila simulans OX
+Drosophila busckii OX
+Anopheles albimanus OX
+Drosophila melanogaster OX
+Musca domestica OX
+Drosophila mojavensis OX
+Drosophila ananassae OX
+Blattella germanica OX
+Oleibacter sp. HI0075 OX
+Nasonia vitripennis OX
+Stomoxys calcitrans OX
+Drosophila ficusphila OX
+Anopheles sinensis OX
+Anopheles sinensis OX
+Vibrio genomosp. F10 OX
+Drosophila pseudoobscura pseudoobscura OX
+Lutzomyia longipalpis OX
+Dechloromonas denitrificans OX
+Stomoxys calcitrans OX
+Musca domestica OX
+Brevundimonas sp. AAP58 OX
+Drosophila pseudoobscura pseudoobscura OX
+Rhodanobacter sp. FW510-R10 OX
+Alteromonas confluentis OX
+Drosophila ficusphila OX
+Clunio marinus OX
+Alteromonadaceae bacterium Bs31 OX
+Oleibacter sp. HI0075 OX
+Lucilia cuprina OX
+Aedes aegypti OX
+Anopheles farauti OX
+Drosophila busckii OX
+Methylotenera mobilis (strain JLW8 / ATCC BAA-1282 / DSM 17540) OX
+Musca domestica OX
+Drosophila persimilis OX
+Anopheles darlingi OX
+Drosophila pseudoobscura pseudoobscura OX
+Drosophila persimilis OX
+Glossina pallidipes OX
+Lucilia cuprina OX
+Drosophila sechellia OX
+Tribolium castaneum OX
+Aedes aegypti OX
+Anopheles epiroticus OX
+Aedes albopictus OX
+Lysobacter defluvii IMMIB APB-9
+Harpegnathos saltator OX
+Clunio marinus OX
+Anopheles dirus OX
+Dendroctonus ponderosae OX
+Dokdonella immobilis OX
+Sulfuricella denitrificans skB26 OX
+Verrucomicrobiae bacterium DG1235 OX
+Glossina austeni OX
+Drosophila willistoni OX
+Pseudoalteromonas haloplanktis (strain TAC 125) OX
+Culex quinquefasciatus OX
+Anopheles christyi OX
+Drosophila virilis OX
+Stomoxys calcitrans OX
+Drosophila pseudoobscura pseudoobscura OX
+Anopheles epiroticus OX
+Drosophila ananassae OX
+Drosophila sechellia OX
+Trachymyrmex septentrionalis OX
+Drosophila persimilis OX
+Anopheles sinensis OX
+Clunio marinus OX
+Stomoxys calcitrans OX
+Drosophila simulans OX
+Aedes aegypti OX
+Anopheles melas OX
+Glossina morsitans morsitans OX
+Drosophila melanogaster OX
+Pediculus humanus subsp. corporis OX
+Paracoccus alcaliphilus OX
+Acromyrmex echinatior OX
+Rhodanobacter fulvus Jip2 OX
+Dyella sp. L4-6 OX
+Stomoxys calcitrans OX
+Glossina austeni OX
+Congregibacter litoralis KT71 OX
+Methylovorus sp. MM2 OX
+Anopheles quadriannulatus OX
+Anopheles merus OX
+Anopheles gambiae OX
+Anopheles arabiensis OX
+Glossina brevipalpis OX
+Glossina pallidipes OX
+Rhodnius prolixus OX
+Drosophila virilis OX
+Bombyx mori OX
+Acyrthosiphon pisum OX
+Drosophila grimshawi OX
+Glossina palpalis gambiensis OX
+Anopheles funestus OX
+Luteimonas sp. FCS-9 OX
+Drosophila sechellia OX
+Anopheles coluzzii OX
+Anopheles stephensi OX
+Anopheles maculatus OX
+Anopheles christyi OX
+Glossina morsitans morsitans OX
+Xanthomonas hyacinthi DSM 19077 OX
+Drosophila willistoni OX
+Phlebotomus papatasi OX
+Azoarcus sp. (strain BH72) OX
+Glossina fuscipes fuscipes OX
+Drosophila persimilis OX
+Lysobacter sp. A03 OX
+Drosophila pseudoobscura pseudoobscura OX
+Cryptotermes secundus OX
+Marinicaulis flavus OX
+Stomoxys calcitrans OX
+Sphingobium sp. GW456-12-10-14-TSB1 OX
+Drosophila simulans OX
+Danio rerio OX
+Glossina austeni OX
+Drosophila grimshawi OX
+Drosophila mojavensis OX
+Anopheles albimanus OX
+Anopheles quadriannulatus OX
+Luminiphilus syltensis NOR5-1B OX
+Drosophila grimshawi OX
+Lysobacter dokdonensis DS-58 OX
+Anopheles darlingi OX
+Dyella japonica A8 OX
+Heliothis virescens OX
+Melipona quadrifasciata OX
+Glossina brevipalpis OX
+Lucilia cuprina OX
+Alteromonadaceae bacterium Bs31 OX
+Anopheles atroparvus OX
+Anopheles darlingi OX
+Dokdonella koreensis DS-123 OX
+Xanthomonadaceae bacterium NML03-0222 OX
+Hirschia sp. OX
+Sus scrofa OX
+Drosophila ficusphila OX
+Phlebotomus papatasi OX
+Anopheles stephensi OX
+Sus scrofa OX
+Anopheles dirus OX
+Culex quinquefasciatus OX
+Anopheles culicifacies OX
+Pseudoxanthomonas sp. CF125 OX
+Macrostomum lignano OX
+Drosophila mojavensis OX
+Anopheles minimus OX
+Methylovulum psychrotolerans OX
+Stenotrophomonas koreensis OX
+Clunio marinus OX
+Blattella germanica OX
+Photobacterium aphoticum OX
+Cupriavidus sp. USMAA2-4 OX
+Anopheles arabiensis OX
+Lucilia cuprina OX
+gamma proteobacterium IMCC3088 OX
+Drosophila ficusphila OX
+Drosophila ananassae OX
+Trachymyrmex cornetzi OX
+Cyphomyrmex costatus OX
+Chromatocurvus sp. F02 OX
+Stenotrophomonas panacihumi OX
+Hirschia baltica (strain ATCC 49814 / DSM 5838 / IFAM 1418) OX
+Lysobacter enzymogenes OX
+Lysobacter tolerans OX
+Pseudohaliea rubra DSM 19751 OX
+Luteimonas sp. 100111 OX
+Anopheles culicifacies OX
+Thauera sp. K11 OX
+Operophtera brumata OX
+Lysobacter concretionis Ko07
+Parvularcula bermudensis (strain ATCC BAA-594 / HTCC2503 / KCTC 12087) OX
+Nasonia vitripennis OX
+Lucilia cuprina OX
+Anopheles minimus OX
+Camponotus floridanus OX
+Glossina fuscipes fuscipes OX
+Apis mellifera OX
+Heliothis virescens OX
+Pseudoxanthomonas spadix (strain BD-a59) OX
+Pseudoxanthomonas suwonensis (strain 11-1) OX
+Xanthomonas campestris pv. campestris (strain ATCC 33913 / DSM 3586 / NCPPB 528 / LMG 568 / P 25) OX
+Anopheles farauti OX
+Drosophila simulans OX
+Lucilia cuprina OX
+Sphingomonadaceae bacterium PASS1 OX

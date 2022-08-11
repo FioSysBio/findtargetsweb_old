@@ -1,0 +1,16 @@
+P0AD68;BE0002393;DB00267;Cefmenoxime;approved;yes;inhibitor
+P0AD68;BE0002393;DB01416;Cefpodoxime;approved, vet_approved;yes;inhibitor
+P0AD68;BE0002393;DB01329;Cefoperazone;approved, investigational;yes;inhibitor
+P0AD68;BE0002393;DB01327;Cefazolin;approved;yes;inhibitor
+P0AD68;BE0002393;DB01331;Cefoxitin;approved;yes;inhibitor
+P0AD68;BE0002393;DB01328;Cefonicid;approved, investigational;yes;inhibitor
+P0AD68;BE0002393;DB01413;Cefepime;approved, investigational;yes;inhibitor
+P0AD68;BE0002393;DB01415;Ceftibuten;approved, investigational;yes;inhibitor
+P0AD68;BE0002393;DB00430;Cefpiramide;approved;yes;inhibitor
+P0AD68;BE0002393;DB00438;Ceftazidime;approved;yes;inhibitor
+P0AD68;BE0002393;DB00274;Cefmetazole;approved, investigational;yes;inhibitor
+P0AD68;BE0002393;DB00303;Ertapenem;approved, investigational;yes;inhibitor
+P45059;BE0000001;DB00303;Ertapenem;approved, investigational;yes;inhibitor
+P0AEB2;BE0004840;DB00578;Carbenicillin;approved, investigational;yes;inhibitor
+P0AEB2;BE0004840;DB09319;Carindacillin;approved, investigational;yes;inhibitor
+P0A749;BE0000468;DB00828;Fosfomycin;approved;yes;inhibitor

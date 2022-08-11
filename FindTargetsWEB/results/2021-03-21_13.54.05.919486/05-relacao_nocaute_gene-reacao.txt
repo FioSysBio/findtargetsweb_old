@@ -1,0 +1,373 @@
+1. Gene PA0005 inibido.
+12DAG3Ps_PA : 0.51 2tocdACP_c + 0.5 glyc3p_c + 0.13 hdeACP_c + 0.03 ocdACP_c + 0.33 palmACP_c --> 0.01 12dag3p_PA_c + ACP_c
+
+2. Gene PA0006 inibido.
+GMHEPPA : gmh17bp_c + h2o_c --> gmh1p_c + pi_cHISTP_813 : h2o_c + hisp_c --> histd_c + pi_c
+
+3. Gene PA0025 inibido.
+SHK3D_f : 3dhsk_c + h_c + nadph_c --> nadp_c + skm_cSHK3D_b : nadp_c + skm_c --> 3dhsk_c + h_c + nadph_c
+
+4. Gene PA0035 inibido.
+TRPS1 : 3ig3p_c + ser__L_c --> g3p_c + h2o_c + trp__L_c
+
+5. Gene PA0036 inibido.
+TRPS1 : 3ig3p_c + ser__L_c --> g3p_c + h2o_c + trp__L_c
+
+6. Gene PA0280 inibido.
+SULabc : atp_c + h2o_c + so4_e --> adp_c + h_c + pi_c + so4_c
+
+7. Gene PA0281 inibido.
+SULabc : atp_c + h2o_c + so4_e --> adp_c + h_c + pi_c + so4_c
+
+8. Gene PA0282 inibido.
+SULabc : atp_c + h2o_c + so4_e --> adp_c + h_c + pi_c + so4_c
+
+9. Gene PA0283 inibido.
+SULabc : atp_c + h2o_c + so4_e --> adp_c + h_c + pi_c + so4_c
+
+10. Gene PA0330 inibido.
+RPI_f : r5p_c --> ru5p__D_cRPI_b : ru5p__D_c --> r5p_c
+
+11. Gene PA0342 inibido.
+TMDS : dump_c + mlthf_c --> dhf_c + dtmp_c
+
+12. Gene PA0350 inibido.
+DHFRi : dhf_c + h_c + nadph_c --> nadp_c + thf_c
+
+13. Gene PA0353 inibido.
+DHAD1 : 23dhmb_c --> 3mob_c + h2o_cDHAD3 : 23dhmp_c --> 2o3mpt_c + h2o_c
+
+14. Gene PA0363 inibido.
+PTPATi : atp_c + h_c + pan4p_c --> dpcoa_c + ppi_c
+
+15. Gene PA0390 inibido.
+HSAT_b : achms_c + coa_c --> accoa_c + hom__L_cHSAT_f : accoa_c + hom__L_c --> achms_c + coa_cHSST : hom__L_c + succoa_c --> coa_c + suchms_c
+
+16. Gene PA0393 inibido.
+P5CR : 1pyr5c_c + 2.0 h_c + nadph_c --> nadp_c + pro__L_c
+
+17. Gene PA0430 inibido.
+MTHFR2 : 2.0 h_c + mlthf_c + nadh_c --> 5mthf_c + nad_c
+
+18. Gene PA0546 inibido.
+METAT : atp_c + h2o_c + met__L_c --> amet_c + pi_c + ppi_c
+
+19. Gene PA0548 inibido.
+TKT1_f : r5p_c + xu5p__D_c --> g3p_c + s7p_cTKT1_b : g3p_c + s7p_c --> r5p_c + xu5p__D_cTKT2_f : e4p_c + xu5p__D_c --> f6p_c + g3p_cTKT2_b : f6p_c + g3p_c --> e4p_c + xu5p__D_c
+
+20. Gene PA0555 inibido.
+FBA_b : dhap_c + g3p_c --> fdp_cFBA_f : fdp_c --> dhap_c + g3p_c
+
+21. Gene PA0582 inibido.
+DHNPA : dhnpt_c --> 2ahhmp_c + gcald_c
+
+22. Gene PA0650 inibido.
+ANPRT : anth_c + prpp_c --> ppi_c + pran_c
+
+23. Gene PA0651 inibido.
+IGPS : 2cpr5p_c + h_c --> 3ig3p_c + co2_c + h2o_c
+
+24. Gene PA0654 inibido.
+ADMDC_f : amet_c + h_c --> ametam_c + co2_cADMDC_b : ametam_c + co2_c --> amet_c + h_c
+
+25. Gene PA0662 inibido.
+AGPR_f : acg5sa_c + nadp_c + pi_c --> acg5p_c + h_c + nadph_cAGPR_b : acg5p_c + h_c + nadph_c --> acg5sa_c + nadp_c + pi_c
+
+26. Gene PA0724 inibido.
+PNTK : atp_c + pnto__R_c --> 4ppan_c + adp_c + h_c
+
+27. Gene PA0761 inibido.
+ASPO6 : asp__L_c + o2_c --> h2o2_c + h_c + iasp_cASPO8 : asp__L_c + dhap_c + fad_c --> fadh2_c + 2.0 h2o_c + h_c + pi_c + quln_c
+
+28. Gene PA0895 inibido.
+ACOTA_f : acorn_c + akg_c --> acg5sa_c + glu__L_cORNTA : akg_c + orn__L_c --> glu5sa_c + glu__L_cACOTA_b : acg5sa_c + glu__L_c --> acorn_c + akg_c
+
+29. Gene PA0904 inibido.
+ASPK_f : asp__L_c + atp_c --> 4pasp_c + adp_cASPK_b : 4pasp_c + adp_c --> asp__L_c + atp_c
+
+30. Gene PA0945 inibido.
+PRAIS : atp_c + fpram_c --> adp_c + air_c + h_c + pi_c
+
+31. Gene PA1004 inibido.
+ASPO8 : asp__L_c + dhap_c + fad_c --> fadh2_c + 2.0 h2o_c + h_c + pi_c + quln_cQULNS : dhap_c + iasp_c --> 2.0 h2o_c + pi_c + quln_c
+
+32. Gene PA1013 inibido.
+PRASCS_b : 25aics_c + adp_c + h_c + pi_c --> 5aizc_c + asp__L_c + atp_cPRASCS_f : 5aizc_c + asp__L_c + atp_c --> 25aics_c + adp_c + h_c + pi_c
+
+33. Gene PA1162 inibido.
+SDPDS : h2o_c + sl26da_c --> 26dap__LL_c + succ_c
+
+34. Gene PA1376 inibido.
+PMDPHT : 5aprbu_c + h2o_c --> 4r5au_c + pi_c
+
+35. Gene PA1393 inibido.
+ADSK : aps_c + atp_c --> adp_c + h_c + paps_c
+
+36. Gene PA1493 inibido.
+SULabc : atp_c + h2o_c + so4_e --> adp_c + h_c + pi_c + so4_c
+
+37. Gene PA1609 inibido.
+MCMAT4 : h_c + malACP_c + octACP_c --> 3oxdeACP_c + ACP_c + co2_cMCMAT7 : h_c + malACP_c + myrsACP_c --> 3oxhdACP_c + ACP_c + co2_cHACD8_f : 3hmbcoa_c + nad_c --> 2maacoa_c + h_c + nadh_cMCMAT2 : butACP_c + h_c + malACP_c --> 3oxhACP_c + ACP_c + co2_cMCMAT5 : decACP_c + h_c + malACP_c --> 3oxddACP_c + ACP_c + co2_cACMAT1_64 : acACP_c + h_c + malACP_c --> ACP_c + actACP_c + co2_cHACD8_b : 2maacoa_c + h_c + nadh_c --> 3hmbcoa_c + nad_cMCMAT8 : h_c + malACP_c + palmACP_c --> 3oxocdacp_c + ACP_c + co2_cMCMAT3 : h_c + hexACP_c + malACP_c --> 3oxocACP_c + ACP_c + co2_cMCMAT6 : ddcaACP_c + h_c + malACP_c --> 3oxtdACP_c + ACP_c + co2_c
+
+38. Gene PA1681 inibido.
+CHORS : 3psme_c --> chor_c + pi_c
+
+39. Gene PA1687 inibido.
+SPMS : ametam_c + ptrc_c --> 5mta_c + h_c + spmd_c
+
+40. Gene PA1756 inibido.
+PASR_b : 2.0 h_c + pap_c + so3_c + trdox_c --> paps_c + trdrd_cPASR_f : paps_c + trdrd_c --> 2.0 h_c + pap_c + so3_c + trdox_cPAPSR : paps_c + trdrd_c --> 2.0 h_c + pap_c + so3_c + trdox_c
+
+41. Gene PA1758 inibido.
+ADCS : chor_c + gln__L_c --> 4adcho_c + glu__L_c
+
+42. Gene PA1796 inibido.
+MTHFD_b : methf_c + nadph_c --> mlthf_c + nadp_cMTHFC_f : h2o_c + methf_c --> 10fthf_c + h_cMTHFC_b : 10fthf_c + h_c --> h2o_c + methf_cMTHFD_f : mlthf_c + nadp_c --> methf_c + nadph_c
+
+43. Gene PA1806 inibido.
+HEMAT2 : 2theACP_c + h_c + nadh_c --> hexACP_c + nad_cOCMAT3 : 2toceACP_c + h_c + nadh_c --> nad_c + octACP_cDDMAT5 : 2tddACP_c + h_c + nadh_c --> ddcaACP_c + nad_cHDMAT7_f : nad_c + palmACP_c --> h_c + hdeACP_c + nadh_cMAT6 : h_c + nadh_c + tdeACP_c --> myrsACP_c + nad_cBTMAT1 : 2beACP_c + h_c + nadh_c --> butACP_c + nad_cHDMAT7_b : h_c + hdeACP_c + nadh_c --> nad_c + palmACP_cOCDMAT8 : 2tocdACP_c + h_c + nadh_c --> nad_c + ocdACP_cDEMAT4 : 2tdeACP_c + h_c + nadh_c --> decACP_c + nad_c
+
+44. Gene PA1843 inibido.
+METS : 5mthf_c + hcys__L_c --> h_c + met__L_c + thf_c
+
+45. Gene PA1959 inibido.
+UDCPK : atp_c + udcp_c --> adp_c + h_c + udcpp_cUDCPDP : h2o_c + udcpdp_c --> h_c + pi_c + udcpp_c
+
+46. Gene PA2023 inibido.
+UGLT_f : gal1p_c + udpg_c --> g1p_c + udpgal_cUGLT_b : g1p_c + udpgal_c --> gal1p_c + udpg_cGALUi : g1p_c + h_c + utp_c --> ppi_c + udpg_cGALU_f : g1p_c + h_c + utp_c --> ppi_c + udpg_cGALU_b : ppi_c + udpg_c --> g1p_c + h_c + utp_c
+
+47. Gene PA2053 inibido.
+HCO3E_b : h_c + hco3_c --> co2_c + h2o_cHCO3E_f : co2_c + h2o_c --> h_c + hco3_c
+
+48. Gene PA2165 inibido.
+GLCS1 : adpglc_c --> adp_c + glycogen_c + h_c
+
+49. Gene PA2407 inibido.
+MNabc : atp_c + h2o_c + mn2_e --> adp_c + h_c + mn2_c + pi_c
+
+50. Gene PA2408 inibido.
+MNabc : atp_c + h2o_c + mn2_e --> adp_c + h_c + mn2_c + pi_c
+
+51. Gene PA2409 inibido.
+MNabc : atp_c + h2o_c + mn2_e --> adp_c + h_c + mn2_c + pi_c
+
+52. Gene PA2629 inibido.
+ADSL2r_f : 25aics_c --> aicar_c + fum_cADSL1r_f_107 : dcamp_c --> amp_c + fum_cADSL2r_b : aicar_c + fum_c --> 25aics_cADSL1r_b_108 : amp_c + fum_c --> dcamp_c
+
+53. Gene PA2962 inibido.
+DTMPK_b : adp_c + dtdp_c --> atp_c + dtmp_cDTMPK_f : atp_c + dtmp_c --> adp_c + dtdp_c
+
+54. Gene PA2964 inibido.
+ADCL : 4adcho_c --> 4abz_c + h_c + pyr_c
+
+55. Gene PA2967 inibido.
+HDDR5_762 : 3oxddACP_c + h_c + nadph_c --> 3hddACP_c + nadp_cHTDR6 : 3oxtdACP_c + h_c + nadph_c --> 3htdACP_c + nadp_cHHYR2_799 : 3oxhACP_c + h_c + nadph_c --> 3hhACP_c + nadp_cHDER4_771 : 3oxdeACP_c + h_c + nadph_c --> 3hdeACP_c + nadp_cHODR8 : 3oxocdacp_c + h_c + nadph_c --> 3hocdacp_c + nadp_cHBUR1_750 : actACP_c + h_c + nadph_c --> 3hbACP_c + nadp_cHOCR3_830 : 3oxocACP_c + h_c + nadph_c --> 3hocACP_c + nadp_cHHDR7 : 3oxhdACP_c + h_c + nadph_c --> 3hpaACP_c + nadp_c
+
+56. Gene PA2968 inibido.
+MCOATA_f : ACP_c + malcoa_c --> coa_c + malACP_cMCOATA_b : coa_c + malACP_c --> ACP_c + malcoa_c
+
+57. Gene PA2977 inibido.
+UAPGR : h_c + nadph_c + uaccg_c --> nadp_c + uamr_c
+
+58. Gene PA2979 inibido.
+DMOCT : ctp_c + kdo_c --> ckdo_c + ppi_c
+
+59. Gene PA2981 inibido.
+PA_TDSK : PA_lipidAds_c + atp_c --> PA_lipidApre_c + adp_c + h_c
+
+60. Gene PA3088 inibido.
+NADK : atp_c + nad_c --> adp_c + h_c + nadp_c
+
+61. Gene PA3108 inibido.
+GLUPRT : gln__L_c + h2o_c + prpp_c --> glu__L_c + ppi_c + pram_c
+
+62. Gene PA3111 inibido.
+THFGLUS_b : adp_c + h_c + pi_c + thfglu_c --> atp_c + glu__L_c + thf_cTHFGLUS_f : atp_c + glu__L_c + thf_c --> adp_c + h_c + pi_c + thfglu_cDHFS : atp_c + dhpt_c + glu__L_c --> adp_c + dhf_c + h_c + pi_c
+
+63. Gene PA3112 inibido.
+ACCOACr_f : accoa_c + atp_c + hco3_c --> adp_c + h_c + malcoa_c + pi_cACCOACr_b : adp_c + h_c + malcoa_c + pi_c --> accoa_c + atp_c + hco3_c
+
+64. Gene PA3113 inibido.
+PRAI_f : pran_c --> 2cpr5p_cPRAI_b : 2cpr5p_c --> pran_c
+
+65. Gene PA3118 inibido.
+ME1x_D : mal__D_c + nad_c --> co2_c + nadh_c + pyr_cIPMD__2 : 3c2hmp_c + nad_c --> 4mop_c + co2_c + nadh_c
+
+66. Gene PA3120 inibido.
+IPPMIa_f : 3c2hmp_c --> 2ippm_c + h2o_cIPPMIa_b : 2ippm_c + h2o_c --> 3c2hmp_cIPPMIb_b : 3c3hmp_c --> 2ippm_c + h2o_cIPPMIb_f : 2ippm_c + h2o_c --> 3c3hmp_c
+
+67. Gene PA3121 inibido.
+IPPMIa_f : 3c2hmp_c --> 2ippm_c + h2o_cIPPMIa_b : 2ippm_c + h2o_c --> 3c2hmp_cIPPMIb_b : 3c3hmp_c --> 2ippm_c + h2o_cIPPMIb_f : 2ippm_c + h2o_c --> 3c3hmp_c
+
+68. Gene PA3163 inibido.
+CYTK2_b : adp_c + dcdp_c --> atp_c + dcmp_cCYTK2_f : atp_c + dcmp_c --> adp_c + dcdp_cCYTK1_f : atp_c + cmp_c --> adp_c + cdp_cCYTK1_b : adp_c + cdp_c --> atp_c + cmp_c
+
+69. Gene PA3164 inibido.
+PSCVT_b : 3psme_c + pi_c --> pep_c + skm5p_cPPND : nad_c + pphn_c --> 34hpp_c + co2_c + nadh_cPSCVT_f : pep_c + skm5p_c --> 3psme_c + pi_c
+
+70. Gene PA3166 inibido.
+CHORM : chor_c --> pphn_cPPNDH : h_c + pphn_c --> co2_c + h2o_c + phpyr_c
+
+71. Gene PA3296 inibido.
+AKP1 : ahdt_c + 3.0 h2o_c --> dhnpt_c + 2.0 h_c + 3.0 pi_cPDXPP : h2o_c + pdx5p_c --> pi_c + pydxn_c
+
+72. Gene PA3337 inibido.
+AGMHE : adphep__D__44__D_c --> adphep__L__44__D_c
+
+73. Gene PA3418 inibido.
+LLEUDr_f : h2o_c + leu__L_c + nad_c --> 4mop_c + h_c + nadh_c + nh4_cLLEUDr_b : 4mop_c + h_c + nadh_c + nh4_c --> h2o_c + leu__L_c + nad_cLLEUD : 4mop_c + h_c + nadh_c + nh4_c --> h2o_c + leu__L_c + nad_cVALDHr_b : 3mob_c + h_c + nadh_c + nh4_c --> h2o_c + nad_c + val__L_cILEDHr_b : 2o3mpt_c + h_c + nadh_c + nh4_c --> h2o_c + ile__L_c + nad_cVALDHr_f : h2o_c + nad_c + val__L_c --> 3mob_c + h_c + nadh_c + nh4_cILEDHr_f : h2o_c + ile__L_c + nad_c --> 2o3mpt_c + h_c + nadh_c + nh4_c
+
+74. Gene PA3636 inibido.
+KDOPS : ara5p_c + h2o_c + pep_c --> kdo8p_c + pi_c
+
+75. Gene PA3637 inibido.
+CTPS2 : atp_c + gln__L_c + h2o_c + utp_c --> adp_c + ctp_c + glu__L_c + 2.0 h_c + pi_c
+
+76. Gene PA3639 inibido.
+ACCOACr_f : accoa_c + atp_c + hco3_c --> adp_c + h_c + malcoa_c + pi_cACCOACr_b : adp_c + h_c + malcoa_c + pi_c --> accoa_c + atp_c + hco3_c
+
+77. Gene PA3643 inibido.
+PA_LPADSS : PA_lipidX_c + PA_u23ga_c --> PA_lipidAds_c + h_c + udp_c
+
+78. Gene PA3644 inibido.
+PA_UACAT : 3hdeACP_c + uacgam_c --> ACP_c + PA_u3aga_c
+
+79. Gene PA3646 inibido.
+PA_U23GAAT : 3hddACP_c + PA_u3hga_c --> ACP_c + PA_u23ga_c + h_c
+
+80. Gene PA3651 inibido.
+PHCYTr_PA_b : 0.02 cdpdag_PA_c + ppi_c --> 0.02 12dag3p_PA_c + ctp_c + h_cPHCYTr_PA_f : 0.02 12dag3p_PA_c + ctp_c + h_c --> 0.02 cdpdag_PA_c + ppi_c
+
+81. Gene PA3654 inibido.
+URIDK3_f : atp_c + dump_c --> adp_c + dudp_cUMPK_f : atp_c + ump_c --> adp_c + udp_cURIDK3_b : adp_c + dudp_c --> atp_c + dump_cUMPK_b : adp_c + udp_c --> atp_c + ump_c
+
+82. Gene PA3659 inibido.
+TYRTA_f_1484 : akg_c + tyr__L_c --> 34hpp_c + glu__L_cTYRTA_b_1485 : 34hpp_c + glu__L_c --> akg_c + tyr__L_cSDPTA_b : glu__L_c + sl2a6o_c --> akg_c + sl26da_cSDPTA_f : akg_c + sl26da_c --> glu__L_c + sl2a6o_c
+
+83. Gene PA3666 inibido.
+THDPS : h2o_c + succoa_c + thdp_c --> coa_c + sl2a6o_c
+
+84. Gene PA3673 inibido.
+12DAG3Ps_PA : 0.51 2tocdACP_c + 0.5 glyc3p_c + 0.13 hdeACP_c + 0.03 ocdACP_c + 0.33 palmACP_c --> 0.01 12dag3p_PA_c + ACP_c
+
+85. Gene PA3686 inibido.
+ADK1_f : amp_c + atp_c --> 2.0 adp_cADK1_b : 2.0 adp_c --> amp_c + atp_cDADK_b : adp_c + dadp_c --> atp_c + damp_cADK3_b : adp_c + gdp_c --> amp_c + gtp_cADK4_b : adp_c + idp_c --> amp_c + itp_cDADK_f : atp_c + damp_c --> adp_c + dadp_cADK3_f : amp_c + gtp_c --> adp_c + gdp_cADK4_f : amp_c + itp_c --> adp_c + idp_c
+
+86. Gene PA3735 inibido.
+THRS : h2o_c + phom_c --> pi_c + thr__L_c4HTHRS : h2o_c + phthr_c --> 4hthr_c + pi_c
+
+87. Gene PA3736 inibido.
+HSDy_f : hom__L_c + nadp_c --> aspsa_c + h_c + nadph_cHSDy_b : aspsa_c + h_c + nadph_c --> hom__L_c + nadp_c
+
+88. Gene PA3763 inibido.
+PRFGS : atp_c + fgam_c + gln__L_c + h2o_c --> adp_c + fpram_c + glu__L_c + 2.0 h_c + pi_c
+
+89. Gene PA3807 inibido.
+NDPK8_f : atp_c + dadp_c --> adp_c + datp_cNDPK2_b : adp_c + utp_c --> atp_c + udp_cNDPK5_b : adp_c + dgtp_c --> atp_c + dgdp_cNDPK3_f : atp_c + cdp_c --> adp_c + ctp_cNDPK6_f : atp_c + dudp_c --> adp_c + dutp_cNDPK8_b : adp_c + datp_c --> atp_c + dadp_cNDPK3_b : adp_c + ctp_c --> atp_c + cdp_cNDPK1_f : atp_c + gdp_c --> adp_c + gtp_cNDPK7_b : adp_c + dctp_c --> atp_c + dcdp_cNDPK4_f : atp_c + dtdp_c --> adp_c + dttp_cNDPK6_b : adp_c + dutp_c --> atp_c + dudp_cNDPK1_b : adp_c + gtp_c --> atp_c + gdp_cNDPK7_f : atp_c + dcdp_c --> adp_c + dctp_cNDPK4_b : adp_c + dttp_c --> atp_c + dtdp_cNDPK2_f : atp_c + udp_c --> adp_c + utp_cNDPK5_f : atp_c + dgdp_c --> adp_c + dgtp_c
+
+90. Gene PA4006 inibido.
+NMNAT : atp_c + h_c + nmn_c --> nad_c + ppi_cNNAT : atp_c + h_c + nicrnt_c --> dnad_c + ppi_c
+
+91. Gene PA4031 inibido.
+PPA : h2o_c + ppi_c --> h_c + 2.0 pi_c
+
+92. Gene PA4053 inibido.
+RBFSa : 4r5au_c + db4p_c --> dmlz_c + 2.0 h2o_c + pi_cRBFSb : 2.0 dmlz_c --> 4r5au_c + ribflv_c
+
+93. Gene PA4054 inibido.
+GTPCII_736 : gtp_c + 3.0 h2o_c --> 25dhpp_c + for_c + 2.0 h_c + ppi_cRIBB : r5p_c --> db4p_c + for_c + h_c
+
+94. Gene PA4055 inibido.
+RBFSb : 2.0 dmlz_c --> 4r5au_c + ribflv_c
+
+95. Gene PA4056 inibido.
+APRAUR : 5apru_c + h_c + nadph_c --> 5aprbu_c + nadp_cDHPPDA2 : 25dhpp_c + h2o_c + h_c --> 5apru_c + nh4_c
+
+96. Gene PA4201 inibido.
+ALAALA_f : 2.0 ala__D_c + atp_c --> adp_c + alaala_c + h_c + pi_cALAALA_b : adp_c + alaala_c + h_c + pi_c --> 2.0 ala__D_c + atp_c
+
+97. Gene PA4397 inibido.
+DPR : 2dhp_c + h_c + nadph_c --> nadp_c + pant__R_c
+
+98. Gene PA4406 inibido.
+PA_UHGADA : PA_u3aga_c + h2o_c --> PA_u3hga_c + ac_c
+
+99. Gene PA4410 inibido.
+ALAALA_f : 2.0 ala__D_c + atp_c --> adp_c + alaala_c + h_c + pi_cALAALA_b : adp_c + alaala_c + h_c + pi_c --> 2.0 ala__D_c + atp_c
+
+100. Gene PA4411 inibido.
+UAMAS : ala__L_c + atp_c + uamr_c --> adp_c + h_c + pi_c + uama_c
+
+101. Gene PA4412 inibido.
+UAGPT3 : uacgam_c + uagmda_c --> h_c + uaagmda_c + udp_c
+
+102. Gene PA4414 inibido.
+UAMAGS : atp_c + glu__D_c + uama_c --> adp_c + h_c + pi_c + uamag_c
+
+103. Gene PA4415 inibido.
+PAPPT3 : udcpp_c + ugmda_c --> uagmda_c + ump_c
+
+104. Gene PA4416 inibido.
+UGMDDS : alaala_c + atp_c + ugmd_c --> adp_c + h_c + pi_c + ugmda_c
+
+105. Gene PA4417 inibido.
+UAAGDS : 26dap__M_c + atp_c + uamag_c --> adp_c + h_c + pi_c + ugmd_c
+
+106. Gene PA4425 inibido.
+S7PI_f : s7p_c --> gmh7p_cS7PI_b : gmh7p_c --> s7p_c
+
+107. Gene PA4442 inibido.
+SADT2 : atp_c + gtp_c + h2o_c + so4_c --> aps_c + gdp_c + pi_c + ppi_c
+
+108. Gene PA4443 inibido.
+SADT2 : atp_c + gtp_c + h2o_c + so4_c --> aps_c + gdp_c + pi_c + ppi_c
+
+109. Gene PA4448 inibido.
+HISTD : h2o_c + histd_c + 2.0 nad_c --> 3.0 h_c + his__L_c + 2.0 nadh_c
+
+110. Gene PA4449 inibido.
+ATPPRT : atp_c + prpp_c --> ppi_c + prbatp_c
+
+111. Gene PA4450 inibido.
+UAGCVT : pep_c + uacgam_c --> pi_c + uaccg_c
+
+112. Gene PA4457 inibido.
+A5PISO_f : ru5p__D_c --> ara5p_cA5PISO_b : ara5p_c --> ru5p__D_c
+
+113. Gene PA4458 inibido.
+KDOPP : h2o_c + kdo8p_c --> kdo_c + pi_c
+
+114. Gene PA4524 inibido.
+NNDPR : 2.0 h_c + prpp_c + quln_c --> co2_c + nicrnt_c + ppi_c
+
+115. Gene PA4529 inibido.
+DPCOAK : atp_c + dpcoa_c --> adp_c + coa_c + h_c
+
+116. Gene PA4561 inibido.
+FMNAT : atp_c + fmn_c + h_c --> fad_c + ppi_cRBFK : atp_c + ribflv_c --> adp_c + fmn_c + h_c
+
+117. Gene PA4655 inibido.
+FCLT : fe2_c + ppp9_c --> h_c + pheme_c
+
+118. Gene PA4662 inibido.
+GLUR_f : glu__D_c --> glu__L_cGLUR_b : glu__L_c --> glu__D_c
+
+119. Gene PA4666 inibido.
+GLUTRR : glutrna_c + h_c + nadph_c --> glu1sa_c + nadp_c + trnaglu_c
+
+120. Gene PA4670 inibido.
+PRPPS_b : amp_c + h_c + prpp_c --> atp_c + r5p_cPRPPS_f : atp_c + r5p_c --> amp_c + h_c + prpp_c
+
+121. Gene PA4693 inibido.
+CDPDSPr_PA_f : 0.02 cdpdag_PA_c + ser__L_c --> cmp_c + h_c + 0.02 ps_PA_cCDPDSPr_PA_b : cmp_c + h_c + 0.02 ps_PA_c --> 0.02 cdpdag_PA_c + ser__L_c
+
+122. Gene PA4694 inibido.
+KARA2i : 2ahbut_c + h_c + nadph_c --> 23dhmp_c + nadp_cAHAI : alac__S_c + h_c + nadph_c --> 23dhmb_c + nadp_c
+
+123. Gene PA4695 inibido.
+ACLS : h_c + 2.0 pyr_c --> alac__S_c + co2_cACHBS : 2obut_c + h_c + pyr_c --> 2ahbut_c + co2_c
+
+124. Gene PA4696 inibido.
+ACLS : h_c + 2.0 pyr_c --> alac__S_c + co2_cACHBS : 2obut_c + h_c + pyr_c --> 2ahbut_c + co2_c
+
+125. Gene PA4729 inibido.

@@ -1,0 +1,29 @@
+*** INICIO DA EXECUCAO *** 
+Modelo/Organismo/Nome/Email/Metodo = iPAE1146, Pseudomonas aeruginosa, Rafael Rodrigues de Siqueira, rrs-123@hotmail.com, 1
+
+
+INICIO DO ITEM 1
+GRAVOU ARQUIVO COM OS DADOS DE GENE/REACAO DA REDE
+GEROU FBA 
+FBA = <Solution 1.037 at 0x7fd913ab3cc0>
+INICIO DO ITEM 2
+GEROU FVA 
+INICIO DA VERIFICACAO ENTRE FBA/FVA 
+Lista de reacoes a analisar = 68
+GENERATED FILE 01-fva.csv
+GENERATED FILE /var/www/html/findtargetsweb3/FindTargetsWEB/results/2020-05-15_18.53.50.347534//02-reacoesFVADifZero.txt
+INICIO DO ITEM 3
+len(listReactPerturb) = 68
+Total de reacoes cujo FBA zerou = 66
+INICIO DA BIFURCACAO
+if len(model.genes) = True
+INICIO DO ITEM 4
+INICIO DO ITEM 5
+INICIO DO ITEM 6
+list_acron_kegg = ['pae', 'paev', 'paei', 'pau', 'pap', 'pag', 'paf', 'pnc', 'paeb', 'pdk', 'psg', 'prp', 'paep', 'paer', 'paem', 'pael', 'paes', 'paeu', 'paeg', 'paec', 'paeo']
+len my_list_genes = 32
+INICIO DO ITEM 7
+INICIO DO ITEM 8
+INICIO DO ITEM 9
+INICIO DO ITEM 10
+ACABOU!!! SEJA FELIZ!!!

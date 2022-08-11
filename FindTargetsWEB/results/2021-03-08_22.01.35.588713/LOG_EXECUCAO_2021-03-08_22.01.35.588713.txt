@@ -1,0 +1,5 @@
+*** INICIO DA EXECUCAO *** 
+Modelo/Organismo/Nome/Email/Metodo = COBRAModel, Pseudomonas aeruginosa, Fabricio, fabs.fiocruz@gmail.com, 1
+
+
+INICIO DO ITEM 1

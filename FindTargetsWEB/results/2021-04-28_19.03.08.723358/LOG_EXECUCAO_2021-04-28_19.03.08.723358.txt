@@ -1,0 +1,29 @@
+*** INICIO DA EXECUCAO *** 
+Modelo/Organismo/Nome/Email/Metodo = M_MODEL1507180020, Pseudomonas aeruginosa, Ana, ana.pbn@gmail.com, 1
+
+
+INICIO DO ITEM 1
+GRAVOU ARQUIVO COM OS DADOS DE GENE/REACAO DA REDE
+GEROU FBA 
+FBA = <Solution 0.816 at 0x7f20184f63c8>
+INICIO DO ITEM 2
+GEROU FVA 
+INICIO DA VERIFICACAO ENTRE FBA/FVA 
+Lista de reacoes a analisar = 291
+GENERATED FILE 01-fva.csv
+GENERATED FILE /var/www/html/findtargetsweb3/FindTargetsWEB/results/2021-04-28_19.03.08.723358//02-reacoesFVADifZero.txt
+INICIO DO ITEM 3
+len(listReactPerturb) = 291
+Total de reacoes cujo FBA zerou = 238
+INICIO DA BIFURCACAO
+if len(model.genes) = True
+INICIO DO ITEM 4
+INICIO DO ITEM 5
+INICIO DO ITEM 6
+list_acron_kegg = ['pae', 'paev', 'paei', 'pau', 'pap', 'pag', 'paf', 'pnc', 'paeb', 'pdk', 'psg', 'prp', 'paep', 'paer', 'paem', 'pael', 'paes', 'paeu', 'paeg', 'paec', 'paeo']
+len my_list_genes = 168
+INICIO DO ITEM 7
+INICIO DO ITEM 8
+INICIO DO ITEM 9
+INICIO DO ITEM 10
+ACABOU!!! SEJA FELIZ!!!

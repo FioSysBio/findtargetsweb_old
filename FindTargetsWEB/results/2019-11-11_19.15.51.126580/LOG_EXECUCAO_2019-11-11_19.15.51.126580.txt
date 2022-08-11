@@ -1,0 +1,29 @@
+*** INICIO DA EXECUCAO *** 
+Modelo/Organismo/Nome/Email/Metodo = CCBH4851, Pseudomonas aeruginosa, Leonardo Charles Carlim Pinto, leonardocarlim@gmail.com, 1
+
+
+INICIO DO ITEM 1
+GRAVOU ARQUIVO COM OS DADOS DE GENE/REACAO DA REDE
+GEROU FBA 
+FBA = <Solution 12.471 at 0x7f12b339fba8>
+INICIO DO ITEM 2
+GEROU FVA 
+INICIO DA VERIFICACAO ENTRE FBA/FVA 
+Lista de reacoes a analisar = 242
+GENERATED FILE 01-fva.csv
+GENERATED FILE /var/www/html/findtargetsweb3/FindTargetsWEB/results/2019-11-11_19.15.51.126580//02-reacoesFVADifZero.txt
+INICIO DO ITEM 3
+len(listReactPerturb) = 242
+Total de reacoes cujo FBA zerou = 175
+INICIO DA BIFURCACAO
+if len(model.genes) = True
+INICIO DO ITEM 4
+INICIO DO ITEM 5
+INICIO DO ITEM 6
+list_acron_kegg = ['pae', 'paev', 'paei', 'pau', 'pap', 'pag', 'paf', 'pnc', 'paeb', 'pdk', 'psg', 'prp', 'paep', 'paer', 'paem', 'pael', 'paes', 'paeu', 'paeg', 'paec', 'paeo']
+len my_list_genes = 97
+INICIO DO ITEM 7
+INICIO DO ITEM 8
+INICIO DO ITEM 9
+INICIO DO ITEM 10
+ACABOU!!! SEJA FELIZ!!!

@@ -1,0 +1,70 @@
+Human herpesvirus 3 OX
+Varicella-zoster virus (strain Dumas) OX
+Cercopithecine herpesvirus 9 (strain DHV) OX
+Equine herpesvirus 4 (strain 1942) OX
+Feline herpesvirus 1 OX
+Equid alphaherpesvirus 3 OX
+Suid alphaherpesvirus 1 OX
+Canid alphaherpesvirus 1 OX
+Sphenicid alphaherpesvirus 1 OX
+Anatid alphaherpesvirus 1 OX
+Bovine alphaherpesvirus 1 OX
+Saimiriine herpesvirus 1 (strain MV-5-4-PSL) OX
+Falconid herpesvirus 1 OX
+Human herpesvirus 2 (strain HG52) OX
+Human herpesvirus 1 (strain 17) OX
+Cercopithecine herpesvirus 1 OX
+Macropodid alphaherpesvirus 1 OX
+Fruit bat alphaherpesvirus 1 OX
+Gallid herpesvirus 2 (strain Chicken/Md5/ATCC VR-987) OX
+Gallid alphaherpesvirus 2 OX
+Meleagrid herpesvirus 1 OX
+Marek's disease virus serotype 2 MDV2 OX
+Psittacid herpesvirus 1 (isolate Amazon parrot/-/97-0001/1997) OX
+Infectious laryngotracheitis virus OX
+Leporid alphaherpesvirus 4 OX
+Testudinid herpesvirus 3 OX
+Felis catus gammaherpesvirus 1 OX
+Murid herpesvirus 4 OX
+Elephant endotheliotropic herpesvirus 4 OX
+Myotis gammaherpesvirus 8 OX
+Epstein-Barr virus (strain B95-8) OX
+Epstein-Barr virus (strain AG876) OX
+Saimiriine herpesvirus 2 (strain 11) OX
+Bovine herpesvirus 4 OX
+Elephant endotheliotropic herpesvirus 5 OX
+Glossina pallidipes OX
+Cricetid gammaherpesvirus 2 OX
+Equine herpesvirus 2 (strain 86/87) OX
+Equid gammaherpesvirus 5 OX
+Elephant endotheliotropic herpesvirus 1A OX
+Tieghemostelium lacteum OX
+Glossina austeni OX
+Glossina brevipalpis OX
+Glossina morsitans morsitans OX
+Aedes albopictus OX
+Drosophila busckii OX
+Papilio xuthus OX
+Vogesella sp. LIG4 OX
+Papilio machaon OX
+Cylindrobasidium torrendii FP15055 ss-10 OX
+Cryptotermes secundus OX
+Culex quinquefasciatus OX
+Musca domestica OX
+Heliothis virescens OX
+Branchiostoma floridae OX
+Musca domestica OX
+Lucilia cuprina OX
+Heliothis virescens OX
+Schistosoma rodhaini OX
+Aedes aegypti OX
+Stomoxys calcitrans OX
+Aedes aegypti OX
+Stomoxys calcitrans OX
+Stomoxys calcitrans OX
+Lutzomyia longipalpis OX
+Drosophila grimshawi OX
+Phlebotomus papatasi OX
+Dermatophilus congolensis OX
+Strigamia maritima OX
+Zootermopsis nevadensis OX

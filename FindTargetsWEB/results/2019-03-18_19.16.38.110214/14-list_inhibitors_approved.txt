@@ -1,0 +1,20 @@
+P0A953;BE0000801;DB01034;Cerulenin;approved;yes;inhibitor
+P0AC13;BE0000803;DB00576;Sulfamethizole;approved, investigational, vet_approved;yes;inhibitor
+P0AC13;BE0000803;DB01298;Sulfacytine;approved;yes;inhibitor
+P0AC13;BE0000803;DB00263;Sulfisoxazole;approved, vet_approved;yes;inhibitor
+P0AC13;BE0000803;DB00634;Sulfacetamide;approved;yes;inhibitor
+P0AC13;BE0000803;DB00259;Sulfanilamide;approved;yes;inhibitor
+P0AC13;BE0000803;DB01015;Sulfamethoxazole;approved;yes;inhibitor
+P0AC13;BE0000803;DB01581;Sulfamerazine;approved, vet_approved;yes;inhibitor
+P0AC13;BE0000803;DB01582;Sulfamethazine;approved, investigational, vet_approved;yes;inhibitor
+P0AC13;BE0000803;DB06729;Sulfaphenazole;approved;yes;inhibitor
+P0A749;BE0000468;DB00828;Fosfomycin;approved;yes;inhibitor
+P0AEB2;BE0004840;DB00578;Carbenicillin;approved, investigational;yes;inhibitor
+P0AEB2;BE0004840;DB09319;Carindacillin;approved, investigational;yes;inhibitor
+P0AEB2;BE0004840;DB00578;Carbenicillin;approved, investigational;yes;inhibitor
+P0AEB2;BE0004840;DB09319;Carindacillin;approved, investigational;yes;inhibitor
+P08506;BE0003685;DB01329;Cefoperazone;approved, investigational;yes;inhibitor
+P08506;BE0003685;DB01331;Cefoxitin;approved;yes;inhibitor
+P08506;BE0003685;DB00430;Cefpiramide;approved;yes;inhibitor
+P08506;BE0003685;DB00274;Cefmetazole;approved, investigational;yes;inhibitor
+P08506;BE0003685;DB00303;Ertapenem;approved, investigational;yes;inhibitor

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>FindTargetsWEB</title> 
+
+{% load staticfiles  %}
+<link rel="stylesheet" type="text/css" href="FindTargetsWEB/FindTargetsWEB/static/style.css" />
+
+</head>
+
+<body>
+	<div class="container">
+		<form id="contact" action="{% url 'FindTargetsWEB:index' %}" method="post" enctype="multipart/form-data"> 
+			{% csrf_token %}
+			<h3>FindTargetsWeb v1.1</h3>
+			<h4>Execute your model and receive the results in your email</h4>
+			<fieldset>{{form.name}}</fieldset>
+			<fieldset>{{form.email}}</fieldset>
+			<fieldset>{{form.organism}}</fieldset>
+			<fieldset>{{form.file}}</fieldset>
+			<fieldset>
+				<button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+			</fieldset>
+			<a href="{% url 'FindTargetsWEB:download' %}">USER MANUAL</a>
+		</form>
+	</div>
+
+</body>
+</html>

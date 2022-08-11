@@ -1,0 +1,78 @@
+Human herpesvirus 1 (strain 17) OX
+Human herpesvirus 2 (strain HG52) OX
+Cercopithecine herpesvirus 1 OX
+Fruit bat alphaherpesvirus 1 OX
+Leporid alphaherpesvirus 4 OX
+Saimiriine herpesvirus 1 (strain MV-5-4-PSL) OX
+Macropodid alphaherpesvirus 1 OX
+Equid alphaherpesvirus 3 OX
+Equine herpesvirus 4 (strain 1942) OX
+Suid alphaherpesvirus 1 OX
+Bovine alphaherpesvirus 1 OX
+Feline herpesvirus 1 OX
+Sphenicid alphaherpesvirus 1 OX
+Canid alphaherpesvirus 1 OX
+Anatid alphaherpesvirus 1 OX
+Cercopithecine herpesvirus 9 (strain DHV) OX
+Falconid herpesvirus 1 OX
+Human herpesvirus 3 OX
+Varicella-zoster virus (strain Dumas) OX
+Meleagrid herpesvirus 1 OX
+Marek's disease virus serotype 2 MDV2 OX
+Gallid herpesvirus 2 (strain Chicken/Md5/ATCC VR-987) OX
+Gallid alphaherpesvirus 2 OX
+Psittacid herpesvirus 1 (isolate Amazon parrot/-/97-0001/1997) OX
+Infectious laryngotracheitis virus OX
+Testudinid herpesvirus 3 OX
+Ovine gammaherpesvirus 2 OX
+Common bottlenose dolphin gammaherpesvirus 1 strain Sarasota OX
+Macaca fuscata rhadinovirus OX
+Rhesus monkey rhadinovirus H26-95 OX
+Equine herpesvirus 2 (strain 86/87) OX
+Epstein-Barr virus (strain B95-8) OX
+Epstein-Barr virus (strain AG876) OX
+Retroperitoneal fibromatosis-associated herpesvirus OX
+Bovine herpesvirus 4 OX
+Felis catus gammaherpesvirus 1 OX
+Equid gammaherpesvirus 5 OX
+Alcelaphine herpesvirus 1 (strain C500) OX
+Myotis gammaherpesvirus 8 OX
+Bovine gammaherpesvirus 6 OX
+Saimiriine herpesvirus 2 (strain 11) OX
+Elephant endotheliotropic herpesvirus 4 OX
+Gordonia paraffinivorans NBRC 108238 OX
+Deinococcus koreensis OX
+Actinoplanes sp. N902-109 OX
+Scleropages formosus OX
+Elephant endotheliotropic herpesvirus 5 OX
+Acidobacteria bacterium RIFCSPLOWO2_02_FULL_67_21 OX
+Nocardioides luteus OX
+Schizophyllum commune (strain H4-8 / FGSC 9210) OX
+Actinomadura sp. 5-2 OX
+Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100) OX
+Enhydra lutris kenyoni OX
+Mustela putorius furo OX
+Human herpesvirus 8 type P (isolate GK18) OX
+Sphingomonas jatrophae OX
+Streptomyces sp. CB01249 OX
+Mycobacterium sp. YC-RL4 OX
+Frateuria aurantia (strain ATCC 33424 / DSM 6220 / NBRC 3245 / NCIMB 13370) OX
+Danio rerio OX
+Luteimonas sp. JM171 OX
+Ailuropoda melanoleuca OX
+Phenylobacterium sp. LX32 OX
+Sporolactobacillus laevolacticus DSM 442 OX
+Leptonychotes weddellii OX
+Cellulomonas sp. Leaf395 OX
+Spizellomyces punctatus DAOM BR117 OX
+Amphimedon queenslandica OX
+Micromonospora sp. MH33 OX
+Ursus maritimus OX
+Pseudomonas sp. URIL14HWK12:I9 OX
+Calocera cornea HHB12733 OX
+Amphimedon queenslandica OX
+Pseudomonas sp. ZYSR67-Z OX
+Intrasporangium calvum (strain ATCC 23552 / DSM 43043 / JCM 3097 / NBRC 12989 / 7 KIP) OX
+Geodermatophilus amargosae OX
+Prauserella muralis OX
+Emiliania huxleyi OX

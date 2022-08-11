@@ -1,0 +1,520 @@
+1. Gene g9 inibido.
+3HAD13M14 : 13m3hmyrsACP_c --> 13mtmrs2eACP_c + h2o_cBPNT : h2o_c + pap_c --> amp_c + pi_cG3PCT : ctp_c + glyc3p_c + h_c --> cdpglyc_c + ppi_cdreplication :  --> dnarep_cDMATT : dmpp_c + ipdp_c --> grdp_c + ppi_cADOCBLS : agdpcbi_c + rdmbzi_c --> adocbl_c + gmp_c + h_cMOPSabc : atp_c + h2o_c + mops_e --> adp_c + h_c + mops_c + pi_cUAAGDS : 26dap_M_c + atp_c + uamag_c --> adp_c + h_c + pi_c + ugmd_cTAURabc : atp_c + h2o_c + taur_e --> adp_c + h_c + pi_c + taur_cpbiosynthesis :  --> proteinsynth_cTECAAE : PGPm1_c + prl45tcaala_c --> glyc45tcaala_D_c + udcpp_cEAR6M8x : 6mtoct2eACP_c + h_c + nadh_c --> 6mocACP_c + nad_c3HAD14M16 : 14m3hpalmACP_c --> 14mtpalm2eACP_c + h2o_cSBTpts : pep_c + sbt_D_e --> pyr_c + sbt6p_cFE3abc : atp_c + fe3_e + h2o_c --> adp_c + fe3_c + h_c + pi_cGRTT : grdp_c + ipdp_c --> frdp_c + ppi_cMSO3abc : atp_c + h2o_c + mso3_e --> adp_c + h_c + mso3_c + pi_cHEMEti : atp_c + h2o_c + pheme_e --> adp_c + h_c + pheme_c + pi_cTECAGE : PGPm1_c + prl45tcaglc_c --> glyc45tcaglc_c + udcpp_cPTRCabc : atp_c + h2o_c + ptrc_e --> adp_c + h_c + pi_c + ptrc_cARBTpts : arbt_e + pep_c --> arbt6p_c + pyr_cEAR12M14x : 12mtmrs2eACP_c + h_c + nadh_c --> 12mmyrsACP_c + nad_cEAR7M8x : 7mtoct2eACP_c + h_c + nadh_c --> 7mocACP_c + nad_c3HAD15M16 : 15m3hpalmACP_c --> 15mtpalm2eACP_c + h2o_cALAALA : 2.0 ala_D_c + atp_c --> adp_c + alaala_c + h_c + pi_cFOLt : fol_e + h_e --> fol_c + h_cG5SADs : glu5sa_c --> 1pyr5c_c + h2o_c + h_cUACMAMAT : uacmam_c + unaga_c --> acbdma14gapuc_c + h_c + udp_cPSDAI17 : h_c + psai17_c --> co2_c + peai17_cTECAUE : PGPm1_c + prl45tca_c --> glyc45tca_c + udcpp_cBTNCLi : apoC_Lys_btn_c + atp_c + hco3_c --> adp_c + btn_co2_c + h_c + pi_cLCYSTabc : Lcyst_e + atp_c + h2o_c --> Lcyst_c + adp_c + h_c + pi_cGALTpts : galt_e + pep_c --> galt1p_c + pyr_cSALCpts : pep_c + salcn_e --> pyr_c + salc6p_cEAR13M14x : 13mtmrs2eACP_c + h_c + nadh_c --> 13mmyrsACP_c + nad_cCYTBD : 2.0 h_c + 0.5 o2_c + q8h2_c --> h2o_c + 2.0 h_e + q8_c3HAD4M6 : 4m3hhexACP_c --> 4mthex2eACP_c + h2o_cPHETA1 : akg_c + phe_L_c <=> glu_L_c + phpyr_cPSDI17 : h_c + psi17_c --> co2_c + pei17_cACBIPGT : adocbip_c + gtp_c + h_c --> agdpcbi_c + ppi_cGLNabc : atp_c + gln_L_e + h2o_c --> adp_c + gln_L_c + h_c + pi_cEAR8M10x : 8mtdec2eACP_c + h_c + nadh_c --> 8mdcaACP_c + nad_cOCDCAt2 : h_e + ocdca_e --> h_c + ocdca_c3HAD5M6 : 5m3hhexACP_c --> 5mthex2eACP_c + h2o_cTECA4S : h2o_c + 30.0 udpacgal_c + 30.0 udpg_c --> tcam_c + 30.0 udp_c + 30.0 ump_cPGPGT : prl45tca_c + 45.0 udpg_c --> 45.0 h_c + prl45tcaglc_c + 45.0 udp_cCDPGLYCGPT : acbdma14gapuc_c + 45.0 cdpglyc_c --> 45.0 cmp_c + 45.0 h_c + prl45tca_cGAMpts : gam_e + pep_c --> gam6p_c + pyr_cEAR9M10x : 9mtdec2eACP_c + h_c + nadh_c --> 9mdcaACP_c + nad_cTHMt3 : h_c + thm_e --> h_e + thm_cACGApts : acgam_e + pep_c --> acgam6p_c + pyr_c3HAD6M8 : 6m3hocACP_c --> 6mtoct2eACP_c + h2o_cCO2t : co2_e --> co2_cDAPabc : 26dap_M_e + atp_c + h2o_c --> 26dap_M_c + adp_c + h_c + pi_cEAR14M16x : 14mtpalm2eACP_c + h_c + nadh_c --> 14mpalmACP_c + nad_cNNDMBRT : dmbzid_c + nicrnt_c --> 5prdmbz_c + h_c + nac_cBUTSO3abc : atp_c + butso3_e + h2o_c --> adp_c + butso3_c + h_c + pi_cOIVD1r : 4mop_c + coa_c + nad_c --> co2_c + ivcoa_c + nadh_cEAR15M16x : 15mtpalm2eACP_c + h_c + nadh_c --> 15mpalmACP_c + nad_cMALTTRabc : atp_c + h2o_c + malttr_e --> adp_c + h_c + malttr_c + pi_c3HAD7M8 : 7m3hocACP_c --> 7mtoct2eACP_c + h2o_cHEXSabc : atp_c + h2o_c + hexs_e --> adp_c + h_c + hexs_c + pi_cTREpts : pep_c + tre_e --> pyr_c + tre6p_cMETDabc : atp_c + h2o_c + met_D_e --> adp_c + h_c + met_D_c + pi_cOIVD3 : 3mop_c + coa_c + nad_c --> 2mbcoa_c + co2_c + nadh_cMALTpts : malt_e + pep_c --> malt6p_c + pyr_c3HAD8M10 : 8m3hdcaACP_c --> 8mtdec2eACP_c + h2o_cTECA1S180 : 24.0 cdpglyc_c + diglcpg180_c --> 24.0 cmp_c + 24.0 h_c + sttca1_cDDPA : e4p_c + h2o_c + pep_c --> 2dda7p_c + pi_cTECA1SAI17 : 24.0 cdpglyc_c + diglcpgai17_c --> ai17tca1_c + 24.0 cmp_c + 24.0 h_cTHZPSN : atp_c + cys_L_c + dxyl5p_c + tyr_L_c --> 4hba_c + 4mpetz_c + ala_L_c + amp_c + co2_c + h2o_c + h_c + ppi_c3HAD9M10 : 9m3hdcaACP_c --> 9mtdec2eACP_c + h2o_cACONTa : cit_c --> acon_C_c + h2o_cCAt4i : ca2_e + h_c --> ca2_c + h_eFRD2 : fum_c + mql8_c --> mqn8_c + succ_cTECA1SI17 : 24.0 cdpglyc_c + diglcpgi17_c --> 24.0 cmp_c + 24.0 h_c + i17tca1_cSO4t2 : h_e + so4_e --> h_c + so4_cSUCDi : q8_c + succ_c --> fum_c + q8h2_cGLUOX : 2.0 glu_L_c + nadp_c --> akg_c + gln_L_c + h_c + nadph_cMETSOX1abc : atp_c + h2o_c + metsox_S_L_e --> adp_c + h_c + metsox_S_L_c + pi_cPSSA180 : cdpdodecg_c + ser_L_c --> cmp_c + h_c + ps180_cFRD3 : 2dmmql8_c + fum_c --> 2dmmq8_c + succ_cMANpts : man_e + pep_c --> man6p_c + pyr_cTECA2S180 : sttca1_c + 24.0 udpg_c --> 24.0 h_c + sttcaglc_c + 24.0 udp_cMETSOX2abc : atp_c + h2o_c + metsox_R_L_e --> adp_c + h_c + metsox_R_L_c + pi_cACONTb : acon_C_c + h2o_c --> icit_cTECA2SAI17 : ai17tca1_c + 24.0 udpg_c --> ai17tcaglc_c + 24.0 h_c + 24.0 udp_cMETabc : atp_c + h2o_c + met_L_e --> adp_c + h_c + met_L_c + pi_cAIHDUDPMG : 12daihdglyc_c + udpg_c --> h_c + m12dahglyc_c + udp_cSUCpts : pep_c + sucr_e --> pyr_c + suc6p_cTECA2SI17 : i17tca1_c + 24.0 udpg_c --> 24.0 h_c + i17tcaglc_c + 24.0 udp_cL2A6ODs : l2a6o_c --> h2o_c + h_c + thdp_cMNLpts : mnl_e + pep_c --> mnl1p_c + pyr_c3HAD10M12 : 10m3hddcaACP_c --> 10mtddec2eACP_c + h2o_cIHDUDPG : m12dihglyc_c + udpg_c --> diglcpgi17_c + h_c + udp_cSPMDabc : atp_c + h2o_c + spmd_e --> adp_c + h_c + pi_c + spmd_cPSSAAI17 : cdpdaihpdecg_c + ser_L_c --> cmp_c + h_c + psai17_cMNabc : atp_c + h2o_c + mn2_e --> adp_c + h_c + mn2_c + pi_cSUDPDGT : m12dsglyc_c + udpg_c --> diglcpg180_c + h_c + udp_cAACOAT : acac_c + atp_c + coa_c --> aacoa_c + amp_c + ppi_cETHSO3abc : atp_c + ethso3_e + h2o_c --> adp_c + ethso3_c + h_c + pi_cEAR4M6x : 4mthex2eACP_c + h_c + nadh_c --> 4mhexACP_c + nad_cFRUpts : fru_e + pep_c --> f1p_c + pyr_cGLCpts : glc_D_e + pep_c --> g6p_c + pyr_crtranscription :  --> rnatrans_cYUMPS : r5p_c + ura_c <=> h2o_c + psd5p_c3HAD11M12 : 11m3hddcaACP_c --> 11mtddec2eACP_c + h2o_cEAR10M12x : 10mtddec2eACP_c + h_c + nadh_c --> 10mddcaACP_c + nad_cCBIAT : atp_c + cbi_c + h_c --> adocbi_c + pppi_cIHDUDPMG : 12dihdglyc_c + udpg_c --> h_c + m12dihglyc_c + udp_cISETACabc : atp_c + h2o_c + isetac_e --> adp_c + h_c + isetac_c + pi_cPSSAI17 : cdpdihpdecg_c + ser_L_c --> cmp_c + h_c + psi17_cRZ5PP : 5prdmbz_c + h2o_c --> pi_c + rdmbzi_cSUDPMGT : 12dgr180_c + udpg_c --> h_c + m12dsglyc_c + udp_cEAR5M6x : 5mthex2eACP_c + h_c + nadh_c --> 5mhexACP_c + nad_cEAR11M12x : 11mtddec2eACP_c + h_c + nadh_c --> 11mddcaACP_c + nad_cMG2abc : atp_c + h2o_c + mg2_e --> adp_c + h_c + mg2_c + pi_cO2t : o2_e --> o2_cH2Ot : h2o_e --> h2o_cPSD180 : h_c + ps180_c --> co2_c + pe180_cZNabc : atp_c + h2o_c + zn2_e --> adp_c + h_c + pi_c + zn2_cSULFACabc : atp_c + h2o_c + sulfac_e --> adp_c + h_c + pi_c + sulfac_c3HAD12M14 : 12m3hmyrsACP_c --> 12mtmrs2eACP_c + h2o_cTYRTA : akg_c + tyr_L_c <=> 34hpp_c + glu_L_cADOCBIK : adocbi_c + atp_c --> adocbip_c + adp_c + h_cAIHDUPDG : m12dahglyc_c + udpg_c --> diglcpgai17_c + h_c + udp_c
+
+2. Gene g12 inibido.
+3OAR4M6 : 4m3ohexACP_c + h_c + nadph_c --> 4m3hhexACP_c + nadp_c3OAR8M10 : 8m3odcaACP_c + h_c + nadph_c --> 8m3hdcaACP_c + nadp_c3OAR10M12 : 10m3oddcaACP_c + h_c + nadph_c --> 10m3hddcaACP_c + nadp_c3OAR12M14 : 12m3omyrsACP_c + h_c + nadph_c --> 12m3hmyrsACP_c + nadp_c3OAR14M16 : 14m3opalmACP_c + h_c + nadph_c --> 14m3hpalmACP_c + nadp_c3OAR6M8 : 6m3oocACP_c + h_c + nadph_c --> 6m3hocACP_c + nadp_c3OAR5M6 : 5m3ohexACP_c + h_c + nadph_c --> 5m3hhexACP_c + nadp_c3OAR8M9 : 8m3ononACP_c + h_c + nadph_c --> 8m3hnonACP_c + nadp_c3OAR11M12 : 11m3oddcaACP_c + h_c + nadph_c --> 11m3hddcaACP_c + nadp_c3OAR40 : actACP_c + h_c + nadph_c --> 3haACP_c + nadp_c3OAR13M14 : 13m3omyrsACP_c + h_c + nadph_c --> 13m3hmyrsACP_c + nadp_c3OAR15M16 : 15m3opalmACP_c + h_c + nadph_c --> 15m3hpalmACP_c + nadp_c3OAR7M8 : 7m3oocACP_c + h_c + nadph_c --> 7m3hocACP_c + nadp_c3OAR100 : 3odecACP_c + h_c + nadph_c --> 3hdecACP_c + nadp_c3OAR120 : 3oddecACP_c + h_c + nadph_c --> 3hddecACP_c + nadp_c3OAR60 : 3ohexACP_c + h_c + nadph_c --> 3hhexACP_c + nadp_c3OAR140 : 3omrsACP_c + h_c + nadph_c --> 3hmrsACP_c + nadp_c3OAR160 : 3opalmACP_c + h_c + nadph_c --> 3hpalmACP_c + nadp_c3OAR9M10 : 9m3odcaACP_c + h_c + nadph_c --> 9m3hdcaACP_c + nadp_c3OAR4M5 : 4m3opentACP_c + h_c + nadph_c --> 4m3hpentACP_c + nadp_c3OAR80 : 3ooctACP_c + h_c + nadph_c --> 3hoctACP_c + nadp_c3OAR12M13 : 12m3otridecACP_c + h_c + nadph_c --> 12m3htridecACP_c + nadp_c3OAR10M11 : 10m3oundecACP_c + h_c + nadph_c --> 10m3hundecACP_c + nadp_c3OAR6M7 : 6m3oheptACP_c + h_c + nadph_c --> 6m3hheptACP_c + nadp_c3OAR14M15 : 14m3opentdecACP_c + h_c + nadph_c --> 14m3hpentdecACP_c + nadp_c3OAR180 : 3ooctdACP_c + h_c + nadph_c --> 3hoctaACP_c + nadp_c
+
+3. Gene g13 inibido.
+3OAS12M13 : 12mtridecACP_c + h_c + malACP_c --> 14m3opentdecACP_c + ACP_c + co2_c3OAS180 : h_c + malACP_c + palmACP_c --> 3ooctdACP_c + ACP_c + co2_c3OAS9M10 : 9mdcaACP_c + h_c + malACP_c --> 11m3oddcaACP_c + ACP_c + co2_c3OAS4M6 : 4mhexACP_c + h_c + malACP_c --> 6m3oocACP_c + ACP_c + co2_c3OAS12M14 : 12mmyrsACP_c + h_c + malACP_c --> 14m3opalmACP_c + ACP_c + co2_cKAS14 : acACP_c + h_c + malACP_c --> ACP_c + actACP_c + co2_c3OAS7M8 : 7mocACP_c + h_c + malACP_c --> 9m3odcaACP_c + ACP_c + co2_c3OAS10M11 : 10mundecACP_c + h_c + malACP_c --> 12m3otridecACP_c + ACP_c + co2_c3OAS5M6 : 5mhexACP_c + h_c + malACP_c --> 7m3oocACP_c + ACP_c + co2_c3OAS2M3 : 2mpropACP_c + h_c + malACP_c --> 4m3opentACP_c + ACP_c + co2_c3OAS13M14 : 13mmyrsACP_c + h_c + malACP_c --> 15m3opalmACP_c + ACP_c + co2_cACOATA : ACP_c + accoa_c --> acACP_c + coa_c3OAS10M12 : 10mddcaACP_c + h_c + malACP_c --> 12m3omyrsACP_c + ACP_c + co2_c3OAS80 : h_c + hexACP_c + malACP_c --> 3ooctACP_c + ACP_c + co2_c3OAS140 : ddcaACP_c + h_c + malACP_c --> 3omrsACP_c + ACP_c + co2_c3OAS60 : butACP_c + h_c + malACP_c --> 3ohexACP_c + ACP_c + co2_c3OAS3M4 : 3mbutACP_c + h_c + malACP_c --> 5m3ohexACP_c + ACP_c + co2_c3OAS11M12 : 11mddcaACP_c + h_c + malACP_c --> 13m3omyrsACP_c + ACP_c + co2_c3OAS8M10 : 8mdcaACP_c + h_c + malACP_c --> 10m3oddcaACP_c + ACP_c + co2_c3OAS6M7 : 6mheptACP_c + h_c + malACP_c --> 8m3ononACP_c + ACP_c + co2_c3OAS4M3O6 : 2mbutACP_c + h_c + malACP_c --> 4m3ohexACP_c + ACP_c + co2_c3OAS160 : h_c + malACP_c + myrsACP_c --> 3opalmACP_c + ACP_c + co2_c3OAS120 : dcaACP_c + h_c + malACP_c --> 3oddecACP_c + ACP_c + co2_c3OAS8M9 : 8mnonACP_c + h_c + malACP_c --> 10m3oundecACP_c + ACP_c + co2_c3OAS100 : h_c + malACP_c + ocACP_c --> 3odecACP_c + ACP_c + co2_c3OAS4M5 : 4mpentACP_c + h_c + malACP_c --> 6m3oheptACP_c + ACP_c + co2_c3OAS6M8 : 6mocACP_c + h_c + malACP_c --> 8m3odcaACP_c + ACP_c + co2_c
+
+4. Gene g14 inibido.
+3OAS12M13 : 12mtridecACP_c + h_c + malACP_c --> 14m3opentdecACP_c + ACP_c + co2_c3OAS180 : h_c + malACP_c + palmACP_c --> 3ooctdACP_c + ACP_c + co2_c3OAS9M10 : 9mdcaACP_c + h_c + malACP_c --> 11m3oddcaACP_c + ACP_c + co2_c3OAS4M6 : 4mhexACP_c + h_c + malACP_c --> 6m3oocACP_c + ACP_c + co2_c3OAS12M14 : 12mmyrsACP_c + h_c + malACP_c --> 14m3opalmACP_c + ACP_c + co2_cKAS14 : acACP_c + h_c + malACP_c --> ACP_c + actACP_c + co2_c3OAS7M8 : 7mocACP_c + h_c + malACP_c --> 9m3odcaACP_c + ACP_c + co2_c3OAS10M11 : 10mundecACP_c + h_c + malACP_c --> 12m3otridecACP_c + ACP_c + co2_c3OAS5M6 : 5mhexACP_c + h_c + malACP_c --> 7m3oocACP_c + ACP_c + co2_c3OAS2M3 : 2mpropACP_c + h_c + malACP_c --> 4m3opentACP_c + ACP_c + co2_c3OAS13M14 : 13mmyrsACP_c + h_c + malACP_c --> 15m3opalmACP_c + ACP_c + co2_cACOATA : ACP_c + accoa_c --> acACP_c + coa_c3OAS10M12 : 10mddcaACP_c + h_c + malACP_c --> 12m3omyrsACP_c + ACP_c + co2_c3OAS80 : h_c + hexACP_c + malACP_c --> 3ooctACP_c + ACP_c + co2_c3OAS140 : ddcaACP_c + h_c + malACP_c --> 3omrsACP_c + ACP_c + co2_c3OAS60 : butACP_c + h_c + malACP_c --> 3ohexACP_c + ACP_c + co2_c3OAS3M4 : 3mbutACP_c + h_c + malACP_c --> 5m3ohexACP_c + ACP_c + co2_c3OAS11M12 : 11mddcaACP_c + h_c + malACP_c --> 13m3omyrsACP_c + ACP_c + co2_c3OAS8M10 : 8mdcaACP_c + h_c + malACP_c --> 10m3oddcaACP_c + ACP_c + co2_c3OAS6M7 : 6mheptACP_c + h_c + malACP_c --> 8m3ononACP_c + ACP_c + co2_c3OAS4M3O6 : 2mbutACP_c + h_c + malACP_c --> 4m3ohexACP_c + ACP_c + co2_c3OAS160 : h_c + malACP_c + myrsACP_c --> 3opalmACP_c + ACP_c + co2_c3OAS120 : dcaACP_c + h_c + malACP_c --> 3oddecACP_c + ACP_c + co2_c3OAS8M9 : 8mnonACP_c + h_c + malACP_c --> 10m3oundecACP_c + ACP_c + co2_c3OAS100 : h_c + malACP_c + ocACP_c --> 3odecACP_c + ACP_c + co2_c3OAS4M5 : 4mpentACP_c + h_c + malACP_c --> 6m3oheptACP_c + ACP_c + co2_c3OAS6M8 : 6mocACP_c + h_c + malACP_c --> 8m3odcaACP_c + ACP_c + co2_c
+
+5. Gene g35 inibido.
+TECA5SAI15 : ai15tca1_c + 24.0 uacgam_c --> ai15tcaacgam_c + 24.0 h_c + 24.0 udp_cACGAMT : uacgam_c + udcpp_c --> ump_c + unaga_cTECA5SI14 : i14tca1_c + 24.0 uacgam_c --> 24.0 h_c + i14tcaacgam_c + 24.0 udp_cTECA5SI16 : i16tca1_c + 24.0 uacgam_c --> 24.0 h_c + i16tcaacgam_c + 24.0 udp_cTECA5S140 : myrstca1_c + 24.0 uacgam_c --> 24.0 h_c + myrstcaacgam_c + 24.0 udp_cTECA5S180 : sttca1_c + 24.0 uacgam_c --> 24.0 h_c + sttcaacgam_c + 24.0 udp_cTECA5SAI17 : ai17tca1_c + 24.0 uacgam_c --> ai17tcaacgam_c + 24.0 h_c + 24.0 udp_cTECA5SI15 : i15tca1_c + 24.0 uacgam_c --> 24.0 h_c + i15tcaacgam_c + 24.0 udp_cTECA5SI17 : i17tca1_c + 24.0 uacgam_c --> 24.0 h_c + i17tcaacgam_c + 24.0 udp_cTECA5S160 : palmtca1_c + 24.0 uacgam_c --> 24.0 h_c + palmtcaacgam_c + 24.0 udp_c
+
+6. Gene g45 inibido.
+AGPAT140 : 1tdecg3p_c + myrsACP_c --> ACP_c + pa140_cACOAAGPAT180 : 1odecg3p_c + stcoa_c --> coa_c + pa180_cACOAAGPATAI17 : 1aihpdecg3p_c + aihpdcoa_c --> coa_c + paai17_cAGPAT180 : 1odecg3p_c + ocdcaACP_c --> ACP_c + pa180_cAGPAT141 : 1tdec7eg3p_c + tdeACP_c --> ACP_c + pa141_cACOAAGPATI16 : 1ihdecg3p_c + ihdcoa_c --> coa_c + h_c + pai16_cAGPAT181 : 1odec11eg3p_c + octeACP_c --> ACP_c + pa181_cACOAAGPATI14 : 1itdecg3p_c + itdcoa_c --> coa_c + h_c + pai14_cACOAAGPAT160 : 1hdecg3p_c + pmtcoa_c --> coa_c + pa160_cACOAAGPATI17 : 1ihpdecg3p_c + ihpdcoa_c --> coa_c + pai17_cAGPAT120 : 1ddecg3p_c + ddcaACP_c --> ACP_c + pa120_cAGPAT160 : 1hdecg3p_c + palmACP_c --> ACP_c + pa160_cACOAAGPATAI15 : 1aipdecg3p_c + aipdcoa_c --> coa_c + h_c + paai15_cAGPAT161 : 1hdec9eg3p_c + hdeACP_c --> ACP_c + pa161_cACOAAGPATI15 : 1ipdecg3p_c + ipdcoa_c --> coa_c + h_c + pai15_cACOAAGPAT140 : 1tdecg3p_c + tdcoa_c --> coa_c + pa140_c
+
+7. Gene g51 inibido.
+ACPS1 : apoACP_c + coa_c --> ACP_c + h_c + pap_c
+
+8. Gene g86 inibido.
+TECA3SI17 : 24.0 ala_D_c + 24.0 atp_c + i17tca1_c --> 24.0 amp_c + 24.0 h2o_c + i17tcaala_D_c + 24.0 ppi_cTECA3S160 : 24.0 ala_D_c + 24.0 atp_c + palmtca1_c --> 24.0 amp_c + 24.0 h2o_c + palmtcaala_D_c + 24.0 ppi_cTECA3SI15 : 24.0 ala_D_c + 24.0 atp_c + i15tca1_c --> 24.0 amp_c + 24.0 h2o_c + i15tcaala_D_c + 24.0 ppi_cALAPGPL : 45.0 ala_D_c + 45.0 atp_c + prl45tca_c --> 45.0 amp_c + 45.0 h2o_c + 45.0 ppi_c + prl45tcaala_cTECA3SAI17 : ai17tca1_c + 24.0 ala_D_c + 24.0 atp_c --> ai17tcaala_D_c + 24.0 amp_c + 24.0 h2o_c + 24.0 ppi_cTECA3S180 : 24.0 ala_D_c + 24.0 atp_c + sttca1_c --> 24.0 amp_c + 24.0 h2o_c + 24.0 ppi_c + sttcaala_D_cTECA3SI16 : 24.0 ala_D_c + 24.0 atp_c + i16tca1_c --> 24.0 amp_c + 24.0 h2o_c + i16tcaala_D_c + 24.0 ppi_cTECA3S140 : 24.0 ala_D_c + 24.0 atp_c + myrstca1_c --> 24.0 amp_c + 24.0 h2o_c + myrstcaala_D_c + 24.0 ppi_cTECA3SI14 : 24.0 ala_D_c + 24.0 atp_c + i14tca1_c --> 24.0 amp_c + 24.0 h2o_c + i14tcaala_D_c + 24.0 ppi_cTECA3SAI15 : ai15tca1_c + 24.0 ala_D_c + 24.0 atp_c --> ai15tcaala_D_c + 24.0 amp_c + 24.0 h2o_c + 24.0 ppi_c
+
+9. Gene g87 inibido.
+ALAPGPL : 45.0 ala_D_c + 45.0 atp_c + prl45tca_c --> 45.0 amp_c + 45.0 h2o_c + 45.0 ppi_c + prl45tcaala_c
+
+10. Gene g88 inibido.
+ALAPGPL : 45.0 ala_D_c + 45.0 atp_c + prl45tca_c --> 45.0 amp_c + 45.0 h2o_c + 45.0 ppi_c + prl45tcaala_c
+
+11. Gene g89 inibido.
+ALAPGPL : 45.0 ala_D_c + 45.0 atp_c + prl45tca_c --> 45.0 amp_c + 45.0 h2o_c + 45.0 ppi_c + prl45tcaala_c
+
+12. Gene g90 inibido.
+ALAR : ala_L_c --> ala_D_c
+
+13. Gene g95 inibido.
+ANPRT : anth_c + prpp_c --> ppi_c + pran_c
+
+14. Gene g96 inibido.
+ANS2 : chor_c + nh4_c --> anth_c + h2o_c + h_c + pyr_cANS : chor_c + gln_L_c --> anth_c + glu_L_c + h_c + pyr_c
+
+15. Gene g97 inibido.
+ANS2 : chor_c + nh4_c --> anth_c + h2o_c + h_c + pyr_cANS : chor_c + gln_L_c --> anth_c + glu_L_c + h_c + pyr_c
+
+16. Gene g137 inibido.
+CDPEAS : cmp_c + 2.0 h_c + plasmetha_c --> M00512_c + cdpea_cPAPPT2 : uGgla_c + udcpp_c --> uaGgla_c + ump_cPAPPT3 : udcpp_c + ugmda_c --> uagmda_c + ump_c
+
+17. Gene g138 inibido.
+CDPMEK : 4c2me_c + atp_c --> 2p4c2me_c + adp_c + h_c
+
+18. Gene g149 inibido.
+CHORS : 3psme_c --> chor_c + pi_c
+
+19. Gene g153 inibido.
+CLPNSAI17 : 2.0 pgai17_c --> clpnai17_c + glyc_cCLPNS140 : 2.0 pg140_c --> clpn140_c + glyc_cCLPNSI17 : 2.0 pgi17_c --> clpni17_c + glyc_cCLPNSI16 : 2.0 pgi16_c --> clpni16_c + glyc_cCLPNSAI15 : 2.0 pgai15_c --> clpnai15_c + glyc_cCLPNSI15 : 2.0 pgi15_c --> clpni15_c + glyc_cCLPNS180 : 2.0 pg180_c --> clpn180_c + glyc_cCLPNSI14 : 2.0 pgi14_c --> clpni14_c + glyc_cCLPNS160 : 2.0 pg160_c --> clpn160_c + glyc_c
+
+20. Gene g155 inibido.
+MGt5 : mg2_c --> mg2_eCOBALTt5 : cobalt2_c --> cobalt2_e
+
+21. Gene g170 inibido.
+Cut1 : atp_c + cu2_c + h2o_c --> adp_c + cu2_e + h_c + pi_cCuabc : atp_c + cu2_e + h2o_c --> adp_c + cu2_c + h_c + pi_c
+
+22. Gene g174 inibido.
+DASYNAI17 : ctp_c + h_c + paai17_c --> cdpdaihpdecg_c + ppi_cDASYN181 : ctp_c + h_c + pa181_c --> cdpdodec11eg_c + ppi_cDASYN161 : ctp_c + h_c + pa161_c --> cdpdhdec9eg_c + ppi_cDASYN141 : ctp_c + h_c + pa141_c --> cdpdtdec7eg_c + ppi_cKDOCT2 : ctp_c + kdo_c --> ckdo_c + ppi_cDASYNI14 : ctp_c + h_c + pai14_c --> cdpditdecg_c + ppi_cDASYNI16 : ctp_c + h_c + pai16_c --> cdpdihdecg_c + ppi_cDASYN120 : ctp_c + h_c + pa120_c --> cdpdddecg_c + ppi_cDASYNAI15 : ctp_c + h_c + paai15_c --> cdpdaipdecg_c + ppi_cDASYN180 : ctp_c + h_c + pa180_c --> cdpdodecg_c + ppi_cDASYNI17 : ctp_c + h_c + pai17_c --> cdpdihpdecg_c + ppi_cDASYN160 : ctp_c + h_c + pa160_c --> cdpdhdecg_c + ppi_cDASYNI15 : ctp_c + h_c + pai15_c --> cdpdipdecg_c + ppi_cDASYN140 : ctp_c + h_c + pa140_c --> cdpdtdecg_c + ppi_c
+
+23. Gene g179 inibido.
+GK2 : datp_c + gmp_c --> dadp_c + gdp_cGK1 : atp_c + gmp_c --> adp_c + gdp_cDGK1 : atp_c + dgmp_c --> adp_c + dgdp_cURIDK3 : atp_c + dump_c <=> adp_c + dudp_c
+
+24. Gene g181 inibido.
+DHFOR2 : dhf_c + nadp_c --> fol_c + nadph_c
+
+25. Gene g182 inibido.
+DHFR : dhf_c + h_c + nadph_c --> nadp_c + thf_c
+
+26. Gene g195 inibido.
+DHQS : 2dda7p_c --> 3dhq_c + pi_c
+
+27. Gene g196 inibido.
+DHQTi : 3dhq_c --> 3dhsk_c + h2o_c
+
+28. Gene g197 inibido.
+DMATT : dmpp_c + ipdp_c --> grdp_c + ppi_cGRTT : grdp_c + ipdp_c --> frdp_c + ppi_c
+
+29. Gene g198 inibido.
+DPCOAK : atp_c + dpcoa_c --> adp_c + coa_c + h_c
+
+30. Gene g202 inibido.
+DTMPK : atp_c + dtmp_c --> adp_c + dtdp_c
+
+31. Gene g208 inibido.
+UDCPDP : h2o_c + udcpdp_c --> h_c + pi_c + udcpp_cDUTPDP : dutp_c + h2o_c --> dump_c + h_c + ppi_c
+
+32. Gene g230 inibido.
+FMNAT : atp_c + fmn_c + h_c --> fad_c + ppi_cRBFK : atp_c + ribflv_c --> adp_c + fmn_c + h_c
+
+33. Gene g237 inibido.
+FT : frdp_c + ipdp_c --> ppi_c + ttc_ggdp_cUDCPDPS : frdp_c + 8.0 ipdp_c --> 8.0 ppi_c + udcpdp_c
+
+34. Gene g241 inibido.
+G1PACT : accoa_c + gam1p_c --> acgam1p_c + coa_c + h_cUAGDP : acgam1p_c + h_c + utp_c --> ppi_c + uacgam_c
+
+35. Gene g243 inibido.
+G3PAT161 : glyc3p_c + hdeACP_c --> 1hdec9eg3p_c + ACP_cG3PAT180 : glyc3p_c + ocdcaACP_c --> 1odecg3p_c + ACP_cG3PAT181 : glyc3p_c + octeACP_c --> 1odec11eg3p_c + ACP_cG3PATAI15 : aipdcoa_c + glyc3p_c + h_c --> 1aipdecg3p_c + coa_cG3PAT120 : ddcaACP_c + glyc3p_c --> 1ddecg3p_c + ACP_cHDG3PACT : glyc3p_c + ihdcoa_c --> 1hdecg3p_c + coa_cG3PATAI17 : aihpdcoa_c + glyc3p_c --> 1aihpdecg3p_c + coa_cG3PATI14 : glyc3p_c + h_c + itdcoa_c --> 1itdecg3p_c + coa_cG3PATI15 : glyc3p_c + h_c + ipdcoa_c --> 1ipdecg3p_c + coa_cG3PAT140 : glyc3p_c + myrsACP_c --> 1tdecg3p_c + ACP_cG3PATI16 : glyc3p_c + h_c + ihdcoa_c --> 1ihdecg3p_c + coa_cG3PAT141 : glyc3p_c + tdeACP_c --> 1tdec7eg3p_c + ACP_cSGAT : glyc3p_c + stcoa_c --> 1odecg3p_c + coa_cG3PATI17 : glyc3p_c + ihpdcoa_c --> 1ihpdecg3p_c + coa_cG3PAT160 : glyc3p_c + palmACP_c --> 1hdecg3p_c + ACP_cTDG3PACT : glyc3p_c + tdcoa_c --> 1tdecg3p_c + coa_c
+
+36. Gene g244 inibido.
+G3PAT161 : glyc3p_c + hdeACP_c --> 1hdec9eg3p_c + ACP_cG3PAT180 : glyc3p_c + ocdcaACP_c --> 1odecg3p_c + ACP_cG3PAT181 : glyc3p_c + octeACP_c --> 1odec11eg3p_c + ACP_cG3PATAI15 : aipdcoa_c + glyc3p_c + h_c --> 1aipdecg3p_c + coa_cG3PAT120 : ddcaACP_c + glyc3p_c --> 1ddecg3p_c + ACP_cHDG3PACT : glyc3p_c + ihdcoa_c --> 1hdecg3p_c + coa_cG3PATAI17 : aihpdcoa_c + glyc3p_c --> 1aihpdecg3p_c + coa_cG3PATI14 : glyc3p_c + h_c + itdcoa_c --> 1itdecg3p_c + coa_cG3PATI15 : glyc3p_c + h_c + ipdcoa_c --> 1ipdecg3p_c + coa_cG3PAT140 : glyc3p_c + myrsACP_c --> 1tdecg3p_c + ACP_cG3PATI16 : glyc3p_c + h_c + ihdcoa_c --> 1ihdecg3p_c + coa_cG3PAT141 : glyc3p_c + tdeACP_c --> 1tdec7eg3p_c + ACP_cSGAT : glyc3p_c + stcoa_c --> 1odecg3p_c + coa_cG3PATI17 : glyc3p_c + ihpdcoa_c --> 1ihpdecg3p_c + coa_cG3PAT160 : glyc3p_c + palmACP_c --> 1hdecg3p_c + ACP_cTDG3PACT : glyc3p_c + tdcoa_c --> 1tdecg3p_c + coa_c
+
+37. Gene g245 inibido.
+G3PD1 : glyc3p_c + nad_c --> dhap_c + h_c + nadh_cG3PD2 : glyc3p_c + nadp_c --> dhap_c + h_c + nadph_c
+
+38. Gene g272 inibido.
+GLUCYS : atp_c + cys_L_c + glu_L_c --> adp_c + glucys_c + h_c + pi_cGTHS : atp_c + glucys_c + gly_c --> adp_c + gthrd_c + h_c + pi_c
+
+39. Gene g274 inibido.
+GLUFORT : 5forthf_c + glu_L_c --> forglu_c + h_c + thf_cpbiosynthesis :  --> proteinsynth_c
+
+40. Gene g278 inibido.
+GLUR : glu_D_c --> glu_L_c
+
+41. Gene g281 inibido.
+GLUTRS : atp_c + glu_L_c + trnaglu_c --> amp_c + glutrna_c + ppi_cpbiosynthesis :  --> proteinsynth_c
+
+42. Gene g320 inibido.
+IGPS : 2cpr5p_c + h_c --> 3ig3p_c + co2_c + h2o_c
+
+43. Gene g327 inibido.
+IPDDI : ipdp_c --> dmpp_c
+
+44. Gene g335 inibido.
+Kt1r : k_e --> k_c
+
+45. Gene g359 inibido.
+METFR : 5mthf_c + nadp_c --> 2.0 h_c + mlthf_c + nadph_cr0792 : 5mthf_c + nad_c --> 2.0 h_c + mlthf_c + nadh_c
+
+46. Gene g371 inibido.
+NADK : atp_c + nad_c --> adp_c + h_c + nadp_cNADK2 : dttp_c + nad_c --> dtdp_c + h_c + nadp_c
+
+47. Gene g373 inibido.
+NAPRT : h_c + nac_c + prpp_c --> nicrnt_c + ppi_c
+
+48. Gene g408 inibido.
+PGPP160 : h2o_c + pgp160_c --> pg160_c + pi_cPGPPI15 : h2o_c + pgpi15_c --> pgi15_c + pi_cPGPPAI17 : h2o_c + pgpai17_c --> pgai17_c + pi_cPGPP141 : h2o_c + pgp141_c --> pg141_c + pi_cPGPPI17 : h2o_c + pgpi17_c --> pgi17_c + pi_cPGPP180 : h2o_c + pgp180_c --> pg180_c + pi_cPGPP161 : h2o_c + pgp161_c --> pg161_c + pi_cPGPPAI15 : h2o_c + pgpai15_c --> pgai15_c + pi_cPGPPI14 : h2o_c + pgpi14_c --> pgi14_c + pi_cPGPP140 : h2o_c + pgp140_c --> pg140_c + pi_cPGPPI16 : h2o_c + pgpi16_c --> pgi16_c + pi_cPGPP181 : h2o_c + pgp181_c --> pg181_c + pi_cPGPP120 : h2o_c + pgp120_c --> pg120_c + pi_c
+
+49. Gene g409 inibido.
+PGSA161 : cdpdhdec9eg_c + glyc3p_c --> cmp_c + h_c + pgp161_cPGSAAI17 : cdpdaihpdecg_c + glyc3p_c --> cmp_c + h_c + pgpai17_cPGSA181 : cdpdodec11eg_c + glyc3p_c --> cmp_c + h_c + pgp181_cPGSAI15 : cdpdipdecg_c + glyc3p_c --> cmp_c + h_c + pgpi15_cPGSAI17 : cdpdihpdecg_c + glyc3p_c --> cmp_c + h_c + pgpi17_cPGSA140 : cdpdtdecg_c + glyc3p_c --> cmp_c + h_c + pgp140_cPGSA160 : cdpdhdecg_c + glyc3p_c --> cmp_c + h_c + pgp160_cPGSAI14 : cdpditdecg_c + glyc3p_c --> cmp_c + h_c + pgpi14_cPGSA180 : cdpdodecg_c + glyc3p_c --> cmp_c + h_c + pgp180_cPGSAAI15 : cdpdaipdecg_c + glyc3p_c --> cmp_c + h_c + pgpai15_cPGSAI16 : cdpdihdecg_c + glyc3p_c --> cmp_c + h_c + pgpi16_cPGSA120 : cdpdddecg_c + glyc3p_c --> cmp_c + h_c + pgp120_cPGSA141 : cdpdtdec7eg_c + glyc3p_c --> cmp_c + h_c + pgp141_c
+
+50. Gene g417 inibido.
+PNTK : atp_c + pnto_R_c --> 4ppan_c + adp_c + h_c
+
+51. Gene g419 inibido.
+PPCDC : 4ppcys_c + h_c --> co2_c + pan4p_c
+
+52. Gene g425 inibido.
+PRAI : pran_c --> 2cpr5p_c
+
+53. Gene g435 inibido.
+PSCVT : pep_c + skm5p_c --> 3psme_c + pi_c
+
+54. Gene g438 inibido.
+PTPAT : atp_c + h_c + pan4p_c --> dpcoa_c + ppi_c
+
+55. Gene g439 inibido.
+PTRCabc : atp_c + h2o_c + ptrc_e --> adp_c + h_c + pi_c + ptrc_cSPMDabc : atp_c + h2o_c + spmd_e --> adp_c + h_c + pi_c + spmd_c
+
+56. Gene g440 inibido.
+PTRCabc : atp_c + h2o_c + ptrc_e --> adp_c + h_c + pi_c + ptrc_cSPMDabc : atp_c + h2o_c + spmd_e --> adp_c + h_c + pi_c + spmd_c
+
+57. Gene g450 inibido.
+RIBFLVt2r : h_e + ribflv_e --> h_c + ribflv_c
+
+58. Gene g463 inibido.
+SHK3Dr : 3dhsk_c + h_c + nadph_c --> nadp_c + skm_c
+
+59. Gene g464 inibido.
+SHKK : atp_c + skm_c --> adp_c + h_c + skm5p_c
+
+60. Gene g478 inibido.
+TKT2 : e4p_c + xu5p_D_c --> f6p_c + g3p_cTKT1 : r5p_c + xu5p_D_c --> g3p_c + s7p_c
+
+61. Gene g479 inibido.
+TMDPK : atp_c + thm_c --> amp_c + h_c + thmpp_c
+
+62. Gene g487 inibido.
+TRPS3r : 3ig3p_c --> g3p_c + indole_cTRPS2r : indole_c + ser_L_c --> h2o_c + trp_L_cTRPS1 : 3ig3p_c + ser_L_c --> g3p_c + h2o_c + trp_L_c
+
+63. Gene g488 inibido.
+TRPS3r : 3ig3p_c --> g3p_c + indole_cTRPS2r : indole_c + ser_L_c --> h2o_c + trp_L_cTRPS1 : 3ig3p_c + ser_L_c --> g3p_c + h2o_c + trp_L_c
+
+64. Gene g489 inibido.
+UAG2E : uacgam_c --> uacmam_cUAG2EMA : h2o_c + uacgam_c --> acmana_c + h_c + udp_c
+
+65. Gene g494 inibido.
+UAGPT3 : uacgam_c + uagmda_c --> h_c + uaagmda_c + udp_cUAGPT2 : uaGgla_c + uacgam_c --> h_c + uaaGgla_c + udp_c
+
+66. Gene g495 inibido.
+UAMAGS : atp_c + glu_D_c + uama_c --> adp_c + h_c + pi_c + uamag_c
+
+67. Gene g496 inibido.
+UAMAS : ala_L_c + atp_c + uamr_c --> adp_c + h_c + pi_c + uama_c
+
+68. Gene g497 inibido.
+UAPGR : h_c + nadph_c + uaccg_c --> nadp_c + uamr_c
+
+69. Gene g498 inibido.
+UGMDDS : alaala_c + atp_c + ugmd_c --> adp_c + h_c + pi_c + ugmda_c
+
+70. Gene g499 inibido.
+UMPK : atp_c + ump_c --> adp_c + udp_c
+
+71. Gene g509 inibido.
+ZNabc : atp_c + h2o_c + zn2_e --> adp_c + h_c + pi_c + zn2_c
+
+72. Gene g512 inibido.
+dreplication :  --> dnarep_c
+
+73. Gene g513 inibido.
+dreplication :  --> dnarep_c
+
+74. Gene g514 inibido.
+dreplication :  --> dnarep_c
+
+75. Gene g515 inibido.
+dreplication :  --> dnarep_c
+
+76. Gene g516 inibido.
+dreplication :  --> dnarep_c
+
+77. Gene g517 inibido.
+dreplication :  --> dnarep_c
+
+78. Gene g518 inibido.
+dreplication :  --> dnarep_c
+
+79. Gene g519 inibido.
+dreplication :  --> dnarep_c
+
+80. Gene g520 inibido.
+dreplication :  --> dnarep_c
+
+81. Gene g521 inibido.
+dreplication :  --> dnarep_c
+
+82. Gene g522 inibido.
+dreplication :  --> dnarep_c
+
+83. Gene g523 inibido.
+dreplication :  --> dnarep_c
+
+84. Gene g524 inibido.
+dreplication :  --> dnarep_c
+
+85. Gene g525 inibido.
+dreplication :  --> dnarep_c
+
+86. Gene g526 inibido.
+dreplication :  --> dnarep_c
+
+87. Gene g527 inibido.
+dreplication :  --> dnarep_c
+
+88. Gene g528 inibido.
+dreplication :  --> dnarep_c
+
+89. Gene g529 inibido.
+dreplication :  --> dnarep_c
+
+90. Gene g530 inibido.
+dreplication :  --> dnarep_c
+
+91. Gene g531 inibido.
+dreplication :  --> dnarep_c
+
+92. Gene g532 inibido.
+dreplication :  --> dnarep_c
+
+93. Gene g533 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+94. Gene g534 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+95. Gene g535 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+96. Gene g536 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+97. Gene g537 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+98. Gene g538 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+99. Gene g539 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+100. Gene g540 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+101. Gene g541 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+102. Gene g542 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+103. Gene g543 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+104. Gene g544 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+105. Gene g545 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+106. Gene g546 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+107. Gene g547 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+108. Gene g548 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+109. Gene g549 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+110. Gene g550 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+111. Gene g551 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+112. Gene g552 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+113. Gene g553 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+114. Gene g554 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+115. Gene g555 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+116. Gene g556 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+117. Gene g557 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+118. Gene g558 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+119. Gene g559 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+120. Gene g560 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+121. Gene g561 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+122. Gene g562 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+123. Gene g563 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+124. Gene g564 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+125. Gene g565 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+126. Gene g566 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+127. Gene g567 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+128. Gene g568 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+129. Gene g569 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+130. Gene g570 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+131. Gene g571 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+132. Gene g572 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+133. Gene g573 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+134. Gene g574 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+135. Gene g575 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+136. Gene g576 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+137. Gene g577 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+138. Gene g578 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+139. Gene g581 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+140. Gene g582 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+141. Gene g583 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+142. Gene g584 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+143. Gene g585 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+144. Gene g586 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+145. Gene g587 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+146. Gene g588 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+147. Gene g589 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+148. Gene g590 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+149. Gene g591 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+150. Gene g592 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+151. Gene g595 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+152. Gene g596 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+153. Gene g597 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+154. Gene g598 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+155. Gene g599 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+156. Gene g600 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+157. Gene g601 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+158. Gene g602 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+159. Gene g605 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+160. Gene g606 inibido.
+pbiosynthesis :  --> proteinsynth_c
+
+161. Gene g611 inibido.
+r2137 : cl_e --> cl_c
+
+162. Gene g612 inibido.
+rtranscription :  --> rnatrans_c
+
+163. Gene g613 inibido.
+rtranscription :  --> rnatrans_c
+
+164. Gene g614 inibido.
+rtranscription :  --> rnatrans_c
+
+165. Gene g615 inibido.
+rtranscription :  --> rnatrans_c
+
+166. Gene g616 inibido.
+rtranscription :  --> rnatrans_c
+
+167. Gene g617 inibido.
+rtranscription :  --> rnatrans_c
+
+168. Gene g618 inibido.
+rtranscription :  --> rnatrans_c
+
+169. Gene g619 inibido.
+rtranscription :  --> rnatrans_c
+
+170. Gene g620 inibido.
+rtranscription :  --> rnatrans_c
+
+171. Gene g621 inibido.
+rtranscription :  --> rnatrans_c
+
+172. Gene g622 inibido.
+rtranscription :  --> rnatrans_c
+
+173. Gene g623 inibido.
+rtranscription :  --> rnatrans_c
+
+Total de genes inibidos que interrompem a geracao de biomassa = 173

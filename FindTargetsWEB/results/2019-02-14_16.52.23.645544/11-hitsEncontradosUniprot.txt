@@ -1,0 +1,2 @@
+P0AEK2;;O54438;;64.2;;3.5E-101;;Gene names;;Pathway;;Function [CC];;Catalytic activity;;EC number
+FABG_PSEAE;;Cross-reference (PDB)

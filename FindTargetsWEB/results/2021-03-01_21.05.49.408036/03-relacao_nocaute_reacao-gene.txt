@@ -1,0 +1,917 @@
+12DAG3Ps_PA: 0.51 2tocdACP_c + 0.5 glyc3p_c + 0.13 hdeACP_c + 0.03 ocdACP_c + 0.33 palmACP_c --> 0.01 12dag3p_PA_c + ACP_c
+PA3673
+PA0005
+----------------
+
+A5PISO: ru5p__D_c <=> ara5p_c
+PA4457
+----------------
+
+ACHBS: 2obut_c + h_c + pyr_c --> 2ahbut_c + co2_c
+PA4695
+PA4696
+----------------
+
+ACLS: h_c + 2.0 pyr_c --> alac__S_c + co2_c
+PA4695
+PA4696
+----------------
+
+ADCL: 4adcho_c --> 4abz_c + h_c + pyr_c
+PA2964
+----------------
+
+ADCS: chor_c + gln__L_c --> 4adcho_c + glu__L_c
+PA1758
+----------------
+
+ADMDC: amet_c + h_c <=> ametam_c + co2_c
+PA0654
+----------------
+
+ADSK: aps_c + atp_c --> adp_c + h_c + paps_c
+PA1393
+----------------
+
+ADSL2r: 25aics_c <=> aicar_c + fum_c
+PA2629
+----------------
+
+AGMHE: adphep__D__44__D_c --> adphep__L__44__D_c
+PA3337
+----------------
+
+AHAI: alac__S_c + h_c + nadph_c --> 23dhmb_c + nadp_c
+PA4694
+----------------
+
+AICART: 10fthf_c + aicar_c <=> fprica_c + thf_c
+PA4854
+----------------
+
+AKP1: ahdt_c + 3.0 h2o_c --> dhnpt_c + 2.0 h_c + 3.0 pi_c
+PA3296
+----------------
+
+ALAALA: 2.0 ala__D_c + atp_c <=> adp_c + alaala_c + h_c + pi_c
+PA4410
+PA4201
+----------------
+
+ANPRT: anth_c + prpp_c --> ppi_c + pran_c
+PA0650
+----------------
+
+ANS1: chor_c + gln__L_c --> anth_c + glu__L_c + h_c + pyr_c
+PA1001
+PA1002
+PA0649
+PA0609
+----------------
+
+APRAUR: 5apru_c + h_c + nadph_c --> 5aprbu_c + nadp_c
+PA4056
+----------------
+
+ASNS1: asp__L_c + atp_c + gln__L_c + h2o_c --> amp_c + asn__L_c + glu__L_c + h_c + ppi_c
+PA3459
+PA2084
+PA0051
+----------------
+
+ATPPRT: atp_c + prpp_c --> ppi_c + prbatp_c
+PA4449
+----------------
+
+BPNT: h2o_c + pap_c --> amp_c + pi_c
+PA5175
+----------------
+
+BTMAT1: 2beACP_c + h_c + nadh_c --> butACP_c + nad_c
+PA1806
+----------------
+
+CA2abc: atp_c + ca2_p + h2o_c --> adp_c + ca2_c + h_c + pi_c
+----------------
+
+CA2t: ca2_e <=> ca2_p
+----------------
+
+CDPDSPr_PA: 0.02 cdpdag_PA_c + ser__L_c <=> cmp_c + h_c + 0.02 ps_PA_c
+PA4693
+----------------
+
+CHORM: chor_c --> pphn_c
+PA3166
+----------------
+
+CHORS: 3psme_c --> chor_c + pi_c
+PA1681
+----------------
+
+CTPS2: atp_c + gln__L_c + h2o_c + utp_c --> adp_c + ctp_c + glu__L_c + 2.0 h_c + pi_c
+PA3637
+----------------
+
+CYTK1: atp_c + cmp_c <=> adp_c + cdp_c
+PA3163
+----------------
+
+Clt: cl_e <=> cl_p
+----------------
+
+Clt2: cl_c <=> cl_p
+----------------
+
+DAHPS: e4p_c + h2o_c + pep_c --> 2dda7p_c + pi_c
+PA1750
+PA2943
+----------------
+
+DAPDC: 26dap__M_c + h_c --> co2_c + lys__L_c
+PA5277
+----------------
+
+DAPE: 26dap__LL_c <=> 26dap__M_c
+PA5278
+----------------
+
+DDMAT5: 2tddACP_c + h_c + nadh_c --> ddcaACP_c + nad_c
+PA1806
+----------------
+
+DEMAT4: 2tdeACP_c + h_c + nadh_c --> decACP_c + nad_c
+PA1806
+----------------
+
+DHAD1: 23dhmb_c --> 3mob_c + h2o_c
+PA0353
+----------------
+
+DHAD3: 23dhmp_c --> 2o3mpt_c + h2o_c
+PA0353
+----------------
+
+DHDPRy: 23dhdp_c + h_c + nadph_c --> nadp_c + thdp_c
+PA4759
+----------------
+
+DHDPS: aspsa_c + pyr_c --> 23dhdp_c + 2.0 h2o_c + h_c
+PA1254
+PA1010
+PA4188
+PA0223
+----------------
+
+DHFRi: dhf_c + h_c + nadph_c --> nadp_c + thf_c
+PA0350
+----------------
+
+DHFS: atp_c + dhpt_c + glu__L_c --> adp_c + dhf_c + h_c + pi_c
+PA3111
+----------------
+
+DHNPA: dhnpt_c --> 2ahhmp_c + gcald_c
+PA0582
+----------------
+
+DHPPDA2: 25dhpp_c + h2o_c + h_c --> 5apru_c + nh4_c
+PA4056
+----------------
+
+DHPS3: 2ahhmd_c + 4abz_c --> dhpt_c + ppi_c
+PA4750
+----------------
+
+DHQD1: 3dhq_c <=> 3dhsk_c + h2o_c
+PA4846
+PA0245
+----------------
+
+DHQS: 2dda7p_c --> 3dhq_c + pi_c
+PA5038
+----------------
+
+DMOCT: ctp_c + kdo_c --> ckdo_c + ppi_c
+PA2979
+----------------
+
+DPCOAK: atp_c + dpcoa_c --> adp_c + coa_c + h_c
+PA4529
+----------------
+
+DPR: 2dhp_c + h_c + nadph_c --> nadp_c + pant__R_c
+PA4397
+----------------
+
+DTMPK: atp_c + dtmp_c <=> adp_c + dtdp_c
+PA2962
+----------------
+
+EX_ca2_e: ca2_e <=> 
+----------------
+
+EX_cl_e: cl_e <=> 
+----------------
+
+EX_fe2_e: fe2_e <=> 
+----------------
+
+EX_gcald_e: gcald_e --> 
+----------------
+
+EX_h_e: h_e <=> 
+----------------
+
+EX_mn2_e: mn2_e <=> 
+----------------
+
+EX_nh4_e: nh4_e <=> 
+----------------
+
+EX_pi_e: pi_e <=> 
+----------------
+
+EX_so4_e: so4_e <=> 
+----------------
+
+FBA: fdp_c <=> dhap_c + g3p_c
+PA0555
+----------------
+
+FBP: fdp_c + h2o_c --> f6p_c + pi_c
+PA5110
+----------------
+
+FCLT: fe2_c + ppp9_c --> h_c + pheme_c
+PA4655
+----------------
+
+FE2abc: atp_c + fe2_e + h2o_c --> adp_c + fe2_c + h_c + pi_c
+PA5216
+PA5217
+PA3538
+PA4688
+PA4687
+----------------
+
+FMNAT: atp_c + fmn_c + h_c --> fad_c + ppi_c
+PA4561
+----------------
+
+G1PACT: accoa_c + gam1p_c --> acgam1p_c + coa_c + h_c
+PA5552
+----------------
+
+G1PTMT: dttp_c + g1p_c + h_c --> dtdpglc_c + ppi_c
+PA5163
+----------------
+
+G1SATi: glu1sa_c --> 5aop_c
+PA4088
+PA3977
+PA5523
+----------------
+
+G5SADs: glu5sa_c <=> 1pyr5c_c + h2o_c + h_c
+----------------
+
+GCALDt: gcald_e <=> gcald_c
+----------------
+
+GF6PTA: f6p_c + gln__L_c --> gam6p_c + glu__L_c
+PA5549
+----------------
+
+GK1: atp_c + gmp_c <=> adp_c + gdp_c
+PA5336
+----------------
+
+GLUPRT: gln__L_c + h2o_c + prpp_c --> glu__L_c + ppi_c + pram_c
+PA3108
+----------------
+
+GLUR: glu__D_c <=> glu__L_c
+PA4662
+----------------
+
+GLUTRR: glutrna_c + h_c + nadph_c --> glu1sa_c + nadp_c + trnaglu_c
+PA4666
+----------------
+
+GLUTRS: atp_c + glu__L_c + trnaglu_c --> amp_c + glutrna_c + ppi_c
+PA3134
+PA4724
+----------------
+
+GLYCt5: glyc_c <=> glyc_e
+----------------
+
+GMHEPAT: atp_c + gmh1p_c + h_c --> adphep__D__44__D_c + ppi_c
+PA4996
+----------------
+
+GMHEPK: atp_c + gmh7p_c --> adp_c + gmh17bp_c + h_c
+PA4996
+----------------
+
+GMHEPPA: gmh17bp_c + h2o_c --> gmh1p_c + pi_c
+PA0006
+----------------
+
+GTPCI: gtp_c + h2o_c --> ahdt_c + for_c + h_c
+PA1674
+PA3438
+----------------
+
+GTPCII: gtp_c + 3.0 h2o_c --> 25dhpp_c + for_c + 2.0 h_c + ppi_c
+PA4047
+PA4054
+----------------
+
+HBUHL1: 3hbACP_c --> 2beACP_c + h2o_c
+PA3645
+PA1610
+----------------
+
+HBUR1: actACP_c + h_c + nadph_c --> 3hbACP_c + nadp_c
+PA1827
+PA4786
+PA5524
+PA3106
+PA4162
+PA4148
+PA2967
+----------------
+
+HDDHL5: 3hddACP_c --> 2tddACP_c + h2o_c
+PA3645
+PA1610
+----------------
+
+HDDR5: 3oxddACP_c + h_c + nadph_c --> 3hddACP_c + nadp_c
+PA1827
+PA4786
+PA5524
+PA3106
+PA4162
+PA4148
+PA2967
+----------------
+
+HDEHL4: 3hdeACP_c --> 2tdeACP_c + h2o_c
+PA3645
+PA1610
+----------------
+
+HDMAT7: nad_c + palmACP_c <=> h_c + hdeACP_c + nadh_c
+PA1806
+----------------
+
+HEMAT2: 2theACP_c + h_c + nadh_c --> hexACP_c + nad_c
+PA1806
+----------------
+
+HHDHL7: 3hpaACP_c --> h2o_c + hdeACP_c
+PA3645
+PA1610
+----------------
+
+HHDR7: 3oxhdACP_c + h_c + nadph_c --> 3hpaACP_c + nadp_c
+PA2967
+----------------
+
+HHYHL2: 3hhACP_c --> 2theACP_c + h2o_c
+PA3645
+PA1610
+----------------
+
+HHYR2: 3oxhACP_c + h_c + nadph_c --> 3hhACP_c + nadp_c
+PA1827
+PA4786
+PA5524
+PA3106
+PA4162
+PA4148
+PA2967
+----------------
+
+HISTD: h2o_c + histd_c + 2.0 nad_c --> 3.0 h_c + his__L_c + 2.0 nadh_c
+PA4448
+----------------
+
+HISTP: h2o_c + hisp_c --> histd_c + pi_c
+PA0006
+PA1616
+----------------
+
+HMBS: h2o_c + 4.0 ppbng_c --> hmbil_c + 4.0 nh4_c
+PA5260
+----------------
+
+HOCHL3: 3hocACP_c --> 2toceACP_c + h2o_c
+PA3645
+PA1610
+----------------
+
+HOCR3: 3oxocACP_c + h_c + nadph_c --> 3hocACP_c + nadp_c
+PA1827
+PA4786
+PA5524
+PA3106
+PA4162
+PA4148
+PA2967
+----------------
+
+HODHL8: 3hocdacp_c --> 2tocdACP_c + h2o_c
+PA3645
+PA1610
+----------------
+
+HODR8: 3oxocdacp_c + h_c + nadph_c --> 3hocdacp_c + nadp_c
+PA2967
+----------------
+
+HPPK: 2ahhmp_c + atp_c --> 2ahhmd_c + amp_c + h_c
+PA4728
+PA0583
+----------------
+
+HSDy: hom__L_c + nadp_c <=> aspsa_c + h_c + nadph_c
+PA3736
+----------------
+
+HSTPT: glu__L_c + imacp_c --> akg_c + h_c + hisp_c
+PA4447
+PA3165
+PA2531
+----------------
+
+HTDHL6: 3htdACP_c --> h2o_c + tdeACP_c
+PA3645
+PA1610
+----------------
+
+HTDR6: 3oxtdACP_c + h_c + nadph_c --> 3htdACP_c + nadp_c
+PA2967
+----------------
+
+IG3PS: gln__L_c + prlp_c --> aicar_c + eig3p_c + glu__L_c + 2.0 h_c
+PA5142
+PA3152
+----------------
+
+IGPDH: eig3p_c + h_c --> h2o_c + imacp_c
+PA5143
+----------------
+
+IGPS: 2cpr5p_c + h_c --> 3ig3p_c + co2_c + h2o_c
+PA0651
+----------------
+
+ILEDHr: h2o_c + ile__L_c + nad_c <=> 2o3mpt_c + h_c + nadh_c + nh4_c
+PA3418
+----------------
+
+IMPC: h2o_c + imp_c <=> fprica_c
+PA4854
+----------------
+
+IPMD__2: 3c2hmp_c + nad_c --> 4mop_c + co2_c + nadh_c
+PA3118
+----------------
+
+IPPMIa: 3c2hmp_c <=> 2ippm_c + h2o_c
+PA3120
+PA3121
+----------------
+
+IPPMIb: 2ippm_c + h2o_c <=> 3c3hmp_c
+PA3120
+PA3121
+----------------
+
+IPPS: 3mob_c + accoa_c + h2o_c --> 3c3hmp_c + coa_c + h_c
+PA1217
+PA3792
+----------------
+
+KARA2i: 2ahbut_c + h_c + nadph_c --> 23dhmp_c + nadp_c
+PA4694
+----------------
+
+KDOPP: h2o_c + kdo8p_c --> kdo_c + pi_c
+PA4458
+----------------
+
+KDOPS: ara5p_c + h2o_c + pep_c --> kdo8p_c + pi_c
+PA3636
+----------------
+
+MAT6: h_c + nadh_c + tdeACP_c --> myrsACP_c + nad_c
+PA1806
+----------------
+
+MCMAT2: butACP_c + h_c + malACP_c --> 3oxhACP_c + ACP_c + co2_c
+PA1609
+----------------
+
+MCMAT3: h_c + hexACP_c + malACP_c --> 3oxocACP_c + ACP_c + co2_c
+PA1609
+----------------
+
+MCMAT4: h_c + malACP_c + octACP_c --> 3oxdeACP_c + ACP_c + co2_c
+PA1609
+----------------
+
+MCMAT5: decACP_c + h_c + malACP_c --> 3oxddACP_c + ACP_c + co2_c
+PA1609
+----------------
+
+MCMAT6: ddcaACP_c + h_c + malACP_c --> 3oxtdACP_c + ACP_c + co2_c
+PA1609
+----------------
+
+MCMAT7: h_c + malACP_c + myrsACP_c --> 3oxhdACP_c + ACP_c + co2_c
+PA1609
+----------------
+
+MCMAT8: h_c + malACP_c + palmACP_c --> 3oxocdacp_c + ACP_c + co2_c
+PA1609
+----------------
+
+METAT: atp_c + h2o_c + met__L_c --> amet_c + pi_c + ppi_c
+PA0546
+----------------
+
+METS: 5mthf_c + hcys__L_c --> h_c + met__L_c + thf_c
+PA1843
+----------------
+
+MNabc: atp_c + h2o_c + mn2_e --> adp_c + h_c + mn2_c + pi_c
+PA2408
+PA2409
+PA2407
+----------------
+
+MOHMT: 3mob_c + h2o_c + mlthf_c --> 2dhp_c + thf_c
+PA4729
+----------------
+
+MTHFR2: 2.0 h_c + mlthf_c + nadh_c --> 5mthf_c + nad_c
+PA0430
+----------------
+
+NADK: atp_c + nad_c --> adp_c + h_c + nadp_c
+PA3088
+----------------
+
+NDPK4: atp_c + dtdp_c <=> adp_c + dttp_c
+PA3807
+----------------
+
+NH4t: nh4_e <=> nh4_c
+PA3039
+PA5287
+----------------
+
+NNAT: atp_c + h_c + nicrnt_c --> dnad_c + ppi_c
+PA4006
+----------------
+
+NNDPR: 2.0 h_c + prpp_c + quln_c --> co2_c + nicrnt_c + ppi_c
+PA4524
+----------------
+
+OCDMAT8: 2tocdACP_c + h_c + nadh_c --> nad_c + ocdACP_c
+PA1806
+----------------
+
+OCMAT3: 2toceACP_c + h_c + nadh_c --> nad_c + octACP_c
+PA1806
+----------------
+
+P5CR: 1pyr5c_c + 2.0 h_c + nadph_c --> nadp_c + pro__L_c
+PA0393
+----------------
+
+PANTS: ala__B_c + atp_c + pant__R_c --> amp_c + h_c + pnto__R_c + ppi_c
+PA4730
+----------------
+
+PAPPT3: udcpp_c + ugmda_c --> uagmda_c + ump_c
+PA4415
+----------------
+
+PA_Biomass6_DM: 0.045754 5mthf_c + 0.007686 PA_core_lipidA_c + 4.5e-05 accoa_c + 0.446559 ala__L_c + 0.000915 amp_c + 0.25714 arg__L_c + 0.20955 asn__L_c + 0.20955 asp__L_c + 41.84827 atp_c + 1e-06 ca2_c + 9.6e-05 cdlp_PA_c + 1e-06 cl_c + 5e-06 coa_c + 0.1153 ctp_c + 0.079612 cys__L_c + 0.022602 datp_c + 0.023243 dctp_c + 0.023243 dgtp_c + 0.022602 dttp_c + 4.5e-05 fad_c + 0.22877 gln__L_c + 0.22877 glu__L_c + 0.532577 gly_c + 0.140922 glycogen_c + 0.185761 gtp_c + 41.6918 h2o_c + 0.082357 his__L_c + 0.252562 ile__L_c + 0.391654 leu__L_c + 0.298316 lys__L_c + 0.133601 met__L_c + 1e-06 mn2_c + 0.001967 nad_c + 4.5e-05 nadh_c + 0.000118 nadp_c + 0.000366 nadph_c + 0.001462 pe_PA_c + 0.025256 peptido_EC_c + 0.000353 pg_PA_c + 0.161054 phe__L_c + 1e-06 pheme_c + 0.192166 pro__L_c + 3.9e-05 ps_PA_c + 0.032027 ptrc_c + 0.18759 ser__L_c + 0.006405 spmd_c + 2e-06 succoa_c + 0.220534 thr__L_c + 0.049414 trp__L_c + 0.119875 tyr__L_c + 0.002745 udpg_c + 0.124451 utp_c + 0.367862 val__L_c --> 41.6918 adp_c + 41.691389 h_c + 41.693631 pi_c + 0.668191 ppi_c
+----------------
+
+PA_CORE1s: PA_KDO2lipidA_c + adphep__L__44__D_c --> PA_core1_lipidA_c + adp_c
+PA5011
+----------------
+
+PA_CORE2s: PA_core1_lipidA_c + adphep__L__44__D_c --> PA_core2_lipidA_c + adp_c
+PA5012
+----------------
+
+PA_CORE3s: PA_core2_lipidA_c + udpgal_c --> PA_core3_lipidA_c + udp_c
+PA5010
+----------------
+
+PA_CORE4s: PA_core3_lipidA_c + 3.0 udpg_c --> PA_core4_lipidA_c + 3.0 udp_c
+PA5010
+----------------
+
+PA_CORE5s: PA_core4_lipidA_c + 2.0 dtdp6dm_c --> PA_core5_lipidA_c + 2.0 dtdp_c
+----------------
+
+PA_CORE6s: PA_core5_lipidA_c + udpg_c --> PA_core6_lipidA_c + udp_c
+PA5010
+----------------
+
+PA_CORE7s: PA_core6_lipidA_c + 3.0 atp_c --> PA_core7_lipidA_c + 3.0 adp_c + 3.0 h_c
+PA5009
+PA5008
+----------------
+
+PA_COREs: PA_core7_lipidA_c + ala__L_c + cbp_c --> PA_core_lipidA_c + h2o_c + pi_c
+----------------
+
+PA_LPADSS: PA_lipidX_c + PA_u23ga_c --> PA_lipidAds_c + h_c + udp_c
+PA3643
+----------------
+
+PA_MOAT: PA_lipidA_c + ckdo_c --> PA_KDOlipidA_c + cmp_c + h_c
+PA4988
+----------------
+
+PA_MOAT2: PA_KDOlipidA_c + ckdo_c --> PA_KDO2lipidA_c + cmp_c + h_c
+PA4988
+----------------
+
+PA_TDSK: PA_lipidAds_c + atp_c --> PA_lipidApre_c + adp_c + h_c
+PA2981
+----------------
+
+PA_U23GAAT: 3hddACP_c + PA_u3hga_c --> ACP_c + PA_u23ga_c + h_c
+PA3646
+----------------
+
+PA_UACAT: 3hdeACP_c + uacgam_c --> ACP_c + PA_u3aga_c
+PA3644
+----------------
+
+PA_UHGADA: PA_u3aga_c + h2o_c --> PA_u3hga_c + ac_c
+PA4406
+----------------
+
+PA_USHD: PA_u23ga_c + h2o_c --> PA_lipidX_c + 2.0 h_c + ump_c
+----------------
+
+PGAMT: gam1p_c <=> gam6p_c
+PA4749
+----------------
+
+PGI: g6p_c <=> f6p_c
+PA4732
+----------------
+
+PGMT: g1p_c <=> g6p_c
+PA5131
+PA5322
+----------------
+
+PHCYTr_PA: 0.02 12dag3p_PA_c + ctp_c + h_c <=> 0.02 cdpdag_PA_c + ppi_c
+PA3651
+----------------
+
+PHETA1: akg_c + phe__L_c <=> glu__L_c + phpyr_c
+PA3139
+PA0870
+----------------
+
+PMDPHT: 5aprbu_c + h2o_c --> 4r5au_c + pi_c
+PA1376
+----------------
+
+PNTK: atp_c + pnto__R_c --> 4ppan_c + adp_c + h_c
+PA0724
+----------------
+
+PPBNGS: 2.0 5aop_c --> 2.0 h2o_c + h_c + ppbng_c
+PA5243
+----------------
+
+PPCDC: 4ppcys_c + h_c --> co2_c + pan4p_c
+PA5320
+----------------
+
+PPNCL2: 4ppan_c + ctp_c + cys__L_c --> 4ppcys_c + cmp_c + h_c + ppi_c
+PA5320
+----------------
+
+PPNDH: h_c + pphn_c --> co2_c + h2o_c + phpyr_c
+PA3166
+----------------
+
+PPTGS: uaagmda_c --> h_c + peptido_EC_c + udcpdp_c
+----------------
+
+PRAGSr: atp_c + gly_c + pram_c <=> adp_c + gar_c + h_c + pi_c
+PA4855
+----------------
+
+PRAI: pran_c <=> 2cpr5p_c
+PA3113
+----------------
+
+PRAIS: atp_c + fpram_c --> adp_c + air_c + h_c + pi_c
+PA0945
+----------------
+
+PRAMPC: h2o_c + h_c + prbamp_c --> prfp_c
+PA5066
+----------------
+
+PRASCS: 5aizc_c + asp__L_c + atp_c <=> 25aics_c + adp_c + h_c + pi_c
+PA1013
+----------------
+
+PRATPP: h2o_c + prbatp_c --> h_c + ppi_c + prbamp_c
+PA5067
+----------------
+
+PRFGS: atp_c + fgam_c + gln__L_c + h2o_c --> adp_c + fpram_c + glu__L_c + 2.0 h_c + pi_c
+PA3763
+----------------
+
+PRMICIi: prfp_c --> prlp_c
+PA5141
+----------------
+
+PRPPS: atp_c + r5p_c <=> amp_c + h_c + prpp_c
+PA4670
+----------------
+
+PSCVT: pep_c + skm5p_c <=> 3psme_c + pi_c
+PA3164
+----------------
+
+PSDC_PA: 0.02 ps_PA_c --> co2_c + 0.02 pe_PA_c
+PA4957
+----------------
+
+PTPATi: atp_c + h_c + pan4p_c --> dpcoa_c + ppi_c
+PA0363
+----------------
+
+RBFK: atp_c + ribflv_c --> adp_c + fmn_c + h_c
+PA4561
+----------------
+
+RBFSa: 4r5au_c + db4p_c --> dmlz_c + 2.0 h2o_c + pi_c
+PA4053
+----------------
+
+RBFSb: 2.0 dmlz_c --> 4r5au_c + ribflv_c
+PA4053
+PA4055
+----------------
+
+RIBB: r5p_c --> db4p_c + for_c + h_c
+PA4054
+----------------
+
+RPI: r5p_c <=> ru5p__D_c
+PA0330
+----------------
+
+S7PI: s7p_c <=> gmh7p_c
+PA4425
+----------------
+
+SADT2: atp_c + gtp_c + h2o_c + so4_c --> aps_c + gdp_c + pi_c + ppi_c
+PA4442
+PA4443
+----------------
+
+SDPDS: h2o_c + sl26da_c --> 26dap__LL_c + succ_c
+PA1162
+----------------
+
+SDPTA: akg_c + sl26da_c <=> glu__L_c + sl2a6o_c
+PA3659
+----------------
+
+SHK3D: 3dhsk_c + h_c + nadph_c <=> nadp_c + skm_c
+PA0025
+----------------
+
+SHKK: atp_c + skm_c --> adp_c + h_c + skm5p_c
+PA5039
+----------------
+
+SPMS: ametam_c + ptrc_c --> 5mta_c + h_c + spmd_c
+PA1687
+----------------
+
+SULR: 3.0 h2o_c + h2s_c + 3.0 nadp_c <=> 4.0 h_c + 3.0 nadph_c + so3_c
+PA2906
+PA4130
+PA1838
+----------------
+
+SULabc: atp_c + h2o_c + so4_e --> adp_c + h_c + pi_c + so4_c
+PA0281
+PA1493
+PA0283
+PA0282
+PA0280
+----------------
+
+TDPDRE: dtdpddg_c <=> dtdpddm_c
+PA5164
+----------------
+
+TDPDRR: dtdp6dm_c + nadp_c <=> dtdpddm_c + h_c + nadph_c
+PA5162
+----------------
+
+TDPGDH: dtdpglc_c --> dtdpddg_c + h2o_c
+PA5161
+----------------
+
+THDPS: h2o_c + succoa_c + thdp_c --> coa_c + sl2a6o_c
+PA3666
+----------------
+
+TMDS: dump_c + mlthf_c --> dhf_c + dtmp_c
+PA0342
+----------------
+
+TRDR: h_c + nadph_c + trdox_c --> nadp_c + trdrd_c
+PA2616
+PA0849
+----------------
+
+TRPS1: 3ig3p_c + ser__L_c --> g3p_c + h2o_c + trp__L_c
+PA0035
+PA0036
+----------------
+
+UAAGDS: 26dap__M_c + atp_c + uamag_c --> adp_c + h_c + pi_c + ugmd_c
+PA4417
+----------------
+
+UAGCVT: pep_c + uacgam_c --> pi_c + uaccg_c
+PA4450
+----------------
+
+UAGDP: acgam1p_c + h_c + utp_c --> ppi_c + uacgam_c
+PA5552
+----------------
+
+UAGPT3: uacgam_c + uagmda_c --> h_c + uaagmda_c + udp_c
+PA4412
+----------------
+
+UAMAGS: atp_c + glu__D_c + uama_c --> adp_c + h_c + pi_c + uamag_c
+PA4414
+----------------
+
+UAMAS: ala__L_c + atp_c + uamr_c --> adp_c + h_c + pi_c + uama_c
+PA4411
+----------------
+
+UAPGR: h_c + nadph_c + uaccg_c --> nadp_c + uamr_c
+PA2977
+----------------
+
+UDCPDP: h2o_c + udcpdp_c --> h_c + pi_c + udcpp_c
+PA1959
+----------------
+
+UDPG4E: udpg_c <=> udpgal_c
+PA1384
+PA4068
+PA3141
+PA3146
+----------------
+
+UGMDDS: alaala_c + atp_c + ugmd_c --> adp_c + h_c + pi_c + ugmda_c
+PA4416
+----------------
+
+UMPK: atp_c + ump_c <=> adp_c + udp_c
+PA3654
+----------------
+
+UPP3S: hmbil_c --> h2o_c + uppg3_c
+PA5259
+----------------
+
+UPPDC1: 4.0 h_c + uppg3_c --> 4.0 co2_c + cpppg3_c
+PA5034
+----------------
+

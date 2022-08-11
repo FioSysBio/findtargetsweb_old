@@ -1,0 +1,29 @@
+*** INICIO DA EXECUCAO *** 
+Modelo/Organismo/Nome/Email/Metodo = Staphylococcus_aureus_subsp_aureus_USA300_FPR3757, Staphylococcus aureus, Aditi, aditimuddebihalkar@gmail.com, 1
+
+
+INICIO DO ITEM 1
+GRAVOU ARQUIVO COM OS DADOS DE GENE/REACAO DA REDE
+GEROU FBA 
+FBA = <Solution 87.805 at 0x7f12b38ef128>
+INICIO DO ITEM 2
+GEROU FVA 
+INICIO DA VERIFICACAO ENTRE FBA/FVA 
+Lista de reacoes a analisar = 335
+GENERATED FILE 01-fva.csv
+GENERATED FILE /var/www/html/findtargetsweb3/FindTargetsWEB/results/2019-11-28_10.20.13.675768//02-reacoesFVADifZero.txt
+INICIO DO ITEM 3
+len(listReactPerturb) = 335
+Total de reacoes cujo FBA zerou = 233
+INICIO DA BIFURCACAO
+if len(model.genes) = True
+INICIO DO ITEM 4
+INICIO DO ITEM 5
+INICIO DO ITEM 6
+list_acron_kegg = ['sau', 'sav', 'saw', 'sah', 'saj', 'sam', 'sas', 'sar', 'sac', 'sax', 'saa', 'sao', 'sae', 'sad', 'suu', 'suv', 'sue', 'suj', 'suk', 'suc', 'sut', 'suq', 'suz', 'sud', 'sux', 'suw', 'sug', 'suf', 'saua', 'saue', 'saun', 'saus', 'sauu', 'saug', 'sauz', 'saut', 'sauj', 'sauk', 'sauq', 'sauv', 'sauw', 'saux', 'sauy', 'sab', 'suy', 'saub', 'saum', 'sauc', 'saur', 'saui', 'saud', 'sauf', 'sams']
+len my_list_genes = 184
+INICIO DO ITEM 7
+INICIO DO ITEM 8
+INICIO DO ITEM 9
+INICIO DO ITEM 10
+ACABOU!!! SEJA FELIZ!!!

@@ -1,0 +1,267 @@
+None + None + None --> None + None + None
+None + None + None --> None + None + None
+None + None + None --> None + None + None
+2.0 None --> None + None
+None + None --> None + None
+None + None + None --> None + None + None + None
+None + None + None --> None + None
+None + None --> None + None
+None + None + None --> None + None
+None + 2.0 None --> None + None
+None --> None
+None + None --> None + None
+None + None --> None + None + None
+None --> None + None
+None --> None + None
+None + None + None --> None + None + 2.0 None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None
+None + None + None --> None + None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None + None + None
+None + None --> None + None
+None --> None + None
+None + None + None --> None + None + None + None
+None + None + None --> None + None + None
+None + None + None + None --> None + None + None + None + None
+None + None --> None + None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None
+None + 4.0 None + None --> None + None + 3.0 None
+None + None --> None + None + None
+None + None --> None + None
+2.0 None + None + None + None --> 2.0 None + None + None + 2.0 None + None
+None + None --> None + None + None
+None --> None
+None --> None + None
+None --> None + None
+2.0 None --> None + None
+None + None --> None
+2.0 None + 2.0 None + None --> 2.0 None + 4.0 None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None
+None --> None
+None + None + None --> None + None
+None + None + None --> None + None
+None + None + None --> None + None
+None + None + None --> None + None
+None + None --> None + None
+None --> None + None
+None --> None + None
+None + None + None --> None + None
+None + None --> None + 2.0 None + None
+None + None + None --> None + None
+None + None --> None + None
+None --> None + None
+None --> None + None
+None --> 
+None --> 
+None --> 
+None --> 
+None --> 
+None --> 
+None + None + None --> None + None + None
+None + None + None --> None + None + None
+None + None + None --> None + None + None
+None + None + None --> None + None
+None + None + None --> None + None
+None + None + None --> None + None
+None + None + None --> None + None
+None + None + None --> None + None
+3.0 None + None + 2.0 None + None --> None + None + None + None + 2.0 None
+9.0 None + 3.0 None + 6.0 None + None --> 3.0 None + 3.0 None + 3.0 None + 6.0 None + None
+3.0 None + None + 2.0 None + None --> None + None + None + None + 2.0 None
+None + 8.0 None + 3.0 None + 6.0 None --> 3.0 None + 4.0 None + 2.0 None + 6.0 None + None
+None + 24.0 None + 8.0 None + 16.0 None --> 8.0 None + 8.0 None + 8.0 None + 16.0 None + None
+3.0 None + None + None + 2.0 None --> None + None + None + None + 2.0 None
+3.0 None + None + None + 2.0 None --> None + None + None + None + 2.0 None
+15.0 None + 4.0 None + None + 10.0 None + None --> 5.0 None + 5.0 None + 5.0 None + None + 10.0 None
+None + 3.0 None + None + 2.0 None --> None + None + None + 2.0 None + None
+3.0 None + None + 2.0 None + None --> None + None + None + None + 2.0 None
+3.0 None + None + 2.0 None + None --> None + None + None + 2.0 None + None
+3.0 None + None + None + 2.0 None --> None + None + None + None + 2.0 None
+None + 3.0 None + None + 2.0 None --> None + None + None + None + 2.0 None
+3.0 None + None + 2.0 None + None --> None + None + None + 2.0 None + None
+None + 3.0 None + None + 2.0 None --> None + None + None + 2.0 None + None
+3.0 None + None + None + 2.0 None --> None + None + None + None + 2.0 None
+3.0 None + None + 2.0 None + None --> None + None + None + None + 2.0 None
+3.0 None + None + 2.0 None + None --> None + None + None + 2.0 None + None
+None + 3.0 None + None + 2.0 None --> None + None + None + 2.0 None + None
+3.0 None + None + None + 2.0 None --> None + None + None + None + 2.0 None
+3.0 None + None + 2.0 None + None --> None + None + None + 2.0 None + None
+3.0 None + None + 2.0 None + None --> None + None + None + 2.0 None + None
+3.0 None + None + 2.0 None + None --> None + None + None + None + 2.0 None
+3.0 None + None + None + 2.0 None --> None + None + None + None + 2.0 None
+3.0 None + None + None + 2.0 None --> None + None + None + 2.0 None + None
+None --> None + None
+None + None --> None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None + None
+None --> None + None + None
+None + None --> None + None + None
+None + None + None --> None + None
+None + None + None --> None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None
+None + None + None --> None + None + None + None
+None + None + None --> None + None + None
+None --> None
+None --> None
+None + None + None + None --> None + None + None + 2.0 None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None
+None + None + 2.0 None --> 3.0 None + None + 2.0 None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None + None
+None + None --> None + None + None + None
+None --> None + None
+None + None --> None + None + None
+None + None --> None + None
+None + None --> None
+None + None + None --> None + None + None
+None + None --> None + None
+None + None --> None + None + None
+None --> None + None
+None + None --> None
+None + None + None --> None + None + None
+None + None + None --> None + None
+None + None + None --> None + None
+None + None --> None + None
+None --> None
+None + None --> None + None
+None + None --> None + None
+None + None + 2.0 None + 2.0 None + 3.5 None + None + None + None --> None + None + None + None + 5.0 None + 2.0 None + 2.0 None + None
+None + None + None + 2.0 None + 2.0 None + None + None + None --> None + None + None + 5.0 None + None + None
+None + None --> None + None
+None + None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None
+None --> None
+None --> None
+None --> None
+None + None --> None + None
+2.0 None + None + None --> None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None + None --> None + None + None
+None + None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + 2.0 None + None --> None + None + None + 2.0 None + None
+None + 2.0 None + None --> None + None + None + 2.0 None + None
+None + 2.0 None + None --> None + None + None + 2.0 None + None
+None + 2.0 None + None --> None + None + None + 2.0 None + None
+None + 2.0 None + None --> None + None + None + 2.0 None + None
+33.0 None + None + 12.0 None + 24.0 None --> 11.0 None + 12.0 None + 13.0 None + None + 24.0 None
+42.0 None + None + 15.0 None + 30.0 None --> 14.0 None + 15.0 None + 16.0 None + None + 30.0 None
+47.0 None + None + 16.0 None + 30.0 None --> 15.0 None + 16.0 None + 17.0 None + None + 30.0 None
+None + None --> None + None
+None + None + None + None --> None + None + None
+None + 2.0 None + 2.0 None --> 2.0 None + 2.0 None + None + None + 2.0 None
+None + None --> None
+None --> None
+None --> None
+None --> None
+None --> None
+None --> None
+None + None --> None + None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> 2.0 None + None + None + None
+5.0 None + None + 4.0 None + None --> 5.0 None + None
+2.0 None + None + 2.0 None --> 2.0 None + None
+None + None --> None + None + None
+None --> None
+None --> None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None
+None + None + None --> None + None + None
+None + None + None --> None + None + None
+2.0 None + None --> 2.0 None + 2.0 None + None
+None --> None
+None --> None
+None + None --> None + 2.0 None
+2.0 None + None + 2.0 None --> 2.0 None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None + None --> None + None + None + None
+None + None --> None + None + 2.0 None + None
+None --> None
+None + None --> None
+None + None + None --> None + None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+14.0 None + 2.0 None + 2.0 None + 10.0 None + None --> 2.0 None + 4.0 None + 5.0 None + 10.0 None + None
+None + 14.0 None + 2.0 None + 2.0 None + 10.0 None --> 2.0 None + 4.0 None + 5.0 None + 10.0 None + None
+None + None + None + None --> None + None + None + None + None
+None --> None
+None + None --> None + None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None --> None
+None --> None + None
+None + None --> None + None
+None + None --> None + None
+None + None --> None + None
+None + None + None --> None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None --> None
+3.0 None + None + 3.0 None --> 5.0 None + 3.0 None + None
+None + None + None --> None + None + None + None
+4.0 None + None + None + 2.0 None + None --> 4.0 None + None
+4.0 None + None + None + 2.0 None + None --> 4.0 None + None
+2.0 None + None + None + None --> 2.0 None + None
+2.0 None + None + None + None --> 2.0 None + None
+2.0 None + None + None + None --> 2.0 None + None
+2.0 None + None + None + None --> 2.0 None + None
+None + None + None --> None + None
+None + None --> None + None
+None + None + None --> 2.0 None + None
+None + None + None --> 2.0 None + None
+None + None + None --> 2.0 None + None
+None + None + None --> 2.0 None + None
+None + None + None --> None + None
+None + None --> None + None
+None + None --> None + None + None
+None + None --> None + None + None
+None + None --> None + None
+None --> None
+None + None --> None + None
+0.00126075 None + 0.001116 None + 0.00100125 None + 0.00090825 None + 0.0009555 None + 0.001557 None + 0.0013425 None + 0.00117975 None + 0.00105225 None + 0.0009495 None + 0.0008655 None + 0.6089355 None + 0.139026 None + 0.011757 None + 0.180624 None + 0.0715485 None + 0.180462 None + 45.0 None + 0.00439425 None + 0.250951 None + 0.033 None + 0.000873 None + 0.00166575 None + 0.00166475 None + 0.00091325 None + 0.0018725 None + 0.0693425 None + 0.20394 None + 0.08718 None + 0.1350105 None + 0.503712 None + 0.03169875 None + 0.243651 None + 45.0 None + 0.176364 None + 0.008205 None + 0.043764 None + 0.0609255 None + 0.1315965 None + 0.0041725 None + 0.307059 None + 0.058635 None + 0.11883125 None + 0.00588 None + 0.0017525 None + 0.0523335 None + 0.00411375 None + 0.00420625 None + 0.0718515 None + 0.01375375 None + 0.02612775 None + 0.00738675 None + 0.0050985 None + 0.00543 None + 0.00480525 None + 0.00156375 None + 0.00034125 None + 0.00304575 None + 0.0045975 None + 0.00486525 None + 0.0043575 None + 0.072153 None + 0.00032875 None + 0.207051 None + 0.02715375 None + 0.2150955 None + 0.00142125 None + 0.00147 None + 0.203568 None + 0.0013825 None + 0.001375 None + 0.00138 None + 0.00137125 None + 0.00811375 None + 0.0099625 None + 0.030186 None + 0.00914475 None + 0.047634 None + 0.131604 None + 0.3087405 None --> 45.0 None + 45.0 None + 45.0 None

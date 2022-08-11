@@ -1,0 +1,1257 @@
+3OAR140: 3omrsACP_c + h_c + nadph_c <=> 3hmrsACP_c + nadp_c
+b1093
+----------------
+
+3OAS140: ddcaACP_c + h_c + malACP_c --> 3omrsACP_c + ACP_c + co2_c
+b1095
+b2323
+----------------
+
+5DOAN: dad_DASH_5_c + h2o_c --> 5drib_c + ade_c
+b0159
+----------------
+
+A5PISO: ru5p_DASH_D_c <=> ara5p_c
+b2708
+b3197
+----------------
+
+ACCOAC: accoa_c + atp_c + hco3_c --> adp_c + h_c + malcoa_c + pi_c
+b2316
+b3255
+b3256
+b0185
+----------------
+
+ACGK: acglu_c + atp_c --> acg5p_c + adp_c
+b3959
+----------------
+
+ACGS: accoa_c + glu_DASH_L_c --> acglu_c + coa_c + h_c
+b2818
+----------------
+
+ACHBS: 2obut_c + h_c + pyr_c --> 2ahbut_c + co2_c
+b0077
+b3671
+b3670
+b0078
+----------------
+
+ACLS: h_c + 2.0 pyr_c --> alac_DASH_S_c + co2_c
+b0077
+b3671
+b3670
+b0078
+----------------
+
+ACODA: acorn_c + h2o_c --> ac_c + orn_c
+b3957
+----------------
+
+ACONTa: cit_c <=> acon_DASH_C_c + h2o_c
+b1276
+b0118
+----------------
+
+ACONTb: acon_DASH_C_c + h2o_c <=> icit_c
+b1276
+b0118
+----------------
+
+ACOTA: acorn_c + akg_c <=> acg5sa_c + glu_DASH_L_c
+b1748
+b3359
+----------------
+
+ADCL: 4adcho_c --> 4abz_c + h_c + pyr_c
+b1096
+----------------
+
+ADCS: chor_c + gln_DASH_L_c --> 4adcho_c + glu_DASH_L_c
+b3360
+b1812
+----------------
+
+ADSK: aps_c + atp_c --> adp_c + h_c + paps_c
+b2750
+----------------
+
+ADSL1r: dcamp_c <=> amp_c + fum_c
+b1131
+----------------
+
+ADSL2r: 25aics_c <=> aicar_c + fum_c
+b1131
+----------------
+
+ADSS: asp_DASH_L_c + gtp_c + imp_c --> dcamp_c + gdp_c + 2.0 h_c + pi_c
+b4177
+----------------
+
+AGPAT160: 1hdecg3p_c + palmACP_c --> ACP_c + pa160_c
+b3018
+----------------
+
+AGPAT161: 1hdec9eg3p_c + hdeACP_c --> ACP_c + pa161_c
+b3018
+----------------
+
+AGPR: acg5sa_c + nadp_c + pi_c <=> acg5p_c + h_c + nadph_c
+b3958
+----------------
+
+AHCYSNS: ahcys_c + h2o_c --> ade_c + rhcys_c
+b0159
+----------------
+
+AICART: 10fthf_c + aicar_c <=> fprica_c + thf_c
+b4006
+----------------
+
+AIRC2: air_c + atp_c + hco3_c --> 5caiz_c + adp_c + h_c + pi_c
+b0522
+----------------
+
+AIRC3: 5aizc_c <=> 5caiz_c
+b0523
+----------------
+
+ALAALAr: 2.0 ala_DASH_D_c + atp_c <=> adp_c + alaala_c + h_c + pi_c
+b0381
+b0092
+----------------
+
+ALAR: ala_DASH_L_c <=> ala_DASH_D_c
+b4053
+b1190
+----------------
+
+AMAOTr: 8aonn_c + amet_c <=> amob_c + dann_c
+b0774
+----------------
+
+AMPMS2: air_c + h2o_c + nad_c --> 4ampm_c + 2.0 for_c + 3.0 h_c + nadh_c
+b3994
+----------------
+
+ANPRT: anth_c + prpp_c --> ppi_c + pran_c
+b1263
+----------------
+
+ANS: chor_c + gln_DASH_L_c --> anth_c + glu_DASH_L_c + h_c + pyr_c
+b1264
+b1263
+----------------
+
+AOXSr2: ala_DASH_L_c + pimACP_c --> 8aonn_c + ACP_c + co2_c
+b0776
+----------------
+
+APRAUR: 5apru_c + h_c + nadph_c --> 5aprbu_c + nadp_c
+b0414
+----------------
+
+ARGSL: argsuc_c <=> arg_DASH_L_c + fum_c
+b3960
+----------------
+
+ARGSS: asp_DASH_L_c + atp_c + citr_DASH_L_c --> amp_c + argsuc_c + h_c + ppi_c
+b3172
+----------------
+
+ASAD: aspsa_c + nadp_c + pi_c <=> 4pasp_c + h_c + nadph_c
+b3433
+----------------
+
+ASP1DC: asp_DASH_L_c + h_c --> ala_DASH_B_c + co2_c
+b0131
+----------------
+
+ASPCT: asp_DASH_L_c + cbp_c --> cbasp_c + h_c + pi_c
+b4244
+b4245
+----------------
+
+ASPK: asp_DASH_L_c + atp_c <=> 4pasp_c + adp_c
+b0002
+b3940
+b4024
+----------------
+
+ASPTA: akg_c + asp_DASH_L_c <=> glu_DASH_L_c + oaa_c
+b0928
+----------------
+
+ATPPRT: atp_c + prpp_c --> ppi_c + prbatp_c
+b2019
+----------------
+
+BMOCOS: moco_c + mptamp_c --> amp_c + bmoco_c + cu2_c
+b0827
+----------------
+
+BMOGDS1: bmoco_c + gtp_c + h_c --> bmoco1gdp_c + ppi_c
+b3857
+b3856
+----------------
+
+BMOGDS2: bmoco1gdp_c + gtp_c + h_c --> bmocogdp_c + ppi_c
+b3857
+b3856
+----------------
+
+BPNT: h2o_c + pap_c --> amp_c + pi_c
+b4214
+----------------
+
+BTS5: 2fe2s_c + amet_c + dtbt_c --> 2fe1s_c + btn_c + dad_DASH_5_c + h_c + met_DASH_L_c
+b0775
+----------------
+
+CA2tex: ca2_e <=> ca2_p
+b0929
+b0241
+b2215
+b1377
+----------------
+
+CDPMEK: 4c2me_c + atp_c --> 2p4c2me_c + adp_c + h_c
+b1208
+----------------
+
+CHORM: chor_c --> pphn_c
+b2600
+b2599
+----------------
+
+CHORS: 3psme_c --> chor_c + pi_c
+b2329
+----------------
+
+CHRPL: chor_c --> 4hbz_c + pyr_c
+b4039
+----------------
+
+CLt3_2pp: 2.0 cl_p + h_c --> 2.0 cl_c + h_p
+b1592
+b0155
+----------------
+
+CLtex: cl_e <=> cl_p
+b0929
+b0241
+b2215
+b1377
+----------------
+
+COBALT2tex: cobalt2_e <=> cobalt2_p
+b0929
+b0241
+b2215
+b1377
+----------------
+
+COBALT2tpp: cobalt2_p --> cobalt2_c
+b3040
+b3816
+----------------
+
+CPMPS: gtp_c + h2o_c --> cpmp_c + ppi_c
+b0781
+b0783
+----------------
+
+CS: accoa_c + h2o_c + oaa_c --> cit_c + coa_c + h_c
+b0720
+----------------
+
+CTPS2: atp_c + gln_DASH_L_c + h2o_c + utp_c --> adp_c + ctp_c + glu_DASH_L_c + 2.0 h_c + pi_c
+b2780
+----------------
+
+CU2tex: cu2_e <=> cu2_p
+b0929
+b0241
+b2215
+b1377
+----------------
+
+CU2tpp: cu2_p --> cu2_c
+b3040
+----------------
+
+CYSS: acser_c + h2s_c --> ac_c + cys_DASH_L_c + h_c
+b2421
+b2414
+----------------
+
+CYSTL: cyst_DASH_L_c + h2o_c --> hcys_DASH_L_c + nh4_c + pyr_c
+b3008
+b1622
+----------------
+
+DAPDC: 26dap_DASH_M_c + h_c --> co2_c + lys_DASH_L_c
+b2838
+----------------
+
+DAPE: 26dap_DASH_LL_c <=> 26dap_DASH_M_c
+b3809
+----------------
+
+DASYN160: ctp_c + h_c + pa160_c --> cdpdhdecg_c + ppi_c
+b0175
+----------------
+
+DASYN161: ctp_c + h_c + pa161_c --> cdpdhdec9eg_c + ppi_c
+b0175
+----------------
+
+DB4PS: ru5p_DASH_D_c --> db4p_c + for_c + h_c
+b3041
+----------------
+
+DBTS: atp_c + co2_c + dann_c --> adp_c + dtbt_c + 3.0 h_c + pi_c
+b0778
+----------------
+
+DDPA: e4p_c + h2o_c + pep_c --> 2dda7p_c + pi_c
+b0754
+b2601
+b1704
+----------------
+
+DHAD1: 23dhmb_c --> 3mob_c + h2o_c
+b3771
+----------------
+
+DHAD2: 23dhmp_c --> 3mop_c + h2o_c
+b3771
+----------------
+
+DHDPRy: 23dhdp_c + h_c + nadph_c --> nadp_c + thdp_c
+b0031
+----------------
+
+DHDPS: aspsa_c + pyr_c --> 23dhdp_c + 2.0 h2o_c + h_c
+b2478
+----------------
+
+DHFR: dhf_c + h_c + nadph_c <=> nadp_c + thf_c
+b1606
+b0048
+----------------
+
+DHFS: atp_c + dhpt_c + glu_DASH_L_c --> adp_c + dhf_c + h_c + pi_c
+b2315
+----------------
+
+DHNPA2r: dhnpt_c <=> 6hmhpt_c + gcald_c
+b3058
+----------------
+
+DHORTS: dhor_DASH_S_c + h2o_c <=> cbasp_c + h_c
+b1062
+----------------
+
+DHPPDA2: 25drapp_c + h2o_c + h_c --> 5apru_c + nh4_c
+b0414
+----------------
+
+DHPS2: 4abz_c + 6hmhptpp_c --> dhpt_c + ppi_c
+b3177
+----------------
+
+DHPTDCs2: dhptd_c --> mdhdhf_c
+s0001
+----------------
+
+DHQS: 2dda7p_c --> 3dhq_c + pi_c
+b3389
+----------------
+
+DHQTi: 3dhq_c --> 3dhsk_c + h2o_c
+b1693
+----------------
+
+DMATT: dmpp_c + ipdp_c --> grdp_c + ppi_c
+b0421
+----------------
+
+DM_4CRSOL: 4crsol_c --> 
+----------------
+
+DM_5DRIB: 5drib_c --> 
+----------------
+
+DM_AMOB: amob_c --> 
+----------------
+
+DM_MTHTHF: mththf_c --> 
+----------------
+
+DNMPPA: dhpmp_c + h2o_c --> dhnpt_c + pi_c
+----------------
+
+DNTPPA: ahdt_c + h2o_c --> dhpmp_c + h_c + ppi_c
+b1865
+b0099
+----------------
+
+DPCOAK: atp_c + dpcoa_c --> adp_c + coa_c + h_c
+b0103
+----------------
+
+DPR: 2dhp_c + h_c + nadph_c --> nadp_c + pant_DASH_R_c
+b3774
+b0425
+----------------
+
+DTMPK: atp_c + dtmp_c <=> adp_c + dtdp_c
+b1098
+----------------
+
+DXPRIi: dxyl5p_c + h_c + nadph_c --> 2me4p_c + nadp_c
+b0173
+----------------
+
+DXPS: g3p_c + h_c + pyr_c --> co2_c + dxyl5p_c
+b0420
+----------------
+
+E4PD: e4p_c + h2o_c + nad_c <=> 4per_c + 2.0 h_c + nadh_c
+b1779
+b2927
+----------------
+
+EGMEACPR: egmeACP_c + h_c + nadph_c --> gmeACP_c + nadp_c
+b1288
+----------------
+
+EPMEACPR: epmeACP_c + h_c + nadph_c --> nadp_c + pmeACP_c
+b1288
+----------------
+
+EX_ca2_LPAREN_e_RPAREN_: ca2_e <=> 
+----------------
+
+EX_cl_LPAREN_e_RPAREN_: cl_e <=> 
+----------------
+
+EX_cobalt2_LPAREN_e_RPAREN_: cobalt2_e <=> 
+----------------
+
+EX_cu2_LPAREN_e_RPAREN_: cu2_e <=> 
+----------------
+
+EX_k_LPAREN_e_RPAREN_: k_e <=> 
+----------------
+
+EX_meoh_LPAREN_e_RPAREN_: meoh_e --> 
+----------------
+
+EX_mg2_LPAREN_e_RPAREN_: mg2_e <=> 
+----------------
+
+EX_mn2_LPAREN_e_RPAREN_: mn2_e <=> 
+----------------
+
+EX_mobd_LPAREN_e_RPAREN_: mobd_e <=> 
+----------------
+
+EX_nh4_LPAREN_e_RPAREN_: nh4_e <=> 
+----------------
+
+EX_ni2_LPAREN_e_RPAREN_: ni2_e <=> 
+----------------
+
+EX_pi_LPAREN_e_RPAREN_: pi_e <=> 
+----------------
+
+EX_so4_LPAREN_e_RPAREN_: so4_e <=> 
+----------------
+
+EX_zn2_LPAREN_e_RPAREN_: zn2_e <=> 
+----------------
+
+Ec_biomass_iJO1366_core_53p95M: 0.000223 10fthf_c + 2.6e-05 2fe2s_c + 0.000223 2ohph_c + 0.00026 4fe4s_c + 0.513689 ala_DASH_L_c + 0.000223 amet_c + 0.295792 arg_DASH_L_c + 0.241055 asn_DASH_L_c + 0.241055 asp_DASH_L_c + 54.124831 atp_c + 0.000122 bmocogdp_c + 2e-06 btn_c + 0.005205 ca2_c + 0.005205 cl_c + 0.000576 coa_c + 2.5e-05 cobalt2_c + 0.133508 ctp_c + 0.000709 cu2_c + 0.09158 cys_DASH_L_c + 0.026166 datp_c + 0.027017 dctp_c + 0.027017 dgtp_c + 0.026166 dttp_c + 0.000223 fad_c + 0.006715 fe2_c + 0.007808 fe3_c + 0.26316 gln_DASH_L_c + 0.26316 glu_DASH_L_c + 0.612638 gly_c + 0.215096 gtp_c + 48.601527 h2o_c + 0.094738 his_DASH_L_c + 0.290529 ile_DASH_L_c + 0.195193 k_c + 0.019456 kdo2lipid4_e + 0.450531 leu_DASH_L_c + 0.343161 lys_DASH_L_c + 0.153686 met_DASH_L_c + 0.008675 mg2_c + 0.000223 mlthf_c + 0.000691 mn2_c + 7e-06 mobd_c + 0.013894 murein5px4p_p + 0.001831 nad_c + 0.000447 nadp_c + 0.013013 nh4_c + 0.000323 ni2_c + 0.017868 pe160_c + 0.045946 pe160_p + 0.054154 pe161_c + 0.02106 pe161_p + 0.185265 phe_DASH_L_c + 0.000223 pheme_c + 0.221055 pro_DASH_L_c + 0.000223 pydx5p_c + 0.000223 ribflv_c + 0.215792 ser_DASH_L_c + 0.000223 sheme_c + 0.004338 so4_c + 0.000223 thf_c + 0.000223 thmpp_c + 0.253687 thr_DASH_L_c + 0.056843 trp_DASH_L_c + 0.137896 tyr_DASH_L_c + 5.5e-05 udcpdp_c + 0.144104 utp_c + 0.423162 val_DASH_L_c + 0.000341 zn2_c --> 53.95 adp_c + 53.95 h_c + 53.945662 pi_c + 0.773903 ppi_c
+----------------
+
+FCLT: fe2_c + ppp9_c --> 2.0 h_c + pheme_c
+b0475
+----------------
+
+FMNAT: atp_c + fmn_c + h_c --> fad_c + ppi_c
+b0025
+----------------
+
+G1PACT: accoa_c + gam1p_c --> acgam1p_c + coa_c + h_c
+b3730
+----------------
+
+G1SAT: glu1sa_c <=> 5aop_c
+b0154
+----------------
+
+G3PD2: glyc3p_c + nadp_c <=> dhap_c + h_c + nadph_c
+b3608
+----------------
+
+G5SADs: glu5sa_c --> 1pyr5c_c + h2o_c + h_c
+s0001
+----------------
+
+GCALDD: gcald_c + h2o_c + nad_c --> glyclt_c + 2.0 h_c + nadh_c
+b1415
+----------------
+
+GF6PTA: f6p_c + gln_DASH_L_c --> gam6p_c + glu_DASH_L_c
+b3729
+----------------
+
+GK1: atp_c + gmp_c <=> adp_c + gdp_c
+b3648
+----------------
+
+GLNS: atp_c + glu_DASH_L_c + nh4_c --> adp_c + gln_DASH_L_c + h_c + pi_c
+b3870
+b1297
+----------------
+
+GLUPRT: gln_DASH_L_c + h2o_c + prpp_c --> glu_DASH_L_c + ppi_c + pram_c
+b2312
+----------------
+
+GLUR: glu_DASH_D_c <=> glu_DASH_L_c
+b3967
+----------------
+
+GLUTRR: glutrna_c + h_c + nadph_c --> glu1sa_c + nadp_c + trnaglu_c
+b1210
+----------------
+
+GLUTRS: atp_c + glu_DASH_L_c + trnaglu_c --> amp_c + glutrna_c + ppi_c
+b2400
+----------------
+
+GMPS2: atp_c + gln_DASH_L_c + h2o_c + xmp_c --> amp_c + glu_DASH_L_c + gmp_c + 2.0 h_c + ppi_c
+b2507
+----------------
+
+GRTT: grdp_c + ipdp_c --> frdp_c + ppi_c
+b0421
+----------------
+
+GTPCI: gtp_c + h2o_c --> ahdt_c + for_c + h_c
+b2153
+----------------
+
+GTPCII2: gtp_c + 3.0 h2o_c --> 25drapp_c + for_c + 2.0 h_c + ppi_c
+b1277
+----------------
+
+HBZOPT: 4hbz_c + octdp_c --> 3ophb_c + ppi_c
+b4040
+----------------
+
+HCO3E: co2_c + h2o_c <=> h_c + hco3_c
+b0126
+b0339
+----------------
+
+HISTD: h2o_c + histd_c + 2.0 nad_c --> 3.0 h_c + his_DASH_L_c + 2.0 nadh_c
+b2020
+----------------
+
+HISTP: h2o_c + hisp_c --> histd_c + pi_c
+b2022
+----------------
+
+HMBS: h2o_c + 4.0 ppbng_c --> hmbil_c + 4.0 nh4_c
+b3805
+----------------
+
+HPPK2: 6hmhpt_c + atp_c --> 6hmhptpp_c + amp_c + h_c
+b0142
+----------------
+
+HSDy: hom_DASH_L_c + nadp_c <=> aspsa_c + h_c + nadph_c
+b0002
+b3940
+----------------
+
+HSK: atp_c + hom_DASH_L_c --> adp_c + h_c + phom_c
+b0003
+----------------
+
+HSST: hom_DASH_L_c + succoa_c --> coa_c + suchms_c
+b4013
+----------------
+
+HSTPT: glu_DASH_L_c + imacp_c --> akg_c + hisp_c
+b2021
+----------------
+
+ICDHyr: icit_c + nadp_c <=> akg_c + co2_c + nadph_c
+b1136
+----------------
+
+ICYSDS: cys_DASH_L_c + iscs_c --> ala_DASH_L_c + iscssh_c
+b2530
+----------------
+
+IG3PS: gln_DASH_L_c + prlp_c --> aicar_c + eig3p_c + glu_DASH_L_c + h_c
+b2025
+b2023
+----------------
+
+IGPDH: eig3p_c --> h2o_c + imacp_c
+b2022
+----------------
+
+IGPS: 2cpr5p_c + h_c --> 3ig3p_c + co2_c + h2o_c
+b1262
+----------------
+
+ILETA: akg_c + ile_DASH_L_c <=> 3mop_c + glu_DASH_L_c
+b3770
+----------------
+
+IMPC: h2o_c + imp_c <=> fprica_c
+b4006
+----------------
+
+IPMD: 3c2hmp_c + nad_c --> 3c4mop_c + h_c + nadh_c
+b0073
+----------------
+
+IPPMIa: 3c2hmp_c <=> 2ippm_c + h2o_c
+b0072
+b0071
+----------------
+
+IPPMIb: 2ippm_c + h2o_c <=> 3c3hmp_c
+b0072
+b0071
+----------------
+
+IPPS: 3mob_c + accoa_c + h2o_c --> 3c3hmp_c + coa_c + h_c
+b0074
+----------------
+
+K2L4Aabcpp: atp_c + h2o_c + kdo2lipid4_c --> adp_c + h_c + kdo2lipid4_p + pi_c
+b0914
+----------------
+
+K2L4Aabctex: atp_c + h2o_c + kdo2lipid4_p --> adp_c + h_c + kdo2lipid4_e + pi_c
+b4262
+b3199
+b3201
+b4261
+b3200
+----------------
+
+KARA1: 23dhmb_c + nadp_c <=> alac_DASH_S_c + h_c + nadph_c
+b3774
+----------------
+
+KARA2: 2ahbut_c + h_c + nadph_c <=> 23dhmp_c + nadp_c
+b3774
+----------------
+
+KDOCT2: ctp_c + kdo_c --> ckdo_c + ppi_c
+b0918
+----------------
+
+KDOPP: h2o_c + kdo8p_c --> kdo_c + pi_c
+b3198
+----------------
+
+KDOPS: ara5p_c + h2o_c + pep_c --> kdo8p_c + pi_c
+b1215
+----------------
+
+Ktex: k_e <=> k_p
+b0929
+b0241
+b2215
+b1377
+----------------
+
+LEUTAi: 4mop_c + glu_DASH_L_c --> akg_c + leu_DASH_L_c
+b3770
+b4054
+----------------
+
+LPADSS: lipidX_c + u23ga_c --> h_c + lipidAds_c + udp_c
+b0182
+----------------
+
+MALCOAMT: amet_c + malcoa_c --> ahcys_c + malcoame_c
+b0777
+----------------
+
+MCOATA: ACP_c + malcoa_c <=> coa_c + malACP_c
+b1092
+b1094
+----------------
+
+MCTP1App: murein5p5p_p --> ala_DASH_D_p + murein5px4p_p
+b0084
+b0149
+b0635
+b3396
+----------------
+
+MECDPDH5: 2mecdp_c + 2.0 flxr_c + h_c --> 2.0 flxso_c + h2mb4p_c + h2o_c
+b0684
+b2895
+b2515
+----------------
+
+MECDPS: 2p4c2me_c --> 2mecdp_c + cmp_c
+b2746
+----------------
+
+MEOHtex: meoh_e <=> meoh_p
+b0929
+b0241
+b2215
+b1377
+----------------
+
+MEOHtrpp: meoh_p <=> meoh_c
+s0001
+----------------
+
+MEPCT: 2me4p_c + ctp_c + h_c --> 4c2me_c + ppi_c
+b2747
+----------------
+
+METAT: atp_c + h2o_c + met_DASH_L_c --> amet_c + pi_c + ppi_c
+b2942
+----------------
+
+METS: 5mthf_c + hcys_DASH_L_c --> h_c + met_DASH_L_c + thf_c
+b3829
+b4019
+----------------
+
+MG2tex: mg2_e <=> mg2_p
+b0929
+b0241
+b2215
+b1377
+----------------
+
+MNtex: mn2_e <=> mn2_p
+b0929
+b0241
+b2215
+b1377
+----------------
+
+MOADSUx: iscssh_c + moadamp_c + nadh_c --> amp_c + iscs_c + moadcosh_c + nad_c
+b2530
+b0784
+----------------
+
+MOAT: ckdo_c + lipidA_c --> cmp_c + h_c + kdolipid4_c
+b3633
+----------------
+
+MOAT2: ckdo_c + kdolipid4_c --> cmp_c + h_c + kdo2lipid4_c
+b3633
+----------------
+
+MOBDabcpp: atp_c + h2o_c + mobd_p --> adp_c + h_c + mobd_c + pi_c
+b0765
+b3917
+b0763
+b2423
+b0764
+b2424
+b2422
+b2425
+----------------
+
+MOBDtex: mobd_e <=> mobd_p
+b0929
+b0241
+b2215
+b1377
+----------------
+
+MOCOS: 2.0 h_c + mobd_c + mptamp_c --> amp_c + cu2_c + h2o_c + moco_c
+b0827
+----------------
+
+MOHMT: 3mob_c + h2o_c + mlthf_c --> 2dhp_c + thf_c
+b0134
+----------------
+
+MPTAT: atp_c + h_c + mpt_c --> mptamp_c + ppi_c
+b0009
+----------------
+
+MPTG: 2.0 uaagmda_c --> 2.0 h_c + murein5p5p_p + 2.0 udcpdp_c
+b1069
+b0149
+b2519
+b3396
+----------------
+
+MPTS: cpmp_c + cu2_c + 2.0 moadcosh_c --> 5.0 h_c + 2.0 moadcoo_c + mpt_c
+b0785
+b0784
+----------------
+
+MPTSS: atp_c + h_c + moadcoo_c --> moadamp_c + ppi_c
+b0826
+----------------
+
+MTHFR2: 2.0 h_c + mlthf_c + nadh_c --> 5mthf_c + nad_c
+b3941
+----------------
+
+MTHTHFSs: h2o_c + mdhdhf_c --> mththf_c
+s0001
+----------------
+
+NADK: atp_c + nad_c --> adp_c + h_c + nadp_c
+b2615
+----------------
+
+NADS1: atp_c + dnad_c + nh4_c --> amp_c + h_c + nad_c + ppi_c
+b1740
+----------------
+
+NDPK2: atp_c + udp_c <=> adp_c + utp_c
+b0474
+b2518
+----------------
+
+NDPK4: atp_c + dtdp_c <=> adp_c + dttp_c
+b0474
+b2518
+----------------
+
+NH4tex: nh4_e <=> nh4_p
+b0929
+b0241
+b2215
+b1377
+----------------
+
+NH4tpp: nh4_p <=> nh4_c
+b0451
+s0001
+----------------
+
+NI2tex: ni2_e <=> ni2_p
+b0929
+b0241
+b2215
+b1377
+----------------
+
+NNATr: atp_c + h_c + nicrnt_c <=> dnad_c + ppi_c
+b0639
+----------------
+
+NNDPR: 2.0 h_c + prpp_c + quln_c --> co2_c + nicrnt_c + ppi_c
+b0109
+----------------
+
+OCBT: cbp_c + orn_c <=> citr_DASH_L_c + h_c + pi_c
+b4254
+b0273
+----------------
+
+OCTDPS: frdp_c + 5.0 ipdp_c --> octdp_c + 5.0 ppi_c
+b3187
+----------------
+
+OGMEACPD: hgmeACP_c --> egmeACP_c + h2o_c
+b0180
+----------------
+
+OGMEACPR: h_c + nadph_c + ogmeACP_c --> hgmeACP_c + nadp_c
+b1093
+----------------
+
+OGMEACPS: h_c + malACP_c + malcoame_c --> co2_c + coa_c + ogmeACP_c
+b1091
+----------------
+
+OHPBAT: glu_DASH_L_c + ohpb_c <=> akg_c + phthr_c
+b0907
+----------------
+
+OMCDC: 3c4mop_c + h_c --> 4mop_c + co2_c
+s0001
+----------------
+
+OMPDC: h_c + orot5p_c --> co2_c + ump_c
+b1281
+----------------
+
+OPHBDC: 3ophb_c + h_c --> 2oph_c + co2_c
+b2311
+b3843
+----------------
+
+OPMEACPD: hpmeACP_c --> epmeACP_c + h2o_c
+b0180
+----------------
+
+OPMEACPR: h_c + nadph_c + opmeACP_c --> hpmeACP_c + nadp_c
+b1093
+----------------
+
+OPMEACPS: gmeACP_c + h_c + malACP_c --> ACP_c + co2_c + opmeACP_c
+b2323
+----------------
+
+ORPT: orot5p_c + ppi_c <=> orot_c + prpp_c
+b3642
+----------------
+
+P5CR: 1pyr5c_c + 2.0 h_c + nadph_c --> nadp_c + pro_DASH_L_c
+b0386
+----------------
+
+PANTS: ala_DASH_B_c + atp_c + pant_DASH_R_c --> amp_c + h_c + pnto_DASH_R_c + ppi_c
+b0133
+----------------
+
+PAPPT3: udcpp_c + ugmda_c --> uagmda_c + ump_c
+b0087
+----------------
+
+PDX5PS: dxyl5p_c + nad_c + phthr_c --> co2_c + 2.0 h2o_c + h_c + nadh_c + pdx5p_c + pi_c
+b0052
+b2564
+----------------
+
+PE160abcpp: atp_c + h2o_c + pe160_c --> adp_c + h_c + pe160_p + pi_c
+b0914
+----------------
+
+PE161abcpp: atp_c + h2o_c + pe161_c --> adp_c + h_c + pe161_p + pi_c
+b0914
+----------------
+
+PERD: 4per_c + nad_c <=> h_c + nadh_c + ohpb_c
+b2320
+----------------
+
+PGAMT: gam1p_c <=> gam6p_c
+b3176
+----------------
+
+PHETA1: akg_c + phe_DASH_L_c <=> glu_DASH_L_c + phpyr_c
+b0928
+b3770
+b4054
+----------------
+
+PItex: pi_e <=> pi_p
+b0929
+b0241
+b2215
+b1377
+----------------
+
+PMDPHT: 5aprbu_c + h2o_c --> 4r5au_c + pi_c
+----------------
+
+PMEACPE: h2o_c + pmeACP_c --> meoh_c + pimACP_c
+b3412
+----------------
+
+PMPK: 4ampm_c + atp_c --> 2mahmp_c + adp_c
+b2103
+----------------
+
+PNTK: atp_c + pnto_DASH_R_c --> 4ppan_c + adp_c + h_c
+b3974
+----------------
+
+PPBNGS: 2.0 5aop_c --> 2.0 h2o_c + h_c + ppbng_c
+b0369
+----------------
+
+PPCDC: 4ppcys_c + h_c --> co2_c + pan4p_c
+b3639
+----------------
+
+PPNCL2: 4ppan_c + ctp_c + cys_DASH_L_c --> 4ppcys_c + cmp_c + h_c + ppi_c
+b3639
+----------------
+
+PPND: nad_c + pphn_c --> 34hpp_c + co2_c + nadh_c
+b2600
+----------------
+
+PPNDH: h_c + pphn_c --> co2_c + h2o_c + phpyr_c
+b2599
+----------------
+
+PRAGSr: atp_c + gly_c + pram_c <=> adp_c + gar_c + h_c + pi_c
+b4005
+----------------
+
+PRAIS: atp_c + fpram_c --> adp_c + air_c + 2.0 h_c + pi_c
+b2499
+----------------
+
+PRAIi: pran_c --> 2cpr5p_c
+b1262
+----------------
+
+PRAMPC: h2o_c + prbamp_c --> prfp_c
+b2026
+----------------
+
+PRASCSi: 5aizc_c + asp_DASH_L_c + atp_c --> 25aics_c + adp_c + h_c + pi_c
+b2476
+----------------
+
+PRATPP: h2o_c + prbatp_c --> h_c + ppi_c + prbamp_c
+b2026
+----------------
+
+PRFGS: atp_c + fgam_c + gln_DASH_L_c + h2o_c --> adp_c + fpram_c + glu_DASH_L_c + h_c + pi_c
+b2557
+----------------
+
+PRMICI: prfp_c <=> prlp_c
+b2024
+----------------
+
+PSCVT: pep_c + skm5p_c <=> 3psme_c + pi_c
+b0908
+----------------
+
+PSD160: h_c + ps160_c --> co2_c + pe160_c
+b4160
+----------------
+
+PSD161: h_c + ps161_c --> co2_c + pe161_c
+b4160
+----------------
+
+PSSA160: cdpdhdecg_c + ser_DASH_L_c --> cmp_c + h_c + ps160_c
+b2585
+----------------
+
+PSSA161: cdpdhdec9eg_c + ser_DASH_L_c --> cmp_c + h_c + ps161_c
+b2585
+----------------
+
+PTPATi: atp_c + h_c + pan4p_c --> dpcoa_c + ppi_c
+b3634
+----------------
+
+QULNS: dhap_c + iasp_c --> 2.0 h2o_c + pi_c + quln_c
+b0750
+----------------
+
+RBFK: atp_c + ribflv_c --> adp_c + fmn_c + h_c
+b0025
+----------------
+
+RBFSa: 4r5au_c + db4p_c --> dmlz_c + 2.0 h2o_c + pi_c
+b1662
+----------------
+
+RBFSb: 2.0 dmlz_c --> 4r5au_c + ribflv_c
+b0415
+----------------
+
+RHCCE: rhcys_c --> dhptd_c + hcys_DASH_L_c
+b2687
+----------------
+
+SADT2: atp_c + gtp_c + h2o_c + so4_c --> aps_c + gdp_c + pi_c + ppi_c
+b2752
+b2751
+----------------
+
+SDPDS: h2o_c + sl26da_c --> 26dap_DASH_LL_c + succ_c
+b2472
+----------------
+
+SDPTA: akg_c + sl26da_c <=> glu_DASH_L_c + sl2a6o_c
+b3359
+----------------
+
+SERAT: accoa_c + ser_DASH_L_c <=> acser_c + coa_c
+b3607
+----------------
+
+SHCHD2: dscl_c + nad_c --> h_c + nadh_c + scl_c
+b3368
+----------------
+
+SHCHF: fe2_c + scl_c --> 3.0 h_c + sheme_c
+b3368
+----------------
+
+SHK3Dr: 3dhsk_c + h_c + nadph_c <=> nadp_c + skm_c
+b3281
+b1692
+----------------
+
+SHKK: atp_c + skm_c --> adp_c + h_c + skm5p_c
+b0388
+b3390
+----------------
+
+SHSL1: cys_DASH_L_c + suchms_c --> cyst_DASH_L_c + h_c + succ_c
+b3939
+----------------
+
+SO4tex: so4_e <=> so4_p
+b0929
+b0241
+b2215
+b1377
+----------------
+
+SULRi: 5.0 h_c + 3.0 nadph_c + so3_c --> 3.0 h2o_c + h2s_c + 3.0 nadp_c
+b2764
+b2763
+----------------
+
+TDSK: atp_c + lipidAds_c --> adp_c + h_c + lipidA_c
+b0915
+----------------
+
+THDPS: h2o_c + succoa_c + thdp_c --> coa_c + sl2a6o_c
+b0166
+----------------
+
+THRD_L: thr_DASH_L_c --> 2obut_c + nh4_c
+b3772
+b3117
+----------------
+
+THRS: h2o_c + phom_c --> pi_c + thr_DASH_L_c
+b0004
+----------------
+
+THZPSN3: atp_c + dhgly_c + dxyl5p_c + h_c + iscssh_c + nadph_c --> 4mpetz_c + amp_c + co2_c + 2.0 h2o_c + iscs_c + nadp_c + ppi_c
+b0423
+b4407
+b3992
+b2530
+b3990
+----------------
+
+TMDS: dump_c + mlthf_c --> dhf_c + dtmp_c
+b2827
+----------------
+
+TMPK: atp_c + thmmp_c --> adp_c + thmpp_c
+b0417
+----------------
+
+TMPPP: 2mahmp_c + 4mpetz_c + h_c --> ppi_c + thmmp_c
+b3993
+----------------
+
+TYRL: amet_c + nadph_c + tyr_DASH_L_c --> 4crsol_c + dad_DASH_5_c + dhgly_c + h_c + met_DASH_L_c + nadp_c
+b3991
+----------------
+
+TYRTA: akg_c + tyr_DASH_L_c <=> 34hpp_c + glu_DASH_L_c
+b0928
+b4054
+----------------
+
+U23GAAT: 3hmrsACP_c + u3hga_c --> ACP_c + h_c + u23ga_c
+b0179
+----------------
+
+UAAGDS: 26dap_DASH_M_c + atp_c + uamag_c --> adp_c + h_c + pi_c + ugmd_c
+b0085
+----------------
+
+UAGAAT: 3hmrsACP_c + uacgam_c <=> ACP_c + u3aga_c
+b0181
+b1094
+----------------
+
+UAGCVT: pep_c + uacgam_c --> pi_c + uaccg_c
+b3189
+----------------
+
+UAGDP: acgam1p_c + h_c + utp_c --> ppi_c + uacgam_c
+b3730
+----------------
+
+UAGPT3: uacgam_c + uagmda_c --> h_c + uaagmda_c + udp_c
+b0090
+----------------
+
+UAMAGS: atp_c + glu_DASH_D_c + uama_c --> adp_c + h_c + pi_c + uamag_c
+b0088
+----------------
+
+UAMAS: ala_DASH_L_c + atp_c + uamr_c --> adp_c + h_c + pi_c + uama_c
+b0091
+----------------
+
+UAPGR: h_c + nadph_c + uaccg_c --> nadp_c + uamr_c
+b3972
+----------------
+
+UDCPDP: h2o_c + udcpdp_c --> h_c + pi_c + udcpp_c
+b3057
+b0841
+b1278
+----------------
+
+UDCPDPS: frdp_c + 8.0 ipdp_c --> 8.0 ppi_c + udcpdp_c
+b0174
+----------------
+
+UGMDDS: alaala_c + atp_c + ugmd_c --> adp_c + h_c + pi_c + ugmda_c
+b0086
+----------------
+
+UHGADA: h2o_c + u3aga_c --> ac_c + u3hga_c
+b0096
+----------------
+
+UMPK: atp_c + ump_c <=> adp_c + udp_c
+b0171
+b0910
+----------------
+
+UPP3MT: 2.0 amet_c + uppg3_c --> 2.0 ahcys_c + dscl_c + h_c
+b3368
+b3803
+----------------
+
+UPP3S: hmbil_c --> h2o_c + uppg3_c
+b3804
+----------------
+
+UPPDC1: 4.0 h_c + uppg3_c --> 4.0 co2_c + cpppg3_c
+b3997
+----------------
+
+USHD: h2o_c + u23ga_c --> 2.0 h_c + lipidX_c + ump_c
+b0524
+----------------
+
+Zn2tex: zn2_e <=> zn2_p
+b0929
+b0241
+b2215
+b1377
+----------------
+

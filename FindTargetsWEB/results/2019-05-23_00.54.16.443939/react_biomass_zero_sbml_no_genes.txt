@@ -1,0 +1,247 @@
+ACP_c_COMMA_mt + atp_c_COMMA_mt + mocdca_c_COMMA_mt --> amp_c_COMMA_mt + mstrACP_c_COMMA_mt + ppi_c_COMMA_mt
+4hbz_c_COMMA_mt + ACP_c_COMMA_mt + atp_c_COMMA_mt --> 4hbzACP_c_COMMA_mt + amp_c_COMMA_mt + ppi_c_COMMA_mt
+ACP_c_COMMA_mt + atp_c_COMMA_mt + hdca_c_COMMA_mt --> amp_c_COMMA_mt + palmACP_c_COMMA_mt + ppi_c_COMMA_mt
+2.0 accoa_c_COMMA_mt --> aacoa_c_COMMA_mt + coa_c_COMMA_mt
+co2_c_COMMA_mt + hexccoa_c_COMMA_mt --> chexccoa_c_COMMA_mt + h2o_c_COMMA_mt
+accoa_c_COMMA_mt + atp_c_COMMA_mt + hco3_c_COMMA_mt --> adp_c_COMMA_mt + h_c_COMMA_mt + malcoa_c_COMMA_mt + pi_c_COMMA_mt
+coa_c_COMMA_mt + h_c_COMMA_mt + hexc_c_COMMA_mt --> h2o_c_COMMA_mt + hexccoa_c_COMMA_mt
+2obut_c_COMMA_mt + h_c_COMMA_mt + pyr_c_COMMA_mt --> 2ahbut_c_COMMA_mt + co2_c_COMMA_mt
+h_c_COMMA_mt + 2.0 pyr_c_COMMA_mt --> alac_DASH_S_c_COMMA_mt + co2_c_COMMA_mt
+aps_c_COMMA_mt + atp_c_COMMA_mt --> adp_c_COMMA_mt + h_c_COMMA_mt + paps_c_COMMA_mt
+dcamp_c_COMMA_mt --> amp_c_COMMA_mt + fum_c_COMMA_mt
+25aics_c_COMMA_mt --> aicar_c_COMMA_mt + fum_c_COMMA_mt
+asp_DASH_L_c_COMMA_mt + gtp_c_COMMA_mt + imp_c_COMMA_mt --> dcamp_c_COMMA_mt + gdp_c_COMMA_mt + 2.0 h_c_COMMA_mt + pi_c_COMMA_mt
+1hdecg3p_c_COMMA_mt + mstrACP_c_COMMA_mt --> ACP_c_COMMA_mt + pa160190_c_COMMA_mt
+1hdecg3p_c_COMMA_mt + palmACP_c_COMMA_mt --> ACP_c_COMMA_mt + pa160_c_COMMA_mt
+1msg3p_c_COMMA_mt + mstrACP_c_COMMA_mt --> ACP_c_COMMA_mt + pa190190_c_COMMA_mt
+ahcys_c_COMMA_mt + h2o_c_COMMA_mt --> adn_c_COMMA_mt + hcys_DASH_L_c_COMMA_mt
+anth_c_COMMA_mt + prpp_c_COMMA_mt --> ppi_c_COMMA_mt + pran_c_COMMA_mt
+chor_c_COMMA_mt + gln_DASH_L_c_COMMA_mt --> anth_c_COMMA_mt + glu_DASH_L_c_COMMA_mt + h_c_COMMA_mt + pyr_c_COMMA_mt
+ACP_c_COMMA_mt + arachcoa_c_COMMA_mt --> arachACP_c_COMMA_mt + coa_c_COMMA_mt
+argsuc_c_COMMA_am --> arg_DASH_L_c_COMMA_am + fum_c_COMMA_am
+asp_DASH_L_c_COMMA_am + atp_c_COMMA_am + citr_DASH_L_c_COMMA_am --> amp_c_COMMA_am + argsuc_c_COMMA_am + h_c_COMMA_am + ppi_c_COMMA_am
+aspsa_c_COMMA_mt + nadp_c_COMMA_mt + pi_c_COMMA_mt --> 4pasp_c_COMMA_mt + h_c_COMMA_mt + nadph_c_COMMA_mt
+asp_DASH_L_c_COMMA_mt + atp_c_COMMA_mt + gln_DASH_L_c_COMMA_mt + h2o_c_COMMA_mt --> amp_c_COMMA_mt + asn_DASH_L_c_COMMA_mt + glu_DASH_L_c_COMMA_mt + h_c_COMMA_mt + ppi_c_COMMA_mt
+asp_DASH_L_c_COMMA_mt + cbp_c_COMMA_mt --> cbasp_c_COMMA_mt + h_c_COMMA_mt + pi_c_COMMA_mt
+asp_DASH_L_c_COMMA_mt + atp_c_COMMA_mt --> 4pasp_c_COMMA_mt + adp_c_COMMA_mt
+akg_c_COMMA_mt + asp_DASH_L_c_COMMA_mt --> glu_DASH_L_c_COMMA_mt + oaa_c_COMMA_mt
+atp_c_COMMA_mt + prpp_c_COMMA_mt --> ppi_c_COMMA_mt + prbatp_c_COMMA_mt
+adp_m_COMMA_am + 4.0 h_c_COMMA_am + pi_m_COMMA_am --> atp_m_COMMA_am + h2o_m_COMMA_am + 3.0 h_m_COMMA_am
+bhb_c_COMMA_mt + nad_c_COMMA_mt --> acac_c_COMMA_mt + h_c_COMMA_mt + nadh_c_COMMA_mt
+h2o_c_COMMA_mt + pap_c_COMMA_mt --> amp_c_COMMA_mt + pi_c_COMMA_mt
+2.0 atp_c_COMMA_mt + gln_DASH_L_c_COMMA_mt + h2o_c_COMMA_mt + hco3_c_COMMA_mt --> 2.0 adp_c_COMMA_mt + cbp_c_COMMA_mt + glu_DASH_L_c_COMMA_mt + 2.0 h_c_COMMA_mt + pi_c_COMMA_mt
+cdpc16c19g_c_COMMA_mt + inost_c_COMMA_mt --> cmp_c_COMMA_mt + h_c_COMMA_mt + ptd1ino160190_c_COMMA_mt
+chor_c_COMMA_mt --> pphn_c_COMMA_mt
+3psme_c_COMMA_mt --> chor_c_COMMA_mt + pi_c_COMMA_mt
+chor_c_COMMA_mt --> 4hbz_c_COMMA_mt + pyr_c_COMMA_mt
+2.0 pg160190_c_COMMA_mt --> clpn160190_c_COMMA_mt + glyc_c_COMMA_mt
+cmcbtt_c_COMMA_mt + fe3_ph --> fcmcbtt_c_COMMA_mt
+2.0 ficytC_m_COMMA_am + 2.0 h_m_COMMA_am + q10h2_m_COMMA_am --> 2.0 focytC_m_COMMA_am + 4.0 h_c_COMMA_am + q10_m_COMMA_am
+acser_c_COMMA_mt + h2s_c_COMMA_mt --> ac_c_COMMA_mt + cys_DASH_L_c_COMMA_mt + h_c_COMMA_mt
+cyst_DASH_L_c_COMMA_mt + h2o_c_COMMA_mt --> hcys_DASH_L_c_COMMA_mt + nh4_c_COMMA_mt + pyr_c_COMMA_mt
+26dap_DASH_M_c_COMMA_mt + h_c_COMMA_mt --> co2_c_COMMA_mt + lys_DASH_L_c_COMMA_mt
+26dap_DASH_LL_c_COMMA_mt --> 26dap_DASH_M_c_COMMA_mt
+ctp_c_COMMA_mt + h_c_COMMA_mt + pa160190_c_COMMA_mt --> cdpc16c19g_c_COMMA_mt + ppi_c_COMMA_mt
+ctp_c_COMMA_mt + h_c_COMMA_mt + pa160_c_COMMA_mt --> cdpdhdecg_c_COMMA_mt + ppi_c_COMMA_mt
+ctp_c_COMMA_mt + h_c_COMMA_mt + pa190190_c_COMMA_mt --> cdpc19c19g_c_COMMA_mt + ppi_c_COMMA_mt
+e4p_c_COMMA_mt + h2o_c_COMMA_mt + pep_c_COMMA_mt --> 2dda7p_c_COMMA_mt + pi_c_COMMA_mt
+atp_c_COMMA_mt + dgmp_c_COMMA_mt --> adp_c_COMMA_mt + dgdp_c_COMMA_mt
+23dhmb_c_COMMA_mt --> 3mob_c_COMMA_mt + h2o_c_COMMA_mt
+23dhmp_c_COMMA_mt --> 3mop_c_COMMA_mt + h2o_c_COMMA_mt
+23dhdp_c_COMMA_mt + h_c_COMMA_mt + nadph_c_COMMA_mt --> nadp_c_COMMA_mt + thdp_c_COMMA_mt
+aspsa_c_COMMA_mt + pyr_c_COMMA_mt --> 23dhdp_c_COMMA_mt + 2.0 h2o_c_COMMA_mt + h_c_COMMA_mt
+dhf_c_COMMA_mt + h_c_COMMA_mt + nadph_c_COMMA_mt --> nadp_c_COMMA_mt + thf_c_COMMA_mt
+dhor_DASH_S_c_COMMA_mt + h2o_c_COMMA_mt --> cbasp_c_COMMA_mt + h_c_COMMA_mt
+3dhq_c_COMMA_mt --> 3dhsk_c_COMMA_mt + h2o_c_COMMA_mt
+2dda7p_c_COMMA_mt --> 3dhq_c_COMMA_mt + pi_c_COMMA_mt
+fe3_ph --> 
+glc_DASH_D_e --> 
+gln_DASH_L_e --> 
+o2_e --> 
+atp_c_COMMA_mt + coa_c_COMMA_mt + hdca_c_COMMA_mt --> amp_c_COMMA_mt + pmtcoa_c_COMMA_mt + ppi_c_COMMA_mt
+arach_c_COMMA_mt + atp_c_COMMA_mt + coa_c_COMMA_mt --> amp_c_COMMA_mt + arachcoa_c_COMMA_mt + ppi_c_COMMA_mt
+atp_c_COMMA_mt + coa_c_COMMA_mt + octa_c_COMMA_mt --> amp_c_COMMA_mt + occoa_c_COMMA_mt + ppi_c_COMMA_mt
+amp_c_COMMA_mt + h_c_COMMA_mt + meroacidcyc2ACP_c_COMMA_mt --> ACP_c_COMMA_mt + meroacidcyc2AMP_c_COMMA_mt
+amp_c_COMMA_mt + h_c_COMMA_mt + mmeroacidcyc2ACP_c_COMMA_mt --> ACP_c_COMMA_mt + mmeroacidcyc2AMP_c_COMMA_mt
+amp_c_COMMA_mt + h_c_COMMA_mt + kmeroacidcyc2ACP_c_COMMA_mt --> ACP_c_COMMA_mt + kmeroacidcyc2AMP_c_COMMA_mt
+amp_c_COMMA_mt + h_c_COMMA_mt + mmmeroacidcyc1ACP_c_COMMA_mt --> ACP_c_COMMA_mt + mmmeroacidcyc1AMP_c_COMMA_mt
+amp_c_COMMA_mt + h_c_COMMA_mt + mkmeroacidcyc1ACP_c_COMMA_mt --> ACP_c_COMMA_mt + mkmeroacidcyc1AMP_c_COMMA_mt
+3.0 h_c_COMMA_mt + malcoa_c_COMMA_mt + 2.0 nadph_c_COMMA_mt + ocdca_c_COMMA_mt --> arach_c_COMMA_mt + co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + 2.0 nadp_c_COMMA_mt
+9.0 h_c_COMMA_mt + 3.0 malcoa_c_COMMA_mt + 6.0 nadph_c_COMMA_mt + ocdca_c_COMMA_mt --> 3.0 co2_c_COMMA_mt + 3.0 coa_c_COMMA_mt + 3.0 h2o_c_COMMA_mt + 6.0 nadp_c_COMMA_mt + ttc_c_COMMA_mt
+3.0 h_c_COMMA_mt + malcoa_c_COMMA_mt + 2.0 nadph_c_COMMA_mt + ttc_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + hexc_c_COMMA_mt + 2.0 nadp_c_COMMA_mt
+accoa_c_COMMA_mt + 8.0 h_c_COMMA_mt + 3.0 malcoa_c_COMMA_mt + 6.0 nadph_c_COMMA_mt --> 3.0 co2_c_COMMA_mt + 4.0 coa_c_COMMA_mt + 2.0 h2o_c_COMMA_mt + 6.0 nadp_c_COMMA_mt + octa_c_COMMA_mt
+4hbzACP_c_COMMA_mt + 24.0 h_c_COMMA_mt + 8.0 malACP_c_COMMA_mt + 16.0 nadph_c_COMMA_mt --> 8.0 ACP_c_COMMA_mt + 8.0 co2_c_COMMA_mt + 8.0 h2o_c_COMMA_mt + 16.0 nadp_c_COMMA_mt + phdcaACP_c_COMMA_mt
+3.0 h_c_COMMA_mt + hdca_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + m1ocdca_c_COMMA_mt + 2.0 nadp_c_COMMA_mt
+3.0 h_c_COMMA_mt + m1ocdca_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + dmarach_c_COMMA_mt + h2o_c_COMMA_mt + 2.0 nadp_c_COMMA_mt
+15.0 h_c_COMMA_mt + 4.0 malcoa_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 10.0 nadph_c_COMMA_mt + octa_c_COMMA_mt --> 5.0 co2_c_COMMA_mt + 5.0 coa_c_COMMA_mt + 5.0 h2o_c_COMMA_mt + mocdca_c_COMMA_mt + 10.0 nadp_c_COMMA_mt
+dmarach_c_COMMA_mt + 3.0 h_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + 2.0 nadp_c_COMMA_mt + tmbhn_c_COMMA_mt
+3.0 h_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt + ocdca_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + marach_c_COMMA_mt + 2.0 nadp_c_COMMA_mt
+3.0 h_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt + tmbhn_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + 2.0 nadp_c_COMMA_mt + tamlgnc_c_COMMA_mt
+3.0 h_c_COMMA_mt + marach_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + dmbhn_c_COMMA_mt + h2o_c_COMMA_mt + 2.0 nadp_c_COMMA_mt
+arach_c_COMMA_mt + 3.0 h_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + mbhn_c_COMMA_mt + 2.0 nadp_c_COMMA_mt
+3.0 h_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt + tamlgnc_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + 2.0 nadp_c_COMMA_mt + pmhexc_c_COMMA_mt
+dmbhn_c_COMMA_mt + 3.0 h_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + 2.0 nadp_c_COMMA_mt + tmlgnc_c_COMMA_mt
+3.0 h_c_COMMA_mt + mbhn_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + dmlgnc_c_COMMA_mt + h2o_c_COMMA_mt + 2.0 nadp_c_COMMA_mt
+3.0 h_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt + pmhexc_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + hmocta_c_COMMA_mt + 2.0 nadp_c_COMMA_mt
+3.0 h_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt + tmlgnc_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + 2.0 nadp_c_COMMA_mt + tamhexc_c_COMMA_mt
+dmlgnc_c_COMMA_mt + 3.0 h_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + 2.0 nadp_c_COMMA_mt + tmhexc_c_COMMA_mt
+3.0 h_c_COMMA_mt + hmocta_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + hpmtria_c_COMMA_mt + 2.0 nadp_c_COMMA_mt
+3.0 h_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt + tamhexc_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + 2.0 nadp_c_COMMA_mt + pmocta_c_COMMA_mt
+3.0 h_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt + tmhexc_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + 2.0 nadp_c_COMMA_mt + tamocta_c_COMMA_mt
+3.0 h_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt + pmocta_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + hmtria_c_COMMA_mt + 2.0 nadp_c_COMMA_mt
+3.0 h_c_COMMA_mt + hmtria_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + hpmdtria_c_COMMA_mt + 2.0 nadp_c_COMMA_mt
+3.0 h_c_COMMA_mt + hpmdtria_c_COMMA_mt + mmcoa_DASH_S_c_COMMA_mt + 2.0 nadph_c_COMMA_mt --> co2_c_COMMA_mt + coa_c_COMMA_mt + h2o_c_COMMA_mt + 2.0 nadp_c_COMMA_mt + omtta_c_COMMA_mt
+fdp_c_COMMA_mt --> dhap_c_COMMA_mt + g3p_c_COMMA_mt
+fdp_c_COMMA_mt + h2o_c_COMMA_mt --> f6p_c_COMMA_mt + pi_c_COMMA_mt
+PIM5_c_COMMA_mt + gdpmann_c_COMMA_mt --> PIM6_c_COMMA_mt + gdp_c_COMMA_mt + h_c_COMMA_mt
+gdpmann_c_COMMA_mt + ptd1ino160190_c_COMMA_mt --> PIM1_c_COMMA_mt + gdp_c_COMMA_mt + h_c_COMMA_mt
+Ac1PIM2_c_COMMA_mt + decdman1p_DASH_tb_c_COMMA_mt --> Ac1PIM3_c_COMMA_mt + decd_DASH_tb_c_COMMA_mt + h_c_COMMA_mt
+Ac1PIM3_c_COMMA_mt + decdman1p_DASH_tb_c_COMMA_mt --> Ac1PIM4_c_COMMA_mt + decd_DASH_tb_c_COMMA_mt + h_c_COMMA_mt
+PIM2_c_COMMA_mt + gdpmann_c_COMMA_mt --> PIM3_c_COMMA_mt + gdp_c_COMMA_mt + h_c_COMMA_mt
+PIM3_c_COMMA_mt + gdpmann_c_COMMA_mt --> PIM4_c_COMMA_mt + gdp_c_COMMA_mt + h_c_COMMA_mt
+PIM4_c_COMMA_mt + gdpmann_c_COMMA_mt --> PIM5_c_COMMA_mt + gdp_c_COMMA_mt + h_c_COMMA_mt
+glyc3p_c_COMMA_mt + palmACP_c_COMMA_mt --> 1hdecg3p_c_COMMA_mt + ACP_c_COMMA_mt
+glyc3p_c_COMMA_mt + mstrACP_c_COMMA_mt --> 1msg3p_c_COMMA_mt + ACP_c_COMMA_mt
+glyc3p_c_COMMA_am + nad_c_COMMA_am --> dhap_c_COMMA_am + h_c_COMMA_am + nadh_c_COMMA_am
+glu5sa_c_COMMA_mt --> 1pyr5c_c_COMMA_mt + h2o_c_COMMA_mt + h_c_COMMA_mt
+atp_c_COMMA_mt + gal_c_COMMA_mt --> adp_c_COMMA_mt + gal1p_c_COMMA_mt + h_c_COMMA_mt
+gal1p_c_COMMA_mt + h_c_COMMA_mt + utp_c_COMMA_mt --> ppi_c_COMMA_mt + udpgal_c_COMMA_mt
+g1p_c_COMMA_mt + h_c_COMMA_mt + utp_c_COMMA_mt --> ppi_c_COMMA_mt + udpg_c_COMMA_mt
+10fthf_c_COMMA_mt + gar_c_COMMA_mt --> fgam_c_COMMA_mt + h_c_COMMA_mt + thf_c_COMMA_mt
+atp_c_COMMA_mt + gmp_c_COMMA_mt --> adp_c_COMMA_mt + gdp_c_COMMA_mt
+atp_c_COMMA_mt + glu_DASH_L_c_COMMA_mt + nh4_c_COMMA_mt --> adp_c_COMMA_mt + gln_DASH_L_c_COMMA_mt + h_c_COMMA_mt + pi_c_COMMA_mt
+gln_DASH_L_c_COMMA_mt + h2o_c_COMMA_mt + prpp_c_COMMA_mt --> glu_DASH_L_c_COMMA_mt + ppi_c_COMMA_mt + pram_c_COMMA_mt
+glyc_c_COMMA_mt --> glyc_ph
+glyc_c_COMMA_am --> glyc_ph
+atp_c_COMMA_mt + gln_DASH_L_c_COMMA_mt + h2o_c_COMMA_mt + xmp_c_COMMA_mt --> amp_c_COMMA_mt + glu_DASH_L_c_COMMA_mt + gmp_c_COMMA_mt + 2.0 h_c_COMMA_mt + ppi_c_COMMA_mt
+decd_DASH_tb_c_COMMA_mt + gdpmann_c_COMMA_mt --> decdman1p_DASH_tb_c_COMMA_mt + gdp_c_COMMA_mt
+co2_c_COMMA_mt + h2o_c_COMMA_mt --> h_c_COMMA_mt + hco3_c_COMMA_mt
+h2o_c_COMMA_mt + histd_c_COMMA_mt + 2.0 nad_c_COMMA_mt --> 3.0 h_c_COMMA_mt + his_DASH_L_c_COMMA_mt + 2.0 nadh_c_COMMA_mt
+h2o_c_COMMA_mt + hisp_c_COMMA_mt --> histd_c_COMMA_mt + pi_c_COMMA_mt
+glu_DASH_L_c_COMMA_mt + imacp_c_COMMA_mt --> akg_c_COMMA_mt + hisp_c_COMMA_mt
+icit_c_COMMA_mt + nadp_c_COMMA_mt --> akg_c_COMMA_mt + co2_c_COMMA_mt + nadph_c_COMMA_mt
+gln_DASH_L_c_COMMA_mt + prlp_c_COMMA_mt --> aicar_c_COMMA_mt + eig3p_c_COMMA_mt + glu_DASH_L_c_COMMA_mt + h_c_COMMA_mt
+eig3p_c_COMMA_mt --> h2o_c_COMMA_mt + imacp_c_COMMA_mt
+2cpr5p_c_COMMA_mt + h_c_COMMA_mt --> 3ig3p_c_COMMA_mt + co2_c_COMMA_mt + h2o_c_COMMA_mt
+akg_c_COMMA_mt + ile_DASH_L_c_COMMA_mt --> 3mop_c_COMMA_mt + glu_DASH_L_c_COMMA_mt
+h2o_c_COMMA_mt + imp_c_COMMA_mt --> fprica_c_COMMA_mt
+h2o_c_COMMA_mt + imp_c_COMMA_mt + nad_c_COMMA_mt --> h_c_COMMA_mt + nadh_c_COMMA_mt + xmp_c_COMMA_mt
+h2o_c_COMMA_mt + ins_c_COMMA_mt --> hxan_c_COMMA_mt + rib_DASH_D_c_COMMA_mt
+3c2hmp_c_COMMA_mt + nad_c_COMMA_mt --> 3c4mop_c_COMMA_mt + h_c_COMMA_mt + nadh_c_COMMA_mt
+3c2hmp_c_COMMA_mt --> 2ippm_c_COMMA_mt + h2o_c_COMMA_mt
+2ippm_c_COMMA_mt + h2o_c_COMMA_mt --> 3c3hmp_c_COMMA_mt
+3mob_c_COMMA_mt + accoa_c_COMMA_mt + h2o_c_COMMA_mt --> 3c3hmp_c_COMMA_mt + coa_c_COMMA_mt + h_c_COMMA_mt
+alac_DASH_S_c_COMMA_mt + h_c_COMMA_mt + nadph_c_COMMA_mt --> 23dhmb_c_COMMA_mt + nadp_c_COMMA_mt
+2ahbut_c_COMMA_mt + h_c_COMMA_mt + nadph_c_COMMA_mt --> 23dhmp_c_COMMA_mt + nadp_c_COMMA_mt
+akg_c_COMMA_mt + leu_DASH_L_c_COMMA_mt --> 4mop_c_COMMA_mt + glu_DASH_L_c_COMMA_mt
+man6p_c_COMMA_mt --> f6p_c_COMMA_mt
+Ac1PIM2_c_COMMA_mt + pmtcoa_c_COMMA_mt --> Ac2PIM2_c_COMMA_mt + coa_c_COMMA_mt
+atp_c_COMMA_mt + bhb_c_COMMA_mt + 2.0 lys_DASH_L_c_COMMA_mt + 2.0 nadp_c_COMMA_mt + 3.5 o2_c_COMMA_mt + occoa_c_COMMA_mt + salc_c_COMMA_mt + ser_DASH_L_c_COMMA_mt --> adp_c_COMMA_mt + cmcbtt_c_COMMA_mt + co2_c_COMMA_mt + coa_c_COMMA_mt + 5.0 h2o_c_COMMA_mt + 2.0 h_c_COMMA_mt + 2.0 nadph_c_COMMA_mt + pi_c_COMMA_mt
+atp_c_COMMA_mt + bhb_c_COMMA_mt + h_c_COMMA_mt + 2.0 lys_DASH_L_c_COMMA_mt + 2.0 o2_c_COMMA_mt + odecoa_c_COMMA_mt + salc_c_COMMA_mt + thr_DASH_L_c_COMMA_mt --> adp_c_COMMA_mt + co2_c_COMMA_mt + coa_c_COMMA_mt + 5.0 h2o_c_COMMA_mt + mcbts_c_COMMA_mt + pi_c_COMMA_mt
+ACP_c_COMMA_mt + malcoa_c_COMMA_mt --> coa_c_COMMA_mt + malACP_c_COMMA_mt
+atp_c_COMMA_mt + h2o_c_COMMA_mt + met_DASH_L_c_COMMA_mt --> amet_c_COMMA_mt + pi_c_COMMA_mt + ppi_c_COMMA_mt
+5mthf_c_COMMA_mt + hcys_DASH_L_c_COMMA_mt --> h_c_COMMA_mt + met_DASH_L_c_COMMA_mt + thf_c_COMMA_mt
+h2o_c_COMMA_mt + mi1p_DASH_D_c_COMMA_mt --> inost_c_COMMA_mt + pi_c_COMMA_mt
+g6p_c_COMMA_mt --> mi1p_DASH_D_c_COMMA_mt
+mmcoa_DASH_R_c_COMMA_mt --> mmcoa_DASH_S_c_COMMA_mt
+succoa_c_COMMA_mt --> mmcoa_DASH_R_c_COMMA_mt
+h2o_c_COMMA_mt + man6p_c_COMMA_mt --> man_c_COMMA_mt + pi_c_COMMA_mt
+2.0 h_c_COMMA_mt + mlthf_c_COMMA_mt + nadh_c_COMMA_mt --> 5mthf_c_COMMA_mt + nad_c_COMMA_mt
+amet_c_COMMA_mt + meroacidACP_c_COMMA_mt --> ahcys_c_COMMA_mt + h_c_COMMA_mt + meroacidcyc1ACP_c_COMMA_mt
+amet_c_COMMA_mt + mmeroacidACP_c_COMMA_mt --> ahcys_c_COMMA_mt + h_c_COMMA_mt + mmeroacidcyc1ACP_c_COMMA_mt
+amet_c_COMMA_mt + kmeroacidACP_c_COMMA_mt --> ahcys_c_COMMA_mt + h_c_COMMA_mt + kmeroacidcyc1ACP_c_COMMA_mt
+amet_c_COMMA_mt + mmmeroacidACP_c_COMMA_mt --> ahcys_c_COMMA_mt + h_c_COMMA_mt + mmmeroacidcyc1ACP_c_COMMA_mt
+amet_c_COMMA_mt + mkmeroacidACP_c_COMMA_mt --> ahcys_c_COMMA_mt + h_c_COMMA_mt + mkmeroacidcyc1ACP_c_COMMA_mt
+amet_c_COMMA_mt + h2o_c_COMMA_mt + mmeroacidACP_c_COMMA_mt --> ahcys_c_COMMA_mt + h_c_COMMA_mt + mmmeroacidACP_c_COMMA_mt
+amet_c_COMMA_mt + h2o_c_COMMA_mt + kmeroacidACP_c_COMMA_mt --> ahcys_c_COMMA_mt + h_c_COMMA_mt + mkmeroacidACP_c_COMMA_mt
+amet_c_COMMA_mt + meroacidcyc1ACP_c_COMMA_mt --> ahcys_c_COMMA_mt + h_c_COMMA_mt + meroacidcyc2ACP_c_COMMA_mt
+amet_c_COMMA_mt + mmeroacidcyc1ACP_c_COMMA_mt --> ahcys_c_COMMA_mt + h_c_COMMA_mt + mmeroacidcyc2ACP_c_COMMA_mt
+amet_c_COMMA_mt + kmeroacidcyc1ACP_c_COMMA_mt --> ahcys_c_COMMA_mt + h_c_COMMA_mt + kmeroacidcyc2ACP_c_COMMA_mt
+chexccoa_c_COMMA_mt + 2.0 h2o_c_COMMA_mt + meroacidcyc2AMP_c_COMMA_mt --> amp_c_COMMA_mt + co2_c_COMMA_mt + coa_c_COMMA_mt + 2.0 h_c_COMMA_mt + mycolate_c_COMMA_mt
+chexccoa_c_COMMA_mt + 2.0 h2o_c_COMMA_mt + mmeroacidcyc2AMP_c_COMMA_mt --> amp_c_COMMA_mt + co2_c_COMMA_mt + coa_c_COMMA_mt + 2.0 h_c_COMMA_mt + mmycolate_c_COMMA_mt
+chexccoa_c_COMMA_mt + 2.0 h2o_c_COMMA_mt + kmeroacidcyc2AMP_c_COMMA_mt --> amp_c_COMMA_mt + co2_c_COMMA_mt + coa_c_COMMA_mt + 2.0 h_c_COMMA_mt + kmycolate_c_COMMA_mt
+chexccoa_c_COMMA_mt + 2.0 h2o_c_COMMA_mt + mmmeroacidcyc1AMP_c_COMMA_mt --> amp_c_COMMA_mt + co2_c_COMMA_mt + coa_c_COMMA_mt + 2.0 h_c_COMMA_mt + mmmycolate_c_COMMA_mt
+chexccoa_c_COMMA_mt + 2.0 h2o_c_COMMA_mt + mkmeroacidcyc1AMP_c_COMMA_mt --> amp_c_COMMA_mt + co2_c_COMMA_mt + coa_c_COMMA_mt + 2.0 h_c_COMMA_mt + mkmycolate_c_COMMA_mt
+33.0 h_c_COMMA_mt + hexc_c_COMMA_mt + 12.0 malACP_c_COMMA_mt + 24.0 nadph_c_COMMA_mt --> 11.0 ACP_c_COMMA_mt + 12.0 co2_c_COMMA_mt + 13.0 h2o_c_COMMA_mt + meroacidACP_c_COMMA_mt + 24.0 nadp_c_COMMA_mt
+42.0 h_c_COMMA_mt + hexc_c_COMMA_mt + 15.0 malACP_c_COMMA_mt + 30.0 nadph_c_COMMA_mt --> 14.0 ACP_c_COMMA_mt + 15.0 co2_c_COMMA_mt + 16.0 h2o_c_COMMA_mt + mmeroacidACP_c_COMMA_mt + 30.0 nadp_c_COMMA_mt
+47.0 h_c_COMMA_mt + hexc_c_COMMA_mt + 16.0 malACP_c_COMMA_mt + 30.0 nadph_c_COMMA_mt --> 15.0 ACP_c_COMMA_mt + 16.0 co2_c_COMMA_mt + 17.0 h2o_c_COMMA_mt + kmeroacidACP_c_COMMA_mt + 30.0 nadp_c_COMMA_mt
+arg_DASH_L_c_COMMA_am + h_c_COMMA_am + nadph_c_COMMA_am + o2_c_COMMA_am --> h2o_c_COMMA_am + nadp_c_COMMA_am + nwharg_c_COMMA_am
+nadph_c_COMMA_am + 2.0 nwharg_c_COMMA_am + 2.0 o2_c_COMMA_am --> 2.0 citr_DASH_L_c_COMMA_am + 2.0 h2o_c_COMMA_am + h_c_COMMA_am + nadp_c_COMMA_am + 2.0 no_c_COMMA_am
+no_c_COMMA_mt + o2s_c_COMMA_mt --> no3_c_COMMA_mt
+no_ph --> no_c_COMMA_mt
+no_c_COMMA_am --> no_ph
+o2_e --> o2_c_COMMA_am
+o2_ph --> o2_c_COMMA_mt
+o2_c_COMMA_am --> o2_ph
+cbp_c_COMMA_mt + orn_c_COMMA_mt --> citr_DASH_L_c_COMMA_mt + h_c_COMMA_mt + pi_c_COMMA_mt
+3c4mop_c_COMMA_mt + h_c_COMMA_mt --> 4mop_c_COMMA_mt + co2_c_COMMA_mt
+h_c_COMMA_mt + orot5p_c_COMMA_mt --> co2_c_COMMA_mt + ump_c_COMMA_mt
+orot5p_c_COMMA_mt + ppi_c_COMMA_mt --> orot_c_COMMA_mt + prpp_c_COMMA_mt
+paps_c_COMMA_mt + trdrd_c_COMMA_mt --> 2.0 h_c_COMMA_mt + pap_c_COMMA_mt + so3_c_COMMA_mt + trdox_c_COMMA_mt
+5.0 h_c_COMMA_mt + ocdca_c_COMMA_mt + 4.0 tmlgnc_c_COMMA_mt + tre_c_COMMA_mt --> 5.0 h2o_c_COMMA_mt + pat_c_COMMA_mt
+2.0 h_c_COMMA_mt + phthiocerol_c_COMMA_mt + 2.0 tamocta_c_COMMA_mt --> 2.0 h2o_c_COMMA_mt + pdima_c_COMMA_mt
+g6p_c_COMMA_mt --> f6p_c_COMMA_mt
+g1p_c_COMMA_mt --> g6p_c_COMMA_mt
+h2o_c_COMMA_mt + pgp160190_c_COMMA_mt --> pg160190_c_COMMA_mt + pi_c_COMMA_mt
+h2o_c_COMMA_mt + pgp160_c_COMMA_mt --> pg160_c_COMMA_mt + pi_c_COMMA_mt
+h2o_c_COMMA_mt + pgp190_c_COMMA_mt --> pg190_c_COMMA_mt + pi_c_COMMA_mt
+cdpc16c19g_c_COMMA_mt + glyc3p_c_COMMA_mt --> cmp_c_COMMA_mt + h_c_COMMA_mt + pgp160190_c_COMMA_mt
+cdpdhdecg_c_COMMA_mt + glyc3p_c_COMMA_mt --> cmp_c_COMMA_mt + h_c_COMMA_mt + pgp160_c_COMMA_mt
+cdpc19c19g_c_COMMA_mt + glyc3p_c_COMMA_mt --> cmp_c_COMMA_mt + h_c_COMMA_mt + pgp190_c_COMMA_mt
+akg_c_COMMA_mt + phe_DASH_L_c_COMMA_mt --> glu_DASH_L_c_COMMA_mt + phpyr_c_COMMA_mt
+h_c_COMMA_mt + prepphth_c_COMMA_mt --> co2_c_COMMA_mt + pphthdl_c_COMMA_mt
+h_c_COMMA_mt + prephth_c_COMMA_mt --> co2_c_COMMA_mt + phthdl_c_COMMA_mt
+amet_c_COMMA_mt + nadph_c_COMMA_mt + pphthdl_c_COMMA_mt --> ahcys_c_COMMA_mt + nadp_c_COMMA_mt + pphthiocerol_c_COMMA_mt
+amet_c_COMMA_mt + nadph_c_COMMA_mt + phthdl_c_COMMA_mt --> ahcys_c_COMMA_mt + nadp_c_COMMA_mt + phthiocerol_c_COMMA_mt
+2.0 o2_c_COMMA_mt + phthclh2_c_COMMA_mt --> 2.0 h_c_COMMA_mt + 2.0 o2s_c_COMMA_mt + phthcl_c_COMMA_mt
+man1p_c_COMMA_mt --> man6p_c_COMMA_mt
+h2o_c_COMMA_mt + ppi_c_COMMA_mt --> h_c_COMMA_mt + 2.0 pi_c_COMMA_mt
+2.0 h_c_COMMA_mt + pphthiocerol_c_COMMA_mt + 2.0 tamocta_c_COMMA_mt --> 2.0 h2o_c_COMMA_mt + ppdima_c_COMMA_mt
+h_c_COMMA_mt + pphn_c_COMMA_mt --> co2_c_COMMA_mt + h2o_c_COMMA_mt + phpyr_c_COMMA_mt
+nad_c_COMMA_mt + pphn_c_COMMA_mt --> 34hpp_c_COMMA_mt + co2_c_COMMA_mt + nadh_c_COMMA_mt
+atp_c_COMMA_mt + gly_c_COMMA_mt + pram_c_COMMA_mt --> adp_c_COMMA_mt + gar_c_COMMA_mt + h_c_COMMA_mt + pi_c_COMMA_mt
+atp_c_COMMA_mt + fpram_c_COMMA_mt --> adp_c_COMMA_mt + air_c_COMMA_mt + 2.0 h_c_COMMA_mt + pi_c_COMMA_mt
+pran_c_COMMA_mt --> 2cpr5p_c_COMMA_mt
+h2o_c_COMMA_mt + prbamp_c_COMMA_mt --> prfp_c_COMMA_mt
+5aizc_c_COMMA_mt + asp_DASH_L_c_COMMA_mt + atp_c_COMMA_mt --> 25aics_c_COMMA_mt + adp_c_COMMA_mt + h_c_COMMA_mt + pi_c_COMMA_mt
+h2o_c_COMMA_mt + prbatp_c_COMMA_mt --> h_c_COMMA_mt + ppi_c_COMMA_mt + prbamp_c_COMMA_mt
+h2o_c_COMMA_mt + prepphthACP_c_COMMA_mt --> ACP_c_COMMA_mt + h_c_COMMA_mt + prepphth_c_COMMA_mt
+14.0 h_c_COMMA_mt + 2.0 malcoa_c_COMMA_mt + 2.0 mmcoa_DASH_S_c_COMMA_mt + 10.0 nadph_c_COMMA_mt + phdcaACP_c_COMMA_mt --> 2.0 co2_c_COMMA_mt + 4.0 coa_c_COMMA_mt + 5.0 h2o_c_COMMA_mt + 10.0 nadp_c_COMMA_mt + prepphthACP_c_COMMA_mt
+arachACP_c_COMMA_mt + 14.0 h_c_COMMA_mt + 2.0 malcoa_c_COMMA_mt + 2.0 mmcoa_DASH_S_c_COMMA_mt + 10.0 nadph_c_COMMA_mt --> 2.0 co2_c_COMMA_mt + 4.0 coa_c_COMMA_mt + 5.0 h2o_c_COMMA_mt + 10.0 nadp_c_COMMA_mt + prephthACP_c_COMMA_mt
+atp_c_COMMA_mt + fgam_c_COMMA_mt + gln_DASH_L_c_COMMA_mt + h2o_c_COMMA_mt --> adp_c_COMMA_mt + fpram_c_COMMA_mt + glu_DASH_L_c_COMMA_mt + h_c_COMMA_mt + pi_c_COMMA_mt
+prfp_c_COMMA_mt --> prlp_c_COMMA_mt
+atp_c_COMMA_mt + r5p_c_COMMA_mt --> amp_c_COMMA_mt + h_c_COMMA_mt + prpp_c_COMMA_mt
+pep_c_COMMA_mt + skm5p_c_COMMA_mt --> 3psme_c_COMMA_mt + pi_c_COMMA_mt
+h_c_COMMA_mt + ps160_c_COMMA_mt --> co2_c_COMMA_mt + pe160_c_COMMA_mt
+cdpdhdecg_c_COMMA_mt + ser_DASH_L_c_COMMA_mt --> cmp_c_COMMA_mt + h_c_COMMA_mt + ps160_c_COMMA_mt
+adp_c_COMMA_mt + trdrd_c_COMMA_mt --> dadp_c_COMMA_mt + h2o_c_COMMA_mt + trdox_c_COMMA_mt
+gdp_c_COMMA_mt + trdrd_c_COMMA_mt --> dgdp_c_COMMA_mt + h2o_c_COMMA_mt + trdox_c_COMMA_mt
+r5p_c_COMMA_mt --> ru5p_DASH_D_c_COMMA_mt
+chor_c_COMMA_mt --> pyr_c_COMMA_mt + salc_c_COMMA_mt
+h2o_c_COMMA_mt + sl26da_c_COMMA_mt --> 26dap_DASH_LL_c_COMMA_mt + succ_c_COMMA_mt
+akg_c_COMMA_mt + sl26da_c_COMMA_mt --> glu_DASH_L_c_COMMA_mt + sl2a6o_c_COMMA_mt
+accoa_c_COMMA_mt + ser_DASH_L_c_COMMA_mt --> acser_c_COMMA_mt + coa_c_COMMA_mt
+3dhsk_c_COMMA_mt + h_c_COMMA_mt + nadph_c_COMMA_mt --> nadp_c_COMMA_mt + skm_c_COMMA_mt
+atp_c_COMMA_mt + skm_c_COMMA_mt --> adp_c_COMMA_mt + h_c_COMMA_mt + skm5p_c_COMMA_mt
+3.0 h2o_c_COMMA_mt + h2s_c_COMMA_mt + 3.0 nadp_c_COMMA_mt --> 5.0 h_c_COMMA_mt + 3.0 nadph_c_COMMA_mt + so3_c_COMMA_mt
+atp_c_COMMA_mt + h2o_c_COMMA_mt + so4_ph --> adp_c_COMMA_mt + h_c_COMMA_mt + pi_c_COMMA_mt + so4_c_COMMA_mt
+4.0 h_c_COMMA_mt + hdca_c_COMMA_mt + hpmtria_c_COMMA_mt + 2.0 omtta_c_COMMA_mt + tres_c_COMMA_mt --> 4.0 h2o_c_COMMA_mt + sl1_c_COMMA_mt
+4.0 h_c_COMMA_mt + hdca_c_COMMA_mt + hpmtria_c_COMMA_mt + 2.0 omtta_c_COMMA_mt + tre_c_COMMA_mt --> 4.0 h2o_c_COMMA_mt + tat_c_COMMA_mt
+2.0 h_c_COMMA_mt + mmycolate_c_COMMA_mt + mycolate_c_COMMA_mt + tre_c_COMMA_mt --> 2.0 h2o_c_COMMA_mt + tdm1_c_COMMA_mt
+2.0 h_c_COMMA_mt + mmmycolate_c_COMMA_mt + mycolate_c_COMMA_mt + tre_c_COMMA_mt --> 2.0 h2o_c_COMMA_mt + tdm2_c_COMMA_mt
+2.0 h_c_COMMA_mt + mkmycolate_c_COMMA_mt + mycolate_c_COMMA_mt + tre_c_COMMA_mt --> 2.0 h2o_c_COMMA_mt + tdm3_c_COMMA_mt
+2.0 h_c_COMMA_mt + kmycolate_c_COMMA_mt + mycolate_c_COMMA_mt + tre_c_COMMA_mt --> 2.0 h2o_c_COMMA_mt + tdm4_c_COMMA_mt
+h2o_c_COMMA_mt + succoa_c_COMMA_mt + thdp_c_COMMA_mt --> coa_c_COMMA_mt + sl2a6o_c_COMMA_mt
+dump_c_COMMA_mt + mlthf_c_COMMA_mt --> dhf_c_COMMA_mt + dtmp_c_COMMA_mt
+tdm1_c_COMMA_mt + tdm2_c_COMMA_mt + tre_c_COMMA_mt --> 2.0 h2o_c_COMMA_mt + tmha1_c_COMMA_mt
+tdm1_c_COMMA_mt + tdm3_c_COMMA_mt + tre_c_COMMA_mt --> 2.0 h2o_c_COMMA_mt + tmha2_c_COMMA_mt
+tdm1_c_COMMA_mt + tdm4_c_COMMA_mt + tre_c_COMMA_mt --> 2.0 h2o_c_COMMA_mt + tmha3_c_COMMA_mt
+tdm2_c_COMMA_mt + tdm3_c_COMMA_mt + tre_c_COMMA_mt --> 2.0 h2o_c_COMMA_mt + tmha4_c_COMMA_mt
+h_c_COMMA_mt + nadph_c_COMMA_mt + trdox_c_COMMA_mt --> nadp_c_COMMA_mt + trdrd_c_COMMA_mt
+h2o_c_COMMA_mt + tre6p_c_COMMA_mt --> pi_c_COMMA_mt + tre_c_COMMA_mt
+g6p_c_COMMA_mt + udpg_c_COMMA_mt --> h_c_COMMA_mt + tre6p_c_COMMA_mt + udp_c_COMMA_mt
+paps_c_COMMA_mt + tre_c_COMMA_mt --> h_c_COMMA_mt + pap_c_COMMA_mt + tres_c_COMMA_mt
+akg_c_COMMA_mt + tyr_DASH_L_c_COMMA_mt --> 34hpp_c_COMMA_mt + glu_DASH_L_c_COMMA_mt
+udpg_c_COMMA_mt --> udpgal_c_COMMA_mt
+akg_c_COMMA_mt + val_DASH_L_c_COMMA_mt --> 3mob_c_COMMA_mt + glu_DASH_L_c_COMMA_mt
+0.00126075 Ac1PIM1_c_COMMA_mt + 0.001116 Ac1PIM2_c_COMMA_mt + 0.00100125 Ac1PIM3_c_COMMA_mt + 0.00090825 Ac1PIM4_c_COMMA_mt + 0.0009555 Ac2PIM2_c_COMMA_mt + 0.001557 PIM1_c_COMMA_mt + 0.0013425 PIM2_c_COMMA_mt + 0.00117975 PIM3_c_COMMA_mt + 0.00105225 PIM4_c_COMMA_mt + 0.0009495 PIM5_c_COMMA_mt + 0.0008655 PIM6_c_COMMA_mt + 0.6089355 ala_DASH_L_c_COMMA_mt + 0.139026 amp_c_COMMA_mt + 0.011757 arach_c_COMMA_mt + 0.180624 arg_DASH_L_c_COMMA_mt + 0.0715485 asn_DASH_L_c_COMMA_mt + 0.180462 asp_DASH_L_c_COMMA_mt + 45.0 atp_c_COMMA_mt + 0.00439425 clpn160190_c_COMMA_mt + 0.250951 cmp_c_COMMA_mt + 0.033 cys_DASH_L_c_COMMA_mt + 0.000873 damp_c_COMMA_mt + 0.00166575 dcmp_c_COMMA_mt + 0.00166475 dgmp_c_COMMA_mt + 0.00091325 dtmp_c_COMMA_mt + 0.0018725 fcmcbtt_c_COMMA_mt + 0.0693425 gal_c_COMMA_mt + 0.20394 glc_DASH_D_c_COMMA_mt + 0.08718 gln_DASH_L_c_COMMA_mt + 0.1350105 glu_DASH_L_c_COMMA_mt + 0.503712 gly_c_COMMA_mt + 0.03169875 glyc_c_COMMA_mt + 0.243651 gmp_c_COMMA_mt + 45.0 h2o_c_COMMA_mt + 0.176364 hdca_c_COMMA_mt + 0.008205 hdcea_c_COMMA_mt + 0.043764 hexc_c_COMMA_mt + 0.0609255 his_DASH_L_c_COMMA_mt + 0.1315965 ile_DASH_L_c_COMMA_mt + 0.0041725 kmycolate_c_COMMA_mt + 0.307059 leu_DASH_L_c_COMMA_mt + 0.058635 lys_DASH_L_c_COMMA_mt + 0.11883125 man_c_COMMA_mt + 0.00588 mbhn_c_COMMA_mt + 0.0017525 mcbts_c_COMMA_mt + 0.0523335 met_DASH_L_c_COMMA_mt + 0.00411375 mkmycolate_c_COMMA_mt + 0.00420625 mmmycolate_c_COMMA_mt + 0.0718515 mocdca_c_COMMA_mt + 0.01375375 mycolate_c_COMMA_mt + 0.02612775 ocdca_c_COMMA_mt + 0.00738675 ocdcea_c_COMMA_mt + 0.0050985 pa160190_c_COMMA_mt + 0.00543 pa160_c_COMMA_mt + 0.00480525 pa190190_c_COMMA_mt + 0.00156375 pat_c_COMMA_mt + 0.00034125 pdima_c_COMMA_mt + 0.00304575 pe160_c_COMMA_mt + 0.0045975 pg160190_c_COMMA_mt + 0.00486525 pg160_c_COMMA_mt + 0.0043575 pg190_c_COMMA_mt + 0.072153 phe_DASH_L_c_COMMA_mt + 0.00032875 ppdima_c_COMMA_mt + 0.207051 pro_DASH_L_c_COMMA_mt + 0.02715375 rib_DASH_D_c_COMMA_mt + 0.2150955 ser_DASH_L_c_COMMA_mt + 0.00142125 sl1_c_COMMA_mt + 0.00147 tat_c_COMMA_mt + 0.203568 thr_DASH_L_c_COMMA_mt + 0.0013825 tmha1_c_COMMA_mt + 0.001375 tmha2_c_COMMA_mt + 0.00138 tmha3_c_COMMA_mt + 0.00137125 tmha4_c_COMMA_mt + 0.00811375 tre6p_c_COMMA_mt + 0.0099625 tre_c_COMMA_mt + 0.030186 trp_DASH_L_c_COMMA_mt + 0.00914475 ttdca_c_COMMA_mt + 0.047634 tyr_DASH_L_c_COMMA_mt + 0.131604 ump_c_COMMA_mt + 0.3087405 val_DASH_L_c_COMMA_mt --> 45.0 adp_c_COMMA_mt + 45.0 h_c_COMMA_mt + 45.0 pi_c_COMMA_mt

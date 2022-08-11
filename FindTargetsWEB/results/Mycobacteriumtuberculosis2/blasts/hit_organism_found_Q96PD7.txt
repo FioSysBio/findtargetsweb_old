@@ -1,0 +1,1000 @@
+Homo sapiens OX
+Gorilla gorilla gorilla OX
+Pan paniscus OX
+Pan troglodytes OX
+Macaca nemestrina OX
+Rhinopithecus bieti OX
+Mandrillus leucophaeus OX
+Chlorocebus sabaeus OX
+Papio anubis OX
+Rhinopithecus roxellana OX
+Cercocebus atys OX
+Colobus angolensis palliatus OX
+Macaca fascicularis OX
+Macaca mulatta OX
+Saimiri boliviensis boliviensis OX
+Pongo abelii OX
+Callithrix jacchus OX
+Aotus nancymaae OX
+Tarsius syrichta OX
+Propithecus coquereli OX
+Ictidomys tridecemlineatus OX
+Cricetulus griseus OX
+Mus musculus OX
+Mesocricetus auratus OX
+Rattus norvegicus OX
+Otolemur garnettii OX
+Cebus capucinus imitator OX
+Heterocephalus glaber OX
+Oryctolagus cuniculus OX
+Dipodomys ordii OX
+Myotis lucifugus OX
+Cavia porcellus OX
+Fukomys damarensis OX
+Felis catus OX
+Canis lupus familiaris OX
+Odobenus rosmarus divergens OX
+Felis catus OX
+Enhydra lutris kenyoni OX
+Gorilla gorilla gorilla OX
+Pan paniscus OX
+Pan troglodytes OX
+Ovis aries OX
+Erinaceus europaeus OX
+Rhinopithecus bieti OX
+Mandrillus leucophaeus OX
+Rhinopithecus roxellana OX
+Cercocebus atys OX
+Colobus angolensis palliatus OX
+Macaca mulatta OX
+Nomascus leucogenys OX
+Leptonychotes weddellii OX
+Ailuropoda melanoleuca OX
+Macaca nemestrina OX
+Canis lupus familiaris OX
+Enhydra lutris kenyoni OX
+Delphinapterus leucas OX
+Papio anubis OX
+Bos taurus OX
+Colobus angolensis palliatus OX
+Mustela putorius furo OX
+Bos taurus OX
+Physeter macrocephalus OX
+Propithecus coquereli OX
+Balaenoptera acutorostrata scammoni OX
+Ursus maritimus OX
+Rattus norvegicus OX
+Bos taurus OX
+Lipotes vexillifer OX
+Lipotes vexillifer OX
+Tursiops truncatus OX
+Pteropus alecto OX
+Bos taurus OX
+Equus caballus OX
+Trichechus manatus latirostris OX
+Homo sapiens OX
+Gorilla gorilla gorilla OX
+Equus caballus OX
+Pan paniscus OX
+Pan troglodytes OX
+Sarcophilus harrisii OX
+Monodelphis domestica OX
+Sus scrofa OX
+Sus scrofa OX
+Macaca nemestrina OX
+Rhinopithecus bieti OX
+Mandrillus leucophaeus OX
+Papio anubis OX
+Rhinopithecus roxellana OX
+Cercocebus atys OX
+Colobus angolensis palliatus OX
+Macaca mulatta OX
+Saimiri boliviensis boliviensis OX
+Callithrix jacchus OX
+Aotus nancymaae OX
+Tarsius syrichta OX
+Propithecus coquereli OX
+Cebus capucinus imitator OX
+Patagioenas fasciata monilis OX
+Gallus gallus OX
+Ficedula albicollis OX
+Lonchura striata domestica OX
+Taeniopygia guttata OX
+Columba livia OX
+Callipepla squamata OX
+Cuculus canorus OX
+Pelodiscus sinensis OX
+Aptenodytes forsteri OX
+Felis catus OX
+Nipponia nippon OX
+Dryobates pubescens OX
+Struthio camelus australis OX
+Opisthocomus hoazin OX
+Anolis carolinensis OX
+Corvus brachyrhynchos OX
+Egretta garzetta OX
+Calypte anna OX
+Manacus vitellinus OX
+Pelodiscus sinensis OX
+Anas platyrhynchos OX
+Alligator sinensis OX
+Sus scrofa OX
+Trichechus manatus latirostris OX
+Physeter macrocephalus OX
+Physeter macrocephalus OX
+Tursiops truncatus OX
+Tursiops truncatus OX
+Sus scrofa OX
+Sus scrofa OX
+Xenopus laevis OX
+Xenopus laevis OX
+Xenopus tropicalis OX
+Homo sapiens OX
+Tursiops truncatus OX
+Amazona aestiva OX
+Tinamus guttatus OX
+Alligator mississippiensis OX
+Lepisosteus oculatus OX
+Colinus virginianus OX
+Scleropages formosus OX
+Takifugu rubripes OX
+Scophthalmus maximus OX
+Oryzias latipes OX
+Salmo salar OX
+Astyanax mexicanus OX
+Salmo salar OX
+Gasterosteus aculeatus OX
+Ictalurus punctatus OX
+Danio rerio OX
+Oncorhynchus mykiss OX
+Oreochromis niloticus OX
+Danio rerio OX
+Austrofundulus limnaeus OX
+Tetraodon nigroviridis OX
+Tursiops truncatus OX
+Xiphophorus maculatus OX
+Poecilia formosa OX
+Salmo salar OX
+Oryzias latipes OX
+Charadrius vociferus OX
+Salmo salar OX
+Pelodiscus sinensis OX
+Ornithorhynchus anatinus OX
+Xenopus tropicalis OX
+Alligator sinensis OX
+Salmo salar OX
+Alligator mississippiensis OX
+Amazona aestiva OX
+Charadrius vociferus OX
+Cuculus canorus OX
+Xenopus laevis OX
+Loxodonta africana OX
+Aptenodytes forsteri OX
+Gallus gallus OX
+Patagioenas fasciata monilis OX
+Columba livia OX
+Lonchura striata domestica OX
+Colinus virginianus OX
+Nipponia nippon OX
+Callipepla squamata OX
+Gallus gallus OX
+Tinamus guttatus OX
+Gallus gallus OX
+Latimeria chalumnae OX
+Calypte anna OX
+Latimeria chalumnae OX
+Ficedula albicollis OX
+Xenopus laevis OX
+Xenopus laevis OX
+Latimeria chalumnae OX
+Takifugu rubripes OX
+Xenopus laevis OX
+Austrofundulus limnaeus OX
+Austrofundulus limnaeus OX
+Xenopus laevis OX
+Tetraodon nigroviridis OX
+Poecilia formosa OX
+Pan troglodytes OX
+Pan troglodytes OX
+Xiphophorus maculatus OX
+Tarsius syrichta OX
+Xenopus tropicalis OX
+Monodelphis domestica OX
+Oreochromis niloticus OX
+Erinaceus europaeus OX
+Pan paniscus OX
+Macaca nemestrina OX
+Sus scrofa OX
+Aotus nancymaae OX
+Macaca fascicularis OX
+Macaca mulatta OX
+Homo sapiens OX
+Rhinopithecus bieti OX
+Myotis lucifugus OX
+Mandrillus leucophaeus OX
+Rhinopithecus roxellana OX
+Macaca nemestrina OX
+Sarcophilus harrisii OX
+Ictidomys tridecemlineatus OX
+Gorilla gorilla gorilla OX
+Cercocebus atys OX
+Odobenus rosmarus divergens OX
+Chlorocebus sabaeus OX
+Otolemur garnettii OX
+Sarcophilus harrisii OX
+Papio anubis OX
+Danio rerio OX
+Saimiri boliviensis boliviensis OX
+Myotis lucifugus OX
+Gasterosteus aculeatus OX
+Macaca fascicularis OX
+Cercocebus atys OX
+Callithrix jacchus OX
+Mesocricetus auratus OX
+Pongo abelii OX
+Cebus capucinus imitator OX
+Mandrillus leucophaeus OX
+Colobus angolensis palliatus OX
+Enhydra lutris kenyoni OX
+Erinaceus europaeus OX
+Rhinopithecus roxellana OX
+Saimiri boliviensis boliviensis OX
+Ovis aries OX
+Monodelphis domestica OX
+Cavia porcellus OX
+Otolemur garnettii OX
+Rhinopithecus bieti OX
+Felis catus OX
+Mustela putorius furo OX
+Ictalurus punctatus OX
+Cebus capucinus imitator OX
+Homo sapiens OX
+Gorilla gorilla gorilla OX
+Loxodonta africana OX
+Oryzias latipes OX
+Sarcophilus harrisii OX
+Enhydra lutris kenyoni OX
+Pan paniscus OX
+Pan troglodytes OX
+Dipodomys ordii OX
+Equus caballus OX
+Ictidomys tridecemlineatus OX
+Salmo salar OX
+Ailuropoda melanoleuca OX
+Oncorhynchus mykiss OX
+Colobus angolensis palliatus OX
+Meleagris gallopavo OX
+Physeter macrocephalus OX
+Otolemur garnettii OX
+Tarsius syrichta OX
+Nomascus leucogenys OX
+Bos taurus OX
+Bos taurus OX
+Leptonychotes weddellii OX
+Odobenus rosmarus divergens OX
+Xenopus tropicalis OX
+Enhydra lutris kenyoni OX
+Ailuropoda melanoleuca OX
+Aotus nancymaae OX
+Tursiops truncatus OX
+Myotis lucifugus OX
+Oryctolagus cuniculus OX
+Mustela putorius furo OX
+Felis catus OX
+Balaenoptera acutorostrata scammoni OX
+Delphinapterus leucas OX
+Astyanax mexicanus OX
+Sarcophilus harrisii OX
+Leptonychotes weddellii OX
+Oryctolagus cuniculus OX
+Oncorhynchus mykiss OX
+Felis catus OX
+Trichechus manatus latirostris OX
+Loxodonta africana OX
+Canis lupus familiaris OX
+Cebus capucinus imitator OX
+Cavia porcellus OX
+Saimiri boliviensis boliviensis OX
+Monodelphis domestica OX
+Bos taurus OX
+Macaca nemestrina OX
+Erinaceus europaeus OX
+Odobenus rosmarus divergens OX
+Saimiri boliviensis boliviensis OX
+Ursus maritimus OX
+Mustela putorius furo OX
+Colobus angolensis palliatus OX
+Equus caballus OX
+Tarsius syrichta OX
+Cebus capucinus imitator OX
+Dryobates pubescens OX
+Ursus maritimus OX
+Cercocebus atys OX
+Lipotes vexillifer OX
+Chlorocebus sabaeus OX
+Leptonychotes weddellii OX
+Aotus nancymaae OX
+Ursus maritimus OX
+Pan troglodytes OX
+Branchiostoma floridae OX
+Enhydra lutris kenyoni OX
+Callithrix jacchus OX
+Homo sapiens OX
+Bos taurus OX
+Pan paniscus OX
+Pan troglodytes OX
+Mandrillus leucophaeus OX
+Odobenus rosmarus divergens OX
+Oryctolagus cuniculus OX
+Pongo abelii OX
+Nomascus leucogenys OX
+Homo sapiens OX
+Chlorocebus sabaeus OX
+Bos taurus OX
+Heterocephalus glaber OX
+Pan paniscus OX
+Ovis aries OX
+Rhinopithecus bieti OX
+Trichechus manatus latirostris OX
+Oryctolagus cuniculus OX
+Mesocricetus auratus OX
+Trichechus manatus latirostris OX
+Macaca nemestrina OX
+Myotis lucifugus OX
+Odobenus rosmarus divergens OX
+Astyanax mexicanus OX
+Mustela putorius furo OX
+Canis lupus familiaris OX
+Propithecus coquereli OX
+Monodelphis domestica OX
+Chlorocebus sabaeus OX
+Otolemur garnettii OX
+Propithecus coquereli OX
+Gorilla gorilla gorilla OX
+Rhinopithecus bieti OX
+Rhinopithecus roxellana OX
+Mandrillus leucophaeus OX
+Colobus angolensis palliatus OX
+Homo sapiens OX
+Macaca fascicularis OX
+Canis lupus familiaris OX
+Ictidomys tridecemlineatus OX
+Equus caballus OX
+Ictidomys tridecemlineatus OX
+Canis lupus familiaris OX
+Callithrix jacchus OX
+Mandrillus leucophaeus OX
+Papio anubis OX
+Cercocebus atys OX
+Papio anubis OX
+Papio anubis OX
+Cercocebus atys OX
+Macaca fascicularis OX
+Tarsius syrichta OX
+Mesocricetus auratus OX
+Rattus norvegicus OX
+Ictalurus punctatus OX
+Ovis aries OX
+Macaca nemestrina OX
+Leptonychotes weddellii OX
+Sarcophilus harrisii OX
+Mus musculus OX
+Chlorocebus sabaeus OX
+Ovis aries OX
+Cebus capucinus imitator OX
+Sarcophilus harrisii OX
+Monodelphis domestica OX
+Rattus norvegicus OX
+Sus scrofa OX
+Manacus vitellinus OX
+Alligator mississippiensis OX
+Pelodiscus sinensis OX
+Ailuropoda melanoleuca OX
+Rattus norvegicus OX
+Danio rerio OX
+Aotus nancymaae OX
+Oryctolagus cuniculus OX
+Ursus maritimus OX
+Mus musculus OX
+Propithecus coquereli OX
+Anolis carolinensis OX
+Gorilla gorilla gorilla OX
+Gallus gallus OX
+Dipodomys ordii OX
+Erinaceus europaeus OX
+Dipodomys ordii OX
+Xenopus laevis OX
+Mus musculus OX
+Homo sapiens OX
+Felis catus OX
+Manacus vitellinus OX
+Pelodiscus sinensis OX
+Octopus bimaculoides OX
+Corvus brachyrhynchos OX
+Erinaceus europaeus OX
+Odobenus rosmarus divergens OX
+Cuculus canorus OX
+Mesocricetus auratus OX
+Saimiri boliviensis boliviensis OX
+Macaca mulatta OX
+Charadrius vociferus OX
+Pan troglodytes OX
+Rhinopithecus bieti OX
+Rhinopithecus roxellana OX
+Rattus norvegicus OX
+Monodelphis domestica OX
+Equus caballus OX
+Egretta garzetta OX
+Dryobates pubescens OX
+Cavia porcellus OX
+Amazona aestiva OX
+Otolemur garnettii OX
+Colobus angolensis palliatus OX
+Astyanax mexicanus OX
+Fukomys damarensis OX
+Aptenodytes forsteri OX
+Macaca nemestrina OX
+Canis lupus familiaris OX
+Patagioenas fasciata monilis OX
+Ficedula albicollis OX
+Ictidomys tridecemlineatus OX
+Erinaceus europaeus OX
+Danio rerio OX
+Columba livia OX
+Macaca fascicularis OX
+Mus musculus OX
+Pan paniscus OX
+Rhinopithecus roxellana OX
+Ovis aries OX
+Tarsius syrichta OX
+Ursus maritimus OX
+Cebus capucinus imitator OX
+Propithecus coquereli OX
+Xiphophorus maculatus OX
+Oryctolagus cuniculus OX
+Callithrix jacchus OX
+Pan paniscus OX
+Propithecus coquereli OX
+Felis catus OX
+Mesocricetus auratus OX
+Gorilla gorilla gorilla OX
+Anolis carolinensis OX
+Sus scrofa OX
+Otolemur garnettii OX
+Calypte anna OX
+Rhinopithecus roxellana OX
+Scleropages formosus OX
+Struthio camelus australis OX
+Ursus maritimus OX
+Sus scrofa OX
+Lonchura striata domestica OX
+Rhinopithecus bieti OX
+Xenopus tropicalis OX
+Oryctolagus cuniculus OX
+Capitella teleta OX
+Oryctolagus cuniculus OX
+Xenopus tropicalis OX
+Monodelphis domestica OX
+Nomascus leucogenys OX
+Ailuropoda melanoleuca OX
+Leptonychotes weddellii OX
+Saimiri boliviensis boliviensis OX
+Lepisosteus oculatus OX
+Homo sapiens OX
+Meleagris gallopavo OX
+Enhydra lutris kenyoni OX
+Cebus capucinus imitator OX
+Ovis aries OX
+Aotus nancymaae OX
+Trichechus manatus latirostris OX
+Xenopus laevis OX
+Austrofundulus limnaeus OX
+Taeniopygia guttata OX
+Mustela putorius furo OX
+Ictalurus punctatus OX
+Felis catus OX
+Cricetulus griseus OX
+Nematostella vectensis OX
+Calypte anna OX
+Monodelphis domestica OX
+Macaca mulatta OX
+Oryctolagus cuniculus OX
+Astyanax mexicanus OX
+Scleropages formosus OX
+Corvus brachyrhynchos OX
+Cricetulus griseus OX
+Takifugu rubripes OX
+Fukomys damarensis OX
+Oreochromis niloticus OX
+Homo sapiens OX
+Pan paniscus OX
+Pan troglodytes OX
+Charadrius vociferus OX
+Loxodonta africana OX
+Sus scrofa OX
+Dryobates pubescens OX
+Oryctolagus cuniculus OX
+Ovis aries OX
+Saimiri boliviensis boliviensis OX
+Oncorhynchus mykiss OX
+Heterocephalus glaber OX
+Mandrillus leucophaeus OX
+Chlorocebus sabaeus OX
+Salmo salar OX
+Ailuropoda melanoleuca OX
+Callithrix jacchus OX
+Ictidomys tridecemlineatus OX
+Cuculus canorus OX
+Salmo salar OX
+Leptonychotes weddellii OX
+Macaca mulatta OX
+Alligator mississippiensis OX
+Macaca nemestrina OX
+Cercocebus atys OX
+Macaca fascicularis OX
+Cavia porcellus OX
+Oncorhynchus mykiss OX
+Scophthalmus maximus OX
+Papio anubis OX
+Xenopus laevis OX
+Balaenoptera acutorostrata scammoni OX
+Balaenoptera acutorostrata scammoni OX
+Callithrix jacchus OX
+Mustela putorius furo OX
+Propithecus coquereli OX
+Alligator sinensis OX
+Felis catus OX
+Gallus gallus OX
+Odobenus rosmarus divergens OX
+Nipponia nippon OX
+Rhinopithecus roxellana OX
+Amazona aestiva OX
+Mus musculus OX
+Lepisosteus oculatus OX
+Ovis aries OX
+Odobenus rosmarus divergens OX
+Pongo abelii OX
+Colobus angolensis palliatus OX
+Xenopus tropicalis OX
+Opisthocomus hoazin OX
+Bos taurus OX
+Callipepla squamata OX
+Mesocricetus auratus OX
+Lingula unguis OX
+Aptenodytes forsteri OX
+Nematostella vectensis OX
+Oryctolagus cuniculus OX
+Heterocephalus glaber OX
+Lingula unguis OX
+Anas platyrhynchos OX
+Orchesella cincta OX
+Ovis aries OX
+Delphinapterus leucas OX
+Anas platyrhynchos OX
+Dipodomys ordii OX
+Enhydra lutris kenyoni OX
+Oryzias latipes OX
+Nipponia nippon OX
+Macrostomum lignano OX
+Alligator sinensis OX
+Physeter macrocephalus OX
+Mus musculus OX
+Stylophora pistillata OX
+Oreochromis niloticus OX
+Sus scrofa OX
+Oryctolagus cuniculus OX
+Tursiops truncatus OX
+Alligator mississippiensis OX
+Taeniopygia guttata OX
+Capitella teleta OX
+Physeter macrocephalus OX
+Strongylocentrotus purpuratus OX
+Ailuropoda melanoleuca OX
+Rattus norvegicus OX
+Tetraodon nigroviridis OX
+Canis lupus familiaris OX
+Balaenoptera acutorostrata scammoni OX
+Macrostomum lignano OX
+Gasterosteus aculeatus OX
+Pelodiscus sinensis OX
+Delphinapterus leucas OX
+Alligator sinensis OX
+Patagioenas fasciata monilis OX
+Fukomys damarensis OX
+Takifugu rubripes OX
+Stylophora pistillata OX
+Bos taurus OX
+Oryctolagus cuniculus OX
+Tarsius syrichta OX
+Bos taurus OX
+Salmo salar OX
+Strongylocentrotus purpuratus OX
+Tetraodon nigroviridis OX
+Scophthalmus maximus OX
+Scleropages formosus OX
+Bos taurus OX
+Ramazzottius varieornatus OX
+Austrofundulus limnaeus OX
+Latimeria chalumnae OX
+Sus scrofa OX
+Aotus nancymaae OX
+Ficedula albicollis OX
+Anolis carolinensis OX
+Tinamus guttatus OX
+Delphinapterus leucas OX
+Xenopus tropicalis OX
+Anas platyrhynchos OX
+Mizuhopecten yessoensis OX
+Opisthocomus hoazin OX
+Tursiops truncatus OX
+Lipotes vexillifer OX
+Salmo salar OX
+Mesocricetus auratus OX
+Mesocricetus auratus OX
+Equus caballus OX
+Pongo abelii OX
+Rattus norvegicus OX
+Nematostella vectensis OX
+Lipotes vexillifer OX
+Xiphophorus maculatus OX
+Myotis lucifugus OX
+Trichinella britovi OX
+Xiphophorus maculatus OX
+Orchesella cincta OX
+Nomascus leucogenys OX
+Daphnia pulex OX
+Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX
+Cavenderia fasciculata (strain SH3) OX
+Helobdella robusta OX
+Syncephalastrum racemosum OX
+Dictyostelium discoideum OX
+Lottia gigantea OX
+Cricetulus griseus OX
+Ustilago hordei (strain Uh4875-4) OX
+Trichinella papuae OX
+Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880) OX
+Dictyostelium purpureum OX
+Oncorhynchus mykiss OX
+Trichinella nativa OX
+Trichinella sp. T6 OX
+Trichinella sp. T8 OX
+Stichopus japonicus OX
+Serendipita vermifera MAFF 305830 OX
+Serendipita indica (strain DSM 11827) OX
+Pteropus alecto OX
+Colinus virginianus OX
+Stegodyphus mimosarum OX
+Poecilia formosa OX
+Heterocephalus glaber OX
+Meira miltonrushii OX
+Bos taurus OX
+Ornithorhynchus anatinus OX
+Angiostrongylus cantonensis OX
+Ovis aries OX
+Tropilaelaps mercedesae OX
+Loxodonta africana OX
+Trichechus manatus latirostris OX
+Stylophora pistillata OX
+Helobdella robusta OX
+Microbotryum intermedium OX
+Fibroporia radiculosa OX
+Ancylostoma ceylanicum OX
+Tursiops truncatus OX
+Lichtheimia corymbifera JMRC:FSU:9682 OX
+Astyanax mexicanus OX
+Trichechus manatus latirostris OX
+Ceriporiopsis subvermispora (strain B) OX
+Phycomyces blakesleeanus (strain ATCC 8743b / DSM 1359 / FGSC 10004 / NBRC 33097 / NRRL 1555) OX
+Ustilago maydis (strain 521 / FGSC 9021) OX
+Sporisorium reilianum (strain SRZ2) OX
+Piloderma croceum F 1598 OX
+Galerina marginata (strain CBS 339.88) OX
+Daedalea quercina L-15889 OX
+Testicularia cyperi OX
+Microbotryum saponariae OX
+Cavia porcellus OX
+Fomitopsis pinicola (strain FP-58527) OX
+Microbotryum lychnidis-dioicae (strain p1A1 Lamole / MvSl-1064) OX
+Ancylostoma ceylanicum OX
+Rhizopus azygosporus OX
+Rhizopus microsporus OX
+Ancylostoma ceylanicum OX
+Sistotremastrum suecicum HHB10207 ss-3 OX
+Sistotremastrum niveocremeum HHB9708 OX
+Acaromyces ingoldii OX
+Loxodonta africana OX
+Phycomyces blakesleeanus (strain ATCC 8743b / DSM 1359 / FGSC 10004 / NBRC 33097 / NRRL 1555) OX
+Ancylostoma ceylanicum OX
+Tieghemostelium lacteum OX
+Rhizopus azygosporus OX
+Rhizopus microsporus OX
+Caenorhabditis brenneri OX
+Rhizopus stolonifer OX
+Trichinella patagoniensis OX
+Bos taurus OX
+Trichinella nativa OX
+Loxodonta africana OX
+Rhizopus microsporus ATCC 52813 OX
+Lentinula edodes OX
+Hesseltinella vesiculosa OX
+Parasitella parasitica OX
+Batrachochytrium dendrobatidis (strain JAM81 / FGSC 10211) OX
+Caenorhabditis tropicalis OX
+Trichinella sp. T6 OX
+Trichinella murrelli OX
+Kwoniella bestiolae CBS 10118 OX
+Trichinella nelsoni OX
+Tilletiaria anomala (strain ATCC 24038 / CBS 436.72 / UBC 951) OX
+Daphnia magna OX
+Cryptotermes secundus OX
+Choanephora cucurbitarum OX
+Danio rerio OX
+Rhizoctonia solani 123E OX
+Equus caballus OX
+Trichinella patagoniensis OX
+Orchesella cincta OX
+Trichinella nelsoni OX
+Parasitella parasitica OX
+Sus scrofa OX
+Pteropus alecto OX
+Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) OX
+Caenorhabditis nigoni OX
+Caenorhabditis tropicalis OX
+Mucor circinelloides f. circinelloides (strain 1006PhL) OX
+Caenorhabditis japonica OX
+Rhizoctonia solani OX
+Equus caballus OX
+Jaapia argillacea MUCL 33604 OX
+Termitomyces sp. J132 OX
+Caenorhabditis briggsae OX
+Caenorhabditis nigoni OX
+Moniliophthora roreri (strain MCA 2997) OX
+Kwoniella mangroviensis CBS 10435 OX
+Wolfiporia cocos (strain MD-104) OX
+Exidia glandulosa HHB12029 OX
+Cryptococcus gattii serotype B (strain WM276 / ATCC MYA-4071) OX
+Hypholoma sublateritium FD-334 SS-4 OX
+Scophthalmus maximus OX
+Wallemia mellicola (strain ATCC MYA-4683 / CBS 633.66) OX
+Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565) OX
+Suillus luteus UH-Slu-Lm8-n1 OX
+Rhodotorula sp. JG-1b OX
+Strongyloides ratti OX
+Puccinia coronata var. avenae f. sp. avenae OX
+Caenorhabditis nigoni OX
+Caenorhabditis briggsae OX
+Choanephora cucurbitarum OX
+Rhodnius prolixus OX
+Trichinella nelsoni OX
+Caenorhabditis elegans OX
+Serpula lacrymans var. lacrymans (strain S7.3) OX
+Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7) OX
+Physeter macrocephalus OX
+Laccaria amethystina LaAM-08-1 OX
+Caenorhabditis nigoni OX
+Ciona intestinalis OX
+Xenopus tropicalis OX
+Hypsizygus marmoreus OX
+Caenorhabditis brenneri OX
+Bos taurus OX
+Parastrongyloides trichosuri OX
+Trichinella sp. T8 OX
+Trametes coccinea BRFM310 OX
+Caenorhabditis nigoni OX
+Toxocara canis OX
+Cricetulus griseus OX
+Microbotryum silenes-dioicae OX
+Caenorhabditis latens OX
+Kwoniella pini CBS 10737 OX
+Cylindrobasidium torrendii FP15055 ss-10 OX
+Hesseltinella vesiculosa OX
+Caenorhabditis remanei OX
+Absidia repens OX
+Caenorhabditis remanei OX
+Kalmanozyma brasiliensis (strain GHG001) OX
+Puccinia striiformis f. sp. tritici PST-78 OX
+Trichoplax sp. H2 OX
+Trichoplax adhaerens OX
+Caenorhabditis elegans OX
+Caenorhabditis elegans OX
+Peniophora sp. CONT OX
+Caenorhabditis elegans OX
+Mucor ambiguus OX
+Pisolithus microcarpus 441 OX
+Trichinella pseudospiralis OX
+Caenorhabditis japonica OX
+Batrachochytrium dendrobatidis (strain JEL423) OX
+Ancylostoma ceylanicum OX
+Oncorhynchus mykiss OX
+Rhizopogon vinicolor AM-OR11-026 OX
+Caenorhabditis brenneri OX
+Puccinia triticina (isolate 1-1 / race 1 (BBBD)) OX
+Caenorhabditis briggsae OX
+Trichinella sp. T6 OX
+Trichinella nativa OX
+Cryptococcus amylolentus CBS 6039 OX
+Batrachochytrium salamandrivorans OX
+Bombyx mori OX
+Gloeophyllum trabeum (strain ATCC 11539 / FP-39264 / Madison 617) OX
+Lichtheimia corymbifera JMRC:FSU:9682 OX
+Pseudozyma antarctica (strain T-34) OX
+Latimeria chalumnae OX
+Trichinella papuae OX
+Trichinella sp. T9 OX
+Trichinella britovi OX
+Trichinella murrelli OX
+Trichinella sp. T8 OX
+Ganoderma sinense ZZ0214-1 OX
+Caenorhabditis remanei OX
+Rhodotorula graminis (strain WP1) OX
+Rhodosporidium toruloides OX
+Mucor circinelloides f. lusitanicus CBS 277.49 OX
+Armillaria solidipes OX
+Cryptococcus depauperatus CBS 7841 OX
+Jaminaea rosea OX
+Syncephalastrum racemosum OX
+Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL) OX
+Ramazzottius varieornatus OX
+Caenorhabditis japonica OX
+Trichinella zimbabwensis OX
+Spizellomyces punctatus (strain DAOM BR117) OX
+Trichinella sp. T9 OX
+Ovis aries OX
+Gigaspora rosea OX
+Rhizopus stolonifer OX
+Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003) OX
+Trichinella patagoniensis OX
+Mortierella elongata AG-77 OX
+Trichinella papuae OX
+Rhizopus stolonifer OX
+Paxillus rubicundulus Ve08.2h10 OX
+Kockovaella imperatae OX
+Trichinella zimbabwensis OX
+Macrostomum lignano OX
+Ornithorhynchus anatinus OX
+Parastrongyloides trichosuri OX
+Strongyloides papillosus OX
+Strongyloides stercoralis OX
+Caenorhabditis nigoni OX
+Schizophyllum commune (strain H4-8 / FGSC 9210) OX
+Armillaria ostoyae OX
+Polyporus brumalis OX
+Macrostomum lignano OX
+Trichinella murrelli OX
+Caenorhabditis remanei OX
+Caenorhabditis elegans OX
+Phanerochaete carnosa (strain HHB-10118-sp) OX
+Strongyloides venezuelensis OX
+Wallemia ichthyophaga (strain EXF-994 / CBS 113033) OX
+Macrostomum lignano OX
+Strongyloides stercoralis OX
+Caenorhabditis tropicalis OX
+Caenorhabditis nigoni OX
+Trichinella sp. T9 OX
+Homo sapiens OX
+Pan troglodytes OX
+Trichinella papuae OX
+Strongyloides papillosus OX
+Leucosporidium creatinivorum OX
+Trichinella pseudospiralis OX
+Neolentinus lepideus HHB14362 ss-1 OX
+Trichuris muris OX
+Equus caballus OX
+Basidiobolus meristosporus CBS 931.73 OX
+Caenorhabditis brenneri OX
+Ciona savignyi OX
+Orchesella cincta OX
+Fibularhizoctonia sp. CBS 109695 OX
+Caenorhabditis tropicalis OX
+Pyrrhoderma noxium OX
+Ancylostoma ceylanicum OX
+Trichechus manatus latirostris OX
+Ornithorhynchus anatinus OX
+Tilletiopsis washingtonensis OX
+Onchocerca volvulus OX
+Planoprotostelium fungivorum OX
+Homo sapiens OX
+Absidia glauca OX
+Armillaria solidipes OX
+Cutaneotrichosporon oleaginosum OX
+Diploscapter pachys OX
+Hebeloma cylindrosporum h7 OX
+Ramazzottius varieornatus OX
+Armillaria gallica OX
+Caenorhabditis briggsae OX
+Elaeophora elaphi OX
+Homo sapiens OX
+Laetiporus sulphureus 93-53 OX
+Phlebiopsis gigantea 11061_1 CR5-6 OX
+Blattella germanica OX
+Bos taurus OX
+Mucor circinelloides f. circinelloides (strain 1006PhL) OX
+Aotus nancymaae OX
+Armillaria gallica OX
+Strongyloides venezuelensis OX
+Rhizopus azygosporus OX
+Pediculus humanus subsp. corporis OX
+Laccaria bicolor (strain S238N-H82 / ATCC MYA-4686) OX
+Bombyx mori OX
+Toxocara canis OX
+Pseudomicrostroma glucosiphilum OX
+Ancylostoma ceylanicum OX
+Cochliobolus sativus (strain ND90Pr / ATCC 201652) OX
+Kwoniella dejecticola CBS 10117 OX
+Schizopora paradoxa OX
+Cyphomyrmex costatus OX
+Dacryopinax primogenitus (strain DJM 731) OX
+Cochliobolus heterostrophus (strain C5 / ATCC 48332 / race O) OX
+Ancylostoma ceylanicum OX
+Tursiops truncatus OX
+Naematelia encephala OX
+Basidiobolus meristosporus CBS 931.73 OX
+Rhizopus azygosporus OX
+Mortierella elongata AG-77 OX
+Trichinella murrelli OX
+Trichinella sp. T9 OX
+Rhizopus microsporus ATCC 52813 OX
+Malassezia vespertilionis OX
+Mucor ambiguus OX
+Trichinella nelsoni OX
+Meleagris gallopavo OX
+Rhizophagus irregularis (strain DAOM 181602 / DAOM 197198 / MUCL 43194) OX
+Bipolaris zeicola 26-R-13 OX
+Rhizophagus irregularis (strain DAOM 181602 / DAOM 197198 / MUCL 43194) OX
+Rhizophagus irregularis (strain DAOM 197198w) OX
+Rhizophagus irregularis OX
+Gonapodya prolifera (strain JEL478) OX
+Absidia glauca OX
+Rhizoclosmatium globosum OX
+Calocera cornea HHB12733 OX
+Kwoniella heveanensis BCC8398 OX
+Brugia timori OX
+Basidiobolus meristosporus CBS 931.73 OX
+Trichinella nelsoni OX
+Rhizophagus sp. MUCL 43196 OX
+Brugia pahangi OX
+Atta cephalotes OX
+Bipolaris oryzae ATCC 44560 OX
+Ailuropoda melanoleuca OX
+Macrostomum lignano OX
+Botryobasidium botryosum FD-172 SS1 OX
+Trachymyrmex septentrionalis OX
+Trachymyrmex cornetzi OX
+Rhizoclosmatium globosum OX
+Absidia repens OX
+Pleurotus ostreatus PC15 OX
+Cyphomyrmex costatus OX
+Calocera viscosa (strain TUFC12733) OX
+Trachymyrmex cornetzi OX
+Protomyces lactucaedebilis OX
+Ceraceosorus guamensis OX
+Trichinella zimbabwensis OX
+Absidia repens OX
+Rhinopithecus bieti OX
+Phycomyces blakesleeanus (strain ATCC 8743b / DSM 1359 / FGSC 10004 / NBRC 33097 / NRRL 1555) OX
+Cylindrobasidium torrendii FP15055 ss-10 OX
+Rhizophagus clarus OX
+Agrilus planipennis OX
+Lichtheimia corymbifera JMRC:FSU:9682 OX
+Pisolithus tinctorius Marx 270 OX
+Harpegnathos saltator OX
+Glomus cerebriforme OX
+Absidia glauca OX
+Danio rerio OX
+Habropoda laboriosa OX
+Toxocara canis OX
+Trichinella sp. T9 OX
+Trichinella britovi OX
+Trichinella murrelli OX
+Papilio xuthus OX
+Colinus virginianus OX
+Planoprotostelium fungivorum OX
+Rhizopus microsporus OX
+Helobdella robusta OX
+Saitoella complicata (strain BCRC 22490 / CBS 7301 / JCM 7358 / NBRC 10748 / NRRL Y-17804) OX
+Pan troglodytes OX
+Amanita thiersii Skay4041 OX
+Mus musculus OX
+Conidiobolus coronatus (strain ATCC 28846 / CBS 209.66 / NRRL 28638) OX
+Sporisorium scitamineum OX
+Coniella lustricola OX

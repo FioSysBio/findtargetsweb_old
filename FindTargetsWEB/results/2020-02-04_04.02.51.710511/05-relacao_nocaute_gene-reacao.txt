@@ -1,0 +1,595 @@
+1. Gene 1089456__46__5__46__peg__46__4757 inibido.
+3HAD100 : 3hdecACP__91__c__93__ --> h2o__91__c__93__ + tdec2eACP__91__c__93__3HAD6M8 : 6m3hocACP__91__c__93__ --> 6mtoct2eACP__91__c__93__ + h2o__91__c__93__3HAD180 : 3hoctaACP__91__c__93__ --> h2o__91__c__93__ + toctd2eACP__91__c__93__3HAD8M9 : 8m3hnonACP__91__c__93__ --> 8mtnon2eACP__91__c__93__ + h2o__91__c__93__3HAD8M10 : 8m3hdcaACP__91__c__93__ --> 8mtdec2eACP__91__c__93__ + h2o__91__c__93__3HAD14M15 : 14m3hpentdecACP__91__c__93__ --> 14mtpentdec2eACP__91__c__93__ + h2o__91__c__93__3HAD5M6 : 5m3hhexACP__91__c__93__ --> 5mthex2eACP__91__c__93__ + h2o__91__c__93__3HAD12M13 : 12m3htridecACP__91__c__93__ --> 12mttritec2eACP__91__c__93__ + h2o__91__c__93__3HAD10M11 : 10m3hundecACP__91__c__93__ --> 10mtundec2eACP__91__c__93__ + h2o__91__c__93__3HAD7M8 : 7m3hocACP__91__c__93__ --> 7mtoct2eACP__91__c__93__ + h2o__91__c__93__3HAD40 : 3haACP__91__c__93__ --> but2eACP__91__c__93__ + h2o__91__c__93__3HAD14M16 : 14m3hpalmACP__91__c__93__ --> 14mtpalm2eACP__91__c__93__ + h2o__91__c__93__3HAD9M10 : 9m3hdcaACP__91__c__93__ --> 9mtdec2eACP__91__c__93__ + h2o__91__c__93__3HAD12M14 : 12m3hmyrsACP__91__c__93__ --> 12mtmrs2eACP__91__c__93__ + h2o__91__c__93__3HAD10M12 : 10m3hddcaACP__91__c__93__ --> 10mtddec2eACP__91__c__93__ + h2o__91__c__93__3HAD60 : 3hhexACP__91__c__93__ --> h2o__91__c__93__ + thex2eACP__91__c__93__3HAD15M16 : 15m3hpalmACP__91__c__93__ --> 15mtpalm2eACP__91__c__93__ + h2o__91__c__93__3HAD80 : 3hoctACP__91__c__93__ --> h2o__91__c__93__ + toct2eACP__91__c__93__3HAD4M5 : 4m3hpentACP__91__c__93__ --> 4mtpent2eACP__91__c__93__ + h2o__91__c__93__3HAD13M14 : 13m3hmyrsACP__91__c__93__ --> 13mtmrs2eACP__91__c__93__ + h2o__91__c__93__3HAD11M12 : 11m3hddcaACP__91__c__93__ --> 11mtddec2eACP__91__c__93__ + h2o__91__c__93__3HAD6M7 : 6m3hheptACP__91__c__93__ --> 6mthept2eACP__91__c__93__ + h2o__91__c__93__3HAD160 : 3hpalmACP__91__c__93__ --> h2o__91__c__93__ + tpalm2eACP__91__c__93__3HAD140 : 3hmrsACP__91__c__93__ --> h2o__91__c__93__ + tmrs2eACP__91__c__93__3HAD120 : 3hddecACP__91__c__93__ --> h2o__91__c__93__ + tddec2eACP__91__c__93__3HAD4M6 : 4m3hhexACP__91__c__93__ --> 4mthex2eACP__91__c__93__ + h2o__91__c__93__
+
+2. Gene 1089456__46__5__46__peg__46__4068 inibido.
+3OAS11M12 : 11mddcaACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 13m3omyrsACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS6M7 : 6mheptACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 8m3ononACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS4M3O6 : 2mbutACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 4m3ohexACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS8M9 : 8mnonACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 10m3oundecACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__KAS14 : acACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> ACP__91__c__93__ + actACP__91__c__93__ + co2__91__c__93__3OAS4M5 : 4mpentACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 6m3oheptACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS160 : h__91__c__93__ + malACP__91__c__93__ + myrsACP__91__c__93__ --> 3opalmACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS120 : dcaACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 3oddecACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS6M8 : 6mocACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 8m3odcaACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS9M10 : 9mdcaACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 11m3oddcaACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS4M6 : 4mhexACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 6m3oocACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS180 : h__91__c__93__ + malACP__91__c__93__ + palmACP__91__c__93__ --> 3ooctdACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS100 : h__91__c__93__ + malACP__91__c__93__ + ocACP__91__c__93__ --> 3odecACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS12M13 : 12mtridecACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 14m3opentdecACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS7M8 : 7mocACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 9m3odcaACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__ACOATA : ACP__91__c__93__ + accoa__91__c__93__ --> acACP__91__c__93__ + coa__91__c__93__3OAS12M14 : 12mmyrsACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 14m3opalmACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS5M6 : 5mhexACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 7m3oocACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS2M3 : 2mpropACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 4m3opentACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS10M11 : 10mundecACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 12m3otridecACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS80 : h__91__c__93__ + hexACP__91__c__93__ + malACP__91__c__93__ --> 3ooctACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS13M14 : 13mmyrsACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 15m3opalmACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS60 : butACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 3ohexACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS3M4 : 3mbutACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 5m3ohexACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS10M12 : 10mddcaACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 12m3omyrsACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS140 : ddcaACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 3omrsACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__3OAS8M10 : 8mdcaACP__91__c__93__ + h__91__c__93__ + malACP__91__c__93__ --> 10m3oddcaACP__91__c__93__ + ACP__91__c__93__ + co2__91__c__93__
+
+3. Gene 1089456__46__5__46__peg__46__4403 inibido.
+4NTPPH2 : HC01104__91__c__93__ + h2o__91__c__93__ --> h__91__c__93__ + pi__91__c__93__ + pnp__91__c__93__ALKP : dhap__91__c__93__ + h2o__91__c__93__ --> dha__91__c__93__ + pi__91__c__93__AKP1 : ahdt__91__c__93__ + 3.0 h2o__91__c__93__ --> dhnpt__91__c__93__ + 2.0 h__91__c__93__ + 3.0 pi__91__c__93__
+
+4. Gene 1089456__46__5__46__peg__46__1137 inibido.
+A5PISO : ru5p_D__91__c__93__ --> ara5p__91__c__93__
+
+5. Gene 1089456__46__5__46__peg__46__2143 inibido.
+ACBIPGT : adocbip__91__c__93__ + gtp__91__c__93__ + h__91__c__93__ --> agdpcbi__91__c__93__ + ppi__91__c__93__ADOCBIK : adocbi__91__c__93__ + atp__91__c__93__ --> adocbip__91__c__93__ + adp__91__c__93__ + h__91__c__93__ADOCBIK2 : adocbi__91__c__93__ + gtp__91__c__93__ --> adocbip__91__c__93__ + gdp__91__c__93__ + h__91__c__93__
+
+6. Gene 1089456__46__5__46__peg__46__2020 inibido.
+ACPS1 : apoACP__91__c__93__ + coa__91__c__93__ --> ACP__91__c__93__ + h__91__c__93__ + pap__91__c__93__
+
+7. Gene 1089456__46__5__46__peg__46__4067 inibido.
+ADCL : 4adcho__91__c__93__ --> 4abz__91__c__93__ + h__91__c__93__ + pyr__91__c__93__
+
+8. Gene 1089456__46__5__46__peg__46__4798 inibido.
+ADK10 : amp__91__c__93__ + dttp__91__c__93__ --> adp__91__c__93__ + dtdp__91__c__93__ADK7 : amp__91__c__93__ + datp__91__c__93__ --> adp__91__c__93__ + dadp__91__c__93__r0345 : atp__91__c__93__ + damp__91__c__93__ --> adp__91__c__93__ + dadp__91__c__93__ADK11 : amp__91__c__93__ + dutp__91__c__93__ --> adp__91__c__93__ + dudp__91__c__93__ADK8 : amp__91__c__93__ + dctp__91__c__93__ --> adp__91__c__93__ + dcdp__91__c__93__ADK1 : amp__91__c__93__ + atp__91__c__93__ --> 2.0 adp__91__c__93__UTPATPT : amp__91__c__93__ + utp__91__c__93__ --> adp__91__c__93__ + udp__91__c__93__ADK5 : amp__91__c__93__ + ctp__91__c__93__ --> adp__91__c__93__ + cdp__91__c__93__ADK2 : amp__91__c__93__ + pppi__91__c__93__ --> adp__91__c__93__ + ppi__91__c__93__ADK9 : amp__91__c__93__ + dgtp__91__c__93__ --> adp__91__c__93__ + dgdp__91__c__93__ADK3 : amp__91__c__93__ + gtp__91__c__93__ --> adp__91__c__93__ + gdp__91__c__93__
+
+9. Gene 1089456__46__5__46__peg__46__151 inibido.
+GNNUC : gsn__91__c__93__ + h2o__91__c__93__ --> gua__91__c__93__ + rib_D__91__c__93__ADNUC : adn__91__c__93__ + h2o__91__c__93__ --> ade__91__c__93__ + rib_D__91__c__93__INSH : h2o__91__c__93__ + ins__91__c__93__ --> hxan__91__c__93__ + rib_D__91__c__93__XTSNH : h2o__91__c__93__ + xtsn__91__c__93__ --> rib_D__91__c__93__ + xan__91__c__93__
+
+10. Gene 1089456__46__5__46__peg__46__2146 inibido.
+ADOCBLS : agdpcbi__91__c__93__ + rdmbzi__91__c__93__ --> adocbl__91__c__93__ + gmp__91__c__93__ + h__91__c__93__
+
+11. Gene 1089456__46__5__46__peg__46__4449 inibido.
+AGMHE : adphep_DD__91__c__93__ --> adphep_LD__91__c__93__
+
+12. Gene 1089456__46__5__46__peg__46__5746 inibido.
+AHC : ahcys__91__c__93__ + h2o__91__c__93__ --> adn__91__c__93__ + hcys_L__91__c__93__
+
+13. Gene 1089456__46__5__46__peg__46__452 inibido.
+URFGTT : 2ombz__91__c__93__ + amet__91__c__93__ --> 2ommb__91__c__93__ + ahcys__91__c__93__ + h__91__c__93__PHYQS : amet__91__c__93__ + dmphqno__91__c__93__ --> ahcys__91__c__93__ + h__91__c__93__ + phyQ__91__c__93__AMMQT8r : 2dmmq8__91__c__93__ + amet__91__c__93__ --> ahcys__91__c__93__ + h__91__c__93__ + mqn8__91__c__93__
+
+14. Gene 1089456__46__5__46__peg__46__5241 inibido.
+APRAUR : 5apru__91__c__93__ + h__91__c__93__ + nadph__91__c__93__ --> 5aprbu__91__c__93__ + nadp__91__c__93__DHPPDA : 25dhpp__91__c__93__ + h2o__91__c__93__ + h__91__c__93__ --> 5apru__91__c__93__ + nh4__91__c__93__
+
+15. Gene 1089456__46__5__46__peg__46__5914 inibido.
+BPNT : h2o__91__c__93__ + pap__91__c__93__ --> amp__91__c__93__ + pi__91__c__93__
+
+16. Gene 1089456__46__5__46__peg__46__914 inibido.
+HSK : atp__91__c__93__ + hom_L__91__c__93__ --> adp__91__c__93__ + h__91__c__93__ + phom__91__c__93__CDPMEK : 4c2me__91__c__93__ + atp__91__c__93__ --> 2p4c2me__91__c__93__ + adp__91__c__93__ + h__91__c__93__
+
+17. Gene 1089456__46__5__46__peg__46__2561 inibido.
+CHORS : 3psme__91__c__93__ --> chor__91__c__93__ + pi__91__c__93__
+
+18. Gene 1089456__46__5__46__peg__46__6107 inibido.
+CHRPL : chor__91__c__93__ --> 4hbz__91__c__93__ + pyr__91__c__93__
+
+19. Gene 1089456__46__5__46__peg__46__4749 inibido.
+CTPS1 : atp__91__c__93__ + nh4__91__c__93__ + utp__91__c__93__ --> adp__91__c__93__ + ctp__91__c__93__ + 2.0 h__91__c__93__ + pi__91__c__93__CTPS2 : atp__91__c__93__ + gln_L__91__c__93__ + h2o__91__c__93__ + utp__91__c__93__ --> adp__91__c__93__ + ctp__91__c__93__ + glu_L__91__c__93__ + 2.0 h__91__c__93__ + pi__91__c__93__
+
+20. Gene 1089456__46__5__46__peg__46__4255 inibido.
+CYTDK3 : cytd__91__c__93__ + itp__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + idp__91__c__93__CYTK2 : atp__91__c__93__ + dcmp__91__c__93__ --> adp__91__c__93__ + dcdp__91__c__93__CYTK1 : atp__91__c__93__ + cmp__91__c__93__ --> adp__91__c__93__ + cdp__91__c__93__
+
+21. Gene 1089456__46__5__46__peg__46__6025 inibido.
+DAPE : 26dap_LL__91__c__93__ --> 26dap_M__91__c__93__
+
+22. Gene 1089456__46__5__46__peg__46__5239 inibido.
+DB4PS : ru5p_D__91__c__93__ --> db4p__91__c__93__ + for__91__c__93__ + h__91__c__93__GTPCII : gtp__91__c__93__ + 3.0 h2o__91__c__93__ --> 25dhpp__91__c__93__ + for__91__c__93__ + 2.0 h__91__c__93__ + ppi__91__c__93__
+
+23. Gene 1089456__46__5__46__peg__46__777 inibido.
+DHDPRy : 23dhdp__91__c__93__ + h__91__c__93__ + nadph__91__c__93__ --> nadp__91__c__93__ + thdp__91__c__93__
+
+24. Gene 1089456__46__5__46__peg__46__4220 inibido.
+DHFS : atp__91__c__93__ + dhpt__91__c__93__ + glu_L__91__c__93__ --> adp__91__c__93__ + dhf__91__c__93__ + h__91__c__93__ + pi__91__c__93__FPGS_tm : atp__91__c__93__ + glu_L__91__c__93__ + thf__91__c__93__ --> adp__91__c__93__ + h__91__c__93__ + pi__91__c__93__ + thfglu__91__c__93__FPGS7 : 10fthf__91__c__93__ + atp__91__c__93__ + 4.0 glu_L__91__c__93__ --> 10fthf5glu__91__c__93__ + adp__91__c__93__ + 3.0 h2o__91__c__93__ + h__91__c__93__ + pi__91__c__93__
+
+25. Gene 1089456__46__5__46__peg__46__478 inibido.
+DHQS : 2dda7p__91__c__93__ --> 3dhq__91__c__93__ + pi__91__c__93__
+
+26. Gene 1089456__46__5__46__peg__46__1035 inibido.
+DMPPS2r : h2mb4p__91__c__93__ + h__91__c__93__ + nadph__91__c__93__ --> dmpp__91__c__93__ + h2o__91__c__93__ + nadp__91__c__93__IPDPS2 : h2mb4p__91__c__93__ + h__91__c__93__ + nadph__91__c__93__ --> h2o__91__c__93__ + ipdp__91__c__93__ + nadp__91__c__93__DMPPS : h2mb4p__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> dmpp__91__c__93__ + h2o__91__c__93__ + nad__91__c__93__IPDPS : h2mb4p__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> h2o__91__c__93__ + ipdp__91__c__93__ + nad__91__c__93__
+
+27. Gene 1089456__46__5__46__peg__46__4263 inibido.
+DMQMT2 : amet__91__c__93__ + ocmhmxbq__91__c__93__ --> ahcys__91__c__93__ + q8__91__c__93__OHPHM : 2ohph__91__c__93__ + amet__91__c__93__ --> 2omph__91__c__93__ + ahcys__91__c__93__ + h__91__c__93__
+
+28. Gene 1089456__46__5__46__peg__46__1063 inibido.
+DPCOAK : atp__91__c__93__ + dpcoa__91__c__93__ --> adp__91__c__93__ + coa__91__c__93__ + h__91__c__93__
+
+29. Gene 1089456__46__5__46__peg__46__4065 inibido.
+DTMPK : atp__91__c__93__ + dtmp__91__c__93__ --> adp__91__c__93__ + dtdp__91__c__93__
+
+30. Gene 1089456__46__5__46__peg__46__4762 inibido.
+DXPRIr : dxyl5p__91__c__93__ + h__91__c__93__ + nadph__91__c__93__ --> 2me4p__91__c__93__ + nadp__91__c__93__
+
+31. Gene 1089456__46__5__46__peg__46__5229 inibido.
+DXPS : g3p__91__c__93__ + h__91__c__93__ + pyr__91__c__93__ --> co2__91__c__93__ + dxyl5p__91__c__93__
+
+32. Gene 1089456__46__5__46__peg__46__2696 inibido.
+EAR100x : h__91__c__93__ + nadh__91__c__93__ + tdec2eACP__91__c__93__ --> dcaACP__91__c__93__ + nad__91__c__93__EAR6M8x : 6mtoct2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 6mocACP__91__c__93__ + nad__91__c__93__EAR15M16x : 15mtpalm2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 15mpalmACP__91__c__93__ + nad__91__c__93__EAR12M14x : 12mtmrs2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 12mmyrsACP__91__c__93__ + nad__91__c__93__EAR9M10x : 9mtdec2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 9mdcaACP__91__c__93__ + nad__91__c__93__EAR4M6x : 4mthex2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 4mhexACP__91__c__93__ + nad__91__c__93__EAR10M11x : 10mtundec2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 10mundecACP__91__c__93__ + nad__91__c__93__EAR7M8x : 7mtoct2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 7mocACP__91__c__93__ + nad__91__c__93__EAR160x : h__91__c__93__ + nadh__91__c__93__ + tpalm2eACP__91__c__93__ --> nad__91__c__93__ + palmACP__91__c__93__EAR13M14x : 13mtmrs2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 13mmyrsACP__91__c__93__ + nad__91__c__93__EAR10M12x : 10mtddec2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 10mddcaACP__91__c__93__ + nad__91__c__93__EAR5M6x : 5mthex2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 5mhexACP__91__c__93__ + nad__91__c__93__EAR140x : h__91__c__93__ + nadh__91__c__93__ + tmrs2eACP__91__c__93__ --> myrsACP__91__c__93__ + nad__91__c__93__EAR80x : h__91__c__93__ + nadh__91__c__93__ + toct2eACP__91__c__93__ --> nad__91__c__93__ + ocACP__91__c__93__EAR180x : h__91__c__93__ + nadh__91__c__93__ + toctd2eACP__91__c__93__ --> nad__91__c__93__ + ocdcaACP__91__c__93__EAR11M12x : 11mtddec2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 11mddcaACP__91__c__93__ + nad__91__c__93__EAR60x : h__91__c__93__ + nadh__91__c__93__ + thex2eACP__91__c__93__ --> hexACP__91__c__93__ + nad__91__c__93__EAR14M15x : 14mtpentdec2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 14mpentdecACP__91__c__93__ + nad__91__c__93__EAR120x : h__91__c__93__ + nadh__91__c__93__ + tddec2eACP__91__c__93__ --> ddcaACP__91__c__93__ + nad__91__c__93__EAR8M10x : 8mtdec2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 8mdcaACP__91__c__93__ + nad__91__c__93__EAR40x : but2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> butACP__91__c__93__ + nad__91__c__93__EAR6M7x : 6mthept2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 6mheptACP__91__c__93__ + nad__91__c__93__EAR8M9x : 8mtnon2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 8mnonACP__91__c__93__ + nad__91__c__93__EAR14M16x : 14mtpalm2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 14mpalmACP__91__c__93__ + nad__91__c__93__EAR12M13x : 12mttritec2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 12mtridecACP__91__c__93__ + nad__91__c__93__EAR4M5x : 4mtpent2eACP__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ --> 4mpentACP__91__c__93__ + nad__91__c__93__
+
+33. Gene 1089456__46__5__46__peg__46__1239 inibido.
+FE2abc : atp__91__c__93__ + fe2__91__e__93__ + h2o__91__c__93__ --> adp__91__c__93__ + fe2__91__c__93__ + h__91__c__93__ + pi__91__c__93__
+
+34. Gene 1089456__46__5__46__peg__46__1031 inibido.
+FMNAT : atp__91__c__93__ + fmn__91__c__93__ + h__91__c__93__ --> fad__91__c__93__ + ppi__91__c__93__RBFK : atp__91__c__93__ + ribflv__91__c__93__ --> adp__91__c__93__ + fmn__91__c__93__ + h__91__c__93__
+
+35. Gene 1089456__46__5__46__peg__46__4764 inibido.
+FT : frdp__91__c__93__ + ipdp__91__c__93__ --> ppi__91__c__93__ + ttc_ggdp__91__c__93__IPDPUPT : 7.0 ipdp__91__c__93__ + ttc_ggdp__91__c__93__ --> 7.0 ppi__91__c__93__ + udcpdp__91__c__93__
+
+36. Gene 1089456__46__5__46__peg__46__6317 inibido.
+UAGDP : acgam1p__91__c__93__ + h__91__c__93__ + utp__91__c__93__ --> ppi__91__c__93__ + uacgam__91__c__93__G1PACT : accoa__91__c__93__ + gam1p__91__c__93__ --> acgam1p__91__c__93__ + coa__91__c__93__ + h__91__c__93__
+
+37. Gene 1089456__46__5__46__peg__46__5901 inibido.
+G1PTT : dttp__91__c__93__ + g1p__91__c__93__ + h__91__c__93__ --> dtdpglu__91__c__93__ + ppi__91__c__93__
+
+38. Gene 1089456__46__5__46__peg__46__5160 inibido.
+G1SAT : glu1sa__91__c__93__ --> 5aop__91__c__93__
+
+39. Gene 1089456__46__5__46__peg__46__2976 inibido.
+GALU : g1p__91__c__93__ + h__91__c__93__ + utp__91__c__93__ --> ppi__91__c__93__ + udpg__91__c__93__
+
+40. Gene 1089456__46__5__46__peg__46__509 inibido.
+GLCTR1 : icolipa__91__c__93__ + udpg__91__c__93__ --> gicolipa__91__c__93__ + h__91__c__93__ + udp__91__c__93__
+
+41. Gene 1089456__46__5__46__peg__46__921 inibido.
+GLUR : glu_D__91__c__93__ --> glu_L__91__c__93__
+
+42. Gene 1089456__46__5__46__peg__46__917 inibido.
+GLUTRR : glutrna__91__c__93__ + h__91__c__93__ + nadph__91__c__93__ --> glu1sa__91__c__93__ + nadp__91__c__93__ + trnaglu__91__c__93__
+
+43. Gene 1089456__46__5__46__peg__46__4243 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__GLUTRS : atp__91__c__93__ + glu_L__91__c__93__ + trnaglu__91__c__93__ --> amp__91__c__93__ + glutrna__91__c__93__ + ppi__91__c__93__
+
+44. Gene 1089456__46__5__46__peg__46__523 inibido.
+GMHEPK : atp__91__c__93__ + gmhep7p__91__c__93__ --> adp__91__c__93__ + gmhep17bp__91__c__93__ + h__91__c__93__GMHEPAT : atp__91__c__93__ + gmhep1p__91__c__93__ + h__91__c__93__ --> adphep_DD__91__c__93__ + ppi__91__c__93__
+
+45. Gene 1089456__46__5__46__peg__46__6 inibido.
+GMHEPPA : gmhep17bp__91__c__93__ + h2o__91__c__93__ --> gmhep1p__91__c__93__ + pi__91__c__93__
+
+46. Gene 1089456__46__5__46__peg__46__6108 inibido.
+HBZOPT : 4hbz__91__c__93__ + octdp__91__c__93__ --> 3ophb__91__c__93__ + ppi__91__c__93__
+
+47. Gene 1089456__46__5__46__peg__46__510 inibido.
+HEPK1 : atp__91__c__93__ + hhlipa__91__c__93__ --> adp__91__c__93__ + h__91__c__93__ + phhlipa__91__c__93__
+
+48. Gene 1089456__46__5__46__peg__46__508 inibido.
+HEPT1 : adphep_LD__91__c__93__ + lipa__91__c__93__ --> adp__91__c__93__ + h__91__c__93__ + hlipa__91__c__93__
+
+49. Gene 1089456__46__5__46__peg__46__507 inibido.
+HEPT2 : adphep_LD__91__c__93__ + hlipa__91__c__93__ --> adp__91__c__93__ + h__91__c__93__ + hhlipa__91__c__93__
+
+50. Gene 1089456__46__5__46__peg__46__6006 inibido.
+HMBS : h2o__91__c__93__ + 4.0 ppbng__91__c__93__ --> hmbil__91__c__93__ + 4.0 nh4__91__c__93__
+
+51. Gene 1089456__46__5__46__peg__46__4084 inibido.
+KDOCT2 : ctp__91__c__93__ + kdo__91__c__93__ --> ckdo__91__c__93__ + ppi__91__c__93__
+
+52. Gene 1089456__46__5__46__peg__46__1136 inibido.
+KDOPP : h2o__91__c__93__ + kdo8p__91__c__93__ --> kdo__91__c__93__ + pi__91__c__93__
+
+53. Gene 1089456__46__5__46__peg__46__4748 inibido.
+KDOPSr : ara5p__91__c__93__ + h2o__91__c__93__ + pep__91__c__93__ --> kdo8p__91__c__93__ + pi__91__c__93__
+
+54. Gene 1089456__46__5__46__peg__46__4755 inibido.
+LPADSS : lipidX__91__c__93__ + u23ga__91__c__93__ --> h__91__c__93__ + lipidAds__91__c__93__ + udp__91__c__93__
+
+55. Gene 1089456__46__5__46__peg__46__4256 inibido.
+PPND2 : nadp__91__c__93__ + pphn__91__c__93__ --> 34hpp__91__c__93__ + co2__91__c__93__ + nadph__91__c__93__PPND : nad__91__c__93__ + pphn__91__c__93__ --> 34hpp__91__c__93__ + co2__91__c__93__ + nadh__91__c__93__PSCVT : pep__91__c__93__ + skm5p__91__c__93__ --> 3psme__91__c__93__ + pi__91__c__93__L_AROND : Largn__91__c__93__ + nad__91__c__93__ --> co2__91__c__93__ + nadh__91__c__93__ + tyr_L__91__c__93__
+
+56. Gene 1089456__46__5__46__peg__46__4972 inibido.
+MECDPDH2 : 2mecdp__91__c__93__ + nadh__91__c__93__ --> h2mb4p__91__c__93__ + h2o__91__c__93__ + nad__91__c__93__
+
+57. Gene 1089456__46__5__46__peg__46__4739 inibido.
+MECDPS : 2p4c2me__91__c__93__ --> 2mecdp__91__c__93__ + cmp__91__c__93__
+
+58. Gene 1089456__46__5__46__peg__46__4745 inibido.
+MEPCT : 2me4p__91__c__93__ + ctp__91__c__93__ + h__91__c__93__ --> 4c2me__91__c__93__ + ppi__91__c__93__
+
+59. Gene 1089456__46__5__46__peg__46__5625 inibido.
+METAT : atp__91__c__93__ + h2o__91__c__93__ + met_L__91__c__93__ --> amet__91__c__93__ + pi__91__c__93__ + ppi__91__c__93__
+
+60. Gene 1089456__46__5__46__peg__46__5748 inibido.
+r0792 : 5mthf__91__c__93__ + nad__91__c__93__ --> 2.0 h__91__c__93__ + mlthf__91__c__93__ + nadh__91__c__93__METFR : 5mthf__91__c__93__ + nadp__91__c__93__ --> 2.0 h__91__c__93__ + mlthf__91__c__93__ + nadph__91__c__93__
+
+61. Gene 1089456__46__5__46__peg__46__2682 inibido.
+MTHFD : mlthf__91__c__93__ + nadp__91__c__93__ --> methf__91__c__93__ + nadph__91__c__93__MTHFC : h2o__91__c__93__ + methf__91__c__93__ --> 10fthf__91__c__93__ + h__91__c__93__
+
+62. Gene 1089456__46__5__46__peg__46__4196 inibido.
+NADK : atp__91__c__93__ + nad__91__c__93__ --> adp__91__c__93__ + h__91__c__93__ + nadp__91__c__93__NADK2 : dttp__91__c__93__ + nad__91__c__93__ --> dtdp__91__c__93__ + h__91__c__93__ + nadp__91__c__93__
+
+63. Gene 1089456__46__5__46__peg__46__2144 inibido.
+NNDMBRT : dmbzid__91__c__93__ + nicrnt__91__c__93__ --> 5prdmbz__91__c__93__ + h__91__c__93__ + nac__91__c__93__
+
+64. Gene 1089456__46__5__46__peg__46__807 inibido.
+PANTS : ala_B__91__c__93__ + atp__91__c__93__ + pant_R__91__c__93__ --> amp__91__c__93__ + h__91__c__93__ + pnto_R__91__c__93__ + ppi__91__c__93__
+
+65. Gene 1089456__46__5__46__peg__46__1180 inibido.
+PAPPT3 : udcpp__91__c__93__ + ugmda__91__c__93__ --> uagmda__91__c__93__ + ump__91__c__93__PAPPT2 : uGgla__91__c__93__ + udcpp__91__c__93__ --> uaGgla__91__c__93__ + ump__91__c__93__
+
+66. Gene 1089456__46__5__46__peg__46__1485 inibido.
+rtranscription :  --> rnatrans__91__c__93__PDX5PS : dxyl5p__91__c__93__ + nad__91__c__93__ + phthr__91__c__93__ --> co2__91__c__93__ + 2.0 h2o__91__c__93__ + h__91__c__93__ + nadh__91__c__93__ + pdx5p__91__c__93__ + pi__91__c__93__
+
+67. Gene 1089456__46__5__46__peg__46__787 inibido.
+PGAMT : gam1p__91__c__93__ --> gam6p__91__c__93__
+
+68. Gene 1089456__46__5__46__peg__46__6070 inibido.
+PGMT : g1p__91__c__93__ --> g6p__91__c__93__PMANM : man1p__91__c__93__ --> man6p__91__c__93__
+
+69. Gene 1089456__46__5__46__peg__46__5235 inibido.
+PGPPI14 : h2o__91__c__93__ + pgpi14__91__c__93__ --> pgi14__91__c__93__ + pi__91__c__93__PGPP161 : h2o__91__c__93__ + pgp161__91__c__93__ --> pg161__91__c__93__ + pi__91__c__93__PGPPI17 : h2o__91__c__93__ + pgpi17__91__c__93__ --> pgi17__91__c__93__ + pi__91__c__93__PGPPAI15 : h2o__91__c__93__ + pgpai15__91__c__93__ --> pgai15__91__c__93__ + pi__91__c__93__PGPP141 : h2o__91__c__93__ + pgp141__91__c__93__ --> pg141__91__c__93__ + pi__91__c__93__PGPPI15 : h2o__91__c__93__ + pgpi15__91__c__93__ --> pgi15__91__c__93__ + pi__91__c__93__PGPP181 : h2o__91__c__93__ + pgp181__91__c__93__ --> pg181__91__c__93__ + pi__91__c__93__PGPP180 : h2o__91__c__93__ + pgp180__91__c__93__ --> pg180__91__c__93__ + pi__91__c__93__PGPP140 : h2o__91__c__93__ + pgp140__91__c__93__ --> pg140__91__c__93__ + pi__91__c__93__PGPP120 : h2o__91__c__93__ + pgp120__91__c__93__ --> pg120__91__c__93__ + pi__91__c__93__PGPPAI17 : h2o__91__c__93__ + pgpai17__91__c__93__ --> pgai17__91__c__93__ + pi__91__c__93__PGPP160 : h2o__91__c__93__ + pgp160__91__c__93__ --> pg160__91__c__93__ + pi__91__c__93__PGPPI16 : h2o__91__c__93__ + pgpi16__91__c__93__ --> pgi16__91__c__93__ + pi__91__c__93__
+
+70. Gene 1089456__46__5__46__peg__46__5510 inibido.
+PNTK : atp__91__c__93__ + pnto_R__91__c__93__ --> 4ppan__91__c__93__ + adp__91__c__93__ + h__91__c__93__
+
+71. Gene 1089456__46__5__46__peg__46__5988 inibido.
+PPBNGS : 2.0 5aop__91__c__93__ --> 2.0 h2o__91__c__93__ + h__91__c__93__ + ppbng__91__c__93__
+
+72. Gene 1089456__46__5__46__peg__46__6068 inibido.
+PPNCL3 : 4ppan__91__c__93__ + atp__91__c__93__ + cys_L__91__c__93__ --> 4ppcys__91__c__93__ + amp__91__c__93__ + h__91__c__93__ + ppi__91__c__93__r0671 : 4ppan__91__c__93__ + ctp__91__c__93__ + cys_L__91__c__93__ --> 4ppcys__91__c__93__ + cmp__91__c__93__ + h__91__c__93__ + ppi__91__c__93__PPCDC : 4ppcys__91__c__93__ + h__91__c__93__ --> co2__91__c__93__ + pan4p__91__c__93__
+
+73. Gene 1089456__46__5__46__peg__46__913 inibido.
+PRPPS : atp__91__c__93__ + r5p__91__c__93__ --> amp__91__c__93__ + h__91__c__93__ + prpp__91__c__93__
+
+74. Gene 1089456__46__5__46__peg__46__568 inibido.
+PSDI15 : h__91__c__93__ + psi15__91__c__93__ --> co2__91__c__93__ + pei15__91__c__93__PSD120 : h__91__c__93__ + ps120__91__c__93__ --> co2__91__c__93__ + pe120__91__c__93__PSDAI17 : h__91__c__93__ + psai17__91__c__93__ --> co2__91__c__93__ + peai17__91__c__93__PSDI16 : h__91__c__93__ + psi16__91__c__93__ --> co2__91__c__93__ + pei16__91__c__93__PSD140 : h__91__c__93__ + ps140__91__c__93__ --> co2__91__c__93__ + pe140__91__c__93__PSDI17 : h__91__c__93__ + psi17__91__c__93__ --> co2__91__c__93__ + pei17__91__c__93__PSD141 : h__91__c__93__ + ps141__91__c__93__ --> co2__91__c__93__ + pe141__91__c__93__PSD161 : h__91__c__93__ + ps161__91__c__93__ --> co2__91__c__93__ + pe161__91__c__93__PSD180 : h__91__c__93__ + ps180__91__c__93__ --> co2__91__c__93__ + pe180__91__c__93__PSD181 : h__91__c__93__ + ps181__91__c__93__ --> co2__91__c__93__ + pe181__91__c__93__PSDAI15 : h__91__c__93__ + psai15__91__c__93__ --> co2__91__c__93__ + peai15__91__c__93__PSDI14 : h__91__c__93__ + psi14__91__c__93__ --> co2__91__c__93__ + pei14__91__c__93__PSD160 : h__91__c__93__ + ps160__91__c__93__ --> co2__91__c__93__ + pe160__91__c__93__
+
+75. Gene 1089456__46__5__46__peg__46__889 inibido.
+PSSAI16 : cdpdihdecg__91__c__93__ + ser_L__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + psi16__91__c__93__PSSA141 : cdpdtdec7eg__91__c__93__ + ser_L__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + ps141__91__c__93__PSSA160 : cdpdhdecg__91__c__93__ + ser_L__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + ps160__91__c__93__PSSA180 : cdpdodecg__91__c__93__ + ser_L__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + ps180__91__c__93__PSSAAI15 : cdpdaipdecg__91__c__93__ + ser_L__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + psai15__91__c__93__PSSAI17 : cdpdihpdecg__91__c__93__ + ser_L__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + psi17__91__c__93__PSSA181 : cdpdodec11eg__91__c__93__ + ser_L__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + ps181__91__c__93__PSSA140 : cdpdtdecg__91__c__93__ + ser_L__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + ps140__91__c__93__PSSAAI17 : cdpdaihpdecg__91__c__93__ + ser_L__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + psai17__91__c__93__PSSAI15 : cdpdipdecg__91__c__93__ + ser_L__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + psi15__91__c__93__PSSA120 : cdpdddecg__91__c__93__ + ser_L__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + ps120__91__c__93__PSSAI14 : cdpditdecg__91__c__93__ + ser_L__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + psi14__91__c__93__PSSA161 : cdpdhdec9eg__91__c__93__ + ser_L__91__c__93__ --> cmp__91__c__93__ + h__91__c__93__ + ps161__91__c__93__
+
+76. Gene 1089456__46__5__46__peg__46__5819 inibido.
+PTPAT : atp__91__c__93__ + h__91__c__93__ + pan4p__91__c__93__ --> dpcoa__91__c__93__ + ppi__91__c__93__
+
+77. Gene 1089456__46__5__46__peg__46__5238 inibido.
+RBFSa : 4r5au__91__c__93__ + db4p__91__c__93__ --> dmlz__91__c__93__ + 2.0 h2o__91__c__93__ + pi__91__c__93__
+
+78. Gene 1089456__46__5__46__peg__46__5240 inibido.
+RBFSb : 2.0 dmlz__91__c__93__ --> 4r5au__91__c__93__ + ribflv__91__c__93__
+
+79. Gene 1089456__46__5__46__peg__46__2145 inibido.
+RZ5PP : 5prdmbz__91__c__93__ + h2o__91__c__93__ --> pi__91__c__93__ + rdmbzi__91__c__93__
+
+80. Gene 1089456__46__5__46__peg__46__1170 inibido.
+S7PIr : s7p__91__c__93__ --> gmhep7p__91__c__93__
+
+81. Gene 1089456__46__5__46__peg__46__2017 inibido.
+SDPDS : h2o__91__c__93__ + sl26da__91__c__93__ --> 26dap_LL__91__c__93__ + succ__91__c__93__
+
+82. Gene 1089456__46__5__46__peg__46__3614 inibido.
+SHCHF : fe2__91__c__93__ + scl__91__c__93__ --> 3.0 h__91__c__93__ + sheme__91__c__93__SHCHD2 : dscl__91__c__93__ + nad__91__c__93__ --> h__91__c__93__ + nadh__91__c__93__ + scl__91__c__93__UPP3MT : 2.0 amet__91__c__93__ + uppg3__91__c__93__ --> 2.0 ahcys__91__c__93__ + dscl__91__c__93__ + h__91__c__93__
+
+83. Gene 1089456__46__5__46__peg__46__477 inibido.
+SHKK : atp__91__c__93__ + skm__91__c__93__ --> adp__91__c__93__ + h__91__c__93__ + skm5p__91__c__93__
+
+84. Gene 1089456__46__5__46__peg__46__2461 inibido.
+SUCOAS : atp__91__c__93__ + coa__91__c__93__ + succ__91__c__93__ --> adp__91__c__93__ + pi__91__c__93__ + succoa__91__c__93__
+
+85. Gene 1089456__46__5__46__peg__46__2462 inibido.
+SUCOAS : atp__91__c__93__ + coa__91__c__93__ + succ__91__c__93__ --> adp__91__c__93__ + pi__91__c__93__ + succoa__91__c__93__
+
+86. Gene 1089456__46__5__46__peg__46__5902 inibido.
+TDPDRE : dtdp4d6dg__91__c__93__ --> dtdp4d6dm__91__c__93__
+
+87. Gene 1089456__46__5__46__peg__46__5899 inibido.
+TDPGDH : dtdpglu__91__c__93__ --> dtdp4d6dg__91__c__93__ + h2o__91__c__93__
+
+88. Gene 1089456__46__5__46__peg__46__4086 inibido.
+TDSK : atp__91__c__93__ + lipidAds__91__c__93__ --> adp__91__c__93__ + h__91__c__93__ + lipidA__91__c__93__
+
+89. Gene 1089456__46__5__46__peg__46__4778 inibido.
+THDPS : h2o__91__c__93__ + succoa__91__c__93__ + thdp__91__c__93__ --> coa__91__c__93__ + sl2a6o__91__c__93__
+
+90. Gene 1089456__46__5__46__peg__46__5842 inibido.
+TMDS : dump__91__c__93__ + mlthf__91__c__93__ --> dhf__91__c__93__ + dtmp__91__c__93__
+
+91. Gene 1089456__46__5__46__peg__46__5236 inibido.
+TMPK : atp__91__c__93__ + thmmp__91__c__93__ --> adp__91__c__93__ + thmpp__91__c__93__
+
+92. Gene 1089456__46__5__46__peg__46__4758 inibido.
+U23GAAT : 3hmrsACP__91__c__93__ + u3hga__91__c__93__ --> ACP__91__c__93__ + h__91__c__93__ + u23ga__91__c__93__
+
+93. Gene 1089456__46__5__46__peg__46__1178 inibido.
+UAAGDS : 26dap_M__91__c__93__ + atp__91__c__93__ + uamag__91__c__93__ --> adp__91__c__93__ + h__91__c__93__ + pi__91__c__93__ + ugmd__91__c__93__
+
+94. Gene 1089456__46__5__46__peg__46__4756 inibido.
+UAGAAT : 3hmrsACP__91__c__93__ + uacgam__91__c__93__ --> ACP__91__c__93__ + u3aga__91__c__93__
+
+95. Gene 1089456__46__5__46__peg__46__1144 inibido.
+UAGCVT_r : pep__91__c__93__ + uacgam__91__c__93__ --> pi__91__c__93__ + uaccg__91__c__93__
+
+96. Gene 1089456__46__5__46__peg__46__1183 inibido.
+UAGPT2 : uaGgla__91__c__93__ + uacgam__91__c__93__ --> h__91__c__93__ + uaaGgla__91__c__93__ + udp__91__c__93__UAGPT3 : uacgam__91__c__93__ + uagmda__91__c__93__ --> h__91__c__93__ + uaagmda__91__c__93__ + udp__91__c__93__
+
+97. Gene 1089456__46__5__46__peg__46__1181 inibido.
+UAMAGS : atp__91__c__93__ + glu_D__91__c__93__ + uama__91__c__93__ --> adp__91__c__93__ + h__91__c__93__ + pi__91__c__93__ + uamag__91__c__93__
+
+98. Gene 1089456__46__5__46__peg__46__1184 inibido.
+UAMAS : ala_L__91__c__93__ + atp__91__c__93__ + uamr__91__c__93__ --> adp__91__c__93__ + h__91__c__93__ + pi__91__c__93__ + uama__91__c__93__
+
+99. Gene 1089456__46__5__46__peg__46__4082 inibido.
+UAPGR : h__91__c__93__ + nadph__91__c__93__ + uaccg__91__c__93__ --> nadp__91__c__93__ + uamr__91__c__93__
+
+100. Gene 1089456__46__5__46__peg__46__2858 inibido.
+UDCPDP : h2o__91__c__93__ + udcpdp__91__c__93__ --> h__91__c__93__ + pi__91__c__93__ + udcpp__91__c__93__
+
+101. Gene 1089456__46__5__46__peg__46__1179 inibido.
+UGMDDS : alaala__91__c__93__ + atp__91__c__93__ + ugmd__91__c__93__ --> adp__91__c__93__ + h__91__c__93__ + pi__91__c__93__ + ugmda__91__c__93__
+
+102. Gene 1089456__46__5__46__peg__46__1189 inibido.
+UHGADA : h2o__91__c__93__ + u3aga__91__c__93__ --> ac__91__c__93__ + u3hga__91__c__93__
+
+103. Gene 1089456__46__5__46__peg__46__4766 inibido.
+UMPK : atp__91__c__93__ + ump__91__c__93__ --> adp__91__c__93__ + udp__91__c__93__URIDK3 : atp__91__c__93__ + dump__91__c__93__ --> adp__91__c__93__ + dudp__91__c__93__
+
+104. Gene 1089456__46__5__46__peg__46__2 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+105. Gene 1089456__46__5__46__peg__46__2395 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+106. Gene 1089456__46__5__46__peg__46__2397 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+107. Gene 1089456__46__5__46__peg__46__2400 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+108. Gene 1089456__46__5__46__peg__46__4 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+109. Gene 1089456__46__5__46__peg__46__4064 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+110. Gene 1089456__46__5__46__peg__46__4117 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+111. Gene 1089456__46__5__46__peg__46__4260 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+112. Gene 1089456__46__5__46__peg__46__4294 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+113. Gene 1089456__46__5__46__peg__46__4295 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+114. Gene 1089456__46__5__46__peg__46__466 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+115. Gene 1089456__46__5__46__peg__46__5173 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+116. Gene 1089456__46__5__46__peg__46__5463 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+117. Gene 1089456__46__5__46__peg__46__557 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+118. Gene 1089456__46__5__46__peg__46__5587 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+119. Gene 1089456__46__5__46__peg__46__560 inibido.
+dreplication :  --> dnarep__91__c__93__
+
+120. Gene 1089456__46__5__46__peg__46__1024 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+121. Gene 1089456__46__5__46__peg__46__1025 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+122. Gene 1089456__46__5__46__peg__46__1029 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+123. Gene 1089456__46__5__46__peg__46__1032 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+124. Gene 1089456__46__5__46__peg__46__1109 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+125. Gene 1089456__46__5__46__peg__46__1110 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+126. Gene 1089456__46__5__46__peg__46__1111 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+127. Gene 1089456__46__5__46__peg__46__1156 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+128. Gene 1089456__46__5__46__peg__46__1162 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+129. Gene 1089456__46__5__46__peg__46__1163 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+130. Gene 1089456__46__5__46__peg__46__1668 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+131. Gene 1089456__46__5__46__peg__46__17 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+132. Gene 1089456__46__5__46__peg__46__1752 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+133. Gene 1089456__46__5__46__peg__46__2681 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+134. Gene 1089456__46__5__46__peg__46__3615 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+135. Gene 1089456__46__5__46__peg__46__3768 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+136. Gene 1089456__46__5__46__peg__46__3769 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+137. Gene 1089456__46__5__46__peg__46__3770 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+138. Gene 1089456__46__5__46__peg__46__3771 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+139. Gene 1089456__46__5__46__peg__46__3773 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+140. Gene 1089456__46__5__46__peg__46__4074 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+141. Gene 1089456__46__5__46__peg__46__4603 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+142. Gene 1089456__46__5__46__peg__46__465 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+143. Gene 1089456__46__5__46__peg__46__4750 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+144. Gene 1089456__46__5__46__peg__46__4768 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+145. Gene 1089456__46__5__46__peg__46__4812 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+146. Gene 1089456__46__5__46__peg__46__4855 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+147. Gene 1089456__46__5__46__peg__46__4858 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+148. Gene 1089456__46__5__46__peg__46__4971 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+149. Gene 1089456__46__5__46__peg__46__5004 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+150. Gene 1089456__46__5__46__peg__46__5171 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+151. Gene 1089456__46__5__46__peg__46__5468 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+152. Gene 1089456__46__5__46__peg__46__5470 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+153. Gene 1089456__46__5__46__peg__46__5471 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+154. Gene 1089456__46__5__46__peg__46__5472 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+155. Gene 1089456__46__5__46__peg__46__5475 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+156. Gene 1089456__46__5__46__peg__46__5476 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+157. Gene 1089456__46__5__46__peg__46__5477 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+158. Gene 1089456__46__5__46__peg__46__5478 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+159. Gene 1089456__46__5__46__peg__46__5479 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+160. Gene 1089456__46__5__46__peg__46__5480 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+161. Gene 1089456__46__5__46__peg__46__5481 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+162. Gene 1089456__46__5__46__peg__46__5482 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+163. Gene 1089456__46__5__46__peg__46__5483 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+164. Gene 1089456__46__5__46__peg__46__5484 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+165. Gene 1089456__46__5__46__peg__46__5485 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+166. Gene 1089456__46__5__46__peg__46__5486 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+167. Gene 1089456__46__5__46__peg__46__5487 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+168. Gene 1089456__46__5__46__peg__46__5488 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+169. Gene 1089456__46__5__46__peg__46__5489 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+170. Gene 1089456__46__5__46__peg__46__5490 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+171. Gene 1089456__46__5__46__peg__46__5491 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+172. Gene 1089456__46__5__46__peg__46__5492 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+173. Gene 1089456__46__5__46__peg__46__5493 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+174. Gene 1089456__46__5__46__peg__46__5494 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+175. Gene 1089456__46__5__46__peg__46__5495 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+176. Gene 1089456__46__5__46__peg__46__5498 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+177. Gene 1089456__46__5__46__peg__46__5499 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+178. Gene 1089456__46__5__46__peg__46__5502 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+179. Gene 1089456__46__5__46__peg__46__5503 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+180. Gene 1089456__46__5__46__peg__46__5504 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+181. Gene 1089456__46__5__46__peg__46__5585 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+182. Gene 1089456__46__5__46__peg__46__590 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+183. Gene 1089456__46__5__46__peg__46__591 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+184. Gene 1089456__46__5__46__peg__46__593 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+185. Gene 1089456__46__5__46__peg__46__6063 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+186. Gene 1089456__46__5__46__peg__46__6064 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+187. Gene 1089456__46__5__46__peg__46__795 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+188. Gene 1089456__46__5__46__peg__46__8 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+189. Gene 1089456__46__5__46__peg__46__9 inibido.
+pbiosynthesis :  --> proteinsynth__91__c__93__
+
+190. Gene 1089456__46__5__46__peg__46__4576 inibido.
+rtranscription :  --> rnatrans__91__c__93__
+
+191. Gene 1089456__46__5__46__peg__46__4856 inibido.
+rtranscription :  --> rnatrans__91__c__93__
+
+192. Gene 1089456__46__5__46__peg__46__5469 inibido.
+rtranscription :  --> rnatrans__91__c__93__
+
+193. Gene 1089456__46__5__46__peg__46__5500 inibido.
+rtranscription :  --> rnatrans__91__c__93__
+
+194. Gene 1089456__46__5__46__peg__46__5501 inibido.
+rtranscription :  --> rnatrans__91__c__93__
+
+195. Gene 1089456__46__5__46__peg__46__5580 inibido.
+rtranscription :  --> rnatrans__91__c__93__
+
+196. Gene 1089456__46__5__46__peg__46__5589 inibido.
+rtranscription :  --> rnatrans__91__c__93__
+
+197. Gene 1089456__46__5__46__peg__46__6335 inibido.
+rtranscription :  --> rnatrans__91__c__93__
+
+198. Gene 1089456__46__5__46__peg__46__791 inibido.
+rtranscription :  --> rnatrans__91__c__93__
+
+Total de genes inibidos que interrompem a geracao de biomassa = 198

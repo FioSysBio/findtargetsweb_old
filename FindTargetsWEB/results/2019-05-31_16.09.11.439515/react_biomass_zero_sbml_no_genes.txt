@@ -1,0 +1,244 @@
+Acetyl-CoA + ATP + Bicarbonate --> ADP + H+ + Malonyl-CoA + Phosphate
+N-Acetyl-L-glutamate + ATP --> N-Acetyl-L-glutamyl 5-phosphate + ADP
+2-Oxobutanoate + H+ + Pyruvate --> (S)-2-Aceto-2-hydroxybutanoate + CO2
+H+ + 2.0 Pyruvate --> (S)-2-Acetolactate + CO2
+N2-Acetyl-L-ornithine + 2-Oxoglutarate --> N-Acetyl-L-glutamate 5-semialdehyde + L-Glutamate
+4-amino-4-deoxychorismate --> 4-Aminobenzoate + H+ + Pyruvate
+chorismate + L-Glutamine --> 4-amino-4-deoxychorismate + L-Glutamate
+AMP + ATP --> 2.0 ADP
+dAMP + dATP --> 2.0 dADP
+S-Adenosyl-L-methionine + H+ --> S-Adenosylmethioninamine + CO2
+Adenine + 5-Phospho-alpha-D-ribose 1-diphosphate --> AMP + Diphosphate
+Adenosine 5'-phosphosulfate + ATP --> ADP + H+ + 3'-Phosphoadenylyl sulfate
+N6-(1,2-Dicarboxyethyl)-AMP --> AMP + Fumarate
+(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate --> 5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide + Fumarate
+L-Aspartate + GTP + IMP --> N6-(1,2-Dicarboxyethyl)-AMP + GDP + 2.0 H+ + Phosphate
+N-Acetyl-L-glutamate 5-semialdehyde + Nicotinamide adenine dinucleotide phosphate + Phosphate --> N-Acetyl-L-glutamyl 5-phosphate + H+ + Nicotinamide adenine dinucleotide phosphate - reduced
+10-Formyltetrahydrofolate + 5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide --> 5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide + 5,6,7,8-Tetrahydrofolate
+5-amino-1-(5-phospho-D-ribosyl)imidazole + ATP + Bicarbonate --> 5-phosphoribosyl-5-carboxyaminoimidazole + ADP + H+ + Phosphate
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate --> 5-phosphoribosyl-5-carboxyaminoimidazole
+2-Oxoglutarate + H+ + Lipoamide --> CO2 + S-Succinyldihydrolipoamide
+Coenzyme A + S-Succinyldihydrolipoamide --> Dihydrolipoamide + Succinyl-CoA
+L-Alanine --> D-Alanine
+2-Oxoglutarate + D-Alanine --> D-Glutamate + Pyruvate
+Anthranilate + 5-Phospho-alpha-D-ribose 1-diphosphate --> Diphosphate + N-(5-Phospho-D-ribosyl)anthranilate
+chorismate + L-Glutamine --> Anthranilate + L-Glutamate + H+ + Pyruvate
+5-Amino-6-(5'-phosphoribosylamino)uracil + H+ + Nicotinamide adenine dinucleotide phosphate - reduced --> 5-Amino-6-(5'-phosphoribitylamino)uracil + Nicotinamide adenine dinucleotide phosphate
+L-Aspartate 4-semialdehyde + Nicotinamide adenine dinucleotide phosphate + Phosphate --> 4-Phospho-L-aspartate + H+ + Nicotinamide adenine dinucleotide phosphate - reduced
+L-Aspartate + ATP + L-Glutamine + H2O --> AMP + L-Asparagine + L-Glutamate + H+ + Diphosphate
+L-Aspartate + ATP --> 4-Phospho-L-aspartate + ADP
+2-Oxoglutarate + L-Aspartate --> L-Glutamate + Oxaloacetate
+ATP + 5-Phospho-alpha-D-ribose 1-diphosphate --> Diphosphate + 1-(5-Phosphoribosyl)-ATP
+H2O + Adenosine 3',5'-bisphosphate --> AMP + Phosphate
+chorismate --> Prephenate
+5-O-(1-Carboxyvinyl)-3-phosphoshikimate --> chorismate + Phosphate
+0.04 Phosphatidylglycerol (Saureus) --> 0.02 Cardiolipin (Saureus) + Glycerol
+CO2 --> CO2
+Coproporphyrinogen III + 2.0 H+ + O2 --> 2.0 CO2 + 2.0 H2O + Protoporphyrinogen IX
+Cytosine + H+ --> Cytosine + H+
+O-Acetyl-L-serine + Hydrogen sulfide --> Acetate + L-Cysteine + H+
+L-Cystathionine + H2O --> L-Homocysteine + Ammonium + Pyruvate
+2.0 H+ + 0.5 O2 + Ubiquinol-8 --> H2O + 2.0 H+ + Ubiquinone-8
+Cytidine + H2O + H+ --> Ammonium + Uridine
+ATP + CMP --> ADP + CDP
+meso-2,6-Diaminoheptanedioate + H+ --> CO2 + L-Lysine
+LL-2,6-Diaminoheptanedioate --> meso-2,6-Diaminoheptanedioate
+CTP + H+ + 0.02 phosphatidate (Saureus) --> 0.02 CDPdiacylglycerol (Saureus) + Diphosphate
+D-Ribulose 5-phosphate --> 3,4-dihydroxy-2-butanone 4-phosphate + Formate + H+
+D-Erythrose 4-phosphate + H2O + Phosphoenolpyruvate --> 2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate + Phosphate
+ATP + dGMP --> ADP + dGDP
+(R)-2,3-Dihydroxy-3-methylbutanoate --> 3-Methyl-2-oxobutanoate + H2O
+(R)-2,3-Dihydroxy-3-methylpentanoate --> (S)-3-Methyl-2-oxopentanoate + H2O
+2,3-Dihydrodipicolinate + H+ + Nicotinamide adenine dinucleotide phosphate - reduced --> Nicotinamide adenine dinucleotide phosphate + 2,3,4,5-Tetrahydrodipicolinate
+L-Aspartate 4-semialdehyde + Pyruvate --> 2,3-Dihydrodipicolinate + 2.0 H2O + H+
+7,8-Dihydrofolate + H+ + Nicotinamide adenine dinucleotide phosphate - reduced --> Nicotinamide adenine dinucleotide phosphate + 5,6,7,8-Tetrahydrofolate
+ATP + Dihydropteroate + L-Glutamate --> ADP + 7,8-Dihydrofolate + H+ + Phosphate
+Dihydroneopterin --> 6-hydroxymethyl dihydropterin + Glycolaldehyde
+2,5-Diamino-6-hydroxy-4-(5'-phosphoribosylamino)-pyrimidine + H2O + H+ --> 5-Amino-6-(5'-phosphoribosylamino)uracil + Ammonium
+4-Aminobenzoate + 6-hydroxymethyl-dihydropterin pyrophosphate --> Dihydropteroate + Diphosphate
+3-Dehydroquinate --> 3-Dehydroshikimate + H2O
+2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate --> 3-Dehydroquinate + Phosphate
+Dimethylallyl diphosphate + Isopentenyl diphosphate --> Geranyl diphosphate + Diphosphate
+(R)-5-Diphosphomevalonate + ATP --> ADP + CO2 + Isopentenyl diphosphate + Phosphate
+CO2 --> 
+Cytosine --> 
+Fe2+ --> 
+Nicotinate --> 
+O2 --> 
+Phosphate --> 
+L-Proline --> 
+Sulfate --> 
+Thiamin --> 
+Fe2+ + Protoporphyrin --> 2.0 H+ + Protoheme
+ATP + Fe2+ + H2O --> ADP + Fe2+ + H+ + Phosphate
+ATP + FMN + H+ --> Flavin adenine dinucleotide oxidized + Diphosphate
+Fumarate + H2O --> L-Malate
+Acetyl-CoA + D-Glucosamine 1-phosphate --> N-Acetyl-D-glucosamine 1-phosphate + Coenzyme A + H+
+L-Glutamate 1-semialdehyde --> 5-Amino-4-oxopentanoate
+CTP + Glycerol 3-phosphate + H+ --> CDPglycerol + Diphosphate
+Glycerol 3-phosphate + Nicotinamide adenine dinucleotide phosphate --> Dihydroxyacetone phosphate + H+ + Nicotinamide adenine dinucleotide phosphate - reduced
+D-Glucose 1-phosphate + H+ + UTP --> Diphosphate + UDPglucose
+10-Formyltetrahydrofolate + N1-(5-Phospho-D-ribosyl)glycinamide --> N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide + H+ + 5,6,7,8-Tetrahydrofolate
+Glycolaldehyde + H2O + Nicotinamide adenine dinucleotide --> Glycolate + 2.0 H+ + Nicotinamide adenine dinucleotide - reduced
+D-Fructose 6-phosphate + L-Glutamine --> D-Glucosamine 6-phosphate + L-Glutamate
+ATP + GMP --> ADP + GDP
+2.0 glycerol teichoic acid (n=25), unlinked, unsubstituted + 2.0 glycerol teichoic acid (n=25), unlinked, D-ala substituted + 2.0 glycerol teichoic acid (n=25), unlinked, glucose substituted --> Glucosyl Phosphoglycerol (SA)
+ATP + L-Glutamate + Ammonium --> ADP + L-Glutamine + H+ + Phosphate
+L-Glutamine + H2O + 5-Phospho-alpha-D-ribose 1-diphosphate --> L-Glutamate + Diphosphate + 5-Phospho-beta-D-ribosylamine
+D-Glutamate --> L-Glutamate
+L-Glutamyl-tRNA(Glu) + H+ + Nicotinamide adenine dinucleotide phosphate - reduced --> L-Glutamate 1-semialdehyde + Nicotinamide adenine dinucleotide phosphate + tRNA (Glu)
+ATP + L-Glutamate + tRNA (Glu) --> AMP + L-Glutamyl-tRNA(Glu) + Diphosphate
+ATP + L-Glutamine + H2O + Xanthosine 5'-phosphate --> AMP + L-Glutamate + GMP + 2.0 H+ + Diphosphate
+Geranyl diphosphate + Isopentenyl diphosphate --> Farnesyl diphosphate + Diphosphate
+GTP + H2O --> 2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate + Formate + H+
+GTP + 3.0 H2O --> 2,5-Diamino-6-hydroxy-4-(5'-phosphoribosylamino)-pyrimidine + Formate + 2.0 H+ + Diphosphate
+CO2 + H2O --> H+ + Bicarbonate
+Farnesyl diphosphate + H2O + Protoheme --> Heme O + Diphosphate
+H2O + L-Histidinol + 2.0 Nicotinamide adenine dinucleotide --> 3.0 H+ + L-Histidine + 2.0 Nicotinamide adenine dinucleotide - reduced
+H2O + L-Histidinol phosphate --> L-Histidinol + Phosphate
+H2O + 4.0 Porphobilinogen --> Hydroxymethylbilane + 4.0 Ammonium
+2.0 H+ + Hydroxymethylglutaryl-CoA + 2.0 Nicotinamide adenine dinucleotide phosphate - reduced --> Coenzyme A + (R)-Mevalonate + 2.0 Nicotinamide adenine dinucleotide phosphate
+Acetoacetyl-CoA + Acetyl-CoA + H2O --> Coenzyme A + H+ + Hydroxymethylglutaryl-CoA
+6-hydroxymethyl dihydropterin + ATP --> 6-hydroxymethyl-dihydropterin pyrophosphate + AMP + H+
+L-Homoserine + Nicotinamide adenine dinucleotide phosphate --> L-Aspartate 4-semialdehyde + H+ + Nicotinamide adenine dinucleotide phosphate - reduced
+ATP + L-Homoserine --> ADP + H+ + O-Phospho-L-homoserine
+L-Glutamate + 3-(Imidazol-4-yl)-2-oxopropyl phosphate --> 2-Oxoglutarate + L-Histidinol phosphate
+L-Glutamine + 5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide --> 5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide + D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate + L-Glutamate + H+
+D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate --> H2O + 3-(Imidazol-4-yl)-2-oxopropyl phosphate
+1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate + H+ --> C'-(3-Indolyl)-glycerol 3-phosphate + CO2 + H2O
+2-Oxoglutarate + L-Isoleucine --> (S)-3-Methyl-2-oxopentanoate + L-Glutamate
+H2O + IMP --> 5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide
+H2O + IMP + Nicotinamide adenine dinucleotide --> H+ + Nicotinamide adenine dinucleotide - reduced + Xanthosine 5'-phosphate
+Isopentenyl diphosphate --> Dimethylallyl diphosphate
+3-Carboxy-2-hydroxy-4-methylpentanoate + Nicotinamide adenine dinucleotide --> 3-Carboxy-4-methyl-2-oxopentanoate + H+ + Nicotinamide adenine dinucleotide - reduced
+3-Carboxy-2-hydroxy-4-methylpentanoate --> 2-Isopropylmaleate + H2O
+2-Isopropylmaleate + H2O --> 3-Carboxy-3-hydroxy-4-methylpentanoate
+3-Methyl-2-oxobutanoate + Acetyl-CoA + H2O --> 3-Carboxy-3-hydroxy-4-methylpentanoate + Coenzyme A + H+
+(S)-2-Acetolactate + H+ + Nicotinamide adenine dinucleotide phosphate - reduced --> (R)-2,3-Dihydroxy-3-methylbutanoate + Nicotinamide adenine dinucleotide phosphate
+(S)-2-Aceto-2-hydroxybutanoate + H+ + Nicotinamide adenine dinucleotide phosphate - reduced --> (R)-2,3-Dihydroxy-3-methylpentanoate + Nicotinamide adenine dinucleotide phosphate
+14.0 H+ + Isobutyryl-CoA + 5.0 Malonyl-CoA + 10.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 5.0 CO2 + 6.0 Coenzyme A + Fatty acid (Iso-C14:0) + 4.0 H2O + 10.0 Nicotinamide adenine dinucleotide phosphate
+17.0 H+ + Isovaleryl-CoA + 6.0 Malonyl-CoA + 12.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 6.0 CO2 + 7.0 Coenzyme A + Fatty acid (Iso-C17:0) + 5.0 H2O + 12.0 Nicotinamide adenine dinucleotide phosphate
+2-Methylbutanoyl-CoA + 17.0 H+ + 6.0 Malonyl-CoA + 12.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 6.0 CO2 + 7.0 Coenzyme A + Fatty acid (Anteiso-C17:0) + 5.0 H2O + 12.0 Nicotinamide adenine dinucleotide phosphate
+Acetyl-CoA + 23.0 H+ + 8.0 Malonyl-CoA + 16.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 8.0 CO2 + 9.0 Coenzyme A + 7.0 H2O + 16.0 Nicotinamide adenine dinucleotide phosphate + octadecanoate (n-C18:0)
+2-Methylbutanoyl-CoA + 20.0 H+ + 7.0 Malonyl-CoA + 14.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 7.0 CO2 + 8.0 Coenzyme A + Fatty Acid (Anteiso-C19:0) + 6.0 H2O + 14.0 Nicotinamide adenine dinucleotide phosphate
+Acetyl-CoA + 17.0 H+ + 6.0 Malonyl-CoA + 12.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 6.0 CO2 + 7.0 Coenzyme A + 5.0 H2O + 12.0 Nicotinamide adenine dinucleotide phosphate + tetradecanoate (n-C14:0)
+Acetyl-CoA + 26.0 H+ + 9.0 Malonyl-CoA + 18.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 9.0 CO2 + 10.0 Coenzyme A + Fatty Acid (C20:0) + 8.0 H2O + 18.0 Nicotinamide adenine dinucleotide phosphate
+14.0 H+ + Isovaleryl-CoA + 5.0 Malonyl-CoA + 10.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 5.0 CO2 + 6.0 Coenzyme A + Fatty acid (Iso-C15:0) + 4.0 H2O + 10.0 Nicotinamide adenine dinucleotide phosphate
+2-Methylbutanoyl-CoA + 14.0 H+ + 5.0 Malonyl-CoA + 10.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 5.0 CO2 + 6.0 Coenzyme A + Fatty acid (Anteiso-C15:0) + 4.0 H2O + 10.0 Nicotinamide adenine dinucleotide phosphate
+17.0 H+ + Isobutyryl-CoA + 6.0 Malonyl-CoA + 12.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 6.0 CO2 + 7.0 Coenzyme A + Fatty acid (iso-C16:0) + 5.0 H2O + 12.0 Nicotinamide adenine dinucleotide phosphate
+Acetyl-CoA + 20.0 H+ + 7.0 Malonyl-CoA + 14.0 Nicotinamide adenine dinucleotide phosphate - reduced --> 7.0 CO2 + 8.0 Coenzyme A + 6.0 H2O + Hexadecanoate (n-C16:0) + 14.0 Nicotinamide adenine dinucleotide phosphate
+2-Oxoglutarate + L-Leucine --> 4-Methyl-2-oxopentanoate + L-Glutamate
+5-Methylthio-5-deoxy-D-ribulose 1-phosphate --> 2,3-diketo-5-methylthio-1-phosphopentane + H2O
+ATP + H2O + L-Methionine --> S-Adenosyl-L-methionine + Phosphate + Diphosphate
+5-Methyltetrahydrofolate + L-Homocysteine --> H+ + L-Methionine + 5,6,7,8-Tetrahydrofolate
+5-Methylthioadenosine + H2O --> 5-Methylthio-D-ribose + Adenine
+2.0 H+ + 5,10-Methylenetetrahydrofolate + Nicotinamide adenine dinucleotide - reduced --> 5-Methyltetrahydrofolate + Nicotinamide adenine dinucleotide
+5-Methylthio-5-deoxy-D-ribose 1-phosphate --> 5-Methylthio-5-deoxy-D-ribulose 1-phosphate
+5-Methylthio-D-ribose + ATP --> 5-Methylthio-5-deoxy-D-ribose 1-phosphate + ADP + H+
+Nicotinate --> Nicotinate
+ATP + Nicotinamide adenine dinucleotide --> ADP + H+ + Nicotinamide adenine dinucleotide phosphate
+ATP + Deamino-NAD+ + Ammonium --> AMP + H+ + Nicotinamide adenine dinucleotide + Diphosphate
+H+ + Nicotinate + 5-Phospho-alpha-D-ribose 1-diphosphate --> Nicotinate D-ribonucleotide + Diphosphate
+ATP + GDP --> ADP + GTP
+ATP + UDP --> ADP + UTP
+ATP + CDP --> ADP + CTP
+ATP + dADP --> ADP + dATP
+ATP + H+ + Nicotinate D-ribonucleotide --> Deamino-NAD+ + Diphosphate
+O2 --> O2
+Carbamoyl phosphate + Ornithine --> L-Citrulline + H+ + Phosphate
+4-Methyl-2-oxopentanoate + Coenzyme A + Nicotinamide adenine dinucleotide --> CO2 + Isovaleryl-CoA + Nicotinamide adenine dinucleotide - reduced
+3-Methyl-2-oxobutanoate + Coenzyme A + Nicotinamide adenine dinucleotide --> CO2 + Isobutyryl-CoA + Nicotinamide adenine dinucleotide - reduced
+(S)-3-Methyl-2-oxopentanoate + Coenzyme A + Nicotinamide adenine dinucleotide --> 2-Methylbutanoyl-CoA + CO2 + Nicotinamide adenine dinucleotide - reduced
+3-Carboxy-4-methyl-2-oxopentanoate + H+ --> 4-Methyl-2-oxopentanoate + CO2
+N2-Acetyl-L-ornithine + L-Glutamate --> N-Acetyl-L-glutamate + Ornithine
+1-Pyrroline-5-carboxylate + 2.0 H2O + Nicotinamide adenine dinucleotide --> L-Glutamate + H+ + Nicotinamide adenine dinucleotide - reduced
+L-Alanine + 0.02 CDPdiacylglycerol (Saureus) --> CMP + H+ + 0.02 Phosphatidylalanine_SA2
+H2O + 0.02 phosphatidate (Saureus) --> 0.02 1,2-Daicylglycerol (Saureus) + Phosphate
+3'-Phosphoadenylyl sulfate + Reduced thioredoxin --> 2.0 H+ + Adenosine 3',5'-bisphosphate + Sulfite + Oxidized thioredoxin
+0.15 Fatty acid (Iso-C17:0) + 0.35 Fatty acid (Anteiso-C17:0) + 0.186 Fatty Acid (Anteiso-C19:0) + 0.013 Fatty acid (Iso-C14:0) + 0.063 Fatty Acid (C20:0) + 0.169 Fatty acid (Iso-C15:0) + 0.792 Fatty acid (Anteiso-C15:0) + 0.033 Fatty acid (iso-C16:0) + Glycerol 3-phosphate + 0.024 Hexadecanoate (n-C16:0) + 0.116 octadecanoate (n-C18:0) + 0.004 tetradecanoate (n-C14:0) --> 0.02 phosphatidate (Saureus)
+Dihydrolipoamide + Nicotinamide adenine dinucleotide --> H+ + Lipoamide + Nicotinamide adenine dinucleotide - reduced
+D-Glucosamine 1-phosphate --> D-Glucosamine 6-phosphate
+3-Phospho-D-glycerate + Nicotinamide adenine dinucleotide --> 3-Phosphohydroxypyruvate + H+ + Nicotinamide adenine dinucleotide - reduced
+0.02 CDPdiacylglycerol (Saureus) + Glycine --> CMP + H+ + 0.02 Phosphatidylglycine_SA2
+D-Glucose 1-phosphate --> D-Glucose 6-phosphate
+H2O + 0.02 Phosphatidylglycerophosphate (Saureus) --> 0.02 Phosphatidylglycerol (Saureus) + Phosphate
+0.02 CDPdiacylglycerol (Saureus) + Glycerol 3-phosphate --> CMP + H+ + 0.02 Phosphatidylglycerophosphate (Saureus)
+2-Oxoglutarate + L-Phenylalanine --> L-Glutamate + Phenylpyruvate
+0.02 CDPdiacylglycerol (Saureus) + L-Leucine --> CMP + H+ + 0.02 Phosphatidylleucine_SA2
+0.02 CDPdiacylglycerol (Saureus) + L-Lysine --> CMP + H+ + 0.02 Phosphatidyllysine_SA2
+5-Amino-6-(5'-phosphoribitylamino)uracil + H2O --> 4-(1-D-Ribitylamino)-5-aminouracil + Phosphate
+(R)-5-Phosphomevalonate + ATP --> (R)-5-Diphosphomevalonate + ADP
+H2O + Diphosphate --> H+ + 2.0 Phosphate
+2.0 5-Amino-4-oxopentanoate --> 2.0 H2O + H+ + Porphobilinogen
+alpha-D-Ribose 1-phosphate --> alpha-D-Ribose 5-phosphate
+Nicotinamide adenine dinucleotide + Prephenate --> 3-(4-Hydroxyphenyl)pyruvate + CO2 + Nicotinamide adenine dinucleotide - reduced
+H+ + Prephenate --> CO2 + H2O + Phenylpyruvate
+1.5 O2 + Protoporphyrinogen IX --> 3.0 H2O + Protoporphyrin
+ATP + Glycine + 5-Phospho-beta-D-ribosylamine --> ADP + N1-(5-Phospho-D-ribosyl)glycinamide + H+ + Phosphate
+N-(5-Phospho-D-ribosyl)anthranilate --> 1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate
+ATP + 2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine --> ADP + 5-amino-1-(5-phospho-D-ribosyl)imidazole + 2.0 H+ + Phosphate
+H2O + 1-(5-Phosphoribosyl)-AMP --> 1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate + L-Aspartate + ATP --> (S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate + ADP + H+ + Phosphate
+H2O + 1-(5-Phosphoribosyl)-ATP --> H+ + Diphosphate + 1-(5-Phosphoribosyl)-AMP
+ATP + N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide + L-Glutamine + H2O --> ADP + 2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine + L-Glutamate + H+ + Phosphate
+1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide --> 5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide
+Flavin adenine dinucleotide oxidized + L-Proline --> 1-Pyrroline-5-carboxylate + Flavin adenine dinucleotide reduced + H+
+ATP + alpha-D-Ribose 5-phosphate --> AMP + H+ + 5-Phospho-alpha-D-ribose 1-diphosphate
+Phosphoenolpyruvate + Shikimate 5-phosphate --> 5-O-(1-Carboxyvinyl)-3-phosphoshikimate + Phosphate
+H+ + 0.02 phosphatidylserine (Saureus) --> CO2 + 0.02 Phosphatidylethanolamine (Saureus)
+3-Phosphohydroxypyruvate + L-Glutamate --> 2-Oxoglutarate + O-Phospho-L-serine
+H2O + O-Phospho-L-serine --> Phosphate + L-Serine
+0.02 CDPdiacylglycerol (Saureus) + L-Serine --> CMP + H+ + 0.02 phosphatidylserine (Saureus)
+Cytosine + alpha-D-Ribose 1-phosphate --> Cytidine + Phosphate
+ATP + Riboflavin --> ADP + FMN + H+
+4-(1-D-Ribitylamino)-5-aminouracil + 3,4-dihydroxy-2-butanone 4-phosphate --> 6,7-Dimethyl-8-(1-D-ribityl)lumazine + 2.0 H2O + Phosphate
+2.0 6,7-Dimethyl-8-(1-D-ribityl)lumazine --> 4-(1-D-Ribitylamino)-5-aminouracil + Riboflavin
+D-Ribulose 5-phosphate --> D-Xylulose 5-phosphate
+alpha-D-Ribose 5-phosphate --> D-Ribulose 5-phosphate
+ATP + GTP + H2O + Sulfate --> Adenosine 5'-phosphosulfate + GDP + Phosphate + Diphosphate
+7.7 Fatty acid (Iso-C17:0) + 18.1 Fatty acid (Anteiso-C17:0) + 19.3 Fatty acid (Iso-C15:0) + 32.7 Fatty acid (Anteiso-C15:0) + 4.7 Fatty acid (iso-C16:0) + 10.1 Hexadecanoate (n-C16:0) --> SA Free Fatty Acids
+H2O + N-Succinyl-LL-2,6-diaminoheptanedioate --> LL-2,6-Diaminoheptanedioate + Succinate
+2-Oxoglutarate + N-Succinyl-LL-2,6-diaminoheptanedioate --> L-Glutamate + N-Succinyl-2-L-amino-6-oxoheptanedioate
+Acetyl-CoA + L-Serine --> O-Acetyl-L-serine + Coenzyme A
+dihydrosirohydrochlorin + Nicotinamide adenine dinucleotide --> H+ + Nicotinamide adenine dinucleotide - reduced + sirohydrochlorin
+Fe2+ + sirohydrochlorin --> 3.0 H+ + Siroheme
+3-Dehydroshikimate + H+ + Nicotinamide adenine dinucleotide phosphate - reduced --> Nicotinamide adenine dinucleotide phosphate + Shikimate
+ATP + Shikimate --> ADP + H+ + Shikimate 5-phosphate
+L-Cysteine + O-Succinyl-L-homoserine --> L-Cystathionine + H+ + Succinate
+H2O + O-Succinyl-L-homoserine --> 2-Oxobutanoate + H+ + Ammonium + Succinate
+S-Adenosylmethioninamine + Putrescine --> 5-Methylthioadenosine + H+ + Spermidine
+Flavin adenine dinucleotide oxidized + Succinate --> Flavin adenine dinucleotide reduced + Fumarate
+Flavin adenine dinucleotide reduced + Ubiquinone-8 --> Flavin adenine dinucleotide oxidized + Ubiquinol-8
+ATP + Coenzyme A + Succinate --> ADP + Phosphate + Succinyl-CoA
+3.0 H2O + Hydrogen sulfide + 3.0 Nicotinamide adenine dinucleotide phosphate --> 5.0 H+ + 3.0 Nicotinamide adenine dinucleotide phosphate - reduced + Sulfite
+ATP + H2O + Sulfate --> ADP + H+ + Phosphate + Sulfate
+2.0 H2O + UDP-N-acetyl-D-glucosamine --> N-Acetyl-D-glucosamine + 2.0 H+ + Phosphate + UMP
+N-Acetyl-D-glucosamine + 25.0 CDPglycerol + UDP-N-acetyl-D-mannosamine --> 25.0 CMP + glycerol teichoic acid (n=25), unlinked, unsubstituted + 26.0 H+ + UDP
+N-Acetyl-D-glucosamine + 25.0 D-Alanine + 25.0 ATP + 25.0 CDPglycerol + UDP-N-acetyl-D-mannosamine --> 25.0 AMP + 25.0 CMP + glycerol teichoic acid (n=25), unlinked, D-ala substituted + 26.0 H+ + 25.0 Diphosphate + UDP
+N-Acetyl-D-glucosamine + 25.0 CDPglycerol + UDP-N-acetyl-D-mannosamine + 25.0 UDPglucose --> 25.0 CMP + glycerol teichoic acid (n=25), unlinked, glucose substituted + 51.0 H+ + 26.0 UDP
+30.0 H2O + 30.0 UDP-N-acetyl-D-galactosamine + 30.0 UDPglucose --> 60.0 H+ + minor teichoic acid (acetylgalactosamine glucose phosphate, n=30) + 30.0 UDP + 30.0 UMP
+H2O + Succinyl-CoA + 2,3,4,5-Tetrahydrodipicolinate --> Coenzyme A + N-Succinyl-2-L-amino-6-oxoheptanedioate
+ATP + H2O + Thiamin --> ADP + H+ + Phosphate + Thiamin
+L-Threonine --> 2-Oxobutanoate + Ammonium
+H2O + O-Phospho-L-homoserine --> Phosphate + L-Threonine
+D-Erythrose 4-phosphate + D-Xylulose 5-phosphate --> D-Fructose 6-phosphate + Glyceraldehyde 3-phosphate
+dUMP + 5,10-Methylenetetrahydrofolate --> 7,8-Dihydrofolate + dTMP
+H+ + Nicotinamide adenine dinucleotide phosphate - reduced + Oxidized thioredoxin --> Nicotinamide adenine dinucleotide phosphate + Reduced thioredoxin
+C'-(3-Indolyl)-glycerol 3-phosphate + L-Serine --> Glyceraldehyde 3-phosphate + H2O + L-Tryptophan
+2-Oxoglutarate + L-Tyrosine --> 3-(4-Hydroxyphenyl)pyruvate + L-Glutamate
+UDP-N-acetyl-D-glucosamine --> UDP-N-acetyl-D-mannosamine
+UDP-N-acetyl-D-glucosamine --> UDP-N-acetyl-D-galactosamine
+Phosphoenolpyruvate + UDP-N-acetyl-D-glucosamine --> Phosphate + UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine
+N-Acetyl-D-glucosamine 1-phosphate + H+ + UTP --> Diphosphate + UDP-N-acetyl-D-glucosamine
+H+ + Nicotinamide adenine dinucleotide phosphate - reduced + UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine --> Nicotinamide adenine dinucleotide phosphate + UDP-N-acetylmuramate
+1,2-Daicylglycerol (Saureus) + 50.0 UDPglucose --> 3-D-Glucosyl-1,2-diacylglycerol + 50.0 UDP
+3-D-Glucosyl-1,2-diacylglycerol + 50.0 UDPglucose --> Diglucosyl-diacylglycerol (SA) 2 + 50.0 UDP
+ATP + UMP --> ADP + UDP
+2-keto-4-methylthiobutyrate + L-Glutamate --> 2-Oxoglutarate + L-Methionine
+2.0 S-Adenosyl-L-methionine + Uroporphyrinogen III --> 2.0 S-Adenosyl-L-homocysteine + dihydrosirohydrochlorin + H+
+Hydroxymethylbilane --> H2O + Uroporphyrinogen III
+4.0 H+ + Uroporphyrinogen III --> 4.0 CO2 + Coproporphyrinogen III
+2-Oxoglutarate + L-Valine --> 3-Methyl-2-oxobutanoate + L-Glutamate
+0.01 10-Formyltetrahydrofolate + 0.42 1,2-Daicylglycerol (Saureus) + 1.27 LL-2,6-Diaminoheptanedioate + 0.01 SA Free Fatty Acids + 1.22 N-Acetyl-D-glucosamine 1-phosphate + 0.38 N-Acetyl-D-glucosamine + 6.6 L-Alanine + 3.11 AMP + 3.88 L-Arginine + 4.48 L-Asparagine + 4.48 L-Aspartate + 20000.0 ATP + 2.51 Cardiolipin (Saureus) + 2.2 CMP + 0.79 L-Cysteine + 0.76 dAMP + 0.53 dCMP + 0.012068 Diglucosyl-diacylglycerol (SA) 2 + 0.6 dGMP + 0.73 dTMP + 0.01 Flavin adenine dinucleotide oxidized + 0.23 D-Glucosamine 1-phosphate + 5.3 Glucosyl Phosphoglycerol (SA) + 8.72 L-Glutamine + 9.68 L-Glutamate + 3.51 Glycine + 4.01 GMP + 20000.0 H2O + 0.01 Heme O + 1.45 L-Histidine + 4.06 L-Isoleucine + 5.21 L-Leucine + 5.45 L-Lysine + 1.94 L-Methionine + 0.01 5,10-Methylenetetrahydrofolate + 0.01 Nicotinamide adenine dinucleotide + 0.01 Nicotinamide adenine dinucleotide phosphate + 0.01 Phosphatidylalanine_SA2 + 0.89 Phosphatidylethanolamine (Saureus) + 2.31 Phosphatidylglycerol (Saureus) + 0.01 Phosphatidylglycine_SA2 + 3.33 L-Phenylalanine + 0.01 Phosphatidylleucine_SA2 + 0.15 Phosphatidyllysine_SA2 + 2.12 L-Proline + 0.01 Putrescine + 2.6 L-Serine + 0.01 Siroheme + 0.01 Spermidine + 2.86 minor teichoic acid (acetylgalactosamine glucose phosphate, n=30) + 0.01 5,6,7,8-Tetrahydrofolate + 0.01 Thiamin + 2.54 L-Threonine + 1.27 L-Tryptophan + 2.3 L-Tyrosine + 1.78 UDP-N-acetylmuramate + 2.39 UMP + 4.12 L-Valine --> 20000.0 ADP + 20000.0 H+ + 20000.0 Phosphate
+S-Adenosyl-L-homocysteine --> 
+Glycolate --> 

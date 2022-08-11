@@ -1,0 +1,244 @@
+accoa_c + atp_c + hco3_c --> adp_c + h_c + malcoa_c + pi_c
+acglu_c + atp_c --> acg5p_c + adp_c
+2obut_c + h_c + pyr_c --> 2ahbut_c + co2_c
+h_c + 2.0 pyr_c --> alac_DASH_S_c + co2_c
+acorn_c + akg_c --> acg5sa_c + glu_DASH_L_c
+4adcho_c --> 4abz_c + h_c + pyr_c
+chor_c + gln_DASH_L_c --> 4adcho_c + glu_DASH_L_c
+amp_c + atp_c --> 2.0 adp_c
+damp_c + datp_c --> 2.0 dadp_c
+amet_c + h_c --> ametam_c + co2_c
+ade_c + prpp_c --> amp_c + ppi_c
+aps_c + atp_c --> adp_c + h_c + paps_c
+dcamp_c --> amp_c + fum_c
+25aics_c --> aicar_c + fum_c
+asp_DASH_L_c + gtp_c + imp_c --> dcamp_c + gdp_c + 2.0 h_c + pi_c
+acg5sa_c + nadp_c + pi_c --> acg5p_c + h_c + nadph_c
+10fthf_c + aicar_c --> fprica_c + thf_c
+air_c + atp_c + hco3_c --> 5caiz_c + adp_c + h_c + pi_c
+5aizc_c --> 5caiz_c
+akg_c + h_c + lpam_c --> co2_c + sdhlam_c
+coa_c + sdhlam_c --> dhlam_c + succoa_c
+ala_DASH_L_c --> ala_DASH_D_c
+akg_c + ala_DASH_D_c --> glu_DASH_D_c + pyr_c
+anth_c + prpp_c --> ppi_c + pran_c
+chor_c + gln_DASH_L_c --> anth_c + glu_DASH_L_c + h_c + pyr_c
+5apru_c + h_c + nadph_c --> 5aprbu_c + nadp_c
+aspsa_c + nadp_c + pi_c --> 4pasp_c + h_c + nadph_c
+asp_DASH_L_c + atp_c + gln_DASH_L_c + h2o_c --> amp_c + asn_DASH_L_c + glu_DASH_L_c + h_c + ppi_c
+asp_DASH_L_c + atp_c --> 4pasp_c + adp_c
+akg_c + asp_DASH_L_c --> glu_DASH_L_c + oaa_c
+atp_c + prpp_c --> ppi_c + prbatp_c
+h2o_c + pap_c --> amp_c + pi_c
+chor_c --> pphn_c
+3psme_c --> chor_c + pi_c
+0.04 pg_SA_c --> 0.02 clpn_SA_c + glyc_c
+co2_e --> co2_c
+cpppg3_c + 2.0 h_c + o2_c --> 2.0 co2_c + 2.0 h2o_c + pppg9_c
+csn_e + h_e --> csn_c + h_c
+acser_c + h2s_c --> ac_c + cys_DASH_L_c + h_c
+cyst_DASH_L_c + h2o_c --> hcys_DASH_L_c + nh4_c + pyr_c
+2.0 h_c + 0.5 o2_c + q8h2_c --> h2o_c + 2.0 h_e + q8_c
+cytd_c + h2o_c + h_c --> nh4_c + uri_c
+atp_c + cmp_c --> adp_c + cdp_c
+26dap_DASH_M_c + h_c --> co2_c + lys_DASH_L_c
+26dap_DASH_LL_c --> 26dap_DASH_M_c
+ctp_c + h_c + 0.02 pa_SA_c --> 0.02 cdpdag_SA_c + ppi_c
+ru5p_DASH_D_c --> db4p_c + for_c + h_c
+e4p_c + h2o_c + pep_c --> 2dda7p_c + pi_c
+atp_c + dgmp_c --> adp_c + dgdp_c
+23dhmb_c --> 3mob_c + h2o_c
+23dhmp_c --> 3mop_c + h2o_c
+23dhdp_c + h_c + nadph_c --> nadp_c + thdp_c
+aspsa_c + pyr_c --> 23dhdp_c + 2.0 h2o_c + h_c
+dhf_c + h_c + nadph_c --> nadp_c + thf_c
+atp_c + dhpt_c + glu_DASH_L_c --> adp_c + dhf_c + h_c + pi_c
+dhnpt_c --> 6hmhpt_c + gcald_c
+25dhpp_c + h2o_c + h_c --> 5apru_c + nh4_c
+4abz_c + 6hmhptpp_c --> dhpt_c + ppi_c
+3dhq_c --> 3dhsk_c + h2o_c
+2dda7p_c --> 3dhq_c + pi_c
+dmpp_c + ipdp_c --> grdp_c + ppi_c
+5dpmev_c + atp_c --> adp_c + co2_c + ipdp_c + pi_c
+co2_e --> 
+csn_e --> 
+fe2_e --> 
+nac_e --> 
+o2_e --> 
+pi_e --> 
+pro_DASH_L_e --> 
+so4_e --> 
+thm_e --> 
+fe2_c + ppp9_c --> 2.0 h_c + pheme_c
+atp_c + fe2_e + h2o_c --> adp_c + fe2_c + h_c + pi_c
+atp_c + fmn_c + h_c --> fad_c + ppi_c
+fum_c + h2o_c --> mal_DASH_L_c
+accoa_c + gam1p_c --> acgam1p_c + coa_c + h_c
+glu1sa_c --> 5aop_c
+ctp_c + glyc3p_c + h_c --> cdpglyc_c + ppi_c
+glyc3p_c + nadp_c --> dhap_c + h_c + nadph_c
+g1p_c + h_c + utp_c --> ppi_c + udpg_c
+10fthf_c + gar_c --> fgam_c + h_c + thf_c
+gcald_c + h2o_c + nad_c --> glyclt_c + 2.0 h_c + nadh_c
+f6p_c + gln_DASH_L_c --> gam6p_c + glu_DASH_L_c
+atp_c + gmp_c --> adp_c + gdp_c
+2.0 gtca1_c + 2.0 gtca2_c + 2.0 gtca3_c --> glcp_SA_c
+atp_c + glu_DASH_L_c + nh4_c --> adp_c + gln_DASH_L_c + h_c + pi_c
+gln_DASH_L_c + h2o_c + prpp_c --> glu_DASH_L_c + ppi_c + pram_c
+glu_DASH_D_c --> glu_DASH_L_c
+glutrna_c + h_c + nadph_c --> glu1sa_c + nadp_c + trnaglu_c
+atp_c + glu_DASH_L_c + trnaglu_c --> amp_c + glutrna_c + ppi_c
+atp_c + gln_DASH_L_c + h2o_c + xmp_c --> amp_c + glu_DASH_L_c + gmp_c + 2.0 h_c + ppi_c
+grdp_c + ipdp_c --> frdp_c + ppi_c
+gtp_c + h2o_c --> ahdt_c + for_c + h_c
+gtp_c + 3.0 h2o_c --> 25dhpp_c + for_c + 2.0 h_c + ppi_c
+co2_c + h2o_c --> h_c + hco3_c
+frdp_c + h2o_c + pheme_c --> hemeO_c + ppi_c
+h2o_c + histd_c + 2.0 nad_c --> 3.0 h_c + his_DASH_L_c + 2.0 nadh_c
+h2o_c + hisp_c --> histd_c + pi_c
+h2o_c + 4.0 ppbng_c --> hmbil_c + 4.0 nh4_c
+2.0 h_c + hmgcoa_c + 2.0 nadph_c --> coa_c + mev_DASH_R_c + 2.0 nadp_c
+aacoa_c + accoa_c + h2o_c --> coa_c + h_c + hmgcoa_c
+6hmhpt_c + atp_c --> 6hmhptpp_c + amp_c + h_c
+hom_DASH_L_c + nadp_c --> aspsa_c + h_c + nadph_c
+atp_c + hom_DASH_L_c --> adp_c + h_c + phom_c
+glu_DASH_L_c + imacp_c --> akg_c + hisp_c
+gln_DASH_L_c + prlp_c --> aicar_c + eig3p_c + glu_DASH_L_c + h_c
+eig3p_c --> h2o_c + imacp_c
+2cpr5p_c + h_c --> 3ig3p_c + co2_c + h2o_c
+akg_c + ile_DASH_L_c --> 3mop_c + glu_DASH_L_c
+h2o_c + imp_c --> fprica_c
+h2o_c + imp_c + nad_c --> h_c + nadh_c + xmp_c
+ipdp_c --> dmpp_c
+3c2hmp_c + nad_c --> 3c4mop_c + h_c + nadh_c
+3c2hmp_c --> 2ippm_c + h2o_c
+2ippm_c + h2o_c --> 3c3hmp_c
+3mob_c + accoa_c + h2o_c --> 3c3hmp_c + coa_c + h_c
+alac_DASH_S_c + h_c + nadph_c --> 23dhmb_c + nadp_c
+2ahbut_c + h_c + nadph_c --> 23dhmp_c + nadp_c
+14.0 h_c + ibcoa_c + 5.0 malcoa_c + 10.0 nadph_c --> 5.0 co2_c + 6.0 coa_c + fa1_c + 4.0 h2o_c + 10.0 nadp_c
+17.0 h_c + ivcoa_c + 6.0 malcoa_c + 12.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa11_c + 5.0 h2o_c + 12.0 nadp_c
+2mbcoa_c + 17.0 h_c + 6.0 malcoa_c + 12.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa12_c + 5.0 h2o_c + 12.0 nadp_c
+accoa_c + 23.0 h_c + 8.0 malcoa_c + 16.0 nadph_c --> 8.0 co2_c + 9.0 coa_c + 7.0 h2o_c + 16.0 nadp_c + ocdca_c
+2mbcoa_c + 20.0 h_c + 7.0 malcoa_c + 14.0 nadph_c --> 7.0 co2_c + 8.0 coa_c + fa19a_c + 6.0 h2o_c + 14.0 nadp_c
+accoa_c + 17.0 h_c + 6.0 malcoa_c + 12.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + 5.0 h2o_c + 12.0 nadp_c + ttdca_c
+accoa_c + 26.0 h_c + 9.0 malcoa_c + 18.0 nadph_c --> 9.0 co2_c + 10.0 coa_c + fa20n_c + 8.0 h2o_c + 18.0 nadp_c
+14.0 h_c + ivcoa_c + 5.0 malcoa_c + 10.0 nadph_c --> 5.0 co2_c + 6.0 coa_c + fa3_c + 4.0 h2o_c + 10.0 nadp_c
+2mbcoa_c + 14.0 h_c + 5.0 malcoa_c + 10.0 nadph_c --> 5.0 co2_c + 6.0 coa_c + fa4_c + 4.0 h2o_c + 10.0 nadp_c
+17.0 h_c + ibcoa_c + 6.0 malcoa_c + 12.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa6_c + 5.0 h2o_c + 12.0 nadp_c
+accoa_c + 20.0 h_c + 7.0 malcoa_c + 14.0 nadph_c --> 7.0 co2_c + 8.0 coa_c + 6.0 h2o_c + hdca_c + 14.0 nadp_c
+akg_c + leu_DASH_L_c --> 4mop_c + glu_DASH_L_c
+5mdru1p_c --> dkmpp_c + h2o_c
+atp_c + h2o_c + met_DASH_L_c --> amet_c + pi_c + ppi_c
+5mthf_c + hcys_DASH_L_c --> h_c + met_DASH_L_c + thf_c
+5mta_c + h2o_c --> 5mtr_c + ade_c
+2.0 h_c + mlthf_c + nadh_c --> 5mthf_c + nad_c
+5mdr1p_c --> 5mdru1p_c
+5mtr_c + atp_c --> 5mdr1p_c + adp_c + h_c
+nac_e --> nac_c
+atp_c + nad_c --> adp_c + h_c + nadp_c
+atp_c + dnad_c + nh4_c --> amp_c + h_c + nad_c + ppi_c
+h_c + nac_c + prpp_c --> nicrnt_c + ppi_c
+atp_c + gdp_c --> adp_c + gtp_c
+atp_c + udp_c --> adp_c + utp_c
+atp_c + cdp_c --> adp_c + ctp_c
+atp_c + dadp_c --> adp_c + datp_c
+atp_c + h_c + nicrnt_c --> dnad_c + ppi_c
+o2_e --> o2_c
+cbp_c + orn_c --> citr_DASH_L_c + h_c + pi_c
+4mop_c + coa_c + nad_c --> co2_c + ivcoa_c + nadh_c
+3mob_c + coa_c + nad_c --> co2_c + ibcoa_c + nadh_c
+3mop_c + coa_c + nad_c --> 2mbcoa_c + co2_c + nadh_c
+3c4mop_c + h_c --> 4mop_c + co2_c
+acorn_c + glu_DASH_L_c --> acglu_c + orn_c
+1pyr5c_c + 2.0 h2o_c + nad_c --> glu_DASH_L_c + h_c + nadh_c
+ala_DASH_L_c + 0.02 cdpdag_SA_c --> cmp_c + h_c + 0.02 pala_SA2_c
+h2o_c + 0.02 pa_SA_c --> 0.02 12dgr_SA_c + pi_c
+paps_c + trdrd_c --> 2.0 h_c + pap_c + so3_c + trdox_c
+0.15 fa11_c + 0.35 fa12_c + 0.186 fa19a_c + 0.013 fa1_c + 0.063 fa20n_c + 0.169 fa3_c + 0.792 fa4_c + 0.033 fa6_c + glyc3p_c + 0.024 hdca_c + 0.116 ocdca_c + 0.004 ttdca_c --> 0.02 pa_SA_c
+dhlam_c + nad_c --> h_c + lpam_c + nadh_c
+gam1p_c --> gam6p_c
+3pg_c + nad_c --> 3php_c + h_c + nadh_c
+0.02 cdpdag_SA_c + gly_c --> cmp_c + h_c + 0.02 pgly_SA2_c
+g1p_c --> g6p_c
+h2o_c + 0.02 pgp_SA_c --> 0.02 pg_SA_c + pi_c
+0.02 cdpdag_SA_c + glyc3p_c --> cmp_c + h_c + 0.02 pgp_SA_c
+akg_c + phe_DASH_L_c --> glu_DASH_L_c + phpyr_c
+0.02 cdpdag_SA_c + leu_DASH_L_c --> cmp_c + h_c + 0.02 pleu_SA2_c
+0.02 cdpdag_SA_c + lys_DASH_L_c --> cmp_c + h_c + 0.02 plys_SA2_c
+5aprbu_c + h2o_c --> 4r5au_c + pi_c
+5pmev_c + atp_c --> 5dpmev_c + adp_c
+h2o_c + ppi_c --> h_c + 2.0 pi_c
+2.0 5aop_c --> 2.0 h2o_c + h_c + ppbng_c
+r1p_c --> r5p_c
+nad_c + pphn_c --> 34hpp_c + co2_c + nadh_c
+h_c + pphn_c --> co2_c + h2o_c + phpyr_c
+1.5 o2_c + pppg9_c --> 3.0 h2o_c + ppp9_c
+atp_c + gly_c + pram_c --> adp_c + gar_c + h_c + pi_c
+pran_c --> 2cpr5p_c
+atp_c + fpram_c --> adp_c + air_c + 2.0 h_c + pi_c
+h2o_c + prbamp_c --> prfp_c
+5aizc_c + asp_DASH_L_c + atp_c --> 25aics_c + adp_c + h_c + pi_c
+h2o_c + prbatp_c --> h_c + ppi_c + prbamp_c
+atp_c + fgam_c + gln_DASH_L_c + h2o_c --> adp_c + fpram_c + glu_DASH_L_c + h_c + pi_c
+prfp_c --> prlp_c
+fad_c + pro_DASH_L_c --> 1pyr5c_c + fadh2_c + h_c
+atp_c + r5p_c --> amp_c + h_c + prpp_c
+pep_c + skm5p_c --> 3psme_c + pi_c
+h_c + 0.02 ps_SA_c --> co2_c + 0.02 pe_SA_c
+3php_c + glu_DASH_L_c --> akg_c + pser_DASH_L_c
+h2o_c + pser_DASH_L_c --> pi_c + ser_DASH_L_c
+0.02 cdpdag_SA_c + ser_DASH_L_c --> cmp_c + h_c + 0.02 ps_SA_c
+csn_c + r1p_c --> cytd_c + pi_c
+atp_c + ribflv_c --> adp_c + fmn_c + h_c
+4r5au_c + db4p_c --> dmlz_c + 2.0 h2o_c + pi_c
+2.0 dmlz_c --> 4r5au_c + ribflv_c
+ru5p_DASH_D_c --> xu5p_DASH_D_c
+r5p_c --> ru5p_DASH_D_c
+atp_c + gtp_c + h2o_c + so4_c --> aps_c + gdp_c + pi_c + ppi_c
+7.7 fa11_c + 18.1 fa12_c + 19.3 fa3_c + 32.7 fa4_c + 4.7 fa6_c + 10.1 hdca_c --> SA_FREE_FA_c
+h2o_c + sl26da_c --> 26dap_DASH_LL_c + succ_c
+akg_c + sl26da_c --> glu_DASH_L_c + sl2a6o_c
+accoa_c + ser_DASH_L_c --> acser_c + coa_c
+dscl_c + nad_c --> h_c + nadh_c + scl_c
+fe2_c + scl_c --> 3.0 h_c + sheme_c
+3dhsk_c + h_c + nadph_c --> nadp_c + skm_c
+atp_c + skm_c --> adp_c + h_c + skm5p_c
+cys_DASH_L_c + suchms_c --> cyst_DASH_L_c + h_c + succ_c
+h2o_c + suchms_c --> 2obut_c + h_c + nh4_c + succ_c
+ametam_c + ptrc_c --> 5mta_c + h_c + spmd_c
+fad_c + succ_c --> fadh2_c + fum_c
+fadh2_c + q8_c --> fad_c + q8h2_c
+atp_c + coa_c + succ_c --> adp_c + pi_c + succoa_c
+3.0 h2o_c + h2s_c + 3.0 nadp_c --> 5.0 h_c + 3.0 nadph_c + so3_c
+atp_c + h2o_c + so4_e --> adp_c + h_c + pi_c + so4_c
+2.0 h2o_c + uacgam_c --> acgam_c + 2.0 h_c + pi_c + ump_c
+acgam_c + 25.0 cdpglyc_c + uacmam_c --> 25.0 cmp_c + gtca1_c + 26.0 h_c + udp_c
+acgam_c + 25.0 ala_DASH_D_c + 25.0 atp_c + 25.0 cdpglyc_c + uacmam_c --> 25.0 amp_c + 25.0 cmp_c + gtca2_c + 26.0 h_c + 25.0 ppi_c + udp_c
+acgam_c + 25.0 cdpglyc_c + uacmam_c + 25.0 udpg_c --> 25.0 cmp_c + gtca3_c + 51.0 h_c + 26.0 udp_c
+30.0 h2o_c + 30.0 udpacgal_c + 30.0 udpg_c --> 60.0 h_c + tcam_c + 30.0 udp_c + 30.0 ump_c
+h2o_c + succoa_c + thdp_c --> coa_c + sl2a6o_c
+atp_c + h2o_c + thm_e --> adp_c + h_c + pi_c + thm_c
+thr_DASH_L_c --> 2obut_c + nh4_c
+h2o_c + phom_c --> pi_c + thr_DASH_L_c
+e4p_c + xu5p_DASH_D_c --> f6p_c + g3p_c
+dump_c + mlthf_c --> dhf_c + dtmp_c
+h_c + nadph_c + trdox_c --> nadp_c + trdrd_c
+3ig3p_c + ser_DASH_L_c --> g3p_c + h2o_c + trp_DASH_L_c
+akg_c + tyr_DASH_L_c --> 34hpp_c + glu_DASH_L_c
+uacgam_c --> uacmam_c
+uacgam_c --> udpacgal_c
+pep_c + uacgam_c --> pi_c + uaccg_c
+acgam1p_c + h_c + utp_c --> ppi_c + uacgam_c
+h_c + nadph_c + uaccg_c --> nadp_c + uamr_c
+12dgr_SA_c + 50.0 udpg_c --> 3g12dgr_SA2_c + 50.0 udp_c
+3g12dgr_SA2_c + 50.0 udpg_c --> dgdcg_SA2_c + 50.0 udp_c
+atp_c + ump_c --> adp_c + udp_c
+2kmb_c + glu_DASH_L_c --> akg_c + met_DASH_L_c
+2.0 amet_c + uppg3_c --> 2.0 ahcys_c + dscl_c + h_c
+hmbil_c --> h2o_c + uppg3_c
+4.0 h_c + uppg3_c --> 4.0 co2_c + cpppg3_c
+akg_c + val_DASH_L_c --> 3mob_c + glu_DASH_L_c
+0.01 10fthf_c + 0.42 12dgr_SA_c + 1.27 26dap_DASH_LL_c + 0.01 SA_FREE_FA_c + 1.22 acgam1p_c + 0.38 acgam_c + 6.6 ala_DASH_L_c + 3.11 amp_c + 3.88 arg_DASH_L_c + 4.48 asn_DASH_L_c + 4.48 asp_DASH_L_c + 20000.0 atp_c + 2.51 clpn_SA_c + 2.2 cmp_c + 0.79 cys_DASH_L_c + 0.76 damp_c + 0.53 dcmp_c + 0.012068 dgdcg_SA2_c + 0.6 dgmp_c + 0.73 dtmp_c + 0.01 fad_c + 0.23 gam1p_c + 5.3 glcp_SA_c + 8.72 gln_DASH_L_c + 9.68 glu_DASH_L_c + 3.51 gly_c + 4.01 gmp_c + 20000.0 h2o_c + 0.01 hemeO_c + 1.45 his_DASH_L_c + 4.06 ile_DASH_L_c + 5.21 leu_DASH_L_c + 5.45 lys_DASH_L_c + 1.94 met_DASH_L_c + 0.01 mlthf_c + 0.01 nad_c + 0.01 nadp_c + 0.01 pala_SA2_c + 0.89 pe_SA_c + 2.31 pg_SA_c + 0.01 pgly_SA2_c + 3.33 phe_DASH_L_c + 0.01 pleu_SA2_c + 0.15 plys_SA2_c + 2.12 pro_DASH_L_c + 0.01 ptrc_c + 2.6 ser_DASH_L_c + 0.01 sheme_c + 0.01 spmd_c + 2.86 tcam_c + 0.01 thf_c + 0.01 thm_c + 2.54 thr_DASH_L_c + 1.27 trp_DASH_L_c + 2.3 tyr_DASH_L_c + 1.78 uamr_c + 2.39 ump_c + 4.12 val_DASH_L_c --> 20000.0 adp_c + 20000.0 h_c + 20000.0 pi_c
+ahcys_c --> 
+glyclt_c --> 

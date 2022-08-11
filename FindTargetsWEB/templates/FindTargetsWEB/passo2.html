@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>FindTargetsWEB</title> 
+
+{% load staticfiles %}
+<link rel="stylesheet" type="text/css" href="../../../FindTargetsWEB/static/style.css" />
+
+</head>
+
+<body>
+	<div class="container">
+		<form id="contact" action="{% url 'FindTargetsWEB:passo2' %}" method="post" enctype="multipart/form-data"> 
+			{% csrf_token %}
+			<h3>FindTargetsWeb</h3>
+			<h4>EXECUTION HAS STARTED. PLEASE WAIT FOR RESULTS IN YOUR EMAIL!</h4>
+		</form>
+	</div>
+</body>
+</html>

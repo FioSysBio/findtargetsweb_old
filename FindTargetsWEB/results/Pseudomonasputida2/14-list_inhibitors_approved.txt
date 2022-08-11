@@ -1,0 +1,2 @@
+Q08210;BE0000612;DB01117;Atovaquone;approved;yes;inhibitor
+P0A749;BE0000468;DB00828;Fosfomycin;approved;yes;inhibitor

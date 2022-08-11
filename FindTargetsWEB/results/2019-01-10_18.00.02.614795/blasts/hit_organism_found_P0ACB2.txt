@@ -1,0 +1,1000 @@
+Shigella flexneri OX
+Escherichia coli (strain K12) OX
+Shigella dysenteriae serotype 1 (strain Sd197) OX
+Escherichia coli O157:H7 OX
+Citrobacter werkmanii NBRC 105721 OX
+Citrobacter koseri (strain ATCC BAA-895 / CDC 4225-83 / SGSC4696) OX
+Citrobacter rodentium (strain ICC168) OX
+Kluyvera ascorbata ATCC 33433 OX
+Citrobacter sp. 50677481 OX
+Salmonella arizonae (strain ATCC BAA-731 / CDC346-86 / RSK2980) OX
+Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720) OX
+Enterobacter lignolyticus (strain SCF1) OX
+Enterobacter sp. CC120223-11 OX
+Pluralibacter gergoviae OX
+Pseudescherichia vulneris NBRC 102420 OX
+Enterobacter sp. (strain 638) OX
+Klebsiella sp. RIT-PI-d OX
+Raoultella ornithinolytica OX
+Klebsiella aerogenes (strain ATCC 13048 / DSM 30053 / JCM 1235 / KCTC 2190 / NBRC 13534 / NCIMB 10102 / NCTC 10006) OX
+Klebsiella pneumoniae subsp. pneumoniae (strain ATCC 700721 / MGH 78578) OX
+Klebsiella pneumoniae subsp. pneumoniae DSM 30104 OX
+Klebsiella oxytoca (strain ATCC 8724 / DSM 4798 / JCM 20051 / NBRC 3318 / NRRL B-199 / KCTC 1686) OX
+Klebsiella pneumoniae IS39 OX
+Klebsiella pneumoniae subsp. pneumoniae (strain HS11286) OX
+Trabulsiella guamensis ATCC 49490 OX
+Siccibacter turicensis OX
+Enterobacter sp. NFR05 OX
+Atlantibacter hermannii NBRC 105704 OX
+Shimwellia blattae (strain ATCC 29907 / DSM 4481 / JCM 1650 / NBRC 105725 / CDC 9005-74) OX
+Yokenella regensburgei ATCC 43003 OX
+Pantoea latae OX
+Pantoea vagans (strain C9-1) OX
+Pantoea cypripedii OX
+Erwinia gerundensis OX
+Pantoea sp. PSNIH1 OX
+Pantoea alhagi OX
+Pantoea wallisii OX
+Franconibacter pulveris OX
+Mangrovibacter sp. MFB070 OX
+Pantoea ananatis (strain LMG 20103) OX
+Erwinia mallotivora OX
+Tatumella ptyseos ATCC 33301 OX
+bacteria symbiont BFo1 of Frankliniella occidentalis OX
+Pantoea coffeiphila OX
+Tatumella morbirosei OX
+Cronobacter sakazakii (strain ATCC BAA-894) OX
+Erwinia billingiae (strain Eb661) OX
+Erwinia tasmaniensis (strain DSM 17950 / CIP 109463 / Et1/99) OX
+Enterobacter cloacae S611 OX
+Erwinia sp. Leaf53 OX
+Erwinia tracheiphila OX
+Providencia sneebia DSM 19967 OX
+Candidatus Erwinia dacicola OX
+Plautia stali symbiont OX
+Providencia stuartii (strain MRSN 2154) OX
+bacteria symbiont BFo2 of Frankliniella occidentalis OX
+Microbacterium sp. SUBG005 OX
+Providencia burhodogranariea DSM 19968 OX
+Serratia odorifera DSM 4582 OX
+Providencia rettgeri DSM 1131 OX
+Morganella morganii subsp. morganii KT OX
+Providencia heimbachae ATCC 35613 OX
+Pseudomonas citronellolis OX
+Moellerella wisconsensis ATCC 35017 OX
+Pseudomonas endophytica OX
+Sodalis praecaptivus OX
+Proteus mirabilis (strain HI4320) OX
+Rahnella aquatilis (strain ATCC 33071 / DSM 4594 / JCM 1683 / NBRC 105701 / NCIMB 13365 / CIP 78.65) OX
+Candidatus Sodalis pierantonius str. SOPE OX
+Pseudomonas sp. HPB0071 OX
+Sodalis-like symbiont of Philaenus spumarius OX
+Ewingella americana ATCC 33852 OX
+Serratia sp. Leaf50 OX
+Pseudomonas sp. MWU12-2312b OX
+Sodalis glossinidius (strain morsitans) OX
+Pseudomonas putida (strain ATCC 47054 / DSM 6125 / NCIMB 11950 / KT2440) OX
+Pseudomonas sp. M47T1 OX
+Pseudomonas batumici OX
+Pseudomonas lundensis OX
+Pseudomonas chlororaphis subsp. aureofaciens 30-84 OX
+Brenneria goodwinii OX
+Pseudomonas sp. ABAC61 OX
+Pseudomonas sp. FW300-N1A1 OX
+Pseudomonas sp. MF4836 OX
+Pseudomonas fluorescens (strain ATCC BAA-477 / NRRL B-23932 / Pf-5) OX
+Pseudomonas fuscovaginae OX
+Pseudomonas fluorescens HK44 OX
+Pseudomonas rhizosphaerae OX
+Pseudomonas fluorescens (strain Pf0-1) OX
+Arsenophonus sp. ENCA OX
+Pseudomonas brenneri OX
+Pseudomonas sp. OX
+Pseudomonas abietaniphila OX
+Pseudomonas fluorescens ABAC62 OX
+Sodalis-like endosymbiont of Proechinophthirus fluctus OX
+secondary endosymbiont of Ctenarytaina eucalypti OX
+Pseudomonas fluorescens (strain SBW25) OX
+Escherichia coli ISC11 OX
+Pseudomonas fluorescens F113 OX
+Pseudomonas sp. URIL14HWK12:I9 OX
+Pseudomonas lutea OX
+Robbsia andropogonis OX
+Janthinobacterium sp. PC23-8 OX
+Janthinobacterium sp. KBS0711 OX
+Rhodopila globiformis OX
+Rhodopseudomonas palustris (strain BisB18) OX
+Rhodopseudomonas palustris (strain BisA53) OX
+Halotalea alkalilenta OX
+Kushneria marisflavi OX
+Terasakiispira papahanaumokuakeensis OX
+Rhodospirillum rubrum (strain ATCC 11170 / ATH 1.1.1 / DSM 467 / LMG 4362 / NCIB 8255 / S1) OX
+Wigglesworthia glossinidia brevipalpis OX
+Chromohalobacter salexigens (strain DSM 3043 / ATCC BAA-138 / NCIMB 13768) OX
+Ignatzschineria sp. F8392 OX
+Methyloceanibacter methanicus OX
+Halomonas salina OX
+Proteus penneri ATCC 35198 OX
+Marinobacterium lutimaris OX
+Methylobacterium sp. (strain 4-46) OX
+Cellvibrio japonicus (strain Ueda107) OX
+Reinekea blandensis MED297 OX
+Oblitimonas alkaliphila OX
+Afifella marina DSM 2698 OX
+Vibrio xiamenensis OX
+Simiduia agarivorans (strain DSM 21679 / JCM 13881 / BCRC 17597 / SA1) OX
+Cellvibrio sp. 79 OX
+Wohlfahrtiimonas chitiniclastica SH04 OX
+Shewanella sp. GutDb-MelDb OX
+Shewanella algae OX
+Osedax symbiont Rs1 OX
+Vibrio furnissii (strain DSM 14383 / NCTC 11218) OX
+Photobacterium ganghwense OX
+Cellvibrio sp. PSBB023 OX
+Cellvibrio sp. PSBB006 OX
+Shewanella mangrovi OX
+Magnetococcales bacterium OX
+Cellvibrio sp. BR OX
+Shewanella oneidensis (strain MR-1) OX
+Enterovibrio pacificus OX
+Marinomonas spartinae OX
+Photobacterium angustum (strain S14 / CCUG 15956) OX
+Photobacterium galatheae OX
+Proteobacteria bacterium OX
+Cellvibrio sp. PSBB023 OX
+Xenorhabdus poinarii G6 OX
+Shewanella denitrificans (strain OS217 / ATCC BAA-1090 / DSM 15013) OX
+Glossina pallidipes OX
+Acinetobacter baumannii (strain SDF) OX
+Marinomonas sp. (strain MWYL1) OX
+Acinetobacter qingfengensis OX
+Cellvibrionaceae bacterium OX
+Halomonas sp. 'Soap Lake #7' OX
+Mariprofundus micogutta OX
+Legionella quinlivanii OX
+Thermocrinis minervae OX
+Thermocrinis ruber OX
+Vibrio proteolyticus NBRC 13287 OX
+Zetaproteobacteria bacterium CG_4_10_14_3_um_filter_54_28 OX
+Glossina austeni OX
+Mariprofundus ferrooxydans PV-1 OX
+Glossina fuscipes fuscipes OX
+Glossina palpalis gambiensis OX
+Novibacillus thermophilus OX
+Sulfurihydrogenibium sp. (strain YO3AOP1) OX
+Hydrogenobacter thermophilus (strain DSM 6534 / IAM 12695 / TK-6) OX
+Bifidobacterium vansinderenii OX
+Persephonella marina (strain DSM 14350 / EX-H1) OX
+Hydrogenivirga sp. 128-5-R1-1 OX
+Streptococcus varani OX
+Sulfurihydrogenibium azorense (strain Az-Fu1 / DSM 15241 / OCM 825) OX
+Mariprofundus ferrinatatus OX
+Methanocorpusculum labreanum (strain ATCC 43576 / DSM 4855 / Z) OX
+Thermocrinis albus (strain DSM 14484 / JCM 11386 / HI 11/12) OX
+bacterium HR10 OX
+Pyrinomonas methylaliphatogenes OX
+Zetaproteobacteria bacterium CG1_02_49_23 OX
+Thermodesulfobacterium commune DSM 2178 OX
+Thermosulfurimonas dismutans OX
+Lutibacter maritimus OX
+Deinococcus peraridilitoris (strain DSM 19664 / LMG 22246 / CIP 109416 / KR-200) OX
+Anaerosporobacter mobilis DSM 15930 OX
+Bifidobacterium primatium OX
+Streptococcus sanguinis (strain SK36) OX
+Roseburia sp. 499 OX
+Bifidobacterium tissieri OX
+Listeria grayi DSM 20601 OX
+Aquifex aeolicus (strain VF5) OX
+Campylobacter ureolyticus ACS-301-V-Sch3b OX
+Nitratiruptor sp. (strain SB155-2) OX
+Lentibacillus halodurans OX
+Lactobacillus diolivorans DSM 14421 OX
+Streptococcus sp. I-P16 OX
+Butyricicoccus pullicaecorum 1.2 OX
+Bifidobacterium catulorum OX
+Roseiflexus sp. (strain RS-1) OX
+Streptococcus sp. DD11 OX
+Aneurinibacillus sp. XH2 OX
+Campylobacter fetus subsp. fetus (strain 82-40) OX
+Tenuibacillus multivorans OX
+Oceanobacillus oncorhynchi OX
+Bacillus sp. JCM 19045 OX
+Legionella nautarum OX
+Cryomorphaceae bacterium BACL22 MAG-120619-bin32 OX
+Polaribacter gangjinensis OX
+Streptococcus merionis OX
+Blautia sp. CAG:257 OX
+Lactobacillus siliginis OX
+Pseudogracilibacillus auburnensis OX
+Pseudoflavonifractor capillosus ATCC 29799 OX
+Nitratifractor salsuginis (strain DSM 16511 / JCM 12458 / E9I37-1) OX
+Lutibacter flavus OX
+Campylobacter pinnipediorum subsp. caledonicus OX
+Ruminococcus sp. CAG:254 OX
+Lactobacillus reuteri (strain DSM 20016) OX
+Campylobacter showae RM3277 OX
+Sulfurospirillum sp. MES OX
+Listeriaceae bacterium FSL A5-0209 OX
+bacterium HR23 OX
+bacterium HR17 OX
+Crocinitomix sp. SM1701 OX
+Thermodesulfatator indicus (strain DSM 15286 / JCM 11887 / CIR29812) OX
+Oceanobacillus iheyensis (strain DSM 14371 / CIP 107618 / JCM 11309 / KCTC 3954 / HTE831) OX
+Persephonella hydrogeniphila OX
+Virgibacillus indicus OX
+Lentibacillus amyloliquefaciens OX
+Firmicutes bacterium CAG:227 OX
+Legionella rubrilucens OX
+Caldithrix abyssi DSM 13497 OX
+Blautia hydrogenotrophica CAG:147 OX
+Ruminococcus obeum CAG:39 OX
+Thermodesulfobacterium geofontis (strain OPF15) OX
+Firmicutes bacterium CAG:646 OX
+Hydrogenobacter hydrogenophilus OX
+Orenia metallireducens OX
+Porphyromonas sp. oral taxon 279 str. F0450 OX
+Piscibacillus halophilus OX
+Virgibacillus sp. SK37 OX
+Anaerofilum sp. An201 OX
+Ruminococcus sp. CAG:330 OX
+Blautia sp. CAG:237 OX
+Nitratiruptor tergarcus DSM 16512 OX
+Lactobacillus rossiae DSM 15814 OX
+Tenacibaculum holothuriorum OX
+Lutibacter agarilyticus OX
+Ktedonobacter sp. 13_1_20CM_4_53_11 OX
+Ktedonobacter sp. 13_2_20CM_2_56_8 OX
+Campylobacter hyointestinalis subsp. hyointestinalis LMG 9260 OX
+Clostridium sp. CAG:411 OX
+Listeria booriae OX
+Lactonifactor longoviformis DSM 17459 OX
+Virgibacillus chiguensis OX
+Tenacibaculum maritimum NCIMB 2154 OX
+Thermoflexus hugenholtzii JAD2 OX
+Sulfurovum sp. UBA12169 OX
+Chloroflexi bacterium 54-19 OX
+Eubacterium plexicaudatum ASF492 OX
+Dissulfuribacter thermophilus OX
+Lactobacillus collinoides DSM 20515
+Sulfurospirillum sp. SL2-1 OX
+Campylobacter sp. NCTC 13003 OX
+Lentibacillus persicus OX
+Pontibacillus marinus BH030004
+Ruminococcus sp. CAG:9 OX
+Hahella chejuensis (strain KCTC 2396) OX
+Polaribacter sp. SA4-12 OX
+Polaribacter sp. SA4-10 OX
+Sorangium cellulosum (strain So ce56) OX
+Helicobacter sp. MIT 05-5294 OX
+Cloacibacillus sp. An23 OX
+Virgibacillus pantothenticus OX
+Bacillus lehensis G1 OX
+Helicobacter canadensis MIT 98-5491 OX
+Lutibacter oricola OX
+Paludisphaera borealis OX
+Helicobacter sp. MIT 11-5569 OX
+Sulfurimonas autotrophica (strain ATCC BAA-671 / DSM 16294 / JCM 11897 / OK10) OX
+Coriobacteriaceae bacterium EMTCatB1 OX
+Oceanobacillus picturae OX
+Paenibacillus sp. 7884-2 OX
+[Clostridium] asparagiforme DSM 15981 OX
+Ruminiclostridium cellobioparum subsp. termitidis CT1112 OX
+Synergistes sp. 3_1_syn1 OX
+Cloacibacillus evryensis DSM 19522 OX
+Desulfofundulus australicus DSM 11792 OX
+Sediminibacillus albus OX
+bacterium HR30 OX
+Hippea maritima (strain ATCC 700847 / DSM 10411 / MH2) OX
+Clostridium tetanomorphum DSM 665 OX
+Polaribacter porphyrae OX
+[Clostridium] fimetarium OX
+Bacillus enclensis OX
+Bhargavaea cecembensis DSE10 OX
+Clostridium sp. CAG:1013 OX
+Legionella clemsonensis OX
+Gloeobacter kilaueensis JS1 OX
+Clostridium liquoris OX
+Polaribacter irgensii 23-P OX
+Polaribacter sp. KT 15 OX
+Sulfurovum sp. FS06-10 OX
+Lactobacillus coryniformis subsp. coryniformis CECT 5711 OX
+Halobacillus halophilus (strain ATCC 35676 / DSM 2266 / JCM 20832 / NBRC 102448/ NCIMB 2269) OX
+Desulfotomaculum kuznetsovii (strain DSM 6115 / VKM B-1805 / 17) OX
+Desulfovibrio salexigens (strain ATCC 14822 / DSM 2638 / NCIB 8403 / VKM B-1763) OX
+Caldalkalibacillus thermarum (strain TA2.A1) OX
+Clostridium sp. DSM 8431 OX
+Helicobacter sp. CLO-3 OX
+Clostridium sp. CAG:590 OX
+Proteobacteria bacterium CG1_02_64_396 OX
+Caldimicrobium thiodismutans OX
+[Clostridium] ultunense Esp OX
+Bacteroidetes bacterium MedPE-SWsnd-G1 OX
+Desulfurobacterium atlanticum OX
+Lutibacter profundi OX
+Polaribacter filamentus OX
+Clostridium saccharobutylicum DSM 13864 OX
+Polaribacter sp. Hel1_85 OX
+Paenibacillus pasadenensis OX
+Sulfurimonas denitrificans (strain ATCC 33889 / DSM 1251) OX
+Campylobacter concisus OX
+Helicobacter sp. 12S02634-8 OX
+Geobacillus thermodenitrificans (strain NG80-2) OX
+Candidatus Desulfofervidus auxilii OX
+Selenomonas sputigena (strain ATCC 35185 / DSM 20758 / VPI D19B-28) OX
+Megamonas hypermegale OX
+Lactobacillus brevis subsp. gravesensis ATCC 27305 OX
+Blautia sp. CAG:52 OX
+Legionella spiritensis OX
+Legionella feeleii OX
+Polaribacter sp. ZY113 OX
+Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e) OX
+Gracilibacillus ureilyticus OX
+Sulfurospirillum deleyianum (strain ATCC 51133 / DSM 6946 / 5175) OX
+Thermacetogenium phaeum (strain ATCC BAA-254 / DSM 12270 / PB) OX
+Chloroflexi bacterium RBG_16_50_9 OX
+Legionella hackeliae OX
+Lutibacter sp. LPB0138 OX
+Helicobacter bizzozeronii (strain CIII-1) OX
+Helicobacter bizzozeronii CCUG 35545 OX
+Campylobacter blaseri OX
+Paraliobacillus sp. PM-2 OX
+Pontibacillus chungwhensis BH030062 OX
+Campylobacter curvus (strain 525.92) OX
+Methanomassiliicoccus intestinalis (strain Issoire-Mx1) OX
+Thermogemmatispora tikiterensis OX
+Desulfobulbus sp. ORNL OX
+Corynebacterium freneyi DNF00450 OX
+Sorangium cellulosum So0157-2 OX
+Candidatus Melainabacteria bacterium RIFCSPHIGHO2_02_FULL_34_12 OX
+Paenibacillus sp. DXL2 OX
+Anaeromicrobium sediminis OX
+Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) OX
+Carboxydocella sporoproducens DSM 16521 OX
+Desulfurobacterium thermolithotrophum (strain DSM 11699 / BSA) OX
+Candidatus Melainabacteria bacterium RIFCSPLOWO2_12_FULL_35_11 OX
+Blautia producta OX
+Anaerotruncus colihominis DSM 17241 OX
+Paenibacillus beijingensis OX
+Tenacibaculum todarodis OX
+Polaribacter sp. KT25b OX
+Polaribacter vadi OX
+Polaribacter sp. Hel1_33_78 OX
+Sulfurimonas sp. UBA12504 OX
+Wenyingzhuangia fucanilytica OX
+Sulfurovum sp. AR OX
+Campylobacter rectus RM3267 OX
+Bacilli bacterium VT-13-104 OX
+Domibacillus aminovorans OX
+Clostridium cellulolyticum (strain ATCC 35319 / DSM 5812 / JCM 6584 / H10) OX
+Halobacillus mangrovi OX
+Patulibacter medicamentivorans OX
+Salibacterium qingdaonense OX
+Mastigocoleus testarum BC008 OX
+Hydrogenoanaerobacterium saccharovorans OX
+Tatlockia micdadei OX
+Clostridium chromiireducens OX
+Halobacillus sp. BBL2006 OX
+Pelobacter carbinolicus (strain DSM 2380 / NBRC 103641 / GraBd1) OX
+Anaerovibrio sp. JC8 OX
+Chroococcidiopsis thermalis PCC 7203 OX
+Lachnospiraceae bacterium A2 OX
+Ignavibacteriae bacterium OX
+Virgibacillus massiliensis OX
+Hydrogenimonas thermophila OX
+Polaribacter glomeratus OX
+Syntrophothermus lipocalidus (strain DSM 12680 / TGB-C1) OX
+Desulfopila aestuarii DSM 18488 OX
+Campylobacter mucosalis OX
+Clostridium sp. chh4-2 OX
+Eubacterium sp. CAG:38 OX
+Anaerostipes sp. 992a OX
+Chondromyces crocatus OX
+Clostridium disporicum OX
+Helicobacter mustelae (strain ATCC 43772 / LMG 18044 / NCTC 12198 / 12198) OX
+Polaribacter reichenbachii OX
+Helicobacter jaachi OX
+Helicobacter sp. 13S00477-4 OX
+Sulfurimonas sp. RIFCSPLOWO2_12_36_12 OX
+Helicobacter sp. 10-6591 OX
+Oceanobacillus limi OX
+Clostridium saccharolyticum (strain ATCC 35040 / DSM 2544 / NRCC 2533 / WM1) OX
+Desertifilum sp. IPPAS B-1220 OX
+Pediococcus claussenii (strain ATCC BAA-344 / DSM 14800 / JCM 18046 / KCTC 3811 / P06) OX
+Exiguobacterium sibiricum (strain DSM 17290 / JCM 13490 / 255-15) OX
+Desulfurobacterium indicum OX
+Blastocatellia bacterium AA13 OX
+Polaribacter sp. ALD11 OX
+Roseburia sp. CAG:309 OX
+Clostridium hungatei OX
+Sulfurovum sp. (strain NBC37-1) OX
+Clostridium sp. CAG:122 OX
+Domibacillus antri OX
+Bacillus shackletonii OX
+Alteribacillus bidgolensis OX
+Listeria weihenstephanensis OX
+Terribacillus aidingensis OX
+Clostridium neonatale OX
+Clostridium butyricum E4 str. BoNT E BL5262 OX
+Propionispira arboris OX
+Sulfurospirillum sp. UBA12182 OX
+Thermoanaerobacterium sp. RBIITD OX
+Sediminibacillus halophilus OX
+Anoxybacillus amylolyticus OX
+Lysinibacillus sp. 2017 OX
+Nostoc piscinale CENA21 OX
+Lachnospiraceae bacterium TWA4 OX
+Alteribacillus persepolensis OX
+Butyricicoccus porcorum OX
+Legionella lansingensis OX
+Bacillus ginsengihumi OX
+Paraoerskovia marina OX
+Anaeromyxobacter sp. (strain Fw109-5) OX
+Corynebacterium xerosis OX
+Ignicoccus hospitalis (strain KIN4/I / DSM 18386 / JCM 14125) OX
+Polaribacter sp. MED152 OX
+Clostridium sp. DL-VIII OX
+Anaerobacillus macyae OX
+Mahella australiensis (strain DSM 15567 / CIP 107919 / 50-1 BON) OX
+Desulforhopalus singaporensis OX
+uncultured Desulfofustis sp. PB-SRB1 OX
+Clostridium paraputrificum OX
+Tenacibaculum sp. MAR_2010_89 OX
+Jeotgalibacillus soli OX
+Lactobacillus bifermentans DSM 20003 OX
+Thermosporothrix hazakensis OX
+Thermosulfidibacter takaii (strain DSM 17441 / JCM 13301 / NBRC 103674 / ABI70S6) OX
+Sporosarcina newyorkensis 2681 OX
+Tepidanaerobacter acetatoxydans (strain DSM 21804 / JCM 16047 / Re1) OX
+Aneurinibacillus soli OX
+Helicobacter ailurogastricus OX
+Ruminococcus sp. CAG:403 OX
+Gloeobacter violaceus (strain PCC 7421) OX
+Flavonifractor sp. An52 OX
+Nostoc sp. NIES-4103 OX
+Anaerocolumna aminovalerica OX
+Chondromyces apiculatus DSM 436 OX
+Thermovibrio ammonificans (strain DSM 15698 / JCM 12110 / HB-1) OX
+Chthonomonas calidirosea (strain DSM 23976 / ICMP 18418 / T49) OX
+Clostridium sp. Maddingley MBC34-26 OX
+Desulfovibrio gigas (strain ATCC 19364 / DSM 1382 / NCIMB 9332 / VKM B-1759) OX
+Geobacillus sp. BCO2 OX
+Fictibacillus macauensis ZFHKF-1 OX
+Bacillaceae bacterium SAS-127 OX
+Bacillus camelliae OX
+Syntrophaceticus schinkii OX
+Virgibacillus profundi OX
+Leptolyngbya frigida ULC18 OX
+Salipaludibacillus aurantiacus OX
+Flavonifractor sp. An82 OX
+Clostridium cadaveris OX
+Desulfonatronum sp. SC1 OX
+Domibacillus enclensis OX
+Helicobacter sp. TUL OX
+Syntrophaceae bacterium CG2_30_58_14 OX
+Geobacillus kaustophilus (strain HTA426) OX
+Fictibacillus arsenicus OX
+Arcobacter molluscorum CECT 7696 OX
+Myxococcus stipitatus (strain DSM 14675 / JCM 12634 / Mx s8) OX
+Helicobacter sp. 12S02232-10 OX
+Brevibacillus reuszeri OX
+Halobacillus aidingensis OX
+Lysinibacillus odysseyi 34hs-1
+Pyramidobacter piscolens W5455 OX
+Virgibacillus salinus OX
+Ruminococcus sp. CAG:60 OX
+Blautia sp. YL58 OX
+Legionella brunensis OX
+Clostridium beijerinckii (strain ATCC 51743 / NCIMB 8052) OX
+Tolypothrix campylonemoides VB511288 OX
+Pueribacillus theae OX
+Anoxybacillus vitaminiphilus OX
+Nostoc sp. 'Peltigera membranacea cyanobiont' 213 OX
+Flavonifractor sp. An306 OX
+Geobacillus sp. B4113_201601 OX
+Pleurocapsa sp. PCC 7327 OX
+Anaeromyxobacter dehalogenans (strain 2CP-C) OX
+Clostridium cellulovorans (strain ATCC 35296 / DSM 3052 / OCM 3 / 743B) OX
+Polaribacter atrinae OX
+Clostridium sp. CAG:230 OX
+Clostridium puniceum OX
+Sulfurimonas sp. RIFOXYB12_FULL_35_9 OX
+Thermodesulforhabdus norvegica OX
+Domibacillus epiphyticus OX
+Desulfofustis glycolicus DSM 9705 OX
+Aneurinibacillus migulanus OX
+Pseudodesulfovibrio profundus OX
+Methanoplanus limicola DSM 2279 OX
+Cyanothece sp. (strain PCC 8801) OX
+Geoalkalibacter ferrihydriticus DSM 17813 OX
+Anaerotruncus sp. G3(2012) OX
+Vulcanisaeta distributa (strain DSM 14429 / JCM 11212 / NBRC 100878 / IC-017) OX
+Sporolactobacillus laevolacticus DSM 442 OX
+bacterium HR16 OX
+Calditerrivibrio nitroreducens (strain DSM 19672 / NBRC 101217 / Yu37-1) OX
+Paenibacillus sp. D9 OX
+Paenibacillaceae bacterium GAS479 OX
+Veillonella sp. AS16 OX
+Megamonas funiformis YIT 11815 OX
+Halobacillus sp. BAB-2008 OX
+Helicobacter apodemus OX
+Sporosarcina sp. P33 OX
+Chroococcales cyanobacterium IPPAS B-1203 OX
+Candidatus Marsarchaeota G1 archaeon BE_D OX
+Murimonas intestini OX
+Bacillus oleivorans OX
+Phormidesmis priestleyi ULC007 OX
+Phormidium ambiguum IAM M-71 OX
+Blautia sp. An249 OX
+Conexibacter woesei (strain DSM 14684 / JCM 11494 / NBRC 100937 / ID131577) OX
+Anaeromassilibacillus sp. An200 OX
+[Clostridium] celerecrescens OX
+Lachnospiraceae bacterium OX
+Paenibacillus cellulosilyticus OX
+Paenibacillus sp. NFR01 OX
+Lactobacillus rapi DSM 19907
+Ammonifex degensii (strain DSM 10501 / KC4) OX
+Tepidibacillus decaturensis OX
+Helicobacter sp. MIT 05-5293 OX
+Lachnoclostridium sp. An131 OX
+Bacillus obstructivus OX
+Halobacillus karajensis OX
+Caminicella sporogenes DSM 14501 OX
+Anoxybacillus sp. B7M1 OX
+Aliterella atlantica CENA595 OX
+Candidatus Marsarchaeota G2 archaeon ECH_B_SAG-G16 OX
+Legionella shakespearei DSM 23087 OX
+Lachnoclostridium phytofermentans (strain ATCC 700394 / DSM 18823 / ISDg) OX
+Ignicoccus islandicus DSM 13165 OX
+Pelobacter acetylenicus OX
+Thermoplasmatales archaeon (strain BRNA1) OX
+Tenacibaculum sp. SG-28 OX
+Fictibacillus phosphorivorans OX
+candidate division Zixibacteria bacterium HGW-Zixibacteria-1 OX
+Robiginitomaculum sp. OX
+Moorella glycerini OX
+Thermoanaerobacterium thermosaccharolyticum (strain ATCC 7956 / DSM 571 / NCIB 9385 / NCA 3814) OX
+Bacillus nealsonii OX
+Calderihabitans maritimus OX
+[Oscillatoria] sp. PCC 6506 OX
+Pontibacillus yanchengensis Y32 OX
+Desulfurispirillum indicum (strain ATCC BAA-1389 / S5) OX
+Scytonema sp. NIES-4073 OX
+Nostoc sp. T09 OX
+Chondrocystis sp. NIES-4102 OX
+Ktedonobacter racemifer DSM 44963 OX
+Deinococcus proteolyticus (strain ATCC 35074 / DSM 20540 / JCM 6276 / NBRC 101906 / NCIMB 13154 / VKM Ac-1939 / CCM 2703 / MRP) OX
+Coprococcus catus GD/7 OX
+Kurthia sibirica OX
+Deinococcus reticulitermitis OX
+bacterium HR36 OX
+Cellulosimicrobium sp. MM OX
+Desulfobulbus sp. Tol-SR OX
+Nostoc flagelliforme CCNUN1 OX
+Calothrix sp. 336/3 OX
+Chlorogloea sp. CCALA 695 OX
+Vulcanisaeta sp. EB80 OX
+bacterium HR28 OX
+Tenacibaculum dicentrarchi OX
+Paraclostridium benzoelyticum OX
+Clostridium tyrobutyricum DIVETGP OX
+Arcobacter nitrofigilis (strain ATCC 33309 / DSM 7299 / LMG 7604 / NCTC 12251 / CI) OX
+Synergistes jonesii OX
+Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785) OX
+Bacillus sp. es.036 OX
+Geobacillus sp. (strain Y4.1MC1) OX
+Kyrpidia tusciae (strain DSM 2912 / NBRC 15312 / T2) OX
+Salinibacillus kushneri OX
+Nostoc sp. (strain ATCC 29411 / PCC 7524) OX
+Nostoc sp. KVJ20 OX
+Legionella massiliensis OX
+Microcoleus sp. PCC 7113 OX
+Hungatella hathewayi OX
+Flavonifractor plautii ATCC 29863 OX
+Anaerobium acetethylicum OX
+Lyngbya confervoides BDU141951 OX
+Methanomethylophilus alvus (strain Mx1201) OX
+Brevibacillus brevis (strain 47 / JCM 6285 / NBRC 100599) OX
+Thermoanaerobacter pseudethanolicus (strain ATCC 33223 / 39E) OX
+Porphyromonas crevioricanis OX
+Stigmatella aurantiaca (strain DW4/3-1) OX
+Anabaena cylindrica (strain ATCC 27899 / PCC 7122) OX
+Halobacteroides halobius (strain ATCC 35273 / DSM 5150 / MD-1) OX
+Sporosarcina sp. HYO08 OX
+Syntrophomonas wolfei subsp. wolfei (strain DSM 2245B / Goettingen) OX
+Paenibacillus sp. 32O-W OX
+Kurthia zopfii OX
+Bacillus azotoformans LMG 9581 OX
+Legionella geestiana OX
+Deltaproteobacteria bacterium RIFOXYA12_FULL_58_15 OX
+Tenacibaculum soleae OX
+Deinococcus marmoris OX
+Helicobacter valdiviensis OX
+Hydrogenobaculum sp. (strain Y04AAS1) OX
+Clostridium sp. HMP27 OX
+Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / NBRC 12200 / NCIMB 9375 / NRRL NRS-1264 / Gibson 46) OX
+Clostridium saccharoperbutylacetonicum N1-4(HMT) OX
+Nostoc sp. (strain ATCC 29411 / PCC 7524) OX
+Geobacillus sp. (strain WCH70) OX
+Tersicoccus phoenicis OX
+Blautia sp. An46 OX
+Planifilum fulgidum OX
+Desulfotomaculum arcticum DSM 17038 OX
+Cylindrospermum stagnale PCC 7417 OX
+Nostoc commune NIES-4072 OX
+Rummeliibacillus stabekisii OX
+Gracilibacillus halophilus YIM-C55.5 OX
+Bacillus sp. OV186 OX
+Tenacibaculum mesophilum OX
+Sulfuricurvum kujiense OX
+Halalkalicoccus jeotgali (strain DSM 18796 / CECT 7217 / JCM 14584 / KCTC 4019 / B3) OX
+Fictibacillus enclensis OX
+Candidatus Methanoperedenaceae archaeon HGW-Methanoperedenaceae-1 OX
+Alkaliphilus metalliredigens (strain QYMF) OX
+Parageobacillus caldoxylosilyticus NBRC 107762 OX
+Anabaena sp. 90 OX
+Bacillus cellulosilyticus (strain ATCC 21833 / DSM 2522 / FERM P-1141 / JCM 9156 / N-4) OX
+Aphanizomenon flos-aquae 2012/KM1/D3 OX
+Bacillus coagulans 36D1 OX
+Gloeocapsa sp. PCC 7428 OX
+Nostoc punctiforme (strain ATCC 29133 / PCC 73102) OX
+Scytonema millei VB511283 OX
+Solibacillus silvestris (strain StLB046) OX
+candidate division NC10 bacterium CSP1-5 OX
+Nostoc sp. 'Peltigera malacea cyanobiont' DB3992 OX
+Lachnoclostridium sp. An196 OX
+uncultured archaeon A07HR60 OX
+Leptolyngbya sp. O-77 OX
+bacterium HR26 OX
+Legionella fallonii LLAP-10 OX
+Clostridium homopropionicum DSM 5847 OX
+Selenomonas noxia ATCC 43541 OX
+Anoxybacillus flavithermus (strain DSM 21510 / WK1) OX
+Selenihalanaerobacter shriftii OX
+Thermanaeromonas toyohensis ToBE OX
+Bacillus sp. SJS OX
+Nostoc sp. 'Peltigera membranacea cyanobiont' 210A OX
+Nostocales cyanobacterium HT-58-2 OX
+Gracilibacillus boraciitolerans JCM 21714 OX
+Oscillatoria nigro-viridis PCC 7112 OX
+Clostridium sp. (strain ATCC 29733 / VPI C48-50) OX
+Oscillatoriales cyanobacterium JSC-12 OX
+Leptolyngbya sp. 'hensonii' OX
+Bacillus salsus OX
+Dehalogenimonas lykanthroporepellens (strain ATCC BAA-1523 / JCM 15061 / BL-DC-9) OX
+Thermobacillus composti (strain DSM 18247 / JCM 13945 / KWC4) OX
+Slackia heliotrinireducens (strain ATCC 29202 / DSM 20476 / NCTC 11029 / RHS 1) OX
+Paenibacillus sp. UNCCL117 OX
+Clostridium baratii str. Sullivan OX
+Promicromonospora sukumoe OX
+Paenibacillus sp. Soil522 OX
+Sulfurimonas sp. RIFOXYD2_FULL_34_21 OX
+Syntrophus aciditrophicus (strain SB) OX
+Thermosediminibacter oceani (strain ATCC BAA-1034 / DSM 16646 / JW/IW-1228P) OX
+Bacillus vietnamensis OX
+Bacillus circulans OX
+Helicobacter hepaticus (strain ATCC 51449 / 3B1) OX
+Acetohalobium arabaticum (strain ATCC 49924 / DSM 5501 / Z-7288) OX
+Nostoc sp. PCC 7107 OX
+Scytonema tolypothrichoides VB-61278 OX
+Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576) OX
+Calothrix sp. PCC 7507 OX
+Pelotomaculum thermopropionicum (strain DSM 13744 / JCM 10971 / SI) OX
+Gracilibacillus dipsosauri OX
+Pleurocapsa sp. CCALA 161 OX
+Labilithrix luteola OX
+Lactobacillus similis DSM 23365
+Veillonellaceae bacterium DNF00626 OX
+Cyanothece sp. (strain PCC 7822) OX
+Bradymonas sediminis OX
+Ardenticatena maritima OX
+Clostridium pasteurianum BC1 OX
+Mucispirillum schaedleri ASF457 OX
+Cellulosimicrobium cellulans J1 OX
+Solibacteres bacterium 12-62-4 OX
+Hydrocoleum sp. CS-953 OX
+Desulfobacca acetoxidans (strain ATCC 700848 / DSM 11109 / ASRB2) OX
+Bacillus sporothermodurans OX
+Campylobacter geochelonis OX
+Jeotgalibacillus campisalis OX
+Geobacter pickeringii OX
+Virgibacillus necropolis OX
+Desulfovibrio desulfuricans ND132 OX
+Calothrix sp. HK-06 OX
+Pseudodesulfovibrio indicus OX
+Clostridium sp. CAG:277 OX
+Intestinimonas butyriciproducens OX
+Pseudoflavonifractor sp. An176 OX
+Eubacterium sp. 14-2 OX
+Nostoc sp. CENA543 OX
+Desulfovibrio sp. 6_1_46AFAA OX
+Paenibacillus sp. SMB1 OX
+Paeniclostridium sordellii OX
+Paenibacillus sp. FSL A5-0031 OX
+Actinomyces graevenitzii C83 OX
+Paenibacillus aquistagni OX
+Ornithinibacillus halophilus OX
+Salimicrobium halophilum OX
+Thermobaculum terrenum (strain ATCC BAA-798 / YNP1) OX
+Kitasatospora sp. Root187 OX
+Nostoc sp. NIES-3756 OX
+Desulfobulbus propionicus (strain ATCC 33891 / DSM 2032 / 1pr3) OX
+Bacillus sp. (strain OxB-1) OX
+Virgibacillus phasianinus OX
+Bacillus sp. SGD-V-76 OX
+Staphylococcus lentus OX
+Aeribacillus pallidus OX
+Clostridium vincentii OX
+Stanieria cyanosphaera (strain ATCC 29371 / PCC 7437) OX
+Nostoc sp. CENA543 OX
+Cohnella sp. CIP 111063 OX
+Deinococcus maricopensis (strain DSM 21211 / LMG 22137 / NRRL B-23946 / LB-34) OX
+Sulfuricurvum sp. PD_MW2 OX
+Candidatus Sulfuricurvum sp. RIFRC-1 OX
+Corynebacterium frankenforstense DSM 45800 OX
+Paenibacillus rhizosphaerae OX
+Conexibacter sp. Seoho-28 OX
+delta proteobacterium NaphS2 OX
+Helicobacter felis (strain ATCC 49179 / NCTC 12436 / CS1) OX
+Fictibacillus aquaticus OX
+Campylobacter gracilis RM3268 OX
+Brevibacillus sp. CF112 OX
+Propionibacteriaceae bacterium NML 030167 OX
+Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA) OX
+Aphanizomenon flos-aquae LD13 OX
+Synechococcus elongatus (strain PCC 7942) OX
+Nostoc calcicola FACHB-389 OX
+Calothrix sp. NIES-2100 OX
+Edaphobacillus lindanitolerans OX
+Lysinibacillus varians OX
+Deinococcus geothermalis (strain DSM 11300) OX
+Bacillus weihaiensis OX
+Kurthia sp. 11kri321 OX
+[Eubacterium] cellulosolvens 6 OX
+Pseudodesulfovibrio piezophilus (strain DSM 21447 / JCM 15486 / C1TLV30) OX
+Coleofasciculus chthonoplastes PCC 7420 OX
+Megasphaera sp. DJF_B143 OX
+Legionella oakridgensis ATCC 33761
+Crocosphaera watsonii WH 8501 OX
+Archaeoglobus fulgidus (strain ATCC 49558 / VC-16 / DSM 4304 / JCM 9628 / NBRC 100126) OX
+Clostridium sp. CAG:127 OX
+Fimbriimonas ginsengisoli Gsoil 348 OX
+Helicobacter pylori (strain ATCC 700392 / 26695) OX
+Romboutsia weinsteinii OX
+Thermoleophilum album OX
+Hyalangium minutum OX
+Megasphaera paucivorans OX
+Deinococcus puniceus OX
+Geobacter metallireducens (strain GS-15 / ATCC 53774 / DSM 7210) OX
+Oscillatoriales cyanobacterium USR001 OX
+Bacillus sp. FJAT-27231 OX
+Pelobacter propionicus (strain DSM 2379 / NBRC 103807 / OttBd1) OX
+Propionispora sp. 2/2-37 OX
+Virgibacillus soli OX
+Acaryochloris marina (strain MBIC 11017) OX
+Bacillus lentus OX
+Methanolacinia petrolearia (strain DSM 11571 / OCM 486 / SEBR 4847) OX
+Firmicutes bacterium CAG:424 OX
+Legionella londiniensis OX
+Megasphaera elsdenii DSM 20460 OX
+Chloroflexi bacterium RBG_13_48_17 OX
+Deinococcus sp. RL OX
+[Clostridium] hiranonis DSM 13275 OX
+Sporomusa acidovorans DSM 3132 OX
+Tepidanaerobacter syntrophicus OX
+Paenibacillus sp. FSL R7-277 OX
+Gemmatirosa kalamazoonesis OX
+Desulfonatronum thiosulfatophilum OX
+bacterium HR41 OX
+Wolinella succinogenes (strain ATCC 29543 / DSM 1740 / LMG 7466 / NCTC 11488 / FDC 602W) OX
+Candidatus Sulfobium mesophilum OX
+Drancourtella sp. An57 OX
+Clostridium frigidicarnis OX
+Staphylococcus microti OX
+bacterium BMS3Bbin04 OX
+Bacillus clausii (strain KSM-K16) OX
+Gracilibacillus orientalis OX
+Nostoc linckia NIES-25 OX
+Fischerella thermalis OX
+Cuspidothrix issatschenkoi CHARLIE-1 OX
+Pseudodesulfovibrio aespoeensis (strain ATCC 700646 / DSM 10631 / Aspo-2) OX
+Planomicrobium glaciei OX
+Flavonifractor sp. An135 OX
+Ruminococcus sp. CAG:17 OX
+filamentous cyanobacterium Phorm 46 OX
+Flavonifractor sp. An10 OX
+Bacillus solimangrovi OX
+Syntrophobotulus glycolicus (strain DSM 8271 / FlGlyR) OX
+Tychonema bourrellyi FEM_GT703 OX
+Desulfovibrio litoralis DSM 11393 OX
+Chthoniobacter flavus Ellin428 OX
+Paenibacillus curdlanolyticus YK9 OX
+Clostridium botulinum (strain Eklund 17B / Type B) OX
+Intrasporangium chromatireducens Q5-1 OX
+Flexistipes sinusarabici (strain DSM 4947 / MAS 10) OX
+Paenibacillus bovis OX
+Helicobacter saguini OX
+Clostridium carboxidivorans P7 OX
+Chloroflexi bacterium GWB2_54_36 OX
+Helicobacter sp. 13S00482-2 OX
+Schwartzia succinivorans DSM 10502 OX
+Arcobacter marinus OX
+Francisella tularensis subsp. tularensis (strain SCHU S4 / Schu 4) OX
+Nostoc azollae (strain 0708) OX
+Rivularia sp. PCC 7116 OX
+Calothrix sp. NIES-2098 OX
+Lysinibacillus sphaericus OT4b.31 OX
+Methanomicrobiales archaeon 53_19 OX
+Marvinbryantia formatexigens DSM 14469 OX
+Clostridium cylindrosporum DSM 605 OX
+Sporolactobacillus inulinus CASD OX
+Synechococcus sp. (strain ATCC 27167 / PCC 6312) OX
+Minicystis rosea OX
+Limnochorda pilosa OX
+Geminocystis sp. NIES-3709 OX
+Paenibacillus darwinianus OX
+Tenacibaculum sp. Bg11-29 OX
+Mitsuokella multacida DSM 20544 OX
+Intrasporangium calvum (strain ATCC 23552 / DSM 43043 / JCM 3097 / NBRC 12989 / 7 KIP) OX
+Sulfuricurvum sp. MLSB OX
+Bacillus sp. OV194 OX
+Desulfurivibrio alkaliphilus (strain DSM 19089 / UNIQEM U267 / AHT2) OX
+Bacillus sp. SG-1 OX
+Pseudobutyrivibrio xylanivorans DSM 14809 OX
+Romboutsia maritimum OX
+Pelosinus fermentans B4 OX
+Anoxybacillus sp. BCO1 OX
+Bacillus sp. cl95 OX
+Firmicutes bacterium OX
+Propionispora vibrioides OX
+Paenisporosarcina sp. OV554 OX
+Geobacter sp. OR-1 OX
+Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809) OX
+Leptolyngbya sp. NIES-2104 OX
+bacterium HR37 OX
+Robinsoniella sp. RHS OX
+Lactobacillus ginsenosidimutans OX
+Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125) OX
+Alteribacillus iranensis OX
+Cephaloticoccus capnophilus OX
+Clostridium tetani (strain Massachusetts / E88) OX
+Chloroflexus aurantiacus (strain ATCC 29366 / DSM 635 / J-10-fl) OX
+Clostridium taeniosporum OX
+Paenibacillus sp. FSL R5-0912 OX
+Paenibacillus sp. FSL H7-0737 OX
+Planctomycetales bacterium 4484_123 OX
+Clostridium sp. N3C OX
+Pelobacter sp. SFB93 OX
+Desulfovibrio gracilis DSM 16080 OX
+Anaerobacillus alkalilacustris OX
+Propionibacteriaceae bacterium NML 130396 OX
+Smithella sp. SCADC OX
+Brevibacillus sp. WF146 OX
+Candidatus Omnitrophica bacterium CG11_big_fil_rev_8_21_14_0_20_45_26 OX
+Staphylococcus sp. HGB0015 OX
+Lysinibacillus contaminans OX
+Paenisporosarcina sp. HGH0030 OX
+Nostoc linckia z16 OX
+Calothrix elsteri CCALA 953 OX
+Pontibacillus litoralis JSM 072002 OX
+Lachnospiraceae bacterium 3-1 OX
+Deinococcus hopiensis KR-140 OX
+Cryptobacterium curtum (strain ATCC 700683 / DSM 15641 / 12-3) OX
+Corynebacterium maris DSM 45190 OX
+Cyanothece sp. (strain PCC 7424) OX
+Candidatus Kryptonium thompsoni OX
+Mastigocoleus testarum BC008 OX
+Ferroglobus placidus (strain DSM 10642 / AEDII12DO) OX
+Paenibacillus sp. FSL R7-0331 OX
+Paenibacillus sp. FSL H7-0357 OX
+Promicromonospora sp. AC04 OX
+Candidatus Marsarchaeota G2 archaeon ECH_B_1 OX
+Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / LMG 4051 / NBRC 15346 / NCIMB 9279 / R1 / VKM B-1422) OX
+Omnitrophica WOR_2 bacterium RIFCSPHIGHO2_02_FULL_68_15 OX
+Tindallia californiensis OX
+Desulfocapsa sulfexigens (strain DSM 10523 / SB164P1) OX
+Psychrobacillus sp. FJAT-21963 OX
+Paenibacillus sp. FSL H8-0548 OX
+Geobacter sp. DSM 2909 OX
+Desulfotomaculum putei DSM 12395 OX
+Deinococcus irradiatisoli OX
+Hapalosiphon sp. MRB220 OX
+Roseburia sp. CAG:50 OX
+Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168) OX
+bacterium HR29 OX
+Psychrobacillus sp. OK032 OX
+Bacillus sp. VT-16-64 OX
+Dialister invisus CAG:218 OX
+Bacillus sp. AFS018417 OX
+Bacillus deserti OX
+Corynebacterium diphtheriae (strain ATCC 700971 / NCTC 13129 / Biotype gravis) OX
+Isoptericola variabilis (strain 225) OX
+Cyanothece sp. (strain ATCC 51142) OX
+methanogenic archaeon ISO4-H5 OX
+Paenibacillus sp. P1XP2 OX
+Paramaledivibacter caminithermalis DSM 15212 OX
+Corynebacterium pyruviciproducens ATCC BAA-1742 OX
+Pseudobutyrivibrio sp. ACV-2 OX
+Pseudobutyrivibrio ruminis OX
+Thermaerobacter marianensis (strain ATCC 700841 / DSM 12885 / JCM 10246 / 7p75a) OX
+Helicobacter sp. 11S02596-1 OX
+Criblamydia sequanensis CRIB-18 OX
+Desulfotomaculum copahuensis OX
+Tetzosporium hominis OX
+Kitasatospora setae (strain ATCC 33774 / DSM 43861 / JCM 3304 / KCC A-0304 / NBRC 14216 / KM-6054) OX
+Streptomyces sp. NRRL S-495 OX
+Candidatus Methylomirabilis limnetica OX
+Bacillus horneckiae OX
+Ignavibacteriales bacterium CG12_big_fil_rev_8_21_14_0_65_30_8 OX
+Cyanothece sp. (strain PCC 7425 / ATCC 29141) OX
+Geoalkalibacter subterraneus OX
+Candidatus Bathyarchaeota archaeon B63 OX
+Cyanothece sp. CCY0110 OX
+Aphanothece hegewaldii CCALA 016 OX
+Cohnella sp. OV330 OX
+Paenibacillus sp. (strain JDR-2) OX
+Fibrobacter sp. UWP2 OX
+Clostridium kluyveri (strain ATCC 8527 / DSM 555 / NCIMB 10680) OX
+Pelosinus sp. UFO1 OX
+Melittangium boletus DSM 14713 OX
+Porphyromonas sp. COT-239 OH1446 OX
+Thalassobacillus cyri OX
+Sphaerospermopsis kisseleviana NIES-73 OX
+Salimicrobium flavidum OX
+Planococcus rifietoensis OX
+Verrucomicrobia bacterium OX
+Alkalinema sp. CACIAM 70d OX
+Roseofilum reptotaenium AO1-A OX
+Acaryochloris sp. RCC1774 OX
+Corynebacterium sp. KPL1989 OX
+Magnetofaba australis IT-1 OX
+Marinococcus luteus OX
+Paenibacillus sp. GP183 OX
+Bacillus sp. FJAT-27264 OX
+Paenibacillus riograndensis SBR5 OX
+Eubacteriaceae bacterium CHKCI004 OX
+delta proteobacterium MLMS-1 OX
+Desulfovibrio vulgaris (strain Miyazaki F / DSM 19637) OX
+Vulgatibacter incomptus OX
+Isoptericola jiangsuensis OX
+Deinococcus sp. OD32 OX
+Moorella humiferrea OX
+Calothrix parasitica NIES-267 OX
+Selenomonas ruminantium subsp. lactilytica (strain NBRC 103574 / TAM6421) OX
+Merismopedia glauca CCAP 1448/3 OX
+Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) OX
+Streptomyces rubellomurinus (strain ATCC 31215) OX
+Nostocales cyanobacterium HT-58-2 OX
+bacterium HR12 OX
+archaeon BMS3Bbin16 OX
+Viridibacillus sp. OK051 OX
+Tolypothrix bouteillei VB521301 OX
+Viridibacillus arenosi FSL R5-213 OX
+Bacillus sp. FJAT-25509 OX
+Ignavibacteria bacterium RBG_16_34_14 OX
+Bacillus thermoamylovorans OX
+Calothrix brevissima NIES-22 OX
+bacterium HR27 OX
+Tissierella sp. P1 OX
+Legionella adelaidensis OX
+Geminocystis sp. NIES-3708 OX
+Paenibacillus rigui OX
+Paenibacillus sp. Leaf72 OX
+Propionibacterium cyclohexanicum OX
+Anaerolineae bacterium CG_4_9_14_3_um_filter_57_17 OX
+Desulfovibrio africanus str. Walvis Bay OX
+Clostridium fallax OX
+Turicibacter sanguinis PC909 OX
+Candidatus Methanomethylophilus sp. 1R26 OX
+Syntrophus gentianae OX
+Myxococcus xanthus (strain DK 1622) OX
+bacterium BMS3Bbin14 OX
+Jeotgalibacillus sp. 22-7 OX
+Desulfohalobium retbaense (strain ATCC 49708 / DSM 5692 / JCM 16813 / HR100) OX
+Fusobacterium necrophorum subsp. funduliforme B35 OX
+Helicobacter bilis OX
+Kitasatospora sp. OK780 OX
+Jeotgalibacillus malaysiensis OX
+filamentous cyanobacterium CCP2 OX
+Deinococcus aerius OX
+Clostridiales bacterium PH28_bin88 OX
+Bacillus cohnii OX

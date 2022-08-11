@@ -1,0 +1,10031 @@
+*** INICIO DA EXECUCAO *** 
+Modelo/Organismo/Nome/Email/Metodo = MODEL1507180021, Mycobacterium tuberculosis, Thiago, merigueti@gmail.com, 2
+
+
+INICIO DO ITEM 1
+GRAVOU ARQUIVO COM OS DADOS DE GENE/REACAO DA REDE
+GEROU FBA 
+FBA = <Solution 0.131 at 0x7f21a0b36b00>
+INICIO DO ITEM 2
+GEROU FVA 
+INICIO DA VERIFICACAO ENTRE FBA/FVA 
+Lista de reacoes a analisar = 464
+GENERATED FILE 01-fva.csv
+GENERATED FILE /var/www/html/findtargetsweb3/FindTargetsWEB/results/Mycobacteriumtuberculosis2//02-reacoesFVADifZero.txt
+INICIO DO ITEM 3
+len(listReactPerturb) = 464
+Total de reacoes cujo FBA zerou = 207
+INICIO DA BIFURCACAO
+if len(model.genes) = True
+INICIO DO ITEM 4
+INICIO DO ITEM 5
+INICIO DO ITEM 6
+list_acron_kegg = ['mtu', 'mtv', 'mtc', 'mra', 'mtf', 'mtb', 'mtk', 'mtz', 'mtg', 'mti', 'mte', 'mtur', 'mtl', 'mto', 'mtd', 'mtn', 'mtj', 'mtub', 'mtuc', 'mtue', 'mtx', 'mtuh', 'mtul', 'mtut', 'mtuu', 'mtq']
+len my_list_genes = 128
+source = mtu:Rv0129c
+ec = mtu:Rv0129c	ec:2.3.1.20
+mtu:Rv0129c	ec:2.3.1.122
+
+source = mtu:Rv0334
+ec = mtu:Rv0334	ec:2.7.7.24
+
+source = mtu:Rv0414c
+ec = mtu:Rv0414c	ec:2.5.1.3
+
+source = mtu:Rv0417
+ec = mtu:Rv0417	ec:2.8.1.10
+
+source = mtu:Rv0422c
+ec = mtu:Rv0422c	ec:2.7.1.49
+mtu:Rv0422c	ec:2.7.4.7
+
+source = mtu:Rv0423c
+ec = mtu:Rv0423c	ec:4.1.99.17
+
+source = mtu:Rv0436c
+ec = mtu:Rv0436c	ec:2.7.8.8
+
+source = mtu:Rv0437c
+ec = mtu:Rv0437c	ec:4.1.1.65
+
+source = mtu:Rv0482
+ec = mtu:Rv0482	ec:1.3.1.98
+
+source = mtu:Rv0503c
+ec = mtu:Rv0503c	ec:2.1.1.79
+
+source = mtu:Rv0509
+ec = mtu:Rv0509	ec:1.2.1.70
+
+source = mtu:Rv0510
+ec = mtu:Rv0510	ec:2.5.1.61
+
+source = mtu:Rv0511
+ec = mtu:Rv0511	ec:2.1.1.107
+mtu:Rv0511	ec:4.2.1.75
+
+source = mtu:Rv0512
+ec = mtu:Rv0512	ec:4.2.1.24
+
+source = mtu:Rv0524
+ec = mtu:Rv0524	ec:5.4.3.8
+
+source = mtu:Rv0533c
+ec = mtu:Rv0533c	ec:2.3.1.180
+
+source = mtu:Rv0534c
+ec = mtu:Rv0534c	ec:2.5.1.74
+
+source = mtu:Rv0535
+ec = mtu:Rv0535	ec:2.4.2.28
+
+source = mtu:Rv0542c
+ec = mtu:Rv0542c	ec:6.2.1.26
+
+source = mtu:Rv0548c
+ec = mtu:Rv0548c	ec:4.1.3.36
+
+source = mtu:Rv0553
+ec = mtu:Rv0553	ec:4.2.1.113
+
+source = mtu:Rv0555
+ec = mtu:Rv0555	ec:2.2.1.9
+
+source = mtu:Rv0557
+ec = 
+
+source = mtu:Rv0562
+ec = mtu:Rv0562	ec:2.5.1.30
+
+source = mtu:Rv0642c
+ec = mtu:Rv0642c	ec:2.1.1.79
+
+source = mtu:Rv0643c
+ec = mtu:Rv0643c	ec:2.1.1.79
+
+source = mtu:Rv0644c
+ec = mtu:Rv0644c	ec:2.1.1.79
+
+source = mtu:Rv0645c
+ec = mtu:Rv0645c	ec:2.1.1.79
+
+source = mtu:Rv0733
+ec = mtu:Rv0733	ec:2.7.4.3
+
+source = mtu:Rv0772
+ec = mtu:Rv0772	ec:6.3.4.13
+
+source = mtu:Rv0803
+ec = mtu:Rv0803	ec:6.3.5.3
+
+source = mtu:Rv0808
+ec = mtu:Rv0808	ec:2.4.2.14
+
+source = mtu:Rv0809
+ec = mtu:Rv0809	ec:6.3.3.1
+
+source = mtu:Rv0956
+ec = mtu:Rv0956	ec:2.1.2.2
+
+source = mtu:Rv1011
+ec = mtu:Rv1011	ec:2.7.1.148
+
+source = mtu:Rv1017c
+ec = mtu:Rv1017c	ec:2.7.6.1
+
+source = mtu:Rv1018c
+ec = mtu:Rv1018c	ec:2.7.7.23
+mtu:Rv1018c	ec:2.3.1.157
+
+source = mtu:Rv1086
+ec = mtu:Rv1086	ec:2.5.1.68
+
+source = mtu:Rv1092c
+ec = mtu:Rv1092c	ec:2.7.1.33
+
+source = mtu:Rv1315
+ec = mtu:Rv1315	ec:2.5.1.7
+
+source = mtu:Rv1391
+ec = mtu:Rv1391	ec:4.1.1.36
+mtu:Rv1391	ec:6.3.2.5
+
+source = mtu:Rv1392
+ec = mtu:Rv1392	ec:2.5.1.6
+
+source = mtu:Rv1412
+ec = mtu:Rv1412	ec:2.5.1.9
+
+source = mtu:Rv1416
+ec = mtu:Rv1416	ec:2.5.1.78
+
+source = mtu:Rv1484
+ec = mtu:Rv1484	ec:1.3.1.118
+
+source = mtu:Rv1485
+ec = mtu:Rv1485	ec:4.99.1.1
+mtu:Rv1485	ec:4.99.1.9
+
+source = mtu:Rv1500
+ec = 
+
+source = mtu:Rv1631
+ec = mtu:Rv1631	ec:2.7.1.24
+
+source = mtu:Rv1695
+ec = mtu:Rv1695	ec:2.7.1.23
+
+source = mtu:Rv1712
+ec = mtu:Rv1712	ec:2.7.4.25
+
+source = mtu:Rv1745c
+ec = mtu:Rv1745c	ec:5.3.3.2
+
+source = mtu:Rv1886c
+ec = mtu:Rv1886c	ec:2.3.1.20
+mtu:Rv1886c	ec:2.3.1.122
+
+source = mtu:Rv1940
+ec = mtu:Rv1940	ec:4.1.99.12
+mtu:Rv1940	ec:3.5.4.25
+
+source = mtu:Rv2051c
+ec = mtu:Rv2051c	ec:2.3.1.269
+
+source = mtu:Rv2152c
+ec = mtu:Rv2152c	ec:6.3.2.8
+
+source = mtu:Rv2153c
+ec = mtu:Rv2153c	ec:2.4.1.227
+
+source = mtu:Rv2155c
+ec = mtu:Rv2155c	ec:6.3.2.9
+
+source = mtu:Rv2156c
+ec = mtu:Rv2156c	ec:2.7.8.13
+
+source = mtu:Rv2157c
+ec = mtu:Rv2157c	ec:6.3.2.10
+
+source = mtu:Rv2158c
+ec = mtu:Rv2158c	ec:6.3.2.13
+
+source = mtu:Rv2178c
+ec = mtu:Rv2178c	ec:2.5.1.54
+
+source = mtu:Rv2217
+ec = mtu:Rv2217	ec:2.3.1.181
+
+source = mtu:Rv2218
+ec = mtu:Rv2218	ec:2.8.1.8
+
+source = mtu:Rv2220
+ec = mtu:Rv2220	ec:6.3.1.2
+
+source = mtu:Rv2225
+ec = mtu:Rv2225	ec:2.1.2.11
+
+source = mtu:Rv2244
+ec = 
+
+source = mtu:Rv2445c
+ec = mtu:Rv2445c	ec:2.7.4.6
+
+source = mtu:Rv2482c
+ec = mtu:Rv2482c	ec:2.3.1.15
+
+source = mtu:Rv2523c
+ec = mtu:Rv2523c	ec:2.7.8.7
+
+source = mtu:Rv2524c
+ec = 
+
+source = mtu:Rv2531c
+ec = mtu:Rv2531c	ec:4.1.1.19
+
+source = mtu:Rv2537c
+ec = mtu:Rv2537c	ec:4.2.1.10
+
+source = mtu:Rv2538c
+ec = mtu:Rv2538c	ec:4.2.3.4
+
+source = mtu:Rv2539c
+ec = mtu:Rv2539c	ec:2.7.1.71
+
+source = mtu:Rv2540c
+ec = mtu:Rv2540c	ec:4.2.3.5
+
+source = mtu:Rv2552c
+ec = mtu:Rv2552c	ec:1.1.1.25
+
+source = mtu:Rv2573
+ec = mtu:Rv2573	ec:1.1.1.169
+
+source = mtu:Rv2601
+ec = mtu:Rv2601	ec:2.5.1.16
+
+source = mtu:Rv2610c
+ec = mtu:Rv2610c	ec:2.4.1.345
+
+source = mtu:Rv2611c
+ec = mtu:Rv2611c	ec:2.3.1.265
+
+source = mtu:Rv2612c
+ec = mtu:Rv2612c	ec:2.7.8.5
+
+source = mtu:Rv2678c
+ec = mtu:Rv2678c	ec:4.1.1.37
+
+source = mtu:Rv2697c
+ec = mtu:Rv2697c	ec:3.6.1.23
+
+source = mtu:Rv2701c
+ec = mtu:Rv2701c	ec:3.1.3.25
+
+source = mtu:Rv2726c
+ec = mtu:Rv2726c	ec:5.1.1.7
+
+source = mtu:Rv2786c
+ec = mtu:Rv2786c	ec:2.7.1.26
+mtu:Rv2786c	ec:2.7.7.2
+
+source = mtu:Rv2868c
+ec = mtu:Rv2868c	ec:1.17.7.1
+mtu:Rv2868c	ec:1.17.7.3
+
+source = mtu:Rv2870c
+ec = mtu:Rv2870c	ec:1.1.1.267
+
+source = mtu:Rv2881c
+ec = mtu:Rv2881c	ec:2.7.7.41
+
+source = mtu:Rv2900c
+ec = 
+
+source = mtu:Rv2940c
+ec = mtu:Rv2940c	ec:2.3.1.111
+
+source = mtu:Rv2965c
+ec = mtu:Rv2965c	ec:2.7.7.3
+
+source = mtu:Rv2981c
+ec = mtu:Rv2981c	ec:6.3.2.4
+
+source = mtu:Rv2992c
+ec = mtu:Rv2992c	ec:6.1.1.17
+
+source = mtu:Rv3048c
+ec = mtu:Rv3048c	ec:1.17.4.1
+
+source = mtu:Rv3051c
+ec = mtu:Rv3051c	ec:1.17.4.1
+
+source = mtu:Rv3068c
+ec = mtu:Rv3068c	ec:5.4.2.2
+
+source = mtu:Rv3106
+ec = mtu:Rv3106	ec:1.18.1.2
+mtu:Rv3106	ec:1.19.1.1
+
+source = mtu:Rv3227
+ec = mtu:Rv3227	ec:2.5.1.19
+
+source = mtu:Rv3247c
+ec = mtu:Rv3247c	ec:2.7.4.9
+
+source = mtu:Rv3248c
+ec = mtu:Rv3248c	ec:3.3.1.1
+
+source = mtu:Rv3260c
+ec = 
+
+source = mtu:Rv3264c
+ec = mtu:Rv3264c	ec:2.7.7.13
+
+source = mtu:Rv3279c
+ec = mtu:Rv3279c	ec:6.3.4.15
+
+source = mtu:Rv3280
+ec = mtu:Rv3280	ec:6.4.1.3
+mtu:Rv3280	ec:2.1.3.15
+
+source = mtu:Rv3285
+ec = mtu:Rv3285	ec:6.4.1.2
+mtu:Rv3285	ec:6.4.1.3
+mtu:Rv3285	ec:6.3.4.14
+
+source = mtu:Rv3356c
+ec = mtu:Rv3356c	ec:1.5.1.5
+mtu:Rv3356c	ec:3.5.4.9
+
+source = mtu:Rv3398c
+ec = mtu:Rv3398c	ec:2.5.1.1
+mtu:Rv3398c	ec:2.5.1.10
+mtu:Rv3398c	ec:2.5.1.29
+
+source = mtu:Rv3465
+ec = mtu:Rv3465	ec:5.1.3.13
+
+source = mtu:Rv3581c
+ec = mtu:Rv3581c	ec:4.6.1.12
+
+source = mtu:Rv3582c
+ec = mtu:Rv3582c	ec:2.7.7.60
+
+source = mtu:Rv3601c
+ec = mtu:Rv3601c	ec:4.1.1.11
+
+source = mtu:Rv3602c
+ec = mtu:Rv3602c	ec:6.3.2.1
+
+source = mtu:Rv3790
+ec = mtu:Rv3790	ec:1.1.98.3
+
+source = mtu:Rv3791
+ec = mtu:Rv3791	ec:1.1.1.333
+
+source = mtu:Rv3792
+ec = mtu:Rv3792	ec:2.4.2.46
+
+source = mtu:Rv3793
+ec = 
+
+source = mtu:Rv3799c
+ec = 
+
+source = mtu:Rv3800c
+ec = 
+
+source = mtu:Rv3801c
+ec = 
+
+source = mtu:Rv3802c
+ec = 
+
+source = mtu:Rv3804c
+ec = mtu:Rv3804c	ec:2.3.1.20
+mtu:Rv3804c	ec:2.3.1.122
+
+source = mtu:Rv3806c
+ec = mtu:Rv3806c	ec:2.4.2.45
+
+source = mtu:Rv3808c
+ec = mtu:Rv3808c	ec:2.4.1.288
+
+source = mtu:Rv3809c
+ec = mtu:Rv3809c	ec:5.4.99.9
+
+source = mtu:Rv3818
+ec = 
+
+source = mtu:Rv3913
+ec = mtu:Rv3913	ec:1.8.1.9
+
+source = mtu:orphan
+ec = 
+
+source = mtv:Rv0129c
+ec = 
+
+source = mtv:Rv0334
+ec = 
+
+source = mtv:Rv0414c
+ec = 
+
+source = mtv:Rv0417
+ec = 
+
+source = mtv:Rv0422c
+ec = 
+
+source = mtv:Rv0423c
+ec = 
+
+source = mtv:Rv0436c
+ec = 
+
+source = mtv:Rv0437c
+ec = 
+
+source = mtv:Rv0482
+ec = 
+
+source = mtv:Rv0503c
+ec = 
+
+source = mtv:Rv0509
+ec = 
+
+source = mtv:Rv0510
+ec = 
+
+source = mtv:Rv0511
+ec = 
+
+source = mtv:Rv0512
+ec = 
+
+source = mtv:Rv0524
+ec = 
+
+source = mtv:Rv0533c
+ec = 
+
+source = mtv:Rv0534c
+ec = 
+
+source = mtv:Rv0535
+ec = 
+
+source = mtv:Rv0542c
+ec = 
+
+source = mtv:Rv0548c
+ec = 
+
+source = mtv:Rv0553
+ec = 
+
+source = mtv:Rv0555
+ec = 
+
+source = mtv:Rv0557
+ec = 
+
+source = mtv:Rv0562
+ec = 
+
+source = mtv:Rv0642c
+ec = 
+
+source = mtv:Rv0643c
+ec = 
+
+source = mtv:Rv0644c
+ec = 
+
+source = mtv:Rv0645c
+ec = 
+
+source = mtv:Rv0733
+ec = 
+
+source = mtv:Rv0772
+ec = 
+
+source = mtv:Rv0803
+ec = 
+
+source = mtv:Rv0808
+ec = 
+
+source = mtv:Rv0809
+ec = 
+
+source = mtv:Rv0956
+ec = 
+
+source = mtv:Rv1011
+ec = 
+
+source = mtv:Rv1017c
+ec = 
+
+source = mtv:Rv1018c
+ec = 
+
+source = mtv:Rv1086
+ec = 
+
+source = mtv:Rv1092c
+ec = 
+
+source = mtv:Rv1315
+ec = 
+
+source = mtv:Rv1391
+ec = 
+
+source = mtv:Rv1392
+ec = 
+
+source = mtv:Rv1412
+ec = 
+
+source = mtv:Rv1416
+ec = 
+
+source = mtv:Rv1484
+ec = 
+
+source = mtv:Rv1485
+ec = 
+
+source = mtv:Rv1500
+ec = 
+
+source = mtv:Rv1631
+ec = 
+
+source = mtv:Rv1695
+ec = 
+
+source = mtv:Rv1712
+ec = 
+
+source = mtv:Rv1745c
+ec = 
+
+source = mtv:Rv1886c
+ec = 
+
+source = mtv:Rv1940
+ec = 
+
+source = mtv:Rv2051c
+ec = 
+
+source = mtv:Rv2152c
+ec = 
+
+source = mtv:Rv2153c
+ec = 
+
+source = mtv:Rv2155c
+ec = 
+
+source = mtv:Rv2156c
+ec = 
+
+source = mtv:Rv2157c
+ec = 
+
+source = mtv:Rv2158c
+ec = 
+
+source = mtv:Rv2178c
+ec = 
+
+source = mtv:Rv2217
+ec = 
+
+source = mtv:Rv2218
+ec = 
+
+source = mtv:Rv2220
+ec = 
+
+source = mtv:Rv2225
+ec = 
+
+source = mtv:Rv2244
+ec = 
+
+source = mtv:Rv2445c
+ec = 
+
+source = mtv:Rv2482c
+ec = 
+
+source = mtv:Rv2523c
+ec = 
+
+source = mtv:Rv2524c
+ec = 
+
+source = mtv:Rv2531c
+ec = 
+
+source = mtv:Rv2537c
+ec = 
+
+source = mtv:Rv2538c
+ec = 
+
+source = mtv:Rv2539c
+ec = 
+
+source = mtv:Rv2540c
+ec = 
+
+source = mtv:Rv2552c
+ec = 
+
+source = mtv:Rv2573
+ec = 
+
+source = mtv:Rv2601
+ec = 
+
+source = mtv:Rv2610c
+ec = 
+
+source = mtv:Rv2611c
+ec = 
+
+source = mtv:Rv2612c
+ec = 
+
+source = mtv:Rv2678c
+ec = 
+
+source = mtv:Rv2697c
+ec = 
+
+source = mtv:Rv2701c
+ec = 
+
+source = mtv:Rv2726c
+ec = 
+
+source = mtv:Rv2786c
+ec = 
+
+source = mtv:Rv2868c
+ec = 
+
+source = mtv:Rv2870c
+ec = 
+
+source = mtv:Rv2881c
+ec = 
+
+source = mtv:Rv2900c
+ec = 
+
+source = mtv:Rv2940c
+ec = 
+
+source = mtv:Rv2965c
+ec = 
+
+source = mtv:Rv2981c
+ec = 
+
+source = mtv:Rv2992c
+ec = 
+
+source = mtv:Rv3048c
+ec = 
+
+source = mtv:Rv3051c
+ec = 
+
+source = mtv:Rv3068c
+ec = 
+
+source = mtv:Rv3106
+ec = 
+
+source = mtv:Rv3227
+ec = 
+
+source = mtv:Rv3247c
+ec = 
+
+source = mtv:Rv3248c
+ec = 
+
+source = mtv:Rv3260c
+ec = 
+
+source = mtv:Rv3264c
+ec = 
+
+source = mtv:Rv3279c
+ec = 
+
+source = mtv:Rv3280
+ec = 
+
+source = mtv:Rv3285
+ec = 
+
+source = mtv:Rv3356c
+ec = 
+
+source = mtv:Rv3398c
+ec = 
+
+source = mtv:Rv3465
+ec = 
+
+source = mtv:Rv3581c
+ec = 
+
+source = mtv:Rv3582c
+ec = 
+
+source = mtv:Rv3601c
+ec = 
+
+source = mtv:Rv3602c
+ec = 
+
+source = mtv:Rv3790
+ec = 
+
+source = mtv:Rv3791
+ec = 
+
+source = mtv:Rv3792
+ec = 
+
+source = mtv:Rv3793
+ec = 
+
+source = mtv:Rv3799c
+ec = 
+
+source = mtv:Rv3800c
+ec = 
+
+source = mtv:Rv3801c
+ec = 
+
+source = mtv:Rv3802c
+ec = 
+
+source = mtv:Rv3804c
+ec = 
+
+source = mtv:Rv3806c
+ec = 
+
+source = mtv:Rv3808c
+ec = 
+
+source = mtv:Rv3809c
+ec = 
+
+source = mtv:Rv3818
+ec = 
+
+source = mtv:Rv3913
+ec = 
+
+source = mtv:orphan
+ec = 
+
+source = mtc:Rv0129c
+ec = 
+
+source = mtc:Rv0334
+ec = 
+
+source = mtc:Rv0414c
+ec = 
+
+source = mtc:Rv0417
+ec = 
+
+source = mtc:Rv0422c
+ec = 
+
+source = mtc:Rv0423c
+ec = 
+
+source = mtc:Rv0436c
+ec = 
+
+source = mtc:Rv0437c
+ec = 
+
+source = mtc:Rv0482
+ec = 
+
+source = mtc:Rv0503c
+ec = 
+
+source = mtc:Rv0509
+ec = 
+
+source = mtc:Rv0510
+ec = 
+
+source = mtc:Rv0511
+ec = 
+
+source = mtc:Rv0512
+ec = 
+
+source = mtc:Rv0524
+ec = 
+
+source = mtc:Rv0533c
+ec = 
+
+source = mtc:Rv0534c
+ec = 
+
+source = mtc:Rv0535
+ec = 
+
+source = mtc:Rv0542c
+ec = 
+
+source = mtc:Rv0548c
+ec = 
+
+source = mtc:Rv0553
+ec = 
+
+source = mtc:Rv0555
+ec = 
+
+source = mtc:Rv0557
+ec = 
+
+source = mtc:Rv0562
+ec = 
+
+source = mtc:Rv0642c
+ec = 
+
+source = mtc:Rv0643c
+ec = 
+
+source = mtc:Rv0644c
+ec = 
+
+source = mtc:Rv0645c
+ec = 
+
+source = mtc:Rv0733
+ec = 
+
+source = mtc:Rv0772
+ec = 
+
+source = mtc:Rv0803
+ec = 
+
+source = mtc:Rv0808
+ec = 
+
+source = mtc:Rv0809
+ec = 
+
+source = mtc:Rv0956
+ec = 
+
+source = mtc:Rv1011
+ec = 
+
+source = mtc:Rv1017c
+ec = 
+
+source = mtc:Rv1018c
+ec = 
+
+source = mtc:Rv1086
+ec = 
+
+source = mtc:Rv1092c
+ec = 
+
+source = mtc:Rv1315
+ec = 
+
+source = mtc:Rv1391
+ec = 
+
+source = mtc:Rv1392
+ec = 
+
+source = mtc:Rv1412
+ec = 
+
+source = mtc:Rv1416
+ec = 
+
+source = mtc:Rv1484
+ec = 
+
+source = mtc:Rv1485
+ec = 
+
+source = mtc:Rv1500
+ec = 
+
+source = mtc:Rv1631
+ec = 
+
+source = mtc:Rv1695
+ec = 
+
+source = mtc:Rv1712
+ec = 
+
+source = mtc:Rv1745c
+ec = 
+
+source = mtc:Rv1886c
+ec = 
+
+source = mtc:Rv1940
+ec = 
+
+source = mtc:Rv2051c
+ec = 
+
+source = mtc:Rv2152c
+ec = 
+
+source = mtc:Rv2153c
+ec = 
+
+source = mtc:Rv2155c
+ec = 
+
+source = mtc:Rv2156c
+ec = 
+
+source = mtc:Rv2157c
+ec = 
+
+source = mtc:Rv2158c
+ec = 
+
+source = mtc:Rv2178c
+ec = 
+
+source = mtc:Rv2217
+ec = 
+
+source = mtc:Rv2218
+ec = 
+
+source = mtc:Rv2220
+ec = 
+
+source = mtc:Rv2225
+ec = 
+
+source = mtc:Rv2244
+ec = 
+
+source = mtc:Rv2445c
+ec = 
+
+source = mtc:Rv2482c
+ec = 
+
+source = mtc:Rv2523c
+ec = 
+
+source = mtc:Rv2524c
+ec = 
+
+source = mtc:Rv2531c
+ec = 
+
+source = mtc:Rv2537c
+ec = 
+
+source = mtc:Rv2538c
+ec = 
+
+source = mtc:Rv2539c
+ec = 
+
+source = mtc:Rv2540c
+ec = 
+
+source = mtc:Rv2552c
+ec = 
+
+source = mtc:Rv2573
+ec = 
+
+source = mtc:Rv2601
+ec = 
+
+source = mtc:Rv2610c
+ec = 
+
+source = mtc:Rv2611c
+ec = 
+
+source = mtc:Rv2612c
+ec = 
+
+source = mtc:Rv2678c
+ec = 
+
+source = mtc:Rv2697c
+ec = 
+
+source = mtc:Rv2701c
+ec = 
+
+source = mtc:Rv2726c
+ec = 
+
+source = mtc:Rv2786c
+ec = 
+
+source = mtc:Rv2868c
+ec = 
+
+source = mtc:Rv2870c
+ec = 
+
+source = mtc:Rv2881c
+ec = 
+
+source = mtc:Rv2900c
+ec = 
+
+source = mtc:Rv2940c
+ec = 
+
+source = mtc:Rv2965c
+ec = 
+
+source = mtc:Rv2981c
+ec = 
+
+source = mtc:Rv2992c
+ec = 
+
+source = mtc:Rv3048c
+ec = 
+
+source = mtc:Rv3051c
+ec = 
+
+source = mtc:Rv3068c
+ec = 
+
+source = mtc:Rv3106
+ec = 
+
+source = mtc:Rv3227
+ec = 
+
+source = mtc:Rv3247c
+ec = 
+
+source = mtc:Rv3248c
+ec = 
+
+source = mtc:Rv3260c
+ec = 
+
+source = mtc:Rv3264c
+ec = 
+
+source = mtc:Rv3279c
+ec = 
+
+source = mtc:Rv3280
+ec = 
+
+source = mtc:Rv3285
+ec = 
+
+source = mtc:Rv3356c
+ec = 
+
+source = mtc:Rv3398c
+ec = 
+
+source = mtc:Rv3465
+ec = 
+
+source = mtc:Rv3581c
+ec = 
+
+source = mtc:Rv3582c
+ec = 
+
+source = mtc:Rv3601c
+ec = 
+
+source = mtc:Rv3602c
+ec = 
+
+source = mtc:Rv3790
+ec = 
+
+source = mtc:Rv3791
+ec = 
+
+source = mtc:Rv3792
+ec = 
+
+source = mtc:Rv3793
+ec = 
+
+source = mtc:Rv3799c
+ec = 
+
+source = mtc:Rv3800c
+ec = 
+
+source = mtc:Rv3801c
+ec = 
+
+source = mtc:Rv3802c
+ec = 
+
+source = mtc:Rv3804c
+ec = 
+
+source = mtc:Rv3806c
+ec = 
+
+source = mtc:Rv3808c
+ec = 
+
+source = mtc:Rv3809c
+ec = 
+
+source = mtc:Rv3818
+ec = 
+
+source = mtc:Rv3913
+ec = 
+
+source = mtc:orphan
+ec = 
+
+source = mra:Rv0129c
+ec = 
+
+source = mra:Rv0334
+ec = 
+
+source = mra:Rv0414c
+ec = 
+
+source = mra:Rv0417
+ec = 
+
+source = mra:Rv0422c
+ec = 
+
+source = mra:Rv0423c
+ec = 
+
+source = mra:Rv0436c
+ec = 
+
+source = mra:Rv0437c
+ec = 
+
+source = mra:Rv0482
+ec = 
+
+source = mra:Rv0503c
+ec = 
+
+source = mra:Rv0509
+ec = 
+
+source = mra:Rv0510
+ec = 
+
+source = mra:Rv0511
+ec = 
+
+source = mra:Rv0512
+ec = 
+
+source = mra:Rv0524
+ec = 
+
+source = mra:Rv0533c
+ec = 
+
+source = mra:Rv0534c
+ec = 
+
+source = mra:Rv0535
+ec = 
+
+source = mra:Rv0542c
+ec = 
+
+source = mra:Rv0548c
+ec = 
+
+source = mra:Rv0553
+ec = 
+
+source = mra:Rv0555
+ec = 
+
+source = mra:Rv0557
+ec = 
+
+source = mra:Rv0562
+ec = 
+
+source = mra:Rv0642c
+ec = 
+
+source = mra:Rv0643c
+ec = 
+
+source = mra:Rv0644c
+ec = 
+
+source = mra:Rv0645c
+ec = 
+
+source = mra:Rv0733
+ec = 
+
+source = mra:Rv0772
+ec = 
+
+source = mra:Rv0803
+ec = 
+
+source = mra:Rv0808
+ec = 
+
+source = mra:Rv0809
+ec = 
+
+source = mra:Rv0956
+ec = 
+
+source = mra:Rv1011
+ec = 
+
+source = mra:Rv1017c
+ec = 
+
+source = mra:Rv1018c
+ec = 
+
+source = mra:Rv1086
+ec = 
+
+source = mra:Rv1092c
+ec = 
+
+source = mra:Rv1315
+ec = 
+
+source = mra:Rv1391
+ec = 
+
+source = mra:Rv1392
+ec = 
+
+source = mra:Rv1412
+ec = 
+
+source = mra:Rv1416
+ec = 
+
+source = mra:Rv1484
+ec = 
+
+source = mra:Rv1485
+ec = 
+
+source = mra:Rv1500
+ec = 
+
+source = mra:Rv1631
+ec = 
+
+source = mra:Rv1695
+ec = 
+
+source = mra:Rv1712
+ec = 
+
+source = mra:Rv1745c
+ec = 
+
+source = mra:Rv1886c
+ec = 
+
+source = mra:Rv1940
+ec = 
+
+source = mra:Rv2051c
+ec = 
+
+source = mra:Rv2152c
+ec = 
+
+source = mra:Rv2153c
+ec = 
+
+source = mra:Rv2155c
+ec = 
+
+source = mra:Rv2156c
+ec = 
+
+source = mra:Rv2157c
+ec = 
+
+source = mra:Rv2158c
+ec = 
+
+source = mra:Rv2178c
+ec = 
+
+source = mra:Rv2217
+ec = 
+
+source = mra:Rv2218
+ec = 
+
+source = mra:Rv2220
+ec = 
+
+source = mra:Rv2225
+ec = 
+
+source = mra:Rv2244
+ec = 
+
+source = mra:Rv2445c
+ec = 
+
+source = mra:Rv2482c
+ec = 
+
+source = mra:Rv2523c
+ec = 
+
+source = mra:Rv2524c
+ec = 
+
+source = mra:Rv2531c
+ec = 
+
+source = mra:Rv2537c
+ec = 
+
+source = mra:Rv2538c
+ec = 
+
+source = mra:Rv2539c
+ec = 
+
+source = mra:Rv2540c
+ec = 
+
+source = mra:Rv2552c
+ec = 
+
+source = mra:Rv2573
+ec = 
+
+source = mra:Rv2601
+ec = 
+
+source = mra:Rv2610c
+ec = 
+
+source = mra:Rv2611c
+ec = 
+
+source = mra:Rv2612c
+ec = 
+
+source = mra:Rv2678c
+ec = 
+
+source = mra:Rv2697c
+ec = 
+
+source = mra:Rv2701c
+ec = 
+
+source = mra:Rv2726c
+ec = 
+
+source = mra:Rv2786c
+ec = 
+
+source = mra:Rv2868c
+ec = 
+
+source = mra:Rv2870c
+ec = 
+
+source = mra:Rv2881c
+ec = 
+
+source = mra:Rv2900c
+ec = 
+
+source = mra:Rv2940c
+ec = 
+
+source = mra:Rv2965c
+ec = 
+
+source = mra:Rv2981c
+ec = 
+
+source = mra:Rv2992c
+ec = 
+
+source = mra:Rv3048c
+ec = 
+
+source = mra:Rv3051c
+ec = 
+
+source = mra:Rv3068c
+ec = 
+
+source = mra:Rv3106
+ec = 
+
+source = mra:Rv3227
+ec = 
+
+source = mra:Rv3247c
+ec = 
+
+source = mra:Rv3248c
+ec = 
+
+source = mra:Rv3260c
+ec = 
+
+source = mra:Rv3264c
+ec = 
+
+source = mra:Rv3279c
+ec = 
+
+source = mra:Rv3280
+ec = 
+
+source = mra:Rv3285
+ec = 
+
+source = mra:Rv3356c
+ec = 
+
+source = mra:Rv3398c
+ec = 
+
+source = mra:Rv3465
+ec = 
+
+source = mra:Rv3581c
+ec = 
+
+source = mra:Rv3582c
+ec = 
+
+source = mra:Rv3601c
+ec = 
+
+source = mra:Rv3602c
+ec = 
+
+source = mra:Rv3790
+ec = 
+
+source = mra:Rv3791
+ec = 
+
+source = mra:Rv3792
+ec = 
+
+source = mra:Rv3793
+ec = 
+
+source = mra:Rv3799c
+ec = 
+
+source = mra:Rv3800c
+ec = 
+
+source = mra:Rv3801c
+ec = 
+
+source = mra:Rv3802c
+ec = 
+
+source = mra:Rv3804c
+ec = 
+
+source = mra:Rv3806c
+ec = 
+
+source = mra:Rv3808c
+ec = 
+
+source = mra:Rv3809c
+ec = 
+
+source = mra:Rv3818
+ec = 
+
+source = mra:Rv3913
+ec = 
+
+source = mra:orphan
+ec = 
+
+source = mtf:Rv0129c
+ec = 
+
+source = mtf:Rv0334
+ec = 
+
+source = mtf:Rv0414c
+ec = 
+
+source = mtf:Rv0417
+ec = 
+
+source = mtf:Rv0422c
+ec = 
+
+source = mtf:Rv0423c
+ec = 
+
+source = mtf:Rv0436c
+ec = 
+
+source = mtf:Rv0437c
+ec = 
+
+source = mtf:Rv0482
+ec = 
+
+source = mtf:Rv0503c
+ec = 
+
+source = mtf:Rv0509
+ec = 
+
+source = mtf:Rv0510
+ec = 
+
+source = mtf:Rv0511
+ec = 
+
+source = mtf:Rv0512
+ec = 
+
+source = mtf:Rv0524
+ec = 
+
+source = mtf:Rv0533c
+ec = 
+
+source = mtf:Rv0534c
+ec = 
+
+source = mtf:Rv0535
+ec = 
+
+source = mtf:Rv0542c
+ec = 
+
+source = mtf:Rv0548c
+ec = 
+
+source = mtf:Rv0553
+ec = 
+
+source = mtf:Rv0555
+ec = 
+
+source = mtf:Rv0557
+ec = 
+
+source = mtf:Rv0562
+ec = 
+
+source = mtf:Rv0642c
+ec = 
+
+source = mtf:Rv0643c
+ec = 
+
+source = mtf:Rv0644c
+ec = 
+
+source = mtf:Rv0645c
+ec = 
+
+source = mtf:Rv0733
+ec = 
+
+source = mtf:Rv0772
+ec = 
+
+source = mtf:Rv0803
+ec = 
+
+source = mtf:Rv0808
+ec = 
+
+source = mtf:Rv0809
+ec = 
+
+source = mtf:Rv0956
+ec = 
+
+source = mtf:Rv1011
+ec = 
+
+source = mtf:Rv1017c
+ec = 
+
+source = mtf:Rv1018c
+ec = 
+
+source = mtf:Rv1086
+ec = 
+
+source = mtf:Rv1092c
+ec = 
+
+source = mtf:Rv1315
+ec = 
+
+source = mtf:Rv1391
+ec = 
+
+source = mtf:Rv1392
+ec = 
+
+source = mtf:Rv1412
+ec = 
+
+source = mtf:Rv1416
+ec = 
+
+source = mtf:Rv1484
+ec = 
+
+source = mtf:Rv1485
+ec = 
+
+source = mtf:Rv1500
+ec = 
+
+source = mtf:Rv1631
+ec = 
+
+source = mtf:Rv1695
+ec = 
+
+source = mtf:Rv1712
+ec = 
+
+source = mtf:Rv1745c
+ec = 
+
+source = mtf:Rv1886c
+ec = 
+
+source = mtf:Rv1940
+ec = 
+
+source = mtf:Rv2051c
+ec = 
+
+source = mtf:Rv2152c
+ec = 
+
+source = mtf:Rv2153c
+ec = 
+
+source = mtf:Rv2155c
+ec = 
+
+source = mtf:Rv2156c
+ec = 
+
+source = mtf:Rv2157c
+ec = 
+
+source = mtf:Rv2158c
+ec = 
+
+source = mtf:Rv2178c
+ec = 
+
+source = mtf:Rv2217
+ec = 
+
+source = mtf:Rv2218
+ec = 
+
+source = mtf:Rv2220
+ec = 
+
+source = mtf:Rv2225
+ec = 
+
+source = mtf:Rv2244
+ec = 
+
+source = mtf:Rv2445c
+ec = 
+
+source = mtf:Rv2482c
+ec = 
+
+source = mtf:Rv2523c
+ec = 
+
+source = mtf:Rv2524c
+ec = 
+
+source = mtf:Rv2531c
+ec = 
+
+source = mtf:Rv2537c
+ec = 
+
+source = mtf:Rv2538c
+ec = 
+
+source = mtf:Rv2539c
+ec = 
+
+source = mtf:Rv2540c
+ec = 
+
+source = mtf:Rv2552c
+ec = 
+
+source = mtf:Rv2573
+ec = 
+
+source = mtf:Rv2601
+ec = 
+
+source = mtf:Rv2610c
+ec = 
+
+source = mtf:Rv2611c
+ec = 
+
+source = mtf:Rv2612c
+ec = 
+
+source = mtf:Rv2678c
+ec = 
+
+source = mtf:Rv2697c
+ec = 
+
+source = mtf:Rv2701c
+ec = 
+
+source = mtf:Rv2726c
+ec = 
+
+source = mtf:Rv2786c
+ec = 
+
+source = mtf:Rv2868c
+ec = 
+
+source = mtf:Rv2870c
+ec = 
+
+source = mtf:Rv2881c
+ec = 
+
+source = mtf:Rv2900c
+ec = 
+
+source = mtf:Rv2940c
+ec = 
+
+source = mtf:Rv2965c
+ec = 
+
+source = mtf:Rv2981c
+ec = 
+
+source = mtf:Rv2992c
+ec = 
+
+source = mtf:Rv3048c
+ec = 
+
+source = mtf:Rv3051c
+ec = 
+
+source = mtf:Rv3068c
+ec = 
+
+source = mtf:Rv3106
+ec = 
+
+source = mtf:Rv3227
+ec = 
+
+source = mtf:Rv3247c
+ec = 
+
+source = mtf:Rv3248c
+ec = 
+
+source = mtf:Rv3260c
+ec = 
+
+source = mtf:Rv3264c
+ec = 
+
+source = mtf:Rv3279c
+ec = 
+
+source = mtf:Rv3280
+ec = 
+
+source = mtf:Rv3285
+ec = 
+
+source = mtf:Rv3356c
+ec = 
+
+source = mtf:Rv3398c
+ec = 
+
+source = mtf:Rv3465
+ec = 
+
+source = mtf:Rv3581c
+ec = 
+
+source = mtf:Rv3582c
+ec = 
+
+source = mtf:Rv3601c
+ec = 
+
+source = mtf:Rv3602c
+ec = 
+
+source = mtf:Rv3790
+ec = 
+
+source = mtf:Rv3791
+ec = 
+
+source = mtf:Rv3792
+ec = 
+
+source = mtf:Rv3793
+ec = 
+
+source = mtf:Rv3799c
+ec = 
+
+source = mtf:Rv3800c
+ec = 
+
+source = mtf:Rv3801c
+ec = 
+
+source = mtf:Rv3802c
+ec = 
+
+source = mtf:Rv3804c
+ec = 
+
+source = mtf:Rv3806c
+ec = 
+
+source = mtf:Rv3808c
+ec = 
+
+source = mtf:Rv3809c
+ec = 
+
+source = mtf:Rv3818
+ec = 
+
+source = mtf:Rv3913
+ec = 
+
+source = mtf:orphan
+ec = 
+
+source = mtb:Rv0129c
+ec = 
+
+source = mtb:Rv0334
+ec = 
+
+source = mtb:Rv0414c
+ec = 
+
+source = mtb:Rv0417
+ec = 
+
+source = mtb:Rv0422c
+ec = 
+
+source = mtb:Rv0423c
+ec = 
+
+source = mtb:Rv0436c
+ec = 
+
+source = mtb:Rv0437c
+ec = 
+
+source = mtb:Rv0482
+ec = 
+
+source = mtb:Rv0503c
+ec = 
+
+source = mtb:Rv0509
+ec = 
+
+source = mtb:Rv0510
+ec = 
+
+source = mtb:Rv0511
+ec = 
+
+source = mtb:Rv0512
+ec = 
+
+source = mtb:Rv0524
+ec = 
+
+source = mtb:Rv0533c
+ec = 
+
+source = mtb:Rv0534c
+ec = 
+
+source = mtb:Rv0535
+ec = 
+
+source = mtb:Rv0542c
+ec = 
+
+source = mtb:Rv0548c
+ec = 
+
+source = mtb:Rv0553
+ec = 
+
+source = mtb:Rv0555
+ec = 
+
+source = mtb:Rv0557
+ec = 
+
+source = mtb:Rv0562
+ec = 
+
+source = mtb:Rv0642c
+ec = 
+
+source = mtb:Rv0643c
+ec = 
+
+source = mtb:Rv0644c
+ec = 
+
+source = mtb:Rv0645c
+ec = 
+
+source = mtb:Rv0733
+ec = 
+
+source = mtb:Rv0772
+ec = 
+
+source = mtb:Rv0803
+ec = 
+
+source = mtb:Rv0808
+ec = 
+
+source = mtb:Rv0809
+ec = 
+
+source = mtb:Rv0956
+ec = 
+
+source = mtb:Rv1011
+ec = 
+
+source = mtb:Rv1017c
+ec = 
+
+source = mtb:Rv1018c
+ec = 
+
+source = mtb:Rv1086
+ec = 
+
+source = mtb:Rv1092c
+ec = 
+
+source = mtb:Rv1315
+ec = 
+
+source = mtb:Rv1391
+ec = 
+
+source = mtb:Rv1392
+ec = 
+
+source = mtb:Rv1412
+ec = 
+
+source = mtb:Rv1416
+ec = 
+
+source = mtb:Rv1484
+ec = 
+
+source = mtb:Rv1485
+ec = 
+
+source = mtb:Rv1500
+ec = 
+
+source = mtb:Rv1631
+ec = 
+
+source = mtb:Rv1695
+ec = 
+
+source = mtb:Rv1712
+ec = 
+
+source = mtb:Rv1745c
+ec = 
+
+source = mtb:Rv1886c
+ec = 
+
+source = mtb:Rv1940
+ec = 
+
+source = mtb:Rv2051c
+ec = 
+
+source = mtb:Rv2152c
+ec = 
+
+source = mtb:Rv2153c
+ec = 
+
+source = mtb:Rv2155c
+ec = 
+
+source = mtb:Rv2156c
+ec = 
+
+source = mtb:Rv2157c
+ec = 
+
+source = mtb:Rv2158c
+ec = 
+
+source = mtb:Rv2178c
+ec = 
+
+source = mtb:Rv2217
+ec = 
+
+source = mtb:Rv2218
+ec = 
+
+source = mtb:Rv2220
+ec = 
+
+source = mtb:Rv2225
+ec = 
+
+source = mtb:Rv2244
+ec = 
+
+source = mtb:Rv2445c
+ec = 
+
+source = mtb:Rv2482c
+ec = 
+
+source = mtb:Rv2523c
+ec = 
+
+source = mtb:Rv2524c
+ec = 
+
+source = mtb:Rv2531c
+ec = 
+
+source = mtb:Rv2537c
+ec = 
+
+source = mtb:Rv2538c
+ec = 
+
+source = mtb:Rv2539c
+ec = 
+
+source = mtb:Rv2540c
+ec = 
+
+source = mtb:Rv2552c
+ec = 
+
+source = mtb:Rv2573
+ec = 
+
+source = mtb:Rv2601
+ec = 
+
+source = mtb:Rv2610c
+ec = 
+
+source = mtb:Rv2611c
+ec = 
+
+source = mtb:Rv2612c
+ec = 
+
+source = mtb:Rv2678c
+ec = 
+
+source = mtb:Rv2697c
+ec = 
+
+source = mtb:Rv2701c
+ec = 
+
+source = mtb:Rv2726c
+ec = 
+
+source = mtb:Rv2786c
+ec = 
+
+source = mtb:Rv2868c
+ec = 
+
+source = mtb:Rv2870c
+ec = 
+
+source = mtb:Rv2881c
+ec = 
+
+source = mtb:Rv2900c
+ec = 
+
+source = mtb:Rv2940c
+ec = 
+
+source = mtb:Rv2965c
+ec = 
+
+source = mtb:Rv2981c
+ec = 
+
+source = mtb:Rv2992c
+ec = 
+
+source = mtb:Rv3048c
+ec = 
+
+source = mtb:Rv3051c
+ec = 
+
+source = mtb:Rv3068c
+ec = 
+
+source = mtb:Rv3106
+ec = 
+
+source = mtb:Rv3227
+ec = 
+
+source = mtb:Rv3247c
+ec = 
+
+source = mtb:Rv3248c
+ec = 
+
+source = mtb:Rv3260c
+ec = 
+
+source = mtb:Rv3264c
+ec = 
+
+source = mtb:Rv3279c
+ec = 
+
+source = mtb:Rv3280
+ec = 
+
+source = mtb:Rv3285
+ec = 
+
+source = mtb:Rv3356c
+ec = 
+
+source = mtb:Rv3398c
+ec = 
+
+source = mtb:Rv3465
+ec = 
+
+source = mtb:Rv3581c
+ec = 
+
+source = mtb:Rv3582c
+ec = 
+
+source = mtb:Rv3601c
+ec = 
+
+source = mtb:Rv3602c
+ec = 
+
+source = mtb:Rv3790
+ec = 
+
+source = mtb:Rv3791
+ec = 
+
+source = mtb:Rv3792
+ec = 
+
+source = mtb:Rv3793
+ec = 
+
+source = mtb:Rv3799c
+ec = 
+
+source = mtb:Rv3800c
+ec = 
+
+source = mtb:Rv3801c
+ec = 
+
+source = mtb:Rv3802c
+ec = 
+
+source = mtb:Rv3804c
+ec = 
+
+source = mtb:Rv3806c
+ec = 
+
+source = mtb:Rv3808c
+ec = 
+
+source = mtb:Rv3809c
+ec = 
+
+source = mtb:Rv3818
+ec = 
+
+source = mtb:Rv3913
+ec = 
+
+source = mtb:orphan
+ec = 
+
+source = mtk:Rv0129c
+ec = 
+
+source = mtk:Rv0334
+ec = 
+
+source = mtk:Rv0414c
+ec = 
+
+source = mtk:Rv0417
+ec = 
+
+source = mtk:Rv0422c
+ec = 
+
+source = mtk:Rv0423c
+ec = 
+
+source = mtk:Rv0436c
+ec = 
+
+source = mtk:Rv0437c
+ec = 
+
+source = mtk:Rv0482
+ec = 
+
+source = mtk:Rv0503c
+ec = 
+
+source = mtk:Rv0509
+ec = 
+
+source = mtk:Rv0510
+ec = 
+
+source = mtk:Rv0511
+ec = 
+
+source = mtk:Rv0512
+ec = 
+
+source = mtk:Rv0524
+ec = 
+
+source = mtk:Rv0533c
+ec = 
+
+source = mtk:Rv0534c
+ec = 
+
+source = mtk:Rv0535
+ec = 
+
+source = mtk:Rv0542c
+ec = 
+
+source = mtk:Rv0548c
+ec = 
+
+source = mtk:Rv0553
+ec = 
+
+source = mtk:Rv0555
+ec = 
+
+source = mtk:Rv0557
+ec = 
+
+source = mtk:Rv0562
+ec = 
+
+source = mtk:Rv0642c
+ec = 
+
+source = mtk:Rv0643c
+ec = 
+
+source = mtk:Rv0644c
+ec = 
+
+source = mtk:Rv0645c
+ec = 
+
+source = mtk:Rv0733
+ec = 
+
+source = mtk:Rv0772
+ec = 
+
+source = mtk:Rv0803
+ec = 
+
+source = mtk:Rv0808
+ec = 
+
+source = mtk:Rv0809
+ec = 
+
+source = mtk:Rv0956
+ec = 
+
+source = mtk:Rv1011
+ec = 
+
+source = mtk:Rv1017c
+ec = 
+
+source = mtk:Rv1018c
+ec = 
+
+source = mtk:Rv1086
+ec = 
+
+source = mtk:Rv1092c
+ec = 
+
+source = mtk:Rv1315
+ec = 
+
+source = mtk:Rv1391
+ec = 
+
+source = mtk:Rv1392
+ec = 
+
+source = mtk:Rv1412
+ec = 
+
+source = mtk:Rv1416
+ec = 
+
+source = mtk:Rv1484
+ec = 
+
+source = mtk:Rv1485
+ec = 
+
+source = mtk:Rv1500
+ec = 
+
+source = mtk:Rv1631
+ec = 
+
+source = mtk:Rv1695
+ec = 
+
+source = mtk:Rv1712
+ec = 
+
+source = mtk:Rv1745c
+ec = 
+
+source = mtk:Rv1886c
+ec = 
+
+source = mtk:Rv1940
+ec = 
+
+source = mtk:Rv2051c
+ec = 
+
+source = mtk:Rv2152c
+ec = 
+
+source = mtk:Rv2153c
+ec = 
+
+source = mtk:Rv2155c
+ec = 
+
+source = mtk:Rv2156c
+ec = 
+
+source = mtk:Rv2157c
+ec = 
+
+source = mtk:Rv2158c
+ec = 
+
+source = mtk:Rv2178c
+ec = 
+
+source = mtk:Rv2217
+ec = 
+
+source = mtk:Rv2218
+ec = 
+
+source = mtk:Rv2220
+ec = 
+
+source = mtk:Rv2225
+ec = 
+
+source = mtk:Rv2244
+ec = 
+
+source = mtk:Rv2445c
+ec = 
+
+source = mtk:Rv2482c
+ec = 
+
+source = mtk:Rv2523c
+ec = 
+
+source = mtk:Rv2524c
+ec = 
+
+source = mtk:Rv2531c
+ec = 
+
+source = mtk:Rv2537c
+ec = 
+
+source = mtk:Rv2538c
+ec = 
+
+source = mtk:Rv2539c
+ec = 
+
+source = mtk:Rv2540c
+ec = 
+
+source = mtk:Rv2552c
+ec = 
+
+source = mtk:Rv2573
+ec = 
+
+source = mtk:Rv2601
+ec = 
+
+source = mtk:Rv2610c
+ec = 
+
+source = mtk:Rv2611c
+ec = 
+
+source = mtk:Rv2612c
+ec = 
+
+source = mtk:Rv2678c
+ec = 
+
+source = mtk:Rv2697c
+ec = 
+
+source = mtk:Rv2701c
+ec = 
+
+source = mtk:Rv2726c
+ec = 
+
+source = mtk:Rv2786c
+ec = 
+
+source = mtk:Rv2868c
+ec = 
+
+source = mtk:Rv2870c
+ec = 
+
+source = mtk:Rv2881c
+ec = 
+
+source = mtk:Rv2900c
+ec = 
+
+source = mtk:Rv2940c
+ec = 
+
+source = mtk:Rv2965c
+ec = 
+
+source = mtk:Rv2981c
+ec = 
+
+source = mtk:Rv2992c
+ec = 
+
+source = mtk:Rv3048c
+ec = 
+
+source = mtk:Rv3051c
+ec = 
+
+source = mtk:Rv3068c
+ec = 
+
+source = mtk:Rv3106
+ec = 
+
+source = mtk:Rv3227
+ec = 
+
+source = mtk:Rv3247c
+ec = 
+
+source = mtk:Rv3248c
+ec = 
+
+source = mtk:Rv3260c
+ec = 
+
+source = mtk:Rv3264c
+ec = 
+
+source = mtk:Rv3279c
+ec = 
+
+source = mtk:Rv3280
+ec = 
+
+source = mtk:Rv3285
+ec = 
+
+source = mtk:Rv3356c
+ec = 
+
+source = mtk:Rv3398c
+ec = 
+
+source = mtk:Rv3465
+ec = 
+
+source = mtk:Rv3581c
+ec = 
+
+source = mtk:Rv3582c
+ec = 
+
+source = mtk:Rv3601c
+ec = 
+
+source = mtk:Rv3602c
+ec = 
+
+source = mtk:Rv3790
+ec = 
+
+source = mtk:Rv3791
+ec = 
+
+source = mtk:Rv3792
+ec = 
+
+source = mtk:Rv3793
+ec = 
+
+source = mtk:Rv3799c
+ec = 
+
+source = mtk:Rv3800c
+ec = 
+
+source = mtk:Rv3801c
+ec = 
+
+source = mtk:Rv3802c
+ec = 
+
+source = mtk:Rv3804c
+ec = 
+
+source = mtk:Rv3806c
+ec = 
+
+source = mtk:Rv3808c
+ec = 
+
+source = mtk:Rv3809c
+ec = 
+
+source = mtk:Rv3818
+ec = 
+
+source = mtk:Rv3913
+ec = 
+
+source = mtk:orphan
+ec = 
+
+source = mtz:Rv0129c
+ec = 
+
+source = mtz:Rv0334
+ec = 
+
+source = mtz:Rv0414c
+ec = 
+
+source = mtz:Rv0417
+ec = 
+
+source = mtz:Rv0422c
+ec = 
+
+source = mtz:Rv0423c
+ec = 
+
+source = mtz:Rv0436c
+ec = 
+
+source = mtz:Rv0437c
+ec = 
+
+source = mtz:Rv0482
+ec = 
+
+source = mtz:Rv0503c
+ec = 
+
+source = mtz:Rv0509
+ec = 
+
+source = mtz:Rv0510
+ec = 
+
+source = mtz:Rv0511
+ec = 
+
+source = mtz:Rv0512
+ec = 
+
+source = mtz:Rv0524
+ec = 
+
+source = mtz:Rv0533c
+ec = 
+
+source = mtz:Rv0534c
+ec = 
+
+source = mtz:Rv0535
+ec = 
+
+source = mtz:Rv0542c
+ec = 
+
+source = mtz:Rv0548c
+ec = 
+
+source = mtz:Rv0553
+ec = 
+
+source = mtz:Rv0555
+ec = 
+
+source = mtz:Rv0557
+ec = 
+
+source = mtz:Rv0562
+ec = 
+
+source = mtz:Rv0642c
+ec = 
+
+source = mtz:Rv0643c
+ec = 
+
+source = mtz:Rv0644c
+ec = 
+
+source = mtz:Rv0645c
+ec = 
+
+source = mtz:Rv0733
+ec = 
+
+source = mtz:Rv0772
+ec = 
+
+source = mtz:Rv0803
+ec = 
+
+source = mtz:Rv0808
+ec = 
+
+source = mtz:Rv0809
+ec = 
+
+source = mtz:Rv0956
+ec = 
+
+source = mtz:Rv1011
+ec = 
+
+source = mtz:Rv1017c
+ec = 
+
+source = mtz:Rv1018c
+ec = 
+
+source = mtz:Rv1086
+ec = 
+
+source = mtz:Rv1092c
+ec = 
+
+source = mtz:Rv1315
+ec = 
+
+source = mtz:Rv1391
+ec = 
+
+source = mtz:Rv1392
+ec = 
+
+source = mtz:Rv1412
+ec = 
+
+source = mtz:Rv1416
+ec = 
+
+source = mtz:Rv1484
+ec = 
+
+source = mtz:Rv1485
+ec = 
+
+source = mtz:Rv1500
+ec = 
+
+source = mtz:Rv1631
+ec = 
+
+source = mtz:Rv1695
+ec = 
+
+source = mtz:Rv1712
+ec = 
+
+source = mtz:Rv1745c
+ec = 
+
+source = mtz:Rv1886c
+ec = 
+
+source = mtz:Rv1940
+ec = 
+
+source = mtz:Rv2051c
+ec = 
+
+source = mtz:Rv2152c
+ec = 
+
+source = mtz:Rv2153c
+ec = 
+
+source = mtz:Rv2155c
+ec = 
+
+source = mtz:Rv2156c
+ec = 
+
+source = mtz:Rv2157c
+ec = 
+
+source = mtz:Rv2158c
+ec = 
+
+source = mtz:Rv2178c
+ec = 
+
+source = mtz:Rv2217
+ec = 
+
+source = mtz:Rv2218
+ec = 
+
+source = mtz:Rv2220
+ec = 
+
+source = mtz:Rv2225
+ec = 
+
+source = mtz:Rv2244
+ec = 
+
+source = mtz:Rv2445c
+ec = 
+
+source = mtz:Rv2482c
+ec = 
+
+source = mtz:Rv2523c
+ec = 
+
+source = mtz:Rv2524c
+ec = 
+
+source = mtz:Rv2531c
+ec = 
+
+source = mtz:Rv2537c
+ec = 
+
+source = mtz:Rv2538c
+ec = 
+
+source = mtz:Rv2539c
+ec = 
+
+source = mtz:Rv2540c
+ec = 
+
+source = mtz:Rv2552c
+ec = 
+
+source = mtz:Rv2573
+ec = 
+
+source = mtz:Rv2601
+ec = 
+
+source = mtz:Rv2610c
+ec = 
+
+source = mtz:Rv2611c
+ec = 
+
+source = mtz:Rv2612c
+ec = 
+
+source = mtz:Rv2678c
+ec = 
+
+source = mtz:Rv2697c
+ec = 
+
+source = mtz:Rv2701c
+ec = 
+
+source = mtz:Rv2726c
+ec = 
+
+source = mtz:Rv2786c
+ec = 
+
+source = mtz:Rv2868c
+ec = 
+
+source = mtz:Rv2870c
+ec = 
+
+source = mtz:Rv2881c
+ec = 
+
+source = mtz:Rv2900c
+ec = 
+
+source = mtz:Rv2940c
+ec = 
+
+source = mtz:Rv2965c
+ec = 
+
+source = mtz:Rv2981c
+ec = 
+
+source = mtz:Rv2992c
+ec = 
+
+source = mtz:Rv3048c
+ec = 
+
+source = mtz:Rv3051c
+ec = 
+
+source = mtz:Rv3068c
+ec = 
+
+source = mtz:Rv3106
+ec = 
+
+source = mtz:Rv3227
+ec = 
+
+source = mtz:Rv3247c
+ec = 
+
+source = mtz:Rv3248c
+ec = 
+
+source = mtz:Rv3260c
+ec = 
+
+source = mtz:Rv3264c
+ec = 
+
+source = mtz:Rv3279c
+ec = 
+
+source = mtz:Rv3280
+ec = 
+
+source = mtz:Rv3285
+ec = 
+
+source = mtz:Rv3356c
+ec = 
+
+source = mtz:Rv3398c
+ec = 
+
+source = mtz:Rv3465
+ec = 
+
+source = mtz:Rv3581c
+ec = 
+
+source = mtz:Rv3582c
+ec = 
+
+source = mtz:Rv3601c
+ec = 
+
+source = mtz:Rv3602c
+ec = 
+
+source = mtz:Rv3790
+ec = 
+
+source = mtz:Rv3791
+ec = 
+
+source = mtz:Rv3792
+ec = 
+
+source = mtz:Rv3793
+ec = 
+
+source = mtz:Rv3799c
+ec = 
+
+source = mtz:Rv3800c
+ec = 
+
+source = mtz:Rv3801c
+ec = 
+
+source = mtz:Rv3802c
+ec = 
+
+source = mtz:Rv3804c
+ec = 
+
+source = mtz:Rv3806c
+ec = 
+
+source = mtz:Rv3808c
+ec = 
+
+source = mtz:Rv3809c
+ec = 
+
+source = mtz:Rv3818
+ec = 
+
+source = mtz:Rv3913
+ec = 
+
+source = mtz:orphan
+ec = 
+
+source = mtg:Rv0129c
+ec = 
+
+source = mtg:Rv0334
+ec = 
+
+source = mtg:Rv0414c
+ec = 
+
+source = mtg:Rv0417
+ec = 
+
+source = mtg:Rv0422c
+ec = 
+
+source = mtg:Rv0423c
+ec = 
+
+source = mtg:Rv0436c
+ec = 
+
+source = mtg:Rv0437c
+ec = 
+
+source = mtg:Rv0482
+ec = 
+
+source = mtg:Rv0503c
+ec = 
+
+source = mtg:Rv0509
+ec = 
+
+source = mtg:Rv0510
+ec = 
+
+source = mtg:Rv0511
+ec = 
+
+source = mtg:Rv0512
+ec = 
+
+source = mtg:Rv0524
+ec = 
+
+source = mtg:Rv0533c
+ec = 
+
+source = mtg:Rv0534c
+ec = 
+
+source = mtg:Rv0535
+ec = 
+
+source = mtg:Rv0542c
+ec = 
+
+source = mtg:Rv0548c
+ec = 
+
+source = mtg:Rv0553
+ec = 
+
+source = mtg:Rv0555
+ec = 
+
+source = mtg:Rv0557
+ec = 
+
+source = mtg:Rv0562
+ec = 
+
+source = mtg:Rv0642c
+ec = 
+
+source = mtg:Rv0643c
+ec = 
+
+source = mtg:Rv0644c
+ec = 
+
+source = mtg:Rv0645c
+ec = 
+
+source = mtg:Rv0733
+ec = 
+
+source = mtg:Rv0772
+ec = 
+
+source = mtg:Rv0803
+ec = 
+
+source = mtg:Rv0808
+ec = 
+
+source = mtg:Rv0809
+ec = 
+
+source = mtg:Rv0956
+ec = 
+
+source = mtg:Rv1011
+ec = 
+
+source = mtg:Rv1017c
+ec = 
+
+source = mtg:Rv1018c
+ec = 
+
+source = mtg:Rv1086
+ec = 
+
+source = mtg:Rv1092c
+ec = 
+
+source = mtg:Rv1315
+ec = 
+
+source = mtg:Rv1391
+ec = 
+
+source = mtg:Rv1392
+ec = 
+
+source = mtg:Rv1412
+ec = 
+
+source = mtg:Rv1416
+ec = 
+
+source = mtg:Rv1484
+ec = 
+
+source = mtg:Rv1485
+ec = 
+
+source = mtg:Rv1500
+ec = 
+
+source = mtg:Rv1631
+ec = 
+
+source = mtg:Rv1695
+ec = 
+
+source = mtg:Rv1712
+ec = 
+
+source = mtg:Rv1745c
+ec = 
+
+source = mtg:Rv1886c
+ec = 
+
+source = mtg:Rv1940
+ec = 
+
+source = mtg:Rv2051c
+ec = 
+
+source = mtg:Rv2152c
+ec = 
+
+source = mtg:Rv2153c
+ec = 
+
+source = mtg:Rv2155c
+ec = 
+
+source = mtg:Rv2156c
+ec = 
+
+source = mtg:Rv2157c
+ec = 
+
+source = mtg:Rv2158c
+ec = 
+
+source = mtg:Rv2178c
+ec = 
+
+source = mtg:Rv2217
+ec = 
+
+source = mtg:Rv2218
+ec = 
+
+source = mtg:Rv2220
+ec = 
+
+source = mtg:Rv2225
+ec = 
+
+source = mtg:Rv2244
+ec = 
+
+source = mtg:Rv2445c
+ec = 
+
+source = mtg:Rv2482c
+ec = 
+
+source = mtg:Rv2523c
+ec = 
+
+source = mtg:Rv2524c
+ec = 
+
+source = mtg:Rv2531c
+ec = 
+
+source = mtg:Rv2537c
+ec = 
+
+source = mtg:Rv2538c
+ec = 
+
+source = mtg:Rv2539c
+ec = 
+
+source = mtg:Rv2540c
+ec = 
+
+source = mtg:Rv2552c
+ec = 
+
+source = mtg:Rv2573
+ec = 
+
+source = mtg:Rv2601
+ec = 
+
+source = mtg:Rv2610c
+ec = 
+
+source = mtg:Rv2611c
+ec = 
+
+source = mtg:Rv2612c
+ec = 
+
+source = mtg:Rv2678c
+ec = 
+
+source = mtg:Rv2697c
+ec = 
+
+source = mtg:Rv2701c
+ec = 
+
+source = mtg:Rv2726c
+ec = 
+
+source = mtg:Rv2786c
+ec = 
+
+source = mtg:Rv2868c
+ec = 
+
+source = mtg:Rv2870c
+ec = 
+
+source = mtg:Rv2881c
+ec = 
+
+source = mtg:Rv2900c
+ec = 
+
+source = mtg:Rv2940c
+ec = 
+
+source = mtg:Rv2965c
+ec = 
+
+source = mtg:Rv2981c
+ec = 
+
+source = mtg:Rv2992c
+ec = 
+
+source = mtg:Rv3048c
+ec = 
+
+source = mtg:Rv3051c
+ec = 
+
+source = mtg:Rv3068c
+ec = 
+
+source = mtg:Rv3106
+ec = 
+
+source = mtg:Rv3227
+ec = 
+
+source = mtg:Rv3247c
+ec = 
+
+source = mtg:Rv3248c
+ec = 
+
+source = mtg:Rv3260c
+ec = 
+
+source = mtg:Rv3264c
+ec = 
+
+source = mtg:Rv3279c
+ec = 
+
+source = mtg:Rv3280
+ec = 
+
+source = mtg:Rv3285
+ec = 
+
+source = mtg:Rv3356c
+ec = 
+
+source = mtg:Rv3398c
+ec = 
+
+source = mtg:Rv3465
+ec = 
+
+source = mtg:Rv3581c
+ec = 
+
+source = mtg:Rv3582c
+ec = 
+
+source = mtg:Rv3601c
+ec = 
+
+source = mtg:Rv3602c
+ec = 
+
+source = mtg:Rv3790
+ec = 
+
+source = mtg:Rv3791
+ec = 
+
+source = mtg:Rv3792
+ec = 
+
+source = mtg:Rv3793
+ec = 
+
+source = mtg:Rv3799c
+ec = 
+
+source = mtg:Rv3800c
+ec = 
+
+source = mtg:Rv3801c
+ec = 
+
+source = mtg:Rv3802c
+ec = 
+
+source = mtg:Rv3804c
+ec = 
+
+source = mtg:Rv3806c
+ec = 
+
+source = mtg:Rv3808c
+ec = 
+
+source = mtg:Rv3809c
+ec = 
+
+source = mtg:Rv3818
+ec = 
+
+source = mtg:Rv3913
+ec = 
+
+source = mtg:orphan
+ec = 
+
+source = mti:Rv0129c
+ec = 
+
+source = mti:Rv0334
+ec = 
+
+source = mti:Rv0414c
+ec = 
+
+source = mti:Rv0417
+ec = 
+
+source = mti:Rv0422c
+ec = 
+
+source = mti:Rv0423c
+ec = 
+
+source = mti:Rv0436c
+ec = 
+
+source = mti:Rv0437c
+ec = 
+
+source = mti:Rv0482
+ec = 
+
+source = mti:Rv0503c
+ec = 
+
+source = mti:Rv0509
+ec = 
+
+source = mti:Rv0510
+ec = 
+
+source = mti:Rv0511
+ec = 
+
+source = mti:Rv0512
+ec = 
+
+source = mti:Rv0524
+ec = 
+
+source = mti:Rv0533c
+ec = 
+
+source = mti:Rv0534c
+ec = 
+
+source = mti:Rv0535
+ec = 
+
+source = mti:Rv0542c
+ec = 
+
+source = mti:Rv0548c
+ec = 
+
+source = mti:Rv0553
+ec = 
+
+source = mti:Rv0555
+ec = 
+
+source = mti:Rv0557
+ec = 
+
+source = mti:Rv0562
+ec = 
+
+source = mti:Rv0642c
+ec = 
+
+source = mti:Rv0643c
+ec = 
+
+source = mti:Rv0644c
+ec = 
+
+source = mti:Rv0645c
+ec = 
+
+source = mti:Rv0733
+ec = 
+
+source = mti:Rv0772
+ec = 
+
+source = mti:Rv0803
+ec = 
+
+source = mti:Rv0808
+ec = 
+
+source = mti:Rv0809
+ec = 
+
+source = mti:Rv0956
+ec = 
+
+source = mti:Rv1011
+ec = 
+
+source = mti:Rv1017c
+ec = 
+
+source = mti:Rv1018c
+ec = 
+
+source = mti:Rv1086
+ec = 
+
+source = mti:Rv1092c
+ec = 
+
+source = mti:Rv1315
+ec = 
+
+source = mti:Rv1391
+ec = 
+
+source = mti:Rv1392
+ec = 
+
+source = mti:Rv1412
+ec = 
+
+source = mti:Rv1416
+ec = 
+
+source = mti:Rv1484
+ec = 
+
+source = mti:Rv1485
+ec = 
+
+source = mti:Rv1500
+ec = 
+
+source = mti:Rv1631
+ec = 
+
+source = mti:Rv1695
+ec = 
+
+source = mti:Rv1712
+ec = 
+
+source = mti:Rv1745c
+ec = 
+
+source = mti:Rv1886c
+ec = 
+
+source = mti:Rv1940
+ec = 
+
+source = mti:Rv2051c
+ec = 
+
+source = mti:Rv2152c
+ec = 
+
+source = mti:Rv2153c
+ec = 
+
+source = mti:Rv2155c
+ec = 
+
+source = mti:Rv2156c
+ec = 
+
+source = mti:Rv2157c
+ec = 
+
+source = mti:Rv2158c
+ec = 
+
+source = mti:Rv2178c
+ec = 
+
+source = mti:Rv2217
+ec = 
+
+source = mti:Rv2218
+ec = 
+
+source = mti:Rv2220
+ec = 
+
+source = mti:Rv2225
+ec = 
+
+source = mti:Rv2244
+ec = 
+
+source = mti:Rv2445c
+ec = 
+
+source = mti:Rv2482c
+ec = 
+
+source = mti:Rv2523c
+ec = 
+
+source = mti:Rv2524c
+ec = 
+
+source = mti:Rv2531c
+ec = 
+
+source = mti:Rv2537c
+ec = 
+
+source = mti:Rv2538c
+ec = 
+
+source = mti:Rv2539c
+ec = 
+
+source = mti:Rv2540c
+ec = 
+
+source = mti:Rv2552c
+ec = 
+
+source = mti:Rv2573
+ec = 
+
+source = mti:Rv2601
+ec = 
+
+source = mti:Rv2610c
+ec = 
+
+source = mti:Rv2611c
+ec = 
+
+source = mti:Rv2612c
+ec = 
+
+source = mti:Rv2678c
+ec = 
+
+source = mti:Rv2697c
+ec = 
+
+source = mti:Rv2701c
+ec = 
+
+source = mti:Rv2726c
+ec = 
+
+source = mti:Rv2786c
+ec = 
+
+source = mti:Rv2868c
+ec = 
+
+source = mti:Rv2870c
+ec = 
+
+source = mti:Rv2881c
+ec = 
+
+source = mti:Rv2900c
+ec = 
+
+source = mti:Rv2940c
+ec = 
+
+source = mti:Rv2965c
+ec = 
+
+source = mti:Rv2981c
+ec = 
+
+source = mti:Rv2992c
+ec = 
+
+source = mti:Rv3048c
+ec = 
+
+source = mti:Rv3051c
+ec = 
+
+source = mti:Rv3068c
+ec = 
+
+source = mti:Rv3106
+ec = 
+
+source = mti:Rv3227
+ec = 
+
+source = mti:Rv3247c
+ec = 
+
+source = mti:Rv3248c
+ec = 
+
+source = mti:Rv3260c
+ec = 
+
+source = mti:Rv3264c
+ec = 
+
+source = mti:Rv3279c
+ec = 
+
+source = mti:Rv3280
+ec = 
+
+source = mti:Rv3285
+ec = 
+
+source = mti:Rv3356c
+ec = 
+
+source = mti:Rv3398c
+ec = 
+
+source = mti:Rv3465
+ec = 
+
+source = mti:Rv3581c
+ec = 
+
+source = mti:Rv3582c
+ec = 
+
+source = mti:Rv3601c
+ec = 
+
+source = mti:Rv3602c
+ec = 
+
+source = mti:Rv3790
+ec = 
+
+source = mti:Rv3791
+ec = 
+
+source = mti:Rv3792
+ec = 
+
+source = mti:Rv3793
+ec = 
+
+source = mti:Rv3799c
+ec = 
+
+source = mti:Rv3800c
+ec = 
+
+source = mti:Rv3801c
+ec = 
+
+source = mti:Rv3802c
+ec = 
+
+source = mti:Rv3804c
+ec = 
+
+source = mti:Rv3806c
+ec = 
+
+source = mti:Rv3808c
+ec = 
+
+source = mti:Rv3809c
+ec = 
+
+source = mti:Rv3818
+ec = 
+
+source = mti:Rv3913
+ec = 
+
+source = mti:orphan
+ec = 
+
+source = mte:Rv0129c
+ec = 
+
+source = mte:Rv0334
+ec = 
+
+source = mte:Rv0414c
+ec = 
+
+source = mte:Rv0417
+ec = 
+
+source = mte:Rv0422c
+ec = 
+
+source = mte:Rv0423c
+ec = 
+
+source = mte:Rv0436c
+ec = 
+
+source = mte:Rv0437c
+ec = 
+
+source = mte:Rv0482
+ec = 
+
+source = mte:Rv0503c
+ec = 
+
+source = mte:Rv0509
+ec = 
+
+source = mte:Rv0510
+ec = 
+
+source = mte:Rv0511
+ec = 
+
+source = mte:Rv0512
+ec = 
+
+source = mte:Rv0524
+ec = 
+
+source = mte:Rv0533c
+ec = 
+
+source = mte:Rv0534c
+ec = 
+
+source = mte:Rv0535
+ec = 
+
+source = mte:Rv0542c
+ec = 
+
+source = mte:Rv0548c
+ec = 
+
+source = mte:Rv0553
+ec = 
+
+source = mte:Rv0555
+ec = 
+
+source = mte:Rv0557
+ec = 
+
+source = mte:Rv0562
+ec = 
+
+source = mte:Rv0642c
+ec = 
+
+source = mte:Rv0643c
+ec = 
+
+source = mte:Rv0644c
+ec = 
+
+source = mte:Rv0645c
+ec = 
+
+source = mte:Rv0733
+ec = 
+
+source = mte:Rv0772
+ec = 
+
+source = mte:Rv0803
+ec = 
+
+source = mte:Rv0808
+ec = 
+
+source = mte:Rv0809
+ec = 
+
+source = mte:Rv0956
+ec = 
+
+source = mte:Rv1011
+ec = 
+
+source = mte:Rv1017c
+ec = 
+
+source = mte:Rv1018c
+ec = 
+
+source = mte:Rv1086
+ec = 
+
+source = mte:Rv1092c
+ec = 
+
+source = mte:Rv1315
+ec = 
+
+source = mte:Rv1391
+ec = 
+
+source = mte:Rv1392
+ec = 
+
+source = mte:Rv1412
+ec = 
+
+source = mte:Rv1416
+ec = 
+
+source = mte:Rv1484
+ec = 
+
+source = mte:Rv1485
+ec = 
+
+source = mte:Rv1500
+ec = 
+
+source = mte:Rv1631
+ec = 
+
+source = mte:Rv1695
+ec = 
+
+source = mte:Rv1712
+ec = 
+
+source = mte:Rv1745c
+ec = 
+
+source = mte:Rv1886c
+ec = 
+
+source = mte:Rv1940
+ec = 
+
+source = mte:Rv2051c
+ec = 
+
+source = mte:Rv2152c
+ec = 
+
+source = mte:Rv2153c
+ec = 
+
+source = mte:Rv2155c
+ec = 
+
+source = mte:Rv2156c
+ec = 
+
+source = mte:Rv2157c
+ec = 
+
+source = mte:Rv2158c
+ec = 
+
+source = mte:Rv2178c
+ec = 
+
+source = mte:Rv2217
+ec = 
+
+source = mte:Rv2218
+ec = 
+
+source = mte:Rv2220
+ec = 
+
+source = mte:Rv2225
+ec = 
+
+source = mte:Rv2244
+ec = 
+
+source = mte:Rv2445c
+ec = 
+
+source = mte:Rv2482c
+ec = 
+
+source = mte:Rv2523c
+ec = 
+
+source = mte:Rv2524c
+ec = 
+
+source = mte:Rv2531c
+ec = 
+
+source = mte:Rv2537c
+ec = 
+
+source = mte:Rv2538c
+ec = 
+
+source = mte:Rv2539c
+ec = 
+
+source = mte:Rv2540c
+ec = 
+
+source = mte:Rv2552c
+ec = 
+
+source = mte:Rv2573
+ec = 
+
+source = mte:Rv2601
+ec = 
+
+source = mte:Rv2610c
+ec = 
+
+source = mte:Rv2611c
+ec = 
+
+source = mte:Rv2612c
+ec = 
+
+source = mte:Rv2678c
+ec = 
+
+source = mte:Rv2697c
+ec = 
+
+source = mte:Rv2701c
+ec = 
+
+source = mte:Rv2726c
+ec = 
+
+source = mte:Rv2786c
+ec = 
+
+source = mte:Rv2868c
+ec = 
+
+source = mte:Rv2870c
+ec = 
+
+source = mte:Rv2881c
+ec = 
+
+source = mte:Rv2900c
+ec = 
+
+source = mte:Rv2940c
+ec = 
+
+source = mte:Rv2965c
+ec = 
+
+source = mte:Rv2981c
+ec = 
+
+source = mte:Rv2992c
+ec = 
+
+source = mte:Rv3048c
+ec = 
+
+source = mte:Rv3051c
+ec = 
+
+source = mte:Rv3068c
+ec = 
+
+source = mte:Rv3106
+ec = 
+
+source = mte:Rv3227
+ec = 
+
+source = mte:Rv3247c
+ec = 
+
+source = mte:Rv3248c
+ec = 
+
+source = mte:Rv3260c
+ec = 
+
+source = mte:Rv3264c
+ec = 
+
+source = mte:Rv3279c
+ec = 
+
+source = mte:Rv3280
+ec = 
+
+source = mte:Rv3285
+ec = 
+
+source = mte:Rv3356c
+ec = 
+
+source = mte:Rv3398c
+ec = 
+
+source = mte:Rv3465
+ec = 
+
+source = mte:Rv3581c
+ec = 
+
+source = mte:Rv3582c
+ec = 
+
+source = mte:Rv3601c
+ec = 
+
+source = mte:Rv3602c
+ec = 
+
+source = mte:Rv3790
+ec = 
+
+source = mte:Rv3791
+ec = 
+
+source = mte:Rv3792
+ec = 
+
+source = mte:Rv3793
+ec = 
+
+source = mte:Rv3799c
+ec = 
+
+source = mte:Rv3800c
+ec = 
+
+source = mte:Rv3801c
+ec = 
+
+source = mte:Rv3802c
+ec = 
+
+source = mte:Rv3804c
+ec = 
+
+source = mte:Rv3806c
+ec = 
+
+source = mte:Rv3808c
+ec = 
+
+source = mte:Rv3809c
+ec = 
+
+source = mte:Rv3818
+ec = 
+
+source = mte:Rv3913
+ec = 
+
+source = mte:orphan
+ec = 
+
+source = mtur:Rv0129c
+ec = 
+
+source = mtur:Rv0334
+ec = 
+
+source = mtur:Rv0414c
+ec = 
+
+source = mtur:Rv0417
+ec = 
+
+source = mtur:Rv0422c
+ec = 
+
+source = mtur:Rv0423c
+ec = 
+
+source = mtur:Rv0436c
+ec = 
+
+source = mtur:Rv0437c
+ec = 
+
+source = mtur:Rv0482
+ec = 
+
+source = mtur:Rv0503c
+ec = 
+
+source = mtur:Rv0509
+ec = 
+
+source = mtur:Rv0510
+ec = 
+
+source = mtur:Rv0511
+ec = 
+
+source = mtur:Rv0512
+ec = 
+
+source = mtur:Rv0524
+ec = 
+
+source = mtur:Rv0533c
+ec = 
+
+source = mtur:Rv0534c
+ec = 
+
+source = mtur:Rv0535
+ec = 
+
+source = mtur:Rv0542c
+ec = 
+
+source = mtur:Rv0548c
+ec = 
+
+source = mtur:Rv0553
+ec = 
+
+source = mtur:Rv0555
+ec = 
+
+source = mtur:Rv0557
+ec = 
+
+source = mtur:Rv0562
+ec = 
+
+source = mtur:Rv0642c
+ec = 
+
+source = mtur:Rv0643c
+ec = 
+
+source = mtur:Rv0644c
+ec = 
+
+source = mtur:Rv0645c
+ec = 
+
+source = mtur:Rv0733
+ec = 
+
+source = mtur:Rv0772
+ec = 
+
+source = mtur:Rv0803
+ec = 
+
+source = mtur:Rv0808
+ec = 
+
+source = mtur:Rv0809
+ec = 
+
+source = mtur:Rv0956
+ec = 
+
+source = mtur:Rv1011
+ec = 
+
+source = mtur:Rv1017c
+ec = 
+
+source = mtur:Rv1018c
+ec = 
+
+source = mtur:Rv1086
+ec = 
+
+source = mtur:Rv1092c
+ec = 
+
+source = mtur:Rv1315
+ec = 
+
+source = mtur:Rv1391
+ec = 
+
+source = mtur:Rv1392
+ec = 
+
+source = mtur:Rv1412
+ec = 
+
+source = mtur:Rv1416
+ec = 
+
+source = mtur:Rv1484
+ec = 
+
+source = mtur:Rv1485
+ec = 
+
+source = mtur:Rv1500
+ec = 
+
+source = mtur:Rv1631
+ec = 
+
+source = mtur:Rv1695
+ec = 
+
+source = mtur:Rv1712
+ec = 
+
+source = mtur:Rv1745c
+ec = 
+
+source = mtur:Rv1886c
+ec = 
+
+source = mtur:Rv1940
+ec = 
+
+source = mtur:Rv2051c
+ec = 
+
+source = mtur:Rv2152c
+ec = 
+
+source = mtur:Rv2153c
+ec = 
+
+source = mtur:Rv2155c
+ec = 
+
+source = mtur:Rv2156c
+ec = 
+
+source = mtur:Rv2157c
+ec = 
+
+source = mtur:Rv2158c
+ec = 
+
+source = mtur:Rv2178c
+ec = 
+
+source = mtur:Rv2217
+ec = 
+
+source = mtur:Rv2218
+ec = 
+
+source = mtur:Rv2220
+ec = 
+
+source = mtur:Rv2225
+ec = 
+
+source = mtur:Rv2244
+ec = 
+
+source = mtur:Rv2445c
+ec = 
+
+source = mtur:Rv2482c
+ec = 
+
+source = mtur:Rv2523c
+ec = 
+
+source = mtur:Rv2524c
+ec = 
+
+source = mtur:Rv2531c
+ec = 
+
+source = mtur:Rv2537c
+ec = 
+
+source = mtur:Rv2538c
+ec = 
+
+source = mtur:Rv2539c
+ec = 
+
+source = mtur:Rv2540c
+ec = 
+
+source = mtur:Rv2552c
+ec = 
+
+source = mtur:Rv2573
+ec = 
+
+source = mtur:Rv2601
+ec = 
+
+source = mtur:Rv2610c
+ec = 
+
+source = mtur:Rv2611c
+ec = 
+
+source = mtur:Rv2612c
+ec = 
+
+source = mtur:Rv2678c
+ec = 
+
+source = mtur:Rv2697c
+ec = 
+
+source = mtur:Rv2701c
+ec = 
+
+source = mtur:Rv2726c
+ec = 
+
+source = mtur:Rv2786c
+ec = 
+
+source = mtur:Rv2868c
+ec = 
+
+source = mtur:Rv2870c
+ec = 
+
+source = mtur:Rv2881c
+ec = 
+
+source = mtur:Rv2900c
+ec = 
+
+source = mtur:Rv2940c
+ec = 
+
+source = mtur:Rv2965c
+ec = 
+
+source = mtur:Rv2981c
+ec = 
+
+source = mtur:Rv2992c
+ec = 
+
+source = mtur:Rv3048c
+ec = 
+
+source = mtur:Rv3051c
+ec = 
+
+source = mtur:Rv3068c
+ec = 
+
+source = mtur:Rv3106
+ec = 
+
+source = mtur:Rv3227
+ec = 
+
+source = mtur:Rv3247c
+ec = 
+
+source = mtur:Rv3248c
+ec = 
+
+source = mtur:Rv3260c
+ec = 
+
+source = mtur:Rv3264c
+ec = 
+
+source = mtur:Rv3279c
+ec = 
+
+source = mtur:Rv3280
+ec = 
+
+source = mtur:Rv3285
+ec = 
+
+source = mtur:Rv3356c
+ec = 
+
+source = mtur:Rv3398c
+ec = 
+
+source = mtur:Rv3465
+ec = 
+
+source = mtur:Rv3581c
+ec = 
+
+source = mtur:Rv3582c
+ec = 
+
+source = mtur:Rv3601c
+ec = 
+
+source = mtur:Rv3602c
+ec = 
+
+source = mtur:Rv3790
+ec = 
+
+source = mtur:Rv3791
+ec = 
+
+source = mtur:Rv3792
+ec = 
+
+source = mtur:Rv3793
+ec = 
+
+source = mtur:Rv3799c
+ec = 
+
+source = mtur:Rv3800c
+ec = 
+
+source = mtur:Rv3801c
+ec = 
+
+source = mtur:Rv3802c
+ec = 
+
+source = mtur:Rv3804c
+ec = 
+
+source = mtur:Rv3806c
+ec = 
+
+source = mtur:Rv3808c
+ec = 
+
+source = mtur:Rv3809c
+ec = 
+
+source = mtur:Rv3818
+ec = 
+
+source = mtur:Rv3913
+ec = 
+
+source = mtur:orphan
+ec = 
+
+source = mtl:Rv0129c
+ec = 
+
+source = mtl:Rv0334
+ec = 
+
+source = mtl:Rv0414c
+ec = 
+
+source = mtl:Rv0417
+ec = 
+
+source = mtl:Rv0422c
+ec = 
+
+source = mtl:Rv0423c
+ec = 
+
+source = mtl:Rv0436c
+ec = 
+
+source = mtl:Rv0437c
+ec = 
+
+source = mtl:Rv0482
+ec = 
+
+source = mtl:Rv0503c
+ec = 
+
+source = mtl:Rv0509
+ec = 
+
+source = mtl:Rv0510
+ec = 
+
+source = mtl:Rv0511
+ec = 
+
+source = mtl:Rv0512
+ec = 
+
+source = mtl:Rv0524
+ec = 
+
+source = mtl:Rv0533c
+ec = 
+
+source = mtl:Rv0534c
+ec = 
+
+source = mtl:Rv0535
+ec = 
+
+source = mtl:Rv0542c
+ec = 
+
+source = mtl:Rv0548c
+ec = 
+
+source = mtl:Rv0553
+ec = 
+
+source = mtl:Rv0555
+ec = 
+
+source = mtl:Rv0557
+ec = 
+
+source = mtl:Rv0562
+ec = 
+
+source = mtl:Rv0642c
+ec = 
+
+source = mtl:Rv0643c
+ec = 
+
+source = mtl:Rv0644c
+ec = 
+
+source = mtl:Rv0645c
+ec = 
+
+source = mtl:Rv0733
+ec = 
+
+source = mtl:Rv0772
+ec = 
+
+source = mtl:Rv0803
+ec = 
+
+source = mtl:Rv0808
+ec = 
+
+source = mtl:Rv0809
+ec = 
+
+source = mtl:Rv0956
+ec = 
+
+source = mtl:Rv1011
+ec = 
+
+source = mtl:Rv1017c
+ec = 
+
+source = mtl:Rv1018c
+ec = 
+
+source = mtl:Rv1086
+ec = 
+
+source = mtl:Rv1092c
+ec = 
+
+source = mtl:Rv1315
+ec = 
+
+source = mtl:Rv1391
+ec = 
+
+source = mtl:Rv1392
+ec = 
+
+source = mtl:Rv1412
+ec = 
+
+source = mtl:Rv1416
+ec = 
+
+source = mtl:Rv1484
+ec = 
+
+source = mtl:Rv1485
+ec = 
+
+source = mtl:Rv1500
+ec = 
+
+source = mtl:Rv1631
+ec = 
+
+source = mtl:Rv1695
+ec = 
+
+source = mtl:Rv1712
+ec = 
+
+source = mtl:Rv1745c
+ec = 
+
+source = mtl:Rv1886c
+ec = 
+
+source = mtl:Rv1940
+ec = 
+
+source = mtl:Rv2051c
+ec = 
+
+source = mtl:Rv2152c
+ec = 
+
+source = mtl:Rv2153c
+ec = 
+
+source = mtl:Rv2155c
+ec = 
+
+source = mtl:Rv2156c
+ec = 
+
+source = mtl:Rv2157c
+ec = 
+
+source = mtl:Rv2158c
+ec = 
+
+source = mtl:Rv2178c
+ec = 
+
+source = mtl:Rv2217
+ec = 
+
+source = mtl:Rv2218
+ec = 
+
+source = mtl:Rv2220
+ec = 
+
+source = mtl:Rv2225
+ec = 
+
+source = mtl:Rv2244
+ec = 
+
+source = mtl:Rv2445c
+ec = 
+
+source = mtl:Rv2482c
+ec = 
+
+source = mtl:Rv2523c
+ec = 
+
+source = mtl:Rv2524c
+ec = 
+
+source = mtl:Rv2531c
+ec = 
+
+source = mtl:Rv2537c
+ec = 
+
+source = mtl:Rv2538c
+ec = 
+
+source = mtl:Rv2539c
+ec = 
+
+source = mtl:Rv2540c
+ec = 
+
+source = mtl:Rv2552c
+ec = 
+
+source = mtl:Rv2573
+ec = 
+
+source = mtl:Rv2601
+ec = 
+
+source = mtl:Rv2610c
+ec = 
+
+source = mtl:Rv2611c
+ec = 
+
+source = mtl:Rv2612c
+ec = 
+
+source = mtl:Rv2678c
+ec = 
+
+source = mtl:Rv2697c
+ec = 
+
+source = mtl:Rv2701c
+ec = 
+
+source = mtl:Rv2726c
+ec = 
+
+source = mtl:Rv2786c
+ec = 
+
+source = mtl:Rv2868c
+ec = 
+
+source = mtl:Rv2870c
+ec = 
+
+source = mtl:Rv2881c
+ec = 
+
+source = mtl:Rv2900c
+ec = 
+
+source = mtl:Rv2940c
+ec = 
+
+source = mtl:Rv2965c
+ec = 
+
+source = mtl:Rv2981c
+ec = 
+
+source = mtl:Rv2992c
+ec = 
+
+source = mtl:Rv3048c
+ec = 
+
+source = mtl:Rv3051c
+ec = 
+
+source = mtl:Rv3068c
+ec = 
+
+source = mtl:Rv3106
+ec = 
+
+source = mtl:Rv3227
+ec = 
+
+source = mtl:Rv3247c
+ec = 
+
+source = mtl:Rv3248c
+ec = 
+
+source = mtl:Rv3260c
+ec = 
+
+source = mtl:Rv3264c
+ec = 
+
+source = mtl:Rv3279c
+ec = 
+
+source = mtl:Rv3280
+ec = 
+
+source = mtl:Rv3285
+ec = 
+
+source = mtl:Rv3356c
+ec = 
+
+source = mtl:Rv3398c
+ec = 
+
+source = mtl:Rv3465
+ec = 
+
+source = mtl:Rv3581c
+ec = 
+
+source = mtl:Rv3582c
+ec = 
+
+source = mtl:Rv3601c
+ec = 
+
+source = mtl:Rv3602c
+ec = 
+
+source = mtl:Rv3790
+ec = 
+
+source = mtl:Rv3791
+ec = 
+
+source = mtl:Rv3792
+ec = 
+
+source = mtl:Rv3793
+ec = 
+
+source = mtl:Rv3799c
+ec = 
+
+source = mtl:Rv3800c
+ec = 
+
+source = mtl:Rv3801c
+ec = 
+
+source = mtl:Rv3802c
+ec = 
+
+source = mtl:Rv3804c
+ec = 
+
+source = mtl:Rv3806c
+ec = 
+
+source = mtl:Rv3808c
+ec = 
+
+source = mtl:Rv3809c
+ec = 
+
+source = mtl:Rv3818
+ec = 
+
+source = mtl:Rv3913
+ec = 
+
+source = mtl:orphan
+ec = 
+
+source = mto:Rv0129c
+ec = 
+
+source = mto:Rv0334
+ec = 
+
+source = mto:Rv0414c
+ec = 
+
+source = mto:Rv0417
+ec = 
+
+source = mto:Rv0422c
+ec = 
+
+source = mto:Rv0423c
+ec = 
+
+source = mto:Rv0436c
+ec = 
+
+source = mto:Rv0437c
+ec = 
+
+source = mto:Rv0482
+ec = 
+
+source = mto:Rv0503c
+ec = 
+
+source = mto:Rv0509
+ec = 
+
+source = mto:Rv0510
+ec = 
+
+source = mto:Rv0511
+ec = 
+
+source = mto:Rv0512
+ec = 
+
+source = mto:Rv0524
+ec = 
+
+source = mto:Rv0533c
+ec = 
+
+source = mto:Rv0534c
+ec = 
+
+source = mto:Rv0535
+ec = 
+
+source = mto:Rv0542c
+ec = 
+
+source = mto:Rv0548c
+ec = 
+
+source = mto:Rv0553
+ec = 
+
+source = mto:Rv0555
+ec = 
+
+source = mto:Rv0557
+ec = 
+
+source = mto:Rv0562
+ec = 
+
+source = mto:Rv0642c
+ec = 
+
+source = mto:Rv0643c
+ec = 
+
+source = mto:Rv0644c
+ec = 
+
+source = mto:Rv0645c
+ec = 
+
+source = mto:Rv0733
+ec = 
+
+source = mto:Rv0772
+ec = 
+
+source = mto:Rv0803
+ec = 
+
+source = mto:Rv0808
+ec = 
+
+source = mto:Rv0809
+ec = 
+
+source = mto:Rv0956
+ec = 
+
+source = mto:Rv1011
+ec = 
+
+source = mto:Rv1017c
+ec = 
+
+source = mto:Rv1018c
+ec = 
+
+source = mto:Rv1086
+ec = 
+
+source = mto:Rv1092c
+ec = 
+
+source = mto:Rv1315
+ec = 
+
+source = mto:Rv1391
+ec = 
+
+source = mto:Rv1392
+ec = 
+
+source = mto:Rv1412
+ec = 
+
+source = mto:Rv1416
+ec = 
+
+source = mto:Rv1484
+ec = 
+
+source = mto:Rv1485
+ec = 
+
+source = mto:Rv1500
+ec = 
+
+source = mto:Rv1631
+ec = 
+
+source = mto:Rv1695
+ec = 
+
+source = mto:Rv1712
+ec = 
+
+source = mto:Rv1745c
+ec = 
+
+source = mto:Rv1886c
+ec = 
+
+source = mto:Rv1940
+ec = 
+
+source = mto:Rv2051c
+ec = 
+
+source = mto:Rv2152c
+ec = 
+
+source = mto:Rv2153c
+ec = 
+
+source = mto:Rv2155c
+ec = 
+
+source = mto:Rv2156c
+ec = 
+
+source = mto:Rv2157c
+ec = 
+
+source = mto:Rv2158c
+ec = 
+
+source = mto:Rv2178c
+ec = 
+
+source = mto:Rv2217
+ec = 
+
+source = mto:Rv2218
+ec = 
+
+source = mto:Rv2220
+ec = 
+
+source = mto:Rv2225
+ec = 
+
+source = mto:Rv2244
+ec = 
+
+source = mto:Rv2445c
+ec = 
+
+source = mto:Rv2482c
+ec = 
+
+source = mto:Rv2523c
+ec = 
+
+source = mto:Rv2524c
+ec = 
+
+source = mto:Rv2531c
+ec = 
+
+source = mto:Rv2537c
+ec = 
+
+source = mto:Rv2538c
+ec = 
+
+source = mto:Rv2539c
+ec = 
+
+source = mto:Rv2540c
+ec = 
+
+source = mto:Rv2552c
+ec = 
+
+source = mto:Rv2573
+ec = 
+
+source = mto:Rv2601
+ec = 
+
+source = mto:Rv2610c
+ec = 
+
+source = mto:Rv2611c
+ec = 
+
+source = mto:Rv2612c
+ec = 
+
+source = mto:Rv2678c
+ec = 
+
+source = mto:Rv2697c
+ec = 
+
+source = mto:Rv2701c
+ec = 
+
+source = mto:Rv2726c
+ec = 
+
+source = mto:Rv2786c
+ec = 
+
+source = mto:Rv2868c
+ec = 
+
+source = mto:Rv2870c
+ec = 
+
+source = mto:Rv2881c
+ec = 
+
+source = mto:Rv2900c
+ec = 
+
+source = mto:Rv2940c
+ec = 
+
+source = mto:Rv2965c
+ec = 
+
+source = mto:Rv2981c
+ec = 
+
+source = mto:Rv2992c
+ec = 
+
+source = mto:Rv3048c
+ec = 
+
+source = mto:Rv3051c
+ec = 
+
+source = mto:Rv3068c
+ec = 
+
+source = mto:Rv3106
+ec = 
+
+source = mto:Rv3227
+ec = 
+
+source = mto:Rv3247c
+ec = 
+
+source = mto:Rv3248c
+ec = 
+
+source = mto:Rv3260c
+ec = 
+
+source = mto:Rv3264c
+ec = 
+
+source = mto:Rv3279c
+ec = 
+
+source = mto:Rv3280
+ec = 
+
+source = mto:Rv3285
+ec = 
+
+source = mto:Rv3356c
+ec = 
+
+source = mto:Rv3398c
+ec = 
+
+source = mto:Rv3465
+ec = 
+
+source = mto:Rv3581c
+ec = 
+
+source = mto:Rv3582c
+ec = 
+
+source = mto:Rv3601c
+ec = 
+
+source = mto:Rv3602c
+ec = 
+
+source = mto:Rv3790
+ec = 
+
+source = mto:Rv3791
+ec = 
+
+source = mto:Rv3792
+ec = 
+
+source = mto:Rv3793
+ec = 
+
+source = mto:Rv3799c
+ec = 
+
+source = mto:Rv3800c
+ec = 
+
+source = mto:Rv3801c
+ec = 
+
+source = mto:Rv3802c
+ec = 
+
+source = mto:Rv3804c
+ec = 
+
+source = mto:Rv3806c
+ec = 
+
+source = mto:Rv3808c
+ec = 
+
+source = mto:Rv3809c
+ec = 
+
+source = mto:Rv3818
+ec = 
+
+source = mto:Rv3913
+ec = 
+
+source = mto:orphan
+ec = 
+
+source = mtd:Rv0129c
+ec = 
+
+source = mtd:Rv0334
+ec = 
+
+source = mtd:Rv0414c
+ec = 
+
+source = mtd:Rv0417
+ec = 
+
+source = mtd:Rv0422c
+ec = 
+
+source = mtd:Rv0423c
+ec = 
+
+source = mtd:Rv0436c
+ec = 
+
+source = mtd:Rv0437c
+ec = 
+
+source = mtd:Rv0482
+ec = 
+
+source = mtd:Rv0503c
+ec = 
+
+source = mtd:Rv0509
+ec = 
+
+source = mtd:Rv0510
+ec = 
+
+source = mtd:Rv0511
+ec = 
+
+source = mtd:Rv0512
+ec = 
+
+source = mtd:Rv0524
+ec = 
+
+source = mtd:Rv0533c
+ec = 
+
+source = mtd:Rv0534c
+ec = 
+
+source = mtd:Rv0535
+ec = 
+
+source = mtd:Rv0542c
+ec = 
+
+source = mtd:Rv0548c
+ec = 
+
+source = mtd:Rv0553
+ec = 
+
+source = mtd:Rv0555
+ec = 
+
+source = mtd:Rv0557
+ec = 
+
+source = mtd:Rv0562
+ec = 
+
+source = mtd:Rv0642c
+ec = 
+
+source = mtd:Rv0643c
+ec = 
+
+source = mtd:Rv0644c
+ec = 
+
+source = mtd:Rv0645c
+ec = 
+
+source = mtd:Rv0733
+ec = 
+
+source = mtd:Rv0772
+ec = 
+
+source = mtd:Rv0803
+ec = 
+
+source = mtd:Rv0808
+ec = 
+
+source = mtd:Rv0809
+ec = 
+
+source = mtd:Rv0956
+ec = 
+
+source = mtd:Rv1011
+ec = 
+
+source = mtd:Rv1017c
+ec = 
+
+source = mtd:Rv1018c
+ec = 
+
+source = mtd:Rv1086
+ec = 
+
+source = mtd:Rv1092c
+ec = 
+
+source = mtd:Rv1315
+ec = 
+
+source = mtd:Rv1391
+ec = 
+
+source = mtd:Rv1392
+ec = 
+
+source = mtd:Rv1412
+ec = 
+
+source = mtd:Rv1416
+ec = 
+
+source = mtd:Rv1484
+ec = 
+
+source = mtd:Rv1485
+ec = 
+
+source = mtd:Rv1500
+ec = 
+
+source = mtd:Rv1631
+ec = 
+
+source = mtd:Rv1695
+ec = 
+
+source = mtd:Rv1712
+ec = 
+
+source = mtd:Rv1745c
+ec = 
+
+source = mtd:Rv1886c
+ec = 
+
+source = mtd:Rv1940
+ec = 
+
+source = mtd:Rv2051c
+ec = 
+
+source = mtd:Rv2152c
+ec = 
+
+source = mtd:Rv2153c
+ec = 
+
+source = mtd:Rv2155c
+ec = 
+
+source = mtd:Rv2156c
+ec = 
+
+source = mtd:Rv2157c
+ec = 
+
+source = mtd:Rv2158c
+ec = 
+
+source = mtd:Rv2178c
+ec = 
+
+source = mtd:Rv2217
+ec = 
+
+source = mtd:Rv2218
+ec = 
+
+source = mtd:Rv2220
+ec = 
+
+source = mtd:Rv2225
+ec = 
+
+source = mtd:Rv2244
+ec = 
+
+source = mtd:Rv2445c
+ec = 
+
+source = mtd:Rv2482c
+ec = 
+
+source = mtd:Rv2523c
+ec = 
+
+source = mtd:Rv2524c
+ec = 
+
+source = mtd:Rv2531c
+ec = 
+
+source = mtd:Rv2537c
+ec = 
+
+source = mtd:Rv2538c
+ec = 
+
+source = mtd:Rv2539c
+ec = 
+
+source = mtd:Rv2540c
+ec = 
+
+source = mtd:Rv2552c
+ec = 
+
+source = mtd:Rv2573
+ec = 
+
+source = mtd:Rv2601
+ec = 
+
+source = mtd:Rv2610c
+ec = 
+
+source = mtd:Rv2611c
+ec = 
+
+source = mtd:Rv2612c
+ec = 
+
+source = mtd:Rv2678c
+ec = 
+
+source = mtd:Rv2697c
+ec = 
+
+source = mtd:Rv2701c
+ec = 
+
+source = mtd:Rv2726c
+ec = 
+
+source = mtd:Rv2786c
+ec = 
+
+source = mtd:Rv2868c
+ec = 
+
+source = mtd:Rv2870c
+ec = 
+
+source = mtd:Rv2881c
+ec = 
+
+source = mtd:Rv2900c
+ec = 
+
+source = mtd:Rv2940c
+ec = 
+
+source = mtd:Rv2965c
+ec = 
+
+source = mtd:Rv2981c
+ec = 
+
+source = mtd:Rv2992c
+ec = 
+
+source = mtd:Rv3048c
+ec = 
+
+source = mtd:Rv3051c
+ec = 
+
+source = mtd:Rv3068c
+ec = 
+
+source = mtd:Rv3106
+ec = 
+
+source = mtd:Rv3227
+ec = 
+
+source = mtd:Rv3247c
+ec = 
+
+source = mtd:Rv3248c
+ec = 
+
+source = mtd:Rv3260c
+ec = 
+
+source = mtd:Rv3264c
+ec = 
+
+source = mtd:Rv3279c
+ec = 
+
+source = mtd:Rv3280
+ec = 
+
+source = mtd:Rv3285
+ec = 
+
+source = mtd:Rv3356c
+ec = 
+
+source = mtd:Rv3398c
+ec = 
+
+source = mtd:Rv3465
+ec = 
+
+source = mtd:Rv3581c
+ec = 
+
+source = mtd:Rv3582c
+ec = 
+
+source = mtd:Rv3601c
+ec = 
+
+source = mtd:Rv3602c
+ec = 
+
+source = mtd:Rv3790
+ec = 
+
+source = mtd:Rv3791
+ec = 
+
+source = mtd:Rv3792
+ec = 
+
+source = mtd:Rv3793
+ec = 
+
+source = mtd:Rv3799c
+ec = 
+
+source = mtd:Rv3800c
+ec = 
+
+source = mtd:Rv3801c
+ec = 
+
+source = mtd:Rv3802c
+ec = 
+
+source = mtd:Rv3804c
+ec = 
+
+source = mtd:Rv3806c
+ec = 
+
+source = mtd:Rv3808c
+ec = 
+
+source = mtd:Rv3809c
+ec = 
+
+source = mtd:Rv3818
+ec = 
+
+source = mtd:Rv3913
+ec = 
+
+source = mtd:orphan
+ec = 
+
+source = mtn:Rv0129c
+ec = 
+
+source = mtn:Rv0334
+ec = 
+
+source = mtn:Rv0414c
+ec = 
+
+source = mtn:Rv0417
+ec = 
+
+source = mtn:Rv0422c
+ec = 
+
+source = mtn:Rv0423c
+ec = 
+
+source = mtn:Rv0436c
+ec = 
+
+source = mtn:Rv0437c
+ec = 
+
+source = mtn:Rv0482
+ec = 
+
+source = mtn:Rv0503c
+ec = 
+
+source = mtn:Rv0509
+ec = 
+
+source = mtn:Rv0510
+ec = 
+
+source = mtn:Rv0511
+ec = 
+
+source = mtn:Rv0512
+ec = 
+
+source = mtn:Rv0524
+ec = 
+
+source = mtn:Rv0533c
+ec = 
+
+source = mtn:Rv0534c
+ec = 
+
+source = mtn:Rv0535
+ec = 
+
+source = mtn:Rv0542c
+ec = 
+
+source = mtn:Rv0548c
+ec = 
+
+source = mtn:Rv0553
+ec = 
+
+source = mtn:Rv0555
+ec = 
+
+source = mtn:Rv0557
+ec = 
+
+source = mtn:Rv0562
+ec = 
+
+source = mtn:Rv0642c
+ec = 
+
+source = mtn:Rv0643c
+ec = 
+
+source = mtn:Rv0644c
+ec = 
+
+source = mtn:Rv0645c
+ec = 
+
+source = mtn:Rv0733
+ec = 
+
+source = mtn:Rv0772
+ec = 
+
+source = mtn:Rv0803
+ec = 
+
+source = mtn:Rv0808
+ec = 
+
+source = mtn:Rv0809
+ec = 
+
+source = mtn:Rv0956
+ec = 
+
+source = mtn:Rv1011
+ec = 
+
+source = mtn:Rv1017c
+ec = 
+
+source = mtn:Rv1018c
+ec = 
+
+source = mtn:Rv1086
+ec = 
+
+source = mtn:Rv1092c
+ec = 
+
+source = mtn:Rv1315
+ec = 
+
+source = mtn:Rv1391
+ec = 
+
+source = mtn:Rv1392
+ec = 
+
+source = mtn:Rv1412
+ec = 
+
+source = mtn:Rv1416
+ec = 
+
+source = mtn:Rv1484
+ec = 
+
+source = mtn:Rv1485
+ec = 
+
+source = mtn:Rv1500
+ec = 
+
+source = mtn:Rv1631
+ec = 
+
+source = mtn:Rv1695
+ec = 
+
+source = mtn:Rv1712
+ec = 
+
+source = mtn:Rv1745c
+ec = 
+
+source = mtn:Rv1886c
+ec = 
+
+source = mtn:Rv1940
+ec = 
+
+source = mtn:Rv2051c
+ec = 
+
+source = mtn:Rv2152c
+ec = 
+
+source = mtn:Rv2153c
+ec = 
+
+source = mtn:Rv2155c
+ec = 
+
+source = mtn:Rv2156c
+ec = 
+
+source = mtn:Rv2157c
+ec = 
+
+source = mtn:Rv2158c
+ec = 
+
+source = mtn:Rv2178c
+ec = 
+
+source = mtn:Rv2217
+ec = 
+
+source = mtn:Rv2218
+ec = 
+
+source = mtn:Rv2220
+ec = 
+
+source = mtn:Rv2225
+ec = 
+
+source = mtn:Rv2244
+ec = 
+
+source = mtn:Rv2445c
+ec = 
+
+source = mtn:Rv2482c
+ec = 
+
+source = mtn:Rv2523c
+ec = 
+
+source = mtn:Rv2524c
+ec = 
+
+source = mtn:Rv2531c
+ec = 
+
+source = mtn:Rv2537c
+ec = 
+
+source = mtn:Rv2538c
+ec = 
+
+source = mtn:Rv2539c
+ec = 
+
+source = mtn:Rv2540c
+ec = 
+
+source = mtn:Rv2552c
+ec = 
+
+source = mtn:Rv2573
+ec = 
+
+source = mtn:Rv2601
+ec = 
+
+source = mtn:Rv2610c
+ec = 
+
+source = mtn:Rv2611c
+ec = 
+
+source = mtn:Rv2612c
+ec = 
+
+source = mtn:Rv2678c
+ec = 
+
+source = mtn:Rv2697c
+ec = 
+
+source = mtn:Rv2701c
+ec = 
+
+source = mtn:Rv2726c
+ec = 
+
+source = mtn:Rv2786c
+ec = 
+
+source = mtn:Rv2868c
+ec = 
+
+source = mtn:Rv2870c
+ec = 
+
+source = mtn:Rv2881c
+ec = 
+
+source = mtn:Rv2900c
+ec = 
+
+source = mtn:Rv2940c
+ec = 
+
+source = mtn:Rv2965c
+ec = 
+
+source = mtn:Rv2981c
+ec = 
+
+source = mtn:Rv2992c
+ec = 
+
+source = mtn:Rv3048c
+ec = 
+
+source = mtn:Rv3051c
+ec = 
+
+source = mtn:Rv3068c
+ec = 
+
+source = mtn:Rv3106
+ec = 
+
+source = mtn:Rv3227
+ec = 
+
+source = mtn:Rv3247c
+ec = 
+
+source = mtn:Rv3248c
+ec = 
+
+source = mtn:Rv3260c
+ec = 
+
+source = mtn:Rv3264c
+ec = 
+
+source = mtn:Rv3279c
+ec = 
+
+source = mtn:Rv3280
+ec = 
+
+source = mtn:Rv3285
+ec = 
+
+source = mtn:Rv3356c
+ec = 
+
+source = mtn:Rv3398c
+ec = 
+
+source = mtn:Rv3465
+ec = 
+
+source = mtn:Rv3581c
+ec = 
+
+source = mtn:Rv3582c
+ec = 
+
+source = mtn:Rv3601c
+ec = 
+
+source = mtn:Rv3602c
+ec = 
+
+source = mtn:Rv3790
+ec = 
+
+source = mtn:Rv3791
+ec = 
+
+source = mtn:Rv3792
+ec = 
+
+source = mtn:Rv3793
+ec = 
+
+source = mtn:Rv3799c
+ec = 
+
+source = mtn:Rv3800c
+ec = 
+
+source = mtn:Rv3801c
+ec = 
+
+source = mtn:Rv3802c
+ec = 
+
+source = mtn:Rv3804c
+ec = 
+
+source = mtn:Rv3806c
+ec = 
+
+source = mtn:Rv3808c
+ec = 
+
+source = mtn:Rv3809c
+ec = 
+
+source = mtn:Rv3818
+ec = 
+
+source = mtn:Rv3913
+ec = 
+
+source = mtn:orphan
+ec = 
+
+source = mtj:Rv0129c
+ec = 
+
+source = mtj:Rv0334
+ec = 
+
+source = mtj:Rv0414c
+ec = 
+
+source = mtj:Rv0417
+ec = 
+
+source = mtj:Rv0422c
+ec = 
+
+source = mtj:Rv0423c
+ec = 
+
+source = mtj:Rv0436c
+ec = 
+
+source = mtj:Rv0437c
+ec = 
+
+source = mtj:Rv0482
+ec = 
+
+source = mtj:Rv0503c
+ec = 
+
+source = mtj:Rv0509
+ec = 
+
+source = mtj:Rv0510
+ec = 
+
+source = mtj:Rv0511
+ec = 
+
+source = mtj:Rv0512
+ec = 
+
+source = mtj:Rv0524
+ec = 
+
+source = mtj:Rv0533c
+ec = 
+
+source = mtj:Rv0534c
+ec = 
+
+source = mtj:Rv0535
+ec = 
+
+source = mtj:Rv0542c
+ec = 
+
+source = mtj:Rv0548c
+ec = 
+
+source = mtj:Rv0553
+ec = 
+
+source = mtj:Rv0555
+ec = 
+
+source = mtj:Rv0557
+ec = 
+
+source = mtj:Rv0562
+ec = 
+
+source = mtj:Rv0642c
+ec = 
+
+source = mtj:Rv0643c
+ec = 
+
+source = mtj:Rv0644c
+ec = 
+
+source = mtj:Rv0645c
+ec = 
+
+source = mtj:Rv0733
+ec = 
+
+source = mtj:Rv0772
+ec = 
+
+source = mtj:Rv0803
+ec = 
+
+source = mtj:Rv0808
+ec = 
+
+source = mtj:Rv0809
+ec = 
+
+source = mtj:Rv0956
+ec = 
+
+source = mtj:Rv1011
+ec = 
+
+source = mtj:Rv1017c
+ec = 
+
+source = mtj:Rv1018c
+ec = 
+
+source = mtj:Rv1086
+ec = 
+
+source = mtj:Rv1092c
+ec = 
+
+source = mtj:Rv1315
+ec = 
+
+source = mtj:Rv1391
+ec = 
+
+source = mtj:Rv1392
+ec = 
+
+source = mtj:Rv1412
+ec = 
+
+source = mtj:Rv1416
+ec = 
+
+source = mtj:Rv1484
+ec = 
+
+source = mtj:Rv1485
+ec = 
+
+source = mtj:Rv1500
+ec = 
+
+source = mtj:Rv1631
+ec = 
+
+source = mtj:Rv1695
+ec = 
+
+source = mtj:Rv1712
+ec = 
+
+source = mtj:Rv1745c
+ec = 
+
+source = mtj:Rv1886c
+ec = 
+
+source = mtj:Rv1940
+ec = 
+
+source = mtj:Rv2051c
+ec = 
+
+source = mtj:Rv2152c
+ec = 
+
+source = mtj:Rv2153c
+ec = 
+
+source = mtj:Rv2155c
+ec = 
+
+source = mtj:Rv2156c
+ec = 
+
+source = mtj:Rv2157c
+ec = 
+
+source = mtj:Rv2158c
+ec = 
+
+source = mtj:Rv2178c
+ec = 
+
+source = mtj:Rv2217
+ec = 
+
+source = mtj:Rv2218
+ec = 
+
+source = mtj:Rv2220
+ec = 
+
+source = mtj:Rv2225
+ec = 
+
+source = mtj:Rv2244
+ec = 
+
+source = mtj:Rv2445c
+ec = 
+
+source = mtj:Rv2482c
+ec = 
+
+source = mtj:Rv2523c
+ec = 
+
+source = mtj:Rv2524c
+ec = 
+
+source = mtj:Rv2531c
+ec = 
+
+source = mtj:Rv2537c
+ec = 
+
+source = mtj:Rv2538c
+ec = 
+
+source = mtj:Rv2539c
+ec = 
+
+source = mtj:Rv2540c
+ec = 
+
+source = mtj:Rv2552c
+ec = 
+
+source = mtj:Rv2573
+ec = 
+
+source = mtj:Rv2601
+ec = 
+
+source = mtj:Rv2610c
+ec = 
+
+source = mtj:Rv2611c
+ec = 
+
+source = mtj:Rv2612c
+ec = 
+
+source = mtj:Rv2678c
+ec = 
+
+source = mtj:Rv2697c
+ec = 
+
+source = mtj:Rv2701c
+ec = 
+
+source = mtj:Rv2726c
+ec = 
+
+source = mtj:Rv2786c
+ec = 
+
+source = mtj:Rv2868c
+ec = 
+
+source = mtj:Rv2870c
+ec = 
+
+source = mtj:Rv2881c
+ec = 
+
+source = mtj:Rv2900c
+ec = 
+
+source = mtj:Rv2940c
+ec = 
+
+source = mtj:Rv2965c
+ec = 
+
+source = mtj:Rv2981c
+ec = 
+
+source = mtj:Rv2992c
+ec = 
+
+source = mtj:Rv3048c
+ec = 
+
+source = mtj:Rv3051c
+ec = 
+
+source = mtj:Rv3068c
+ec = 
+
+source = mtj:Rv3106
+ec = 
+
+source = mtj:Rv3227
+ec = 
+
+source = mtj:Rv3247c
+ec = 
+
+source = mtj:Rv3248c
+ec = 
+
+source = mtj:Rv3260c
+ec = 
+
+source = mtj:Rv3264c
+ec = 
+
+source = mtj:Rv3279c
+ec = 
+
+source = mtj:Rv3280
+ec = 
+
+source = mtj:Rv3285
+ec = 
+
+source = mtj:Rv3356c
+ec = 
+
+source = mtj:Rv3398c
+ec = 
+
+source = mtj:Rv3465
+ec = 
+
+source = mtj:Rv3581c
+ec = 
+
+source = mtj:Rv3582c
+ec = 
+
+source = mtj:Rv3601c
+ec = 
+
+source = mtj:Rv3602c
+ec = 
+
+source = mtj:Rv3790
+ec = 
+
+source = mtj:Rv3791
+ec = 
+
+source = mtj:Rv3792
+ec = 
+
+source = mtj:Rv3793
+ec = 
+
+source = mtj:Rv3799c
+ec = 
+
+source = mtj:Rv3800c
+ec = 
+
+source = mtj:Rv3801c
+ec = 
+
+source = mtj:Rv3802c
+ec = 
+
+source = mtj:Rv3804c
+ec = 
+
+source = mtj:Rv3806c
+ec = 
+
+source = mtj:Rv3808c
+ec = 
+
+source = mtj:Rv3809c
+ec = 
+
+source = mtj:Rv3818
+ec = 
+
+source = mtj:Rv3913
+ec = 
+
+source = mtj:orphan
+ec = 
+
+source = mtub:Rv0129c
+ec = 
+
+source = mtub:Rv0334
+ec = 
+
+source = mtub:Rv0414c
+ec = 
+
+source = mtub:Rv0417
+ec = 
+
+source = mtub:Rv0422c
+ec = 
+
+source = mtub:Rv0423c
+ec = 
+
+source = mtub:Rv0436c
+ec = 
+
+source = mtub:Rv0437c
+ec = 
+
+source = mtub:Rv0482
+ec = 
+
+source = mtub:Rv0503c
+ec = 
+
+source = mtub:Rv0509
+ec = 
+
+source = mtub:Rv0510
+ec = 
+
+source = mtub:Rv0511
+ec = 
+
+source = mtub:Rv0512
+ec = 
+
+source = mtub:Rv0524
+ec = 
+
+source = mtub:Rv0533c
+ec = 
+
+source = mtub:Rv0534c
+ec = 
+
+source = mtub:Rv0535
+ec = 
+
+source = mtub:Rv0542c
+ec = 
+
+source = mtub:Rv0548c
+ec = 
+
+source = mtub:Rv0553
+ec = 
+
+source = mtub:Rv0555
+ec = 
+
+source = mtub:Rv0557
+ec = 
+
+source = mtub:Rv0562
+ec = 
+
+source = mtub:Rv0642c
+ec = 
+
+source = mtub:Rv0643c
+ec = 
+
+source = mtub:Rv0644c
+ec = 
+
+source = mtub:Rv0645c
+ec = 
+
+source = mtub:Rv0733
+ec = 
+
+source = mtub:Rv0772
+ec = 
+
+source = mtub:Rv0803
+ec = 
+
+source = mtub:Rv0808
+ec = 
+
+source = mtub:Rv0809
+ec = 
+
+source = mtub:Rv0956
+ec = 
+
+source = mtub:Rv1011
+ec = 
+
+source = mtub:Rv1017c
+ec = 
+
+source = mtub:Rv1018c
+ec = 
+
+source = mtub:Rv1086
+ec = 
+
+source = mtub:Rv1092c
+ec = 
+
+source = mtub:Rv1315
+ec = 
+
+source = mtub:Rv1391
+ec = 
+
+source = mtub:Rv1392
+ec = 
+
+source = mtub:Rv1412
+ec = 
+
+source = mtub:Rv1416
+ec = 
+
+source = mtub:Rv1484
+ec = 
+
+source = mtub:Rv1485
+ec = 
+
+source = mtub:Rv1500
+ec = 
+
+source = mtub:Rv1631
+ec = 
+
+source = mtub:Rv1695
+ec = 
+
+source = mtub:Rv1712
+ec = 
+
+source = mtub:Rv1745c
+ec = 
+
+source = mtub:Rv1886c
+ec = 
+
+source = mtub:Rv1940
+ec = 
+
+source = mtub:Rv2051c
+ec = 
+
+source = mtub:Rv2152c
+ec = 
+
+source = mtub:Rv2153c
+ec = 
+
+source = mtub:Rv2155c
+ec = 
+
+source = mtub:Rv2156c
+ec = 
+
+source = mtub:Rv2157c
+ec = 
+
+source = mtub:Rv2158c
+ec = 
+
+source = mtub:Rv2178c
+ec = 
+
+source = mtub:Rv2217
+ec = 
+
+source = mtub:Rv2218
+ec = 
+
+source = mtub:Rv2220
+ec = 
+
+source = mtub:Rv2225
+ec = 
+
+source = mtub:Rv2244
+ec = 
+
+source = mtub:Rv2445c
+ec = 
+
+source = mtub:Rv2482c
+ec = 
+
+source = mtub:Rv2523c
+ec = 
+
+source = mtub:Rv2524c
+ec = 
+
+source = mtub:Rv2531c
+ec = 
+
+source = mtub:Rv2537c
+ec = 
+
+source = mtub:Rv2538c
+ec = 
+
+source = mtub:Rv2539c
+ec = 
+
+source = mtub:Rv2540c
+ec = 
+
+source = mtub:Rv2552c
+ec = 
+
+source = mtub:Rv2573
+ec = 
+
+source = mtub:Rv2601
+ec = 
+
+source = mtub:Rv2610c
+ec = 
+
+source = mtub:Rv2611c
+ec = 
+
+source = mtub:Rv2612c
+ec = 
+
+source = mtub:Rv2678c
+ec = 
+
+source = mtub:Rv2697c
+ec = 
+
+source = mtub:Rv2701c
+ec = 
+
+source = mtub:Rv2726c
+ec = 
+
+source = mtub:Rv2786c
+ec = 
+
+source = mtub:Rv2868c
+ec = 
+
+source = mtub:Rv2870c
+ec = 
+
+source = mtub:Rv2881c
+ec = 
+
+source = mtub:Rv2900c
+ec = 
+
+source = mtub:Rv2940c
+ec = 
+
+source = mtub:Rv2965c
+ec = 
+
+source = mtub:Rv2981c
+ec = 
+
+source = mtub:Rv2992c
+ec = 
+
+source = mtub:Rv3048c
+ec = 
+
+source = mtub:Rv3051c
+ec = 
+
+source = mtub:Rv3068c
+ec = 
+
+source = mtub:Rv3106
+ec = 
+
+source = mtub:Rv3227
+ec = 
+
+source = mtub:Rv3247c
+ec = 
+
+source = mtub:Rv3248c
+ec = 
+
+source = mtub:Rv3260c
+ec = 
+
+source = mtub:Rv3264c
+ec = 
+
+source = mtub:Rv3279c
+ec = 
+
+source = mtub:Rv3280
+ec = 
+
+source = mtub:Rv3285
+ec = 
+
+source = mtub:Rv3356c
+ec = 
+
+source = mtub:Rv3398c
+ec = 
+
+source = mtub:Rv3465
+ec = 
+
+source = mtub:Rv3581c
+ec = 
+
+source = mtub:Rv3582c
+ec = 
+
+source = mtub:Rv3601c
+ec = 
+
+source = mtub:Rv3602c
+ec = 
+
+source = mtub:Rv3790
+ec = 
+
+source = mtub:Rv3791
+ec = 
+
+source = mtub:Rv3792
+ec = 
+
+source = mtub:Rv3793
+ec = 
+
+source = mtub:Rv3799c
+ec = 
+
+source = mtub:Rv3800c
+ec = 
+
+source = mtub:Rv3801c
+ec = 
+
+source = mtub:Rv3802c
+ec = 
+
+source = mtub:Rv3804c
+ec = 
+
+source = mtub:Rv3806c
+ec = 
+
+source = mtub:Rv3808c
+ec = 
+
+source = mtub:Rv3809c
+ec = 
+
+source = mtub:Rv3818
+ec = 
+
+source = mtub:Rv3913
+ec = 
+
+source = mtub:orphan
+ec = 
+
+source = mtuc:Rv0129c
+ec = 
+
+source = mtuc:Rv0334
+ec = 
+
+source = mtuc:Rv0414c
+ec = 
+
+source = mtuc:Rv0417
+ec = 
+
+source = mtuc:Rv0422c
+ec = 
+
+source = mtuc:Rv0423c
+ec = 
+
+source = mtuc:Rv0436c
+ec = 
+
+source = mtuc:Rv0437c
+ec = 
+
+source = mtuc:Rv0482
+ec = 
+
+source = mtuc:Rv0503c
+ec = 
+
+source = mtuc:Rv0509
+ec = 
+
+source = mtuc:Rv0510
+ec = 
+
+source = mtuc:Rv0511
+ec = 
+
+source = mtuc:Rv0512
+ec = 
+
+source = mtuc:Rv0524
+ec = 
+
+source = mtuc:Rv0533c
+ec = 
+
+source = mtuc:Rv0534c
+ec = 
+
+source = mtuc:Rv0535
+ec = 
+
+source = mtuc:Rv0542c
+ec = 
+
+source = mtuc:Rv0548c
+ec = 
+
+source = mtuc:Rv0553
+ec = 
+
+source = mtuc:Rv0555
+ec = 
+
+source = mtuc:Rv0557
+ec = 
+
+source = mtuc:Rv0562
+ec = 
+
+source = mtuc:Rv0642c
+ec = 
+
+source = mtuc:Rv0643c
+ec = 
+
+source = mtuc:Rv0644c
+ec = 
+
+source = mtuc:Rv0645c
+ec = 
+
+source = mtuc:Rv0733
+ec = 
+
+source = mtuc:Rv0772
+ec = 
+
+source = mtuc:Rv0803
+ec = 
+
+source = mtuc:Rv0808
+ec = 
+
+source = mtuc:Rv0809
+ec = 
+
+source = mtuc:Rv0956
+ec = 
+
+source = mtuc:Rv1011
+ec = 
+
+source = mtuc:Rv1017c
+ec = 
+
+source = mtuc:Rv1018c
+ec = 
+
+source = mtuc:Rv1086
+ec = 
+
+source = mtuc:Rv1092c
+ec = 
+
+source = mtuc:Rv1315
+ec = 
+
+source = mtuc:Rv1391
+ec = 
+
+source = mtuc:Rv1392
+ec = 
+
+source = mtuc:Rv1412
+ec = 
+
+source = mtuc:Rv1416
+ec = 
+
+source = mtuc:Rv1484
+ec = 
+
+source = mtuc:Rv1485
+ec = 
+
+source = mtuc:Rv1500
+ec = 
+
+source = mtuc:Rv1631
+ec = 
+
+source = mtuc:Rv1695
+ec = 
+
+source = mtuc:Rv1712
+ec = 
+
+source = mtuc:Rv1745c
+ec = 
+
+source = mtuc:Rv1886c
+ec = 
+
+source = mtuc:Rv1940
+ec = 
+
+source = mtuc:Rv2051c
+ec = 
+
+source = mtuc:Rv2152c
+ec = 
+
+source = mtuc:Rv2153c
+ec = 
+
+source = mtuc:Rv2155c
+ec = 
+
+source = mtuc:Rv2156c
+ec = 
+
+source = mtuc:Rv2157c
+ec = 
+
+source = mtuc:Rv2158c
+ec = 
+
+source = mtuc:Rv2178c
+ec = 
+
+source = mtuc:Rv2217
+ec = 
+
+source = mtuc:Rv2218
+ec = 
+
+source = mtuc:Rv2220
+ec = 
+
+source = mtuc:Rv2225
+ec = 
+
+source = mtuc:Rv2244
+ec = 
+
+source = mtuc:Rv2445c
+ec = 
+
+source = mtuc:Rv2482c
+ec = 
+
+source = mtuc:Rv2523c
+ec = 
+
+source = mtuc:Rv2524c
+ec = 
+
+source = mtuc:Rv2531c
+ec = 
+
+source = mtuc:Rv2537c
+ec = 
+
+source = mtuc:Rv2538c
+ec = 
+
+source = mtuc:Rv2539c
+ec = 
+
+source = mtuc:Rv2540c
+ec = 
+
+source = mtuc:Rv2552c
+ec = 
+
+source = mtuc:Rv2573
+ec = 
+
+source = mtuc:Rv2601
+ec = 
+
+source = mtuc:Rv2610c
+ec = 
+
+source = mtuc:Rv2611c
+ec = 
+
+source = mtuc:Rv2612c
+ec = 
+
+source = mtuc:Rv2678c
+ec = 
+
+source = mtuc:Rv2697c
+ec = 
+
+source = mtuc:Rv2701c
+ec = 
+
+source = mtuc:Rv2726c
+ec = 
+
+source = mtuc:Rv2786c
+ec = 
+
+source = mtuc:Rv2868c
+ec = 
+
+source = mtuc:Rv2870c
+ec = 
+
+source = mtuc:Rv2881c
+ec = 
+
+source = mtuc:Rv2900c
+ec = 
+
+source = mtuc:Rv2940c
+ec = 
+
+source = mtuc:Rv2965c
+ec = 
+
+source = mtuc:Rv2981c
+ec = 
+
+source = mtuc:Rv2992c
+ec = 
+
+source = mtuc:Rv3048c
+ec = 
+
+source = mtuc:Rv3051c
+ec = 
+
+source = mtuc:Rv3068c
+ec = 
+
+source = mtuc:Rv3106
+ec = 
+
+source = mtuc:Rv3227
+ec = 
+
+source = mtuc:Rv3247c
+ec = 
+
+source = mtuc:Rv3248c
+ec = 
+
+source = mtuc:Rv3260c
+ec = 
+
+source = mtuc:Rv3264c
+ec = 
+
+source = mtuc:Rv3279c
+ec = 
+
+source = mtuc:Rv3280
+ec = 
+
+source = mtuc:Rv3285
+ec = 
+
+source = mtuc:Rv3356c
+ec = 
+
+source = mtuc:Rv3398c
+ec = 
+
+source = mtuc:Rv3465
+ec = 
+
+source = mtuc:Rv3581c
+ec = 
+
+source = mtuc:Rv3582c
+ec = 
+
+source = mtuc:Rv3601c
+ec = 
+
+source = mtuc:Rv3602c
+ec = 
+
+source = mtuc:Rv3790
+ec = 
+
+source = mtuc:Rv3791
+ec = 
+
+source = mtuc:Rv3792
+ec = 
+
+source = mtuc:Rv3793
+ec = 
+
+source = mtuc:Rv3799c
+ec = 
+
+source = mtuc:Rv3800c
+ec = 
+
+source = mtuc:Rv3801c
+ec = 
+
+source = mtuc:Rv3802c
+ec = 
+
+source = mtuc:Rv3804c
+ec = 
+
+source = mtuc:Rv3806c
+ec = 
+
+source = mtuc:Rv3808c
+ec = 
+
+source = mtuc:Rv3809c
+ec = 
+
+source = mtuc:Rv3818
+ec = 
+
+source = mtuc:Rv3913
+ec = 
+
+source = mtuc:orphan
+ec = 
+
+source = mtue:Rv0129c
+ec = 
+
+source = mtue:Rv0334
+ec = 
+
+source = mtue:Rv0414c
+ec = 
+
+source = mtue:Rv0417
+ec = 
+
+source = mtue:Rv0422c
+ec = 
+
+source = mtue:Rv0423c
+ec = 
+
+source = mtue:Rv0436c
+ec = 
+
+source = mtue:Rv0437c
+ec = 
+
+source = mtue:Rv0482
+ec = 
+
+source = mtue:Rv0503c
+ec = 
+
+source = mtue:Rv0509
+ec = 
+
+source = mtue:Rv0510
+ec = 
+
+source = mtue:Rv0511
+ec = 
+
+source = mtue:Rv0512
+ec = 
+
+source = mtue:Rv0524
+ec = 
+
+source = mtue:Rv0533c
+ec = 
+
+source = mtue:Rv0534c
+ec = 
+
+source = mtue:Rv0535
+ec = 
+
+source = mtue:Rv0542c
+ec = 
+
+source = mtue:Rv0548c
+ec = 
+
+source = mtue:Rv0553
+ec = 
+
+source = mtue:Rv0555
+ec = 
+
+source = mtue:Rv0557
+ec = 
+
+source = mtue:Rv0562
+ec = 
+
+source = mtue:Rv0642c
+ec = 
+
+source = mtue:Rv0643c
+ec = 
+
+source = mtue:Rv0644c
+ec = 
+
+source = mtue:Rv0645c
+ec = 
+
+source = mtue:Rv0733
+ec = 
+
+source = mtue:Rv0772
+ec = 
+
+source = mtue:Rv0803
+ec = 
+
+source = mtue:Rv0808
+ec = 
+
+source = mtue:Rv0809
+ec = 
+
+source = mtue:Rv0956
+ec = 
+
+source = mtue:Rv1011
+ec = 
+
+source = mtue:Rv1017c
+ec = 
+
+source = mtue:Rv1018c
+ec = 
+
+source = mtue:Rv1086
+ec = 
+
+source = mtue:Rv1092c
+ec = 
+
+source = mtue:Rv1315
+ec = 
+
+source = mtue:Rv1391
+ec = 
+
+source = mtue:Rv1392
+ec = 
+
+source = mtue:Rv1412
+ec = 
+
+source = mtue:Rv1416
+ec = 
+
+source = mtue:Rv1484
+ec = 
+
+source = mtue:Rv1485
+ec = 
+
+source = mtue:Rv1500
+ec = 
+
+source = mtue:Rv1631
+ec = 
+
+source = mtue:Rv1695
+ec = 
+
+source = mtue:Rv1712
+ec = 
+
+source = mtue:Rv1745c
+ec = 
+
+source = mtue:Rv1886c
+ec = 
+
+source = mtue:Rv1940
+ec = 
+
+source = mtue:Rv2051c
+ec = 
+
+source = mtue:Rv2152c
+ec = 
+
+source = mtue:Rv2153c
+ec = 
+
+source = mtue:Rv2155c
+ec = 
+
+source = mtue:Rv2156c
+ec = 
+
+source = mtue:Rv2157c
+ec = 
+
+source = mtue:Rv2158c
+ec = 
+
+source = mtue:Rv2178c
+ec = 
+
+source = mtue:Rv2217
+ec = 
+
+source = mtue:Rv2218
+ec = 
+
+source = mtue:Rv2220
+ec = 
+
+source = mtue:Rv2225
+ec = 
+
+source = mtue:Rv2244
+ec = 
+
+source = mtue:Rv2445c
+ec = 
+
+source = mtue:Rv2482c
+ec = 
+
+source = mtue:Rv2523c
+ec = 
+
+source = mtue:Rv2524c
+ec = 
+
+source = mtue:Rv2531c
+ec = 
+
+source = mtue:Rv2537c
+ec = 
+
+source = mtue:Rv2538c
+ec = 
+
+source = mtue:Rv2539c
+ec = 
+
+source = mtue:Rv2540c
+ec = 
+
+source = mtue:Rv2552c
+ec = 
+
+source = mtue:Rv2573
+ec = 
+
+source = mtue:Rv2601
+ec = 
+
+source = mtue:Rv2610c
+ec = 
+
+source = mtue:Rv2611c
+ec = 
+
+source = mtue:Rv2612c
+ec = 
+
+source = mtue:Rv2678c
+ec = 
+
+source = mtue:Rv2697c
+ec = 
+
+source = mtue:Rv2701c
+ec = 
+
+source = mtue:Rv2726c
+ec = 
+
+source = mtue:Rv2786c
+ec = 
+
+source = mtue:Rv2868c
+ec = 
+
+source = mtue:Rv2870c
+ec = 
+
+source = mtue:Rv2881c
+ec = 
+
+source = mtue:Rv2900c
+ec = 
+
+source = mtue:Rv2940c
+ec = 
+
+source = mtue:Rv2965c
+ec = 
+
+source = mtue:Rv2981c
+ec = 
+
+source = mtue:Rv2992c
+ec = 
+
+source = mtue:Rv3048c
+ec = 
+
+source = mtue:Rv3051c
+ec = 
+
+source = mtue:Rv3068c
+ec = 
+
+source = mtue:Rv3106
+ec = 
+
+source = mtue:Rv3227
+ec = 
+
+source = mtue:Rv3247c
+ec = 
+
+source = mtue:Rv3248c
+ec = 
+
+source = mtue:Rv3260c
+ec = 
+
+source = mtue:Rv3264c
+ec = 
+
+source = mtue:Rv3279c
+ec = 
+
+source = mtue:Rv3280
+ec = 
+
+source = mtue:Rv3285
+ec = 
+
+source = mtue:Rv3356c
+ec = 
+
+source = mtue:Rv3398c
+ec = 
+
+source = mtue:Rv3465
+ec = 
+
+source = mtue:Rv3581c
+ec = 
+
+source = mtue:Rv3582c
+ec = 
+
+source = mtue:Rv3601c
+ec = 
+
+source = mtue:Rv3602c
+ec = 
+
+source = mtue:Rv3790
+ec = 
+
+source = mtue:Rv3791
+ec = 
+
+source = mtue:Rv3792
+ec = 
+
+source = mtue:Rv3793
+ec = 
+
+source = mtue:Rv3799c
+ec = 
+
+source = mtue:Rv3800c
+ec = 
+
+source = mtue:Rv3801c
+ec = 
+
+source = mtue:Rv3802c
+ec = 
+
+source = mtue:Rv3804c
+ec = 
+
+source = mtue:Rv3806c
+ec = 
+
+source = mtue:Rv3808c
+ec = 
+
+source = mtue:Rv3809c
+ec = 
+
+source = mtue:Rv3818
+ec = 
+
+source = mtue:Rv3913
+ec = 
+
+source = mtue:orphan
+ec = 
+
+source = mtx:Rv0129c
+ec = 
+
+source = mtx:Rv0334
+ec = 
+
+source = mtx:Rv0414c
+ec = 
+
+source = mtx:Rv0417
+ec = 
+
+source = mtx:Rv0422c
+ec = 
+
+source = mtx:Rv0423c
+ec = 
+
+source = mtx:Rv0436c
+ec = 
+
+source = mtx:Rv0437c
+ec = 
+
+source = mtx:Rv0482
+ec = 
+
+source = mtx:Rv0503c
+ec = 
+
+source = mtx:Rv0509
+ec = 
+
+source = mtx:Rv0510
+ec = 
+
+source = mtx:Rv0511
+ec = 
+
+source = mtx:Rv0512
+ec = 
+
+source = mtx:Rv0524
+ec = 
+
+source = mtx:Rv0533c
+ec = 
+
+source = mtx:Rv0534c
+ec = 
+
+source = mtx:Rv0535
+ec = 
+
+source = mtx:Rv0542c
+ec = 
+
+source = mtx:Rv0548c
+ec = 
+
+source = mtx:Rv0553
+ec = 
+
+source = mtx:Rv0555
+ec = 
+
+source = mtx:Rv0557
+ec = 
+
+source = mtx:Rv0562
+ec = 
+
+source = mtx:Rv0642c
+ec = 
+
+source = mtx:Rv0643c
+ec = 
+
+source = mtx:Rv0644c
+ec = 
+
+source = mtx:Rv0645c
+ec = 
+
+source = mtx:Rv0733
+ec = 
+
+source = mtx:Rv0772
+ec = 
+
+source = mtx:Rv0803
+ec = 
+
+source = mtx:Rv0808
+ec = 
+
+source = mtx:Rv0809
+ec = 
+
+source = mtx:Rv0956
+ec = 
+
+source = mtx:Rv1011
+ec = 
+
+source = mtx:Rv1017c
+ec = 
+
+source = mtx:Rv1018c
+ec = 
+
+source = mtx:Rv1086
+ec = 
+
+source = mtx:Rv1092c
+ec = 
+
+source = mtx:Rv1315
+ec = 
+
+source = mtx:Rv1391
+ec = 
+
+source = mtx:Rv1392
+ec = 
+
+source = mtx:Rv1412
+ec = 
+
+source = mtx:Rv1416
+ec = 
+
+source = mtx:Rv1484
+ec = 
+
+source = mtx:Rv1485
+ec = 
+
+source = mtx:Rv1500
+ec = 
+
+source = mtx:Rv1631
+ec = 
+
+source = mtx:Rv1695
+ec = 
+
+source = mtx:Rv1712
+ec = 
+
+source = mtx:Rv1745c
+ec = 
+
+source = mtx:Rv1886c
+ec = 
+
+source = mtx:Rv1940
+ec = 
+
+source = mtx:Rv2051c
+ec = 
+
+source = mtx:Rv2152c
+ec = 
+
+source = mtx:Rv2153c
+ec = 
+
+source = mtx:Rv2155c
+ec = 
+
+source = mtx:Rv2156c
+ec = 
+
+source = mtx:Rv2157c
+ec = 
+
+source = mtx:Rv2158c
+ec = 
+
+source = mtx:Rv2178c
+ec = 
+
+source = mtx:Rv2217
+ec = 
+
+source = mtx:Rv2218
+ec = 
+
+source = mtx:Rv2220
+ec = 
+
+source = mtx:Rv2225
+ec = 
+
+source = mtx:Rv2244
+ec = 
+
+source = mtx:Rv2445c
+ec = 
+
+source = mtx:Rv2482c
+ec = 
+
+source = mtx:Rv2523c
+ec = 
+
+source = mtx:Rv2524c
+ec = 
+
+source = mtx:Rv2531c
+ec = 
+
+source = mtx:Rv2537c
+ec = 
+
+source = mtx:Rv2538c
+ec = 
+
+source = mtx:Rv2539c
+ec = 
+
+source = mtx:Rv2540c
+ec = 
+
+source = mtx:Rv2552c
+ec = 
+
+source = mtx:Rv2573
+ec = 
+
+source = mtx:Rv2601
+ec = 
+
+source = mtx:Rv2610c
+ec = 
+
+source = mtx:Rv2611c
+ec = 
+
+source = mtx:Rv2612c
+ec = 
+
+source = mtx:Rv2678c
+ec = 
+
+source = mtx:Rv2697c
+ec = 
+
+source = mtx:Rv2701c
+ec = 
+
+source = mtx:Rv2726c
+ec = 
+
+source = mtx:Rv2786c
+ec = 
+
+source = mtx:Rv2868c
+ec = 
+
+source = mtx:Rv2870c
+ec = 
+
+source = mtx:Rv2881c
+ec = 
+
+source = mtx:Rv2900c
+ec = 
+
+source = mtx:Rv2940c
+ec = 
+
+source = mtx:Rv2965c
+ec = 
+
+source = mtx:Rv2981c
+ec = 
+
+source = mtx:Rv2992c
+ec = 
+
+source = mtx:Rv3048c
+ec = 
+
+source = mtx:Rv3051c
+ec = 
+
+source = mtx:Rv3068c
+ec = 
+
+source = mtx:Rv3106
+ec = 
+
+source = mtx:Rv3227
+ec = 
+
+source = mtx:Rv3247c
+ec = 
+
+source = mtx:Rv3248c
+ec = 
+
+source = mtx:Rv3260c
+ec = 
+
+source = mtx:Rv3264c
+ec = 
+
+source = mtx:Rv3279c
+ec = 
+
+source = mtx:Rv3280
+ec = 
+
+source = mtx:Rv3285
+ec = 
+
+source = mtx:Rv3356c
+ec = 
+
+source = mtx:Rv3398c
+ec = 
+
+source = mtx:Rv3465
+ec = 
+
+source = mtx:Rv3581c
+ec = 
+
+source = mtx:Rv3582c
+ec = 
+
+source = mtx:Rv3601c
+ec = 
+
+source = mtx:Rv3602c
+ec = 
+
+source = mtx:Rv3790
+ec = 
+
+source = mtx:Rv3791
+ec = 
+
+source = mtx:Rv3792
+ec = 
+
+source = mtx:Rv3793
+ec = 
+
+source = mtx:Rv3799c
+ec = 
+
+source = mtx:Rv3800c
+ec = 
+
+source = mtx:Rv3801c
+ec = 
+
+source = mtx:Rv3802c
+ec = 
+
+source = mtx:Rv3804c
+ec = 
+
+source = mtx:Rv3806c
+ec = 
+
+source = mtx:Rv3808c
+ec = 
+
+source = mtx:Rv3809c
+ec = 
+
+source = mtx:Rv3818
+ec = 
+
+source = mtx:Rv3913
+ec = 
+
+source = mtx:orphan
+ec = 
+
+source = mtuh:Rv0129c
+ec = 
+
+source = mtuh:Rv0334
+ec = 
+
+source = mtuh:Rv0414c
+ec = 
+
+source = mtuh:Rv0417
+ec = 
+
+source = mtuh:Rv0422c
+ec = 
+
+source = mtuh:Rv0423c
+ec = 
+
+source = mtuh:Rv0436c
+ec = 
+
+source = mtuh:Rv0437c
+ec = 
+
+source = mtuh:Rv0482
+ec = 
+
+source = mtuh:Rv0503c
+ec = 
+
+source = mtuh:Rv0509
+ec = 
+
+source = mtuh:Rv0510
+ec = 
+
+source = mtuh:Rv0511
+ec = 
+
+source = mtuh:Rv0512
+ec = 
+
+source = mtuh:Rv0524
+ec = 
+
+source = mtuh:Rv0533c
+ec = 
+
+source = mtuh:Rv0534c
+ec = 
+
+source = mtuh:Rv0535
+ec = 
+
+source = mtuh:Rv0542c
+ec = 
+
+source = mtuh:Rv0548c
+ec = 
+
+source = mtuh:Rv0553
+ec = 
+
+source = mtuh:Rv0555
+ec = 
+
+source = mtuh:Rv0557
+ec = 
+
+source = mtuh:Rv0562
+ec = 
+
+source = mtuh:Rv0642c
+ec = 
+
+source = mtuh:Rv0643c
+ec = 
+
+source = mtuh:Rv0644c
+ec = 
+
+source = mtuh:Rv0645c
+ec = 
+
+source = mtuh:Rv0733
+ec = 
+
+source = mtuh:Rv0772
+ec = 
+
+source = mtuh:Rv0803
+ec = 
+
+source = mtuh:Rv0808
+ec = 
+
+source = mtuh:Rv0809
+ec = 
+
+source = mtuh:Rv0956
+ec = 
+
+source = mtuh:Rv1011
+ec = 
+
+source = mtuh:Rv1017c
+ec = 
+
+source = mtuh:Rv1018c
+ec = 
+
+source = mtuh:Rv1086
+ec = 
+
+source = mtuh:Rv1092c
+ec = 
+
+source = mtuh:Rv1315
+ec = 
+
+source = mtuh:Rv1391
+ec = 
+
+source = mtuh:Rv1392
+ec = 
+
+source = mtuh:Rv1412
+ec = 
+
+source = mtuh:Rv1416
+ec = 
+
+source = mtuh:Rv1484
+ec = 
+
+source = mtuh:Rv1485
+ec = 
+
+source = mtuh:Rv1500
+ec = 
+
+source = mtuh:Rv1631
+ec = 
+
+source = mtuh:Rv1695
+ec = 
+
+source = mtuh:Rv1712
+ec = 
+
+source = mtuh:Rv1745c
+ec = 
+
+source = mtuh:Rv1886c
+ec = 
+
+source = mtuh:Rv1940
+ec = 
+
+source = mtuh:Rv2051c
+ec = 
+
+source = mtuh:Rv2152c
+ec = 
+
+source = mtuh:Rv2153c
+ec = 
+
+source = mtuh:Rv2155c
+ec = 
+
+source = mtuh:Rv2156c
+ec = 
+
+source = mtuh:Rv2157c
+ec = 
+
+source = mtuh:Rv2158c
+ec = 
+
+source = mtuh:Rv2178c
+ec = 
+
+source = mtuh:Rv2217
+ec = 
+
+source = mtuh:Rv2218
+ec = 
+
+source = mtuh:Rv2220
+ec = 
+
+source = mtuh:Rv2225
+ec = 
+
+source = mtuh:Rv2244
+ec = 
+
+source = mtuh:Rv2445c
+ec = 
+
+source = mtuh:Rv2482c
+ec = 
+
+source = mtuh:Rv2523c
+ec = 
+
+source = mtuh:Rv2524c
+ec = 
+
+source = mtuh:Rv2531c
+ec = 
+
+source = mtuh:Rv2537c
+ec = 
+
+source = mtuh:Rv2538c
+ec = 
+
+source = mtuh:Rv2539c
+ec = 
+
+source = mtuh:Rv2540c
+ec = 
+
+source = mtuh:Rv2552c
+ec = 
+
+source = mtuh:Rv2573
+ec = 
+
+source = mtuh:Rv2601
+ec = 
+
+source = mtuh:Rv2610c
+ec = 
+
+source = mtuh:Rv2611c
+ec = 
+
+source = mtuh:Rv2612c
+ec = 
+
+source = mtuh:Rv2678c
+ec = 
+
+source = mtuh:Rv2697c
+ec = 
+
+source = mtuh:Rv2701c
+ec = 
+
+source = mtuh:Rv2726c
+ec = 
+
+source = mtuh:Rv2786c
+ec = 
+
+source = mtuh:Rv2868c
+ec = 
+
+source = mtuh:Rv2870c
+ec = 
+
+source = mtuh:Rv2881c
+ec = 
+
+source = mtuh:Rv2900c
+ec = 
+
+source = mtuh:Rv2940c
+ec = 
+
+source = mtuh:Rv2965c
+ec = 
+
+source = mtuh:Rv2981c
+ec = 
+
+source = mtuh:Rv2992c
+ec = 
+
+source = mtuh:Rv3048c
+ec = 
+
+source = mtuh:Rv3051c
+ec = 
+
+source = mtuh:Rv3068c
+ec = 
+
+source = mtuh:Rv3106
+ec = 
+
+source = mtuh:Rv3227
+ec = 
+
+source = mtuh:Rv3247c
+ec = 
+
+source = mtuh:Rv3248c
+ec = 
+
+source = mtuh:Rv3260c
+ec = 
+
+source = mtuh:Rv3264c
+ec = 
+
+source = mtuh:Rv3279c
+ec = 
+
+source = mtuh:Rv3280
+ec = 
+
+source = mtuh:Rv3285
+ec = 
+
+source = mtuh:Rv3356c
+ec = 
+
+source = mtuh:Rv3398c
+ec = 
+
+source = mtuh:Rv3465
+ec = 
+
+source = mtuh:Rv3581c
+ec = 
+
+source = mtuh:Rv3582c
+ec = 
+
+source = mtuh:Rv3601c
+ec = 
+
+source = mtuh:Rv3602c
+ec = 
+
+source = mtuh:Rv3790
+ec = 
+
+source = mtuh:Rv3791
+ec = 
+
+source = mtuh:Rv3792
+ec = 
+
+source = mtuh:Rv3793
+ec = 
+
+source = mtuh:Rv3799c
+ec = 
+
+source = mtuh:Rv3800c
+ec = 
+
+source = mtuh:Rv3801c
+ec = 
+
+source = mtuh:Rv3802c
+ec = 
+
+source = mtuh:Rv3804c
+ec = 
+
+source = mtuh:Rv3806c
+ec = 
+
+source = mtuh:Rv3808c
+ec = 
+
+source = mtuh:Rv3809c
+ec = 
+
+source = mtuh:Rv3818
+ec = 
+
+source = mtuh:Rv3913
+ec = 
+
+source = mtuh:orphan
+ec = 
+
+source = mtul:Rv0129c
+ec = 
+
+source = mtul:Rv0334
+ec = 
+
+source = mtul:Rv0414c
+ec = 
+
+source = mtul:Rv0417
+ec = 
+
+source = mtul:Rv0422c
+ec = 
+
+source = mtul:Rv0423c
+ec = 
+
+source = mtul:Rv0436c
+ec = 
+
+source = mtul:Rv0437c
+ec = 
+
+source = mtul:Rv0482
+ec = 
+
+source = mtul:Rv0503c
+ec = 
+
+source = mtul:Rv0509
+ec = 
+
+source = mtul:Rv0510
+ec = 
+
+source = mtul:Rv0511
+ec = 
+
+source = mtul:Rv0512
+ec = 
+
+source = mtul:Rv0524
+ec = 
+
+source = mtul:Rv0533c
+ec = 
+
+source = mtul:Rv0534c
+ec = 
+
+source = mtul:Rv0535
+ec = 
+
+source = mtul:Rv0542c
+ec = 
+
+source = mtul:Rv0548c
+ec = 
+
+source = mtul:Rv0553
+ec = 
+
+source = mtul:Rv0555
+ec = 
+
+source = mtul:Rv0557
+ec = 
+
+source = mtul:Rv0562
+ec = 
+
+source = mtul:Rv0642c
+ec = 
+
+source = mtul:Rv0643c
+ec = 
+
+source = mtul:Rv0644c
+ec = 
+
+source = mtul:Rv0645c
+ec = 
+
+source = mtul:Rv0733
+ec = 
+
+source = mtul:Rv0772
+ec = 
+
+source = mtul:Rv0803
+ec = 
+
+source = mtul:Rv0808
+ec = 
+
+source = mtul:Rv0809
+ec = 
+
+source = mtul:Rv0956
+ec = 
+
+source = mtul:Rv1011
+ec = 
+
+source = mtul:Rv1017c
+ec = 
+
+source = mtul:Rv1018c
+ec = 
+
+source = mtul:Rv1086
+ec = 
+
+source = mtul:Rv1092c
+ec = 
+
+source = mtul:Rv1315
+ec = 
+
+source = mtul:Rv1391
+ec = 
+
+source = mtul:Rv1392
+ec = 
+
+source = mtul:Rv1412
+ec = 
+
+source = mtul:Rv1416
+ec = 
+
+source = mtul:Rv1484
+ec = 
+
+source = mtul:Rv1485
+ec = 
+
+source = mtul:Rv1500
+ec = 
+
+source = mtul:Rv1631
+ec = 
+
+source = mtul:Rv1695
+ec = 
+
+source = mtul:Rv1712
+ec = 
+
+source = mtul:Rv1745c
+ec = 
+
+source = mtul:Rv1886c
+ec = 
+
+source = mtul:Rv1940
+ec = 
+
+source = mtul:Rv2051c
+ec = 
+
+source = mtul:Rv2152c
+ec = 
+
+source = mtul:Rv2153c
+ec = 
+
+source = mtul:Rv2155c
+ec = 
+
+source = mtul:Rv2156c
+ec = 
+
+source = mtul:Rv2157c
+ec = 
+
+source = mtul:Rv2158c
+ec = 
+
+source = mtul:Rv2178c
+ec = 
+
+source = mtul:Rv2217
+ec = 
+
+source = mtul:Rv2218
+ec = 
+
+source = mtul:Rv2220
+ec = 
+
+source = mtul:Rv2225
+ec = 
+
+source = mtul:Rv2244
+ec = 
+
+source = mtul:Rv2445c
+ec = 
+
+source = mtul:Rv2482c
+ec = 
+
+source = mtul:Rv2523c
+ec = 
+
+source = mtul:Rv2524c
+ec = 
+
+source = mtul:Rv2531c
+ec = 
+
+source = mtul:Rv2537c
+ec = 
+
+source = mtul:Rv2538c
+ec = 
+
+source = mtul:Rv2539c
+ec = 
+
+source = mtul:Rv2540c
+ec = 
+
+source = mtul:Rv2552c
+ec = 
+
+source = mtul:Rv2573
+ec = 
+
+source = mtul:Rv2601
+ec = 
+
+source = mtul:Rv2610c
+ec = 
+
+source = mtul:Rv2611c
+ec = 
+
+source = mtul:Rv2612c
+ec = 
+
+source = mtul:Rv2678c
+ec = 
+
+source = mtul:Rv2697c
+ec = 
+
+source = mtul:Rv2701c
+ec = 
+
+source = mtul:Rv2726c
+ec = 
+
+source = mtul:Rv2786c
+ec = 
+
+source = mtul:Rv2868c
+ec = 
+
+source = mtul:Rv2870c
+ec = 
+
+source = mtul:Rv2881c
+ec = 
+
+source = mtul:Rv2900c
+ec = 
+
+source = mtul:Rv2940c
+ec = 
+
+source = mtul:Rv2965c
+ec = 
+
+source = mtul:Rv2981c
+ec = 
+
+source = mtul:Rv2992c
+ec = 
+
+source = mtul:Rv3048c
+ec = 
+
+source = mtul:Rv3051c
+ec = 
+
+source = mtul:Rv3068c
+ec = 
+
+source = mtul:Rv3106
+ec = 
+
+source = mtul:Rv3227
+ec = 
+
+source = mtul:Rv3247c
+ec = 
+
+source = mtul:Rv3248c
+ec = 
+
+source = mtul:Rv3260c
+ec = 
+
+source = mtul:Rv3264c
+ec = 
+
+source = mtul:Rv3279c
+ec = 
+
+source = mtul:Rv3280
+ec = 
+
+source = mtul:Rv3285
+ec = 
+
+source = mtul:Rv3356c
+ec = 
+
+source = mtul:Rv3398c
+ec = 
+
+source = mtul:Rv3465
+ec = 
+
+source = mtul:Rv3581c
+ec = 
+
+source = mtul:Rv3582c
+ec = 
+
+source = mtul:Rv3601c
+ec = 
+
+source = mtul:Rv3602c
+ec = 
+
+source = mtul:Rv3790
+ec = 
+
+source = mtul:Rv3791
+ec = 
+
+source = mtul:Rv3792
+ec = 
+
+source = mtul:Rv3793
+ec = 
+
+source = mtul:Rv3799c
+ec = 
+
+source = mtul:Rv3800c
+ec = 
+
+source = mtul:Rv3801c
+ec = 
+
+source = mtul:Rv3802c
+ec = 
+
+source = mtul:Rv3804c
+ec = 
+
+source = mtul:Rv3806c
+ec = 
+
+source = mtul:Rv3808c
+ec = 
+
+source = mtul:Rv3809c
+ec = 
+
+source = mtul:Rv3818
+ec = 
+
+source = mtul:Rv3913
+ec = 
+
+source = mtul:orphan
+ec = 
+
+source = mtut:Rv0129c
+ec = 
+
+source = mtut:Rv0334
+ec = 
+
+source = mtut:Rv0414c
+ec = 
+
+source = mtut:Rv0417
+ec = 
+
+source = mtut:Rv0422c
+ec = 
+
+source = mtut:Rv0423c
+ec = 
+
+source = mtut:Rv0436c
+ec = 
+
+source = mtut:Rv0437c
+ec = 
+
+source = mtut:Rv0482
+ec = 
+
+source = mtut:Rv0503c
+ec = 
+
+source = mtut:Rv0509
+ec = 
+
+source = mtut:Rv0510
+ec = 
+
+source = mtut:Rv0511
+ec = 
+
+source = mtut:Rv0512
+ec = 
+
+source = mtut:Rv0524
+ec = 
+
+source = mtut:Rv0533c
+ec = 
+
+source = mtut:Rv0534c
+ec = 
+
+source = mtut:Rv0535
+ec = 
+
+source = mtut:Rv0542c
+ec = 
+
+source = mtut:Rv0548c
+ec = 
+
+source = mtut:Rv0553
+ec = 
+
+source = mtut:Rv0555
+ec = 
+
+source = mtut:Rv0557
+ec = 
+
+source = mtut:Rv0562
+ec = 
+
+source = mtut:Rv0642c
+ec = 
+
+source = mtut:Rv0643c
+ec = 
+
+source = mtut:Rv0644c
+ec = 
+
+source = mtut:Rv0645c
+ec = 
+
+source = mtut:Rv0733
+ec = 
+
+source = mtut:Rv0772
+ec = 
+
+source = mtut:Rv0803
+ec = 
+
+source = mtut:Rv0808
+ec = 
+
+source = mtut:Rv0809
+ec = 
+
+source = mtut:Rv0956
+ec = 
+
+source = mtut:Rv1011
+ec = 
+
+source = mtut:Rv1017c
+ec = 
+
+source = mtut:Rv1018c
+ec = 
+
+source = mtut:Rv1086
+ec = 
+
+source = mtut:Rv1092c
+ec = 
+
+source = mtut:Rv1315
+ec = 
+
+source = mtut:Rv1391
+ec = 
+
+source = mtut:Rv1392
+ec = 
+
+source = mtut:Rv1412
+ec = 
+
+source = mtut:Rv1416
+ec = 
+
+source = mtut:Rv1484
+ec = 
+
+source = mtut:Rv1485
+ec = 
+
+source = mtut:Rv1500
+ec = 
+
+source = mtut:Rv1631
+ec = 
+
+source = mtut:Rv1695
+ec = 
+
+source = mtut:Rv1712
+ec = 
+
+source = mtut:Rv1745c
+ec = 
+
+source = mtut:Rv1886c
+ec = 
+
+source = mtut:Rv1940
+ec = 
+
+source = mtut:Rv2051c
+ec = 
+
+source = mtut:Rv2152c
+ec = 
+
+source = mtut:Rv2153c
+ec = 
+
+source = mtut:Rv2155c
+ec = 
+
+source = mtut:Rv2156c
+ec = 
+
+source = mtut:Rv2157c
+ec = 
+
+source = mtut:Rv2158c
+ec = 
+
+source = mtut:Rv2178c
+ec = 
+
+source = mtut:Rv2217
+ec = 
+
+source = mtut:Rv2218
+ec = 
+
+source = mtut:Rv2220
+ec = 
+
+source = mtut:Rv2225
+ec = 
+
+source = mtut:Rv2244
+ec = 
+
+source = mtut:Rv2445c
+ec = 
+
+source = mtut:Rv2482c
+ec = 
+
+source = mtut:Rv2523c
+ec = 
+
+source = mtut:Rv2524c
+ec = 
+
+source = mtut:Rv2531c
+ec = 
+
+source = mtut:Rv2537c
+ec = 
+
+source = mtut:Rv2538c
+ec = 
+
+source = mtut:Rv2539c
+ec = 
+
+source = mtut:Rv2540c
+ec = 
+
+source = mtut:Rv2552c
+ec = 
+
+source = mtut:Rv2573
+ec = 
+
+source = mtut:Rv2601
+ec = 
+
+source = mtut:Rv2610c
+ec = 
+
+source = mtut:Rv2611c
+ec = 
+
+source = mtut:Rv2612c
+ec = 
+
+source = mtut:Rv2678c
+ec = 
+
+source = mtut:Rv2697c
+ec = 
+
+source = mtut:Rv2701c
+ec = 
+
+source = mtut:Rv2726c
+ec = 
+
+source = mtut:Rv2786c
+ec = 
+
+source = mtut:Rv2868c
+ec = 
+
+source = mtut:Rv2870c
+ec = 
+
+source = mtut:Rv2881c
+ec = 
+
+source = mtut:Rv2900c
+ec = 
+
+source = mtut:Rv2940c
+ec = 
+
+source = mtut:Rv2965c
+ec = 
+
+source = mtut:Rv2981c
+ec = 
+
+source = mtut:Rv2992c
+ec = 
+
+source = mtut:Rv3048c
+ec = 
+
+source = mtut:Rv3051c
+ec = 
+
+source = mtut:Rv3068c
+ec = 
+
+source = mtut:Rv3106
+ec = 
+
+source = mtut:Rv3227
+ec = 
+
+source = mtut:Rv3247c
+ec = 
+
+source = mtut:Rv3248c
+ec = 
+
+source = mtut:Rv3260c
+ec = 
+
+source = mtut:Rv3264c
+ec = 
+
+source = mtut:Rv3279c
+ec = 
+
+source = mtut:Rv3280
+ec = 
+
+source = mtut:Rv3285
+ec = 
+
+source = mtut:Rv3356c
+ec = 
+
+source = mtut:Rv3398c
+ec = 
+
+source = mtut:Rv3465
+ec = 
+
+source = mtut:Rv3581c
+ec = 
+
+source = mtut:Rv3582c
+ec = 
+
+source = mtut:Rv3601c
+ec = 
+
+source = mtut:Rv3602c
+ec = 
+
+source = mtut:Rv3790
+ec = 
+
+source = mtut:Rv3791
+ec = 
+
+source = mtut:Rv3792
+ec = 
+
+source = mtut:Rv3793
+ec = 
+
+source = mtut:Rv3799c
+ec = 
+
+source = mtut:Rv3800c
+ec = 
+
+source = mtut:Rv3801c
+ec = 
+
+source = mtut:Rv3802c
+ec = 
+
+source = mtut:Rv3804c
+ec = 
+
+source = mtut:Rv3806c
+ec = 
+
+source = mtut:Rv3808c
+ec = 
+
+source = mtut:Rv3809c
+ec = 
+
+source = mtut:Rv3818
+ec = 
+
+source = mtut:Rv3913
+ec = 
+
+source = mtut:orphan
+ec = 
+
+source = mtuu:Rv0129c
+ec = 
+
+source = mtuu:Rv0334
+ec = 
+
+source = mtuu:Rv0414c
+ec = 
+
+source = mtuu:Rv0417
+ec = 
+
+source = mtuu:Rv0422c
+ec = 
+
+source = mtuu:Rv0423c
+ec = 
+
+source = mtuu:Rv0436c
+ec = 
+
+source = mtuu:Rv0437c
+ec = 
+
+source = mtuu:Rv0482
+ec = 
+
+source = mtuu:Rv0503c
+ec = 
+
+source = mtuu:Rv0509
+ec = 
+
+source = mtuu:Rv0510
+ec = 
+
+source = mtuu:Rv0511
+ec = 
+
+source = mtuu:Rv0512
+ec = 
+
+source = mtuu:Rv0524
+ec = 
+
+source = mtuu:Rv0533c
+ec = 
+
+source = mtuu:Rv0534c
+ec = 
+
+source = mtuu:Rv0535
+ec = 
+
+source = mtuu:Rv0542c
+ec = 
+
+source = mtuu:Rv0548c
+ec = 
+
+source = mtuu:Rv0553
+ec = 
+
+source = mtuu:Rv0555
+ec = 
+
+source = mtuu:Rv0557
+ec = 
+
+source = mtuu:Rv0562
+ec = 
+
+source = mtuu:Rv0642c
+ec = 
+
+source = mtuu:Rv0643c
+ec = 
+
+source = mtuu:Rv0644c
+ec = 
+
+source = mtuu:Rv0645c
+ec = 
+
+source = mtuu:Rv0733
+ec = 
+
+source = mtuu:Rv0772
+ec = 
+
+source = mtuu:Rv0803
+ec = 
+
+source = mtuu:Rv0808
+ec = 
+
+source = mtuu:Rv0809
+ec = 
+
+source = mtuu:Rv0956
+ec = 
+
+source = mtuu:Rv1011
+ec = 
+
+source = mtuu:Rv1017c
+ec = 
+
+source = mtuu:Rv1018c
+ec = 
+
+source = mtuu:Rv1086
+ec = 
+
+source = mtuu:Rv1092c
+ec = 
+
+source = mtuu:Rv1315
+ec = 
+
+source = mtuu:Rv1391
+ec = 
+
+source = mtuu:Rv1392
+ec = 
+
+source = mtuu:Rv1412
+ec = 
+
+source = mtuu:Rv1416
+ec = 
+
+source = mtuu:Rv1484
+ec = 
+
+source = mtuu:Rv1485
+ec = 
+
+source = mtuu:Rv1500
+ec = 
+
+source = mtuu:Rv1631
+ec = 
+
+source = mtuu:Rv1695
+ec = 
+
+source = mtuu:Rv1712
+ec = 
+
+source = mtuu:Rv1745c
+ec = 
+
+source = mtuu:Rv1886c
+ec = 
+
+source = mtuu:Rv1940
+ec = 
+
+source = mtuu:Rv2051c
+ec = 
+
+source = mtuu:Rv2152c
+ec = 
+
+source = mtuu:Rv2153c
+ec = 
+
+source = mtuu:Rv2155c
+ec = 
+
+source = mtuu:Rv2156c
+ec = 
+
+source = mtuu:Rv2157c
+ec = 
+
+source = mtuu:Rv2158c
+ec = 
+
+source = mtuu:Rv2178c
+ec = 
+
+source = mtuu:Rv2217
+ec = 
+
+source = mtuu:Rv2218
+ec = 
+
+source = mtuu:Rv2220
+ec = 
+
+source = mtuu:Rv2225
+ec = 
+
+source = mtuu:Rv2244
+ec = 
+
+source = mtuu:Rv2445c
+ec = 
+
+source = mtuu:Rv2482c
+ec = 
+
+source = mtuu:Rv2523c
+ec = 
+
+source = mtuu:Rv2524c
+ec = 
+
+source = mtuu:Rv2531c
+ec = 
+
+source = mtuu:Rv2537c
+ec = 
+
+source = mtuu:Rv2538c
+ec = 
+
+source = mtuu:Rv2539c
+ec = 
+
+source = mtuu:Rv2540c
+ec = 
+
+source = mtuu:Rv2552c
+ec = 
+
+source = mtuu:Rv2573
+ec = 
+
+source = mtuu:Rv2601
+ec = 
+
+source = mtuu:Rv2610c
+ec = 
+
+source = mtuu:Rv2611c
+ec = 
+
+source = mtuu:Rv2612c
+ec = 
+
+source = mtuu:Rv2678c
+ec = 
+
+source = mtuu:Rv2697c
+ec = 
+
+source = mtuu:Rv2701c
+ec = 
+
+source = mtuu:Rv2726c
+ec = 
+
+source = mtuu:Rv2786c
+ec = 
+
+source = mtuu:Rv2868c
+ec = 
+
+source = mtuu:Rv2870c
+ec = 
+
+source = mtuu:Rv2881c
+ec = 
+
+source = mtuu:Rv2900c
+ec = 
+
+source = mtuu:Rv2940c
+ec = 
+
+source = mtuu:Rv2965c
+ec = 
+
+source = mtuu:Rv2981c
+ec = 
+
+source = mtuu:Rv2992c
+ec = 
+
+source = mtuu:Rv3048c
+ec = 
+
+source = mtuu:Rv3051c
+ec = 
+
+source = mtuu:Rv3068c
+ec = 
+
+source = mtuu:Rv3106
+ec = 
+
+source = mtuu:Rv3227
+ec = 
+
+source = mtuu:Rv3247c
+ec = 
+
+source = mtuu:Rv3248c
+ec = 
+
+source = mtuu:Rv3260c
+ec = 
+
+source = mtuu:Rv3264c
+ec = 
+
+source = mtuu:Rv3279c
+ec = 
+
+source = mtuu:Rv3280
+ec = 
+
+source = mtuu:Rv3285
+ec = 
+
+source = mtuu:Rv3356c
+ec = 
+
+source = mtuu:Rv3398c
+ec = 
+
+source = mtuu:Rv3465
+ec = 
+
+source = mtuu:Rv3581c
+ec = 
+
+source = mtuu:Rv3582c
+ec = 
+
+source = mtuu:Rv3601c
+ec = 
+
+source = mtuu:Rv3602c
+ec = 
+
+source = mtuu:Rv3790
+ec = 
+
+source = mtuu:Rv3791
+ec = 
+
+source = mtuu:Rv3792
+ec = 
+
+source = mtuu:Rv3793
+ec = 
+
+source = mtuu:Rv3799c
+ec = 
+
+source = mtuu:Rv3800c
+ec = 
+
+source = mtuu:Rv3801c
+ec = 
+
+source = mtuu:Rv3802c
+ec = 
+
+source = mtuu:Rv3804c
+ec = 
+
+source = mtuu:Rv3806c
+ec = 
+
+source = mtuu:Rv3808c
+ec = 
+
+source = mtuu:Rv3809c
+ec = 
+
+source = mtuu:Rv3818
+ec = 
+
+source = mtuu:Rv3913
+ec = 
+
+source = mtuu:orphan
+ec = 
+
+source = mtq:Rv0129c
+ec = 
+
+source = mtq:Rv0334
+ec = 
+
+source = mtq:Rv0414c
+ec = 
+
+source = mtq:Rv0417
+ec = 
+
+source = mtq:Rv0422c
+ec = 
+
+source = mtq:Rv0423c
+ec = 
+
+source = mtq:Rv0436c
+ec = 
+
+source = mtq:Rv0437c
+ec = 
+
+source = mtq:Rv0482
+ec = 
+
+source = mtq:Rv0503c
+ec = 
+
+source = mtq:Rv0509
+ec = 
+
+source = mtq:Rv0510
+ec = 
+
+source = mtq:Rv0511
+ec = 
+
+source = mtq:Rv0512
+ec = 
+
+source = mtq:Rv0524
+ec = 
+
+source = mtq:Rv0533c
+ec = 
+
+source = mtq:Rv0534c
+ec = 
+
+source = mtq:Rv0535
+ec = 
+
+source = mtq:Rv0542c
+ec = 
+
+source = mtq:Rv0548c
+ec = 
+
+source = mtq:Rv0553
+ec = 
+
+source = mtq:Rv0555
+ec = 
+
+source = mtq:Rv0557
+ec = 
+
+source = mtq:Rv0562
+ec = 
+
+source = mtq:Rv0642c
+ec = 
+
+source = mtq:Rv0643c
+ec = 
+
+source = mtq:Rv0644c
+ec = 
+
+source = mtq:Rv0645c
+ec = 
+
+source = mtq:Rv0733
+ec = 
+
+source = mtq:Rv0772
+ec = 
+
+source = mtq:Rv0803
+ec = 
+
+source = mtq:Rv0808
+ec = 
+
+source = mtq:Rv0809
+ec = 
+
+source = mtq:Rv0956
+ec = 
+
+source = mtq:Rv1011
+ec = 
+
+source = mtq:Rv1017c
+ec = 
+
+source = mtq:Rv1018c
+ec = 
+
+source = mtq:Rv1086
+ec = 
+
+source = mtq:Rv1092c
+ec = 
+
+source = mtq:Rv1315
+ec = 
+
+source = mtq:Rv1391
+ec = 
+
+source = mtq:Rv1392
+ec = 
+
+source = mtq:Rv1412
+ec = 
+
+source = mtq:Rv1416
+ec = 
+
+source = mtq:Rv1484
+ec = 
+
+source = mtq:Rv1485
+ec = 
+
+source = mtq:Rv1500
+ec = 
+
+source = mtq:Rv1631
+ec = 
+
+source = mtq:Rv1695
+ec = 
+
+source = mtq:Rv1712
+ec = 
+
+source = mtq:Rv1745c
+ec = 
+
+source = mtq:Rv1886c
+ec = 
+
+source = mtq:Rv1940
+ec = 
+
+source = mtq:Rv2051c
+ec = 
+
+source = mtq:Rv2152c
+ec = 
+
+source = mtq:Rv2153c
+ec = 
+
+source = mtq:Rv2155c
+ec = 
+
+source = mtq:Rv2156c
+ec = 
+
+source = mtq:Rv2157c
+ec = 
+
+source = mtq:Rv2158c
+ec = 
+
+source = mtq:Rv2178c
+ec = 
+
+source = mtq:Rv2217
+ec = 
+
+source = mtq:Rv2218
+ec = 
+
+source = mtq:Rv2220
+ec = 
+
+source = mtq:Rv2225
+ec = 
+
+source = mtq:Rv2244
+ec = 
+
+source = mtq:Rv2445c
+ec = 
+
+source = mtq:Rv2482c
+ec = 
+
+source = mtq:Rv2523c
+ec = 
+
+source = mtq:Rv2524c
+ec = 
+
+source = mtq:Rv2531c
+ec = 
+
+source = mtq:Rv2537c
+ec = 
+
+source = mtq:Rv2538c
+ec = 
+
+source = mtq:Rv2539c
+ec = 
+
+source = mtq:Rv2540c
+ec = 
+
+source = mtq:Rv2552c
+ec = 
+
+source = mtq:Rv2573
+ec = 
+
+source = mtq:Rv2601
+ec = 
+
+source = mtq:Rv2610c
+ec = 
+
+source = mtq:Rv2611c
+ec = 
+
+source = mtq:Rv2612c
+ec = 
+
+source = mtq:Rv2678c
+ec = 
+
+source = mtq:Rv2697c
+ec = 
+
+source = mtq:Rv2701c
+ec = 
+
+source = mtq:Rv2726c
+ec = 
+
+source = mtq:Rv2786c
+ec = 
+
+source = mtq:Rv2868c
+ec = 
+
+source = mtq:Rv2870c
+ec = 
+
+source = mtq:Rv2881c
+ec = 
+
+source = mtq:Rv2900c
+ec = 
+
+source = mtq:Rv2940c
+ec = 
+
+source = mtq:Rv2965c
+ec = 
+
+source = mtq:Rv2981c
+ec = 
+
+source = mtq:Rv2992c
+ec = 
+
+source = mtq:Rv3048c
+ec = 
+
+source = mtq:Rv3051c
+ec = 
+
+source = mtq:Rv3068c
+ec = 
+
+source = mtq:Rv3106
+ec = 
+
+source = mtq:Rv3227
+ec = 
+
+source = mtq:Rv3247c
+ec = 
+
+source = mtq:Rv3248c
+ec = 
+
+source = mtq:Rv3260c
+ec = 
+
+source = mtq:Rv3264c
+ec = 
+
+source = mtq:Rv3279c
+ec = 
+
+source = mtq:Rv3280
+ec = 
+
+source = mtq:Rv3285
+ec = 
+
+source = mtq:Rv3356c
+ec = 
+
+source = mtq:Rv3398c
+ec = 
+
+source = mtq:Rv3465
+ec = 
+
+source = mtq:Rv3581c
+ec = 
+
+source = mtq:Rv3582c
+ec = 
+
+source = mtq:Rv3601c
+ec = 
+
+source = mtq:Rv3602c
+ec = 
+
+source = mtq:Rv3790
+ec = 
+
+source = mtq:Rv3791
+ec = 
+
+source = mtq:Rv3792
+ec = 
+
+source = mtq:Rv3793
+ec = 
+
+source = mtq:Rv3799c
+ec = 
+
+source = mtq:Rv3800c
+ec = 
+
+source = mtq:Rv3801c
+ec = 
+
+source = mtq:Rv3802c
+ec = 
+
+source = mtq:Rv3804c
+ec = 
+
+source = mtq:Rv3806c
+ec = 
+
+source = mtq:Rv3808c
+ec = 
+
+source = mtq:Rv3809c
+ec = 
+
+source = mtq:Rv3818
+ec = 
+
+source = mtq:Rv3913
+ec = 
+
+source = mtq:orphan
+ec = 
+
+INICIO DO ITEM 7
+INICIO DO ITEM 8
+INICIO DO ITEM 9
+INICIO DO ITEM 10
+ACABOU!!! SEJA FELIZ!!!

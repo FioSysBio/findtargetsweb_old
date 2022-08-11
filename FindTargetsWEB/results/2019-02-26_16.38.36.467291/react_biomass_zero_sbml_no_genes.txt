@@ -1,0 +1,17 @@
+Citrate --> Cis-Aconitate + H2O H2O
+Cis-Aconitate + H2O H2O --> Isocitrate
+1.496 3-Phospho-D-glycerate + 3.7478 Acetyl-CoA + 59.81 ATP C10H12N5O13P3 + 0.361 D-Erythrose 4-phosphate + 0.0709 D-Fructose 6-phosphate + 0.129 Glyceraldehyde 3-phosphate + 0.205 D-Glucose 6-phosphate + 0.2557 L-Glutamine + 4.9414 L-Glutamate + 59.81 H2O H2O + 3.547 Nicotinamide adenine dinucleotide + 13.0279 Nicotinamide adenine dinucleotide phosphate - reduced + 1.7867 Oxaloacetate + 0.5191 Phosphoenolpyruvate + 2.8328 Pyruvate + 0.8977 Alpha-D-Ribose 5-phosphate --> 59.81 ADP C10H12N5O10P2 + 4.1182 2-Oxoglutarate + 3.7478 Coenzyme A + 59.81 H+ + 3.547 Nicotinamide adenine dinucleotide - reduced + 13.0279 Nicotinamide adenine dinucleotide phosphate + 59.81 Phosphate
+Acetyl-CoA + H2O H2O + Oxaloacetate --> Citrate + Coenzyme A + H+
+D-Glycerate 2-phosphate --> H2O H2O + Phosphoenolpyruvate
+H+ --> 
+Ammonium --> 
+Phosphate --> 
+Glyceraldehyde 3-phosphate + Nicotinamide adenine dinucleotide + Phosphate --> 3-Phospho-D-glyceroyl phosphate + H+ + Nicotinamide adenine dinucleotide - reduced
+D-Glucose + Phosphoenolpyruvate --> D-Glucose 6-phosphate + Pyruvate
+ATP C10H12N5O13P3 + L-Glutamate + Ammonium --> ADP C10H12N5O10P2 + L-Glutamine + H+ + Phosphate
+Isocitrate + Nicotinamide adenine dinucleotide phosphate --> 2-Oxoglutarate + CO2 CO2 + Nicotinamide adenine dinucleotide phosphate - reduced
+Ammonium --> Ammonium
+3-Phospho-D-glycerate + ATP C10H12N5O13P3 --> 3-Phospho-D-glyceroyl phosphate + ADP C10H12N5O10P2
+D-Glycerate 2-phosphate --> 3-Phospho-D-glycerate
+H+ + Phosphate --> H+ + Phosphate
+Alpha-D-Ribose 5-phosphate --> D-Ribulose 5-phosphate

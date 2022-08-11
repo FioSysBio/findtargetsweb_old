@@ -1,0 +1,140 @@
+1.1.1.100;3-oxoacyl-[acyl-carrier-protein] reductase FabG;Escherichia coli (strain K12);P0AEK2;BE0002069
+1.17.4.2;Anaerobic ribonucleoside-triphosphate reductase;Enterobacteria phage T4;P07071;BE0001442
+1.3.1.9;Enoyl-[acyl-carrier-protein] reductase [NADH];Bacillus anthracis;Q81JF8;BE0009125
+1.3.1.9;Enoyl-[acyl-carrier-protein] reductase [NADH] FabI;Helicobacter pylori (strain ATCC 700392 / 26695);O24990;BE0001774
+1.3.1.9;Enoyl-[acyl-carrier-protein] reductase [NADH] FabI;Escherichia coli (strain K12);P0AEK4;BE0002006
+1.3.1.9;Enoyl-[acyl-carrier-protein] reductase [NADH];Mycobacterium tuberculosis;P9WGR1;BE0000332
+1.3.1.98;UDP-N-acetylenolpyruvoylglucosamine reductase;Staphylococcus aureus (strain MW2);P61432;BE0002972
+1.3.1.98;UDP-N-acetylenolpyruvoylglucosamine reductase;Escherichia coli (strain K12);P08373;BE0002971
+1.4.1.20;L-phenylalanine dehydrogenase;Rhodococcus sp.;Q59771;BE0004112
+1.4.3.4;Monoamine oxidase;Humans;P21397;BE0004909
+1.4.3.4;Amine oxidase [flavin-containing] B;Humans;P27338;BE0002196
+1.4.3.4;Amine oxidase [flavin-containing] A;Humans;P21397;BE0002198
+1.4.4.2;Glycine dehydrogenase [decarboxylating], mitochondrial;Humans;P23378;BE0000618
+1.5.1.20;Methylenetetrahydrofolate reductase;Humans;P42898;BE0002176
+1.5.1.20;5,10-methylenetetrahydrofolate reductase;Escherichia coli (strain K12);P0AEZ1;BE0002064
+1.5.1.20;Methylenetetrahydrofolate reductase;Thermus thermophilus;Q9RA47;BE0002973
+1.5.1.3;Dihydrofolate reductase;Yeast;P22906;BE0001302
+1.5.1.3;Dihydrofolate reductase (dfrB);Staphylococcus aureus (strain bovine RF122 / ET3-1);A0A0M3KKX1;BE0009124
+1.5.1.3;Dihydrofolate reductase;Pneumocystis carinii;P16184;BE0001555
+1.5.1.3;Dihydrofolate reductase;Humans;P00374;BE0000330
+1.5.1.3;Dihydrofolate reductase;Staphylococcus aureus;P0A017;BE0004138
+1.5.1.3;Dihydrofolate reductase;Escherichia coli (strain K12);P0ABQ4;BE0002010
+1.5.1.3;Dihydrofolate reductase;Lactobacillus casei;P00381;BE0001614
+1.5.1.3;Dihydrofolate reductase;Mycobacterium tuberculosis;P9WNX1;BE0001944
+1.5.1.3;Dihydrofolate reductase;Bacillus anthracis;Q81R22;BE0004248
+1.5.1.3;Dihydrofolate reductase, mitochondrial;Humans;Q86XF0;BE0004001
+1.8.1.4;Outer membrane protein p64k or PM-6;Neisseria meningitidis;Q51225;BE0002980
+1.8.1.4;Dihydrolipoyl dehydrogenase, mitochondrial;Humans;P09622;BE0000737
+1.8.1.4;Dihydrolipoyl dehydrogenase;Azotobacter vinelandii;P18925;BE0002965
+1.8.1.4;Dihydrolipoyl dehydrogenase;Pseudomonas fluorescens;P14218;BE0002986
+1.8.1.4;Dihydrolipoyl dehydrogenase;Pseudomonas putida;P09063;BE0002616
+1.8.1.9;Thioredoxin reductase;Staphylococcus aureus (strain Mu50 / ATCC 700699);P66010;BE0000474
+1.8.1.9;Thioredoxin reductase;Escherichia coli (strain K12);P0A9P4;BE0002067
+1.8.1.9;Thioredoxin reductase 2, mitochondrial;Humans;Q9NNW7;BE0003388
+1.8.1.9;Thioredoxin reductase 1, cytoplasmic;Humans;Q16881;BE0001979
+2.1.1.148;Thymidylate synthase ThyX;Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099);Q9WYT0;BE0001409
+2.1.1.45;Thymidylate synthase;Escherichia coli (strain K12);P0A884;BE0001438
+2.1.1.45;Thymidylate synthase;Pneumocystis carinii;P13100;BE0003128
+2.1.1.45;Thymidylate synthase;Lactobacillus casei;P00469;BE0001501
+2.1.1.45;Thymidylate synthase;Humans;P04818;BE0000324
+2.1.1.45;Thymidylate synthase;Yeast;P12461;BE0000021
+2.1.1.45;Thymidylate synthase 1;Bacillus subtilis (strain 168);P0CI79;BE0004794
+2.1.2.10;Aminomethyltransferase;Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099);Q9WY54;BE0001692
+2.1.2.10;Aminomethyltransferase, mitochondrial;Humans;P48728;BE0000010
+2.1.2.11;3-methyl-2-oxobutanoate hydroxymethyltransferase;Escherichia coli (strain K12);P31057;BE0001744
+2.1.2.11;3-methyl-2-oxobutanoate hydroxymethyltransferase;Neisseria meningitidis serogroup B (strain MC58);Q9JZW6;BE0001822
+2.1.3.2;Aspartate carbamoyltransferase catalytic chain;Shigella flexneri;P0A789;BE0001928
+2.1.3.2;Aspartate carbamoyltransferase catalytic chain;Escherichia coli (strain K12);P0A786;BE0003341
+2.3.1.117;2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase;Unknown prokaryotic organism;P56220;BE0001297
+2.3.1.85;Fatty acid synthase;Humans;P49327;BE0000959
+2.4.1.227;UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase;Escherichia coli (strain K12);P17443;BE0001454
+2.4.2.14;Amidophosphoribosyltransferase;Humans;Q06203;BE0000374
+2.4.2.14;Amidophosphoribosyltransferase;Bacillus subtilis (strain 168);P00497;BE0001375
+2.4.2.14;Amidophosphoribosyltransferase;Escherichia coli (strain K12);P0AG16;BE0002042
+2.5.1.15;Dihydropteroate synthase;Escherichia coli (strain K12);P0AC13;BE0000803
+2.5.1.15;Dihydropteroate synthetase;Plasmodium falciparum;Q27738;BE0002360
+2.5.1.15;Dihydropteroate synthase 1;Mycobacterium tuberculosis;P9WND1;BE0001974
+2.5.1.15;Dihydropteroate synthase;Bacillus anthracis;Q81VW8;BE0003133
+2.5.1.15;Dihydropteroate synthase 1;Mycobacterium leprae (strain TN);P0C0X1;BE0002086
+2.5.1.15;Dihydropteroate synthase type-1;Mycobacterium fortuitum;Q49184;BE0000120
+2.5.1.15;Dihydropteroate synthase type-1;Escherichia coli;P0C002;BE0004657
+2.5.1.16;Spermidine synthase;Humans;P19623;BE0000300
+2.5.1.54;Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive;Escherichia coli (strain K12);P0AB91;BE0002004
+2.5.1.54;Phospho-2-dehydro-3-deoxyheptonate aldolase;Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099);Q9WYH8;BE0001721
+2.5.1.55;2-dehydro-3-deoxyphosphooctonate aldolase;Aquifex aeolicus (strain VF5);O66496;BE0001253
+2.5.1.55;2-dehydro-3-deoxyphosphooctonate aldolase;Shigella flexneri;P0A716;BE0001394
+2.5.1.6;S-adenosylmethionine synthase;Plasmodium falciparum (isolate 3D7);Q7K6A4;BE0009188
+2.5.1.6;S-adenosylmethionine synthase;Shigella flexneri;P0A820;BE0001499
+2.5.1.6;S-adenosylmethionine synthase isoform type-1;Humans;Q00266;BE0000407
+2.5.1.6;S-adenosylmethionine synthase isoform type-2;Humans;P31153;BE0000304
+2.5.1.7;UDP-N-acetylglucosamine 1-carboxyvinyltransferase;Enterobacter cloacae subsp. cloacae (strain ATCC 13047 / DSM 30054 / NBRC 13535 / NCDC 279-56);P33038;BE0001291
+2.5.1.7;UDP-N-acetylglucosamine 1-carboxyvinyltransferase;Escherichia coli (strain K12);P0A749;BE0000468
+2.5.1.7;UDP-N-acetylglucosamine 1-carboxyvinyltransferase;Shigella flexneri;P0A751;BE0001252
+2.6.1.16;Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 2;Humans;O94808;BE0002238
+2.6.1.16;Glutamine--fructose-6-phosphate aminotransferase [isomerizing];Escherichia coli (strain K12);P17169;BE0001423
+2.6.1.85;Para-aminobenzoate synthase component 1;Escherichia coli (strain K12);P05041;BE0000597
+2.7.1.24;Dephospho-CoA kinase;Escherichia coli (strain K12);P0A6I9;BE0001231
+2.7.1.26;Riboflavin biosynthesis protein RibF;Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099);Q9WZW1;BE0002551
+2.7.1.26;Riboflavin kinase;Humans;Q969G6;BE0000370
+2.7.1.33;Pantothenate kinase;Escherichia coli (strain K12);P0A6I3;BE0001294
+2.7.4.6;Nucleoside diphosphate kinase B;Humans;P22392;BE0003281
+2.7.4.6;Nucleoside diphosphate kinase A;Humans;P15531;BE0003106
+2.7.6.3;2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase;Mycobacterium tuberculosis;P9WNC7;BE0000054
+2.7.6.3;2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase;Escherichia coli (strain K12);P26281;BE0001450
+2.7.6.3;2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase;Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd);P43777;BE0001488
+2.7.7.1;Nicotinamide mononucleotide adenylyltransferase 1;Humans;Q9HAN9;BE0001809
+2.7.7.18;Nicotinate-nucleotide adenylyltransferase;Bacillus subtilis (strain 168);P54455;BE0001695
+2.7.7.18;Nicotinate-nucleotide adenylyltransferase;Shigella flexneri;P0A753;BE0002611
+2.7.7.3;Phosphopantetheine adenylyltransferase;Thermus thermophilus (strain HB27 / ATCC BAA-163 / DSM 7039);Q72K87;BE0001943
+2.7.7.3;Phosphopantetheine adenylyltransferase;Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099);Q9WZK0;BE0001958
+2.7.7.3;Phosphopantetheine adenylyltransferase;Shigella flexneri;P0A6I8;BE0001757
+2.7.7.38;3-deoxy-manno-octulosonate cytidylyltransferase;Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd);P44490;BE0001714
+2.7.7.38;3-deoxy-manno-octulosonate cytidylyltransferase;Escherichia coli;P42216;BE0001522
+3.1.3.1;Intestinal-type alkaline phosphatase;Bos taurus;P19111;BE0008244
+3.1.3.1;Alkaline phosphatase;Escherichia coli (strain K12);P00634;BE0001896
+3.1.3.1;Alkaline phosphatase, tissue-nonspecific isozyme;Humans;P05186;BE0003546
+3.1.3.1;Alkaline phosphatase, placental type;Humans;P05187;BE0004314
+3.1.3.1;Alkaline phosphatase, placental-like;Humans;P10696;BE0000896
+3.1.3.45;3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC;Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd);P45314;BE0003190
+3.5.4.16;GTP cyclohydrolase 1;Shigella flexneri;P0A6T8;BE0001814
+3.5.4.16;GTP cyclohydrolase 1;Humans;P30793;BE0001055
+3.6.1.1;Inorganic pyrophosphatase;Burkholderia pseudomallei (strain 1710b);Q3JUV5;BE0003737
+3.6.1.23;DUTPase;Campylobacter jejuni subsp. jejuni serotype O:2 (strain NCTC 11168);Q0P8G4;BE0003137
+3.6.1.23;Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial;Humans;P33316;BE0001205
+3.6.1.23;Deoxyuridine 5'-triphosphate nucleotidohydrolase;Mycobacterium tuberculosis;P9WNS5;BE0001318
+3.6.1.23;Deoxyuridine triphosphatase;Trypanosoma cruzi;O15923;BE0003078
+3.6.1.23;Deoxyuridine 5'-triphosphate nucleotidohydrolase;Escherichia coli (strain K12);P06968;BE0001364
+3.6.1.55;8-oxo-dGTP diphosphatase;Escherichia coli (strain K12);P08337;BE0001520
+4.1.1.36;Phosphopantothenoylcysteine decarboxylase;Humans;Q96CD2;BE0003043
+4.2.1.46;dTDP-glucose 4,6-dehydratase;Streptococcus mutans serotype c (strain ATCC 700610 / UA159);P95780;BE0002627
+4.2.1.46;dTDP-glucose 4,6-dehydratase;Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720);P26391;BE0001740
+4.2.1.46;dTDP-glucose 4,6-dehydratase;Streptomyces venezuelae;Q9ZGH3;BE0002590
+4.3.3.7;4-hydroxy-tetrahydrodipicolinate synthase;Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099);Q9X1K9;BE0001460
+4.99.1.1;Ferrochelatase;Humans;Q7KZA3;BE0003999
+4.99.1.1;Ferrochelatase, mitochondrial;Humans;P22830;BE0001033
+4.99.1.1;Ferrochelatase;Bacillus subtilis (strain 168);P32396;BE0001307
+6.1.1.17;Probable glutamate--tRNA ligase, mitochondrial;Humans;Q5JPH6;BE0002272
+6.3.1.5;NH(3)-dependent NAD(+) synthetase;Helicobacter pylori (strain ATCC 700392 / 26695);O25096;BE0001768
+6.3.1.5;NH(3)-dependent NAD(+) synthetase;Escherichia coli (strain K12);P18843;BE0001332
+6.3.1.5;NH(3)-dependent NAD(+) synthetase;Bacillus subtilis (strain 168);P08164;BE0001601
+6.3.2.1;Pantothenate synthetase;Mycobacterium tuberculosis;P9WIL5;BE0001387
+6.3.2.1;Pantothenate synthetase;Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579);Q5SHF5;BE0004567
+6.3.2.10;UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase;Streptococcus pneumoniae (strain ATCC BAA-255 / R6);Q8DNV6;BE0003765
+6.3.2.13;UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase;Escherichia coli (strain K12);P22188;BE0001538
+6.3.2.17;Folylpolyglutamate synthase;Lactobacillus casei;P15925;BE0001492
+6.3.2.17;Folylpolyglutamate synthase, mitochondrial;Humans;Q05932;BE0000700
+6.3.2.8;UDP-N-acetylmuramate--L-alanine ligase;Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd);P45066;BE0001247
+6.3.2.9;UDP-N-acetylmuramoylalanine--D-glutamate ligase;Escherichia coli (strain K12);P14900;BE0001258
+6.3.4.2;CTP synthase 1;Humans;P17812;BE0000874
+6.3.4.4;Adenylosuccinate synthetase;Shigella flexneri;Q83P33;BE0001828
+6.3.4.4;Adenylosuccinate synthetase;Plasmodium falciparum;Q9U8D3;BE0002700
+6.3.4.4;Adenylosuccinate synthetase;Yersinia pestis;Q8ZIV7;BE0004308
+6.3.4.4;Adenylosuccinate synthetase;Escherichia coli (strain K12);P0A7D4;BE0001441
+6.3.4.4;Adenylosuccinate synthetase isozyme 2;Humans;P30520;BE0002228
+6.3.4.4;Adenylosuccinate synthetase isozyme 1;Humans;Q8N142;BE0002231
+6.3.5.1;Glutamine-dependent NAD(+) synthetase;Humans;Q6IA69;BE0002244
+6.3.5.2;GMP synthase [glutamine-hydrolyzing];Humans;P49915;BE0000321
+6.3.5.2;GMP synthase [glutamine-hydrolyzing];Escherichia coli (strain K12);P04079;BE0002545
+6.3.5.3;Phosphoribosylformylglycinamidine synthase;Humans;O15067;BE0002235
+6.3.5.4;Asparagine synthetase [glutamine-hydrolyzing];Humans;P08243;BE0000219

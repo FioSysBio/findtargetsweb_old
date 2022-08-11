@@ -1,0 +1,179 @@
+P0AEK2;BE0002069;DB03461;2'-Monophosphoadenosine 5'-Diphosphoribose;experimental;unknown;
+P15770;BE0001927;DB03461;2'-Monophosphoadenosine 5'-Diphosphoribose;experimental;unknown;
+P15770;BE0001927;DB04447;1,4-Dithiothreitol;experimental;unknown;
+P43876;BE0001445;DB02363;2'-Monophosphoadenosine-5'-Diphosphate;experimental;unknown;
+P45568;BE0001575;DB02496;1-Deoxy-D-xylulose 5-phosphate;experimental;unknown;
+P45568;BE0001575;DB02948;Fosmidomycin;experimental, investigational;unknown;
+P45568;BE0001575;DB03649;[{(5-Chloro-2-Pyridinyl)Amino} Methylene]-1,1-Bisphosphonate;experimental;unknown;
+P45568;BE0001575;DB04272;Citric Acid;approved, nutraceutical, vet_approved;unknown;
+P04036;BE0001986;DB03363;3-Acetylpyridine Adenine Dinucleotide;experimental;unknown;
+P04036;BE0001986;DB04267;Dipicolinic Acid;experimental;unknown;
+P44801;BE0001681;DB03461;2'-Monophosphoadenosine 5'-Diphosphoribose;experimental;unknown;
+P44801;BE0001681;DB03502;(4s)-4-{[(2s)-2-Amino-3-Oxopropyl]Sulfanyl}-L-Homoserinate;experimental;unknown;
+P44801;BE0001681;DB04498;Aspartate Semialdehyde;experimental;unknown;
+P08373;BE0002971;DB03147;Flavin adenine dinucleotide;approved;unknown;
+P08373;BE0002971;DB07296;(5Z)-3-(4-CHLOROPHENYL)-4-HYDROXY-5-(1-NAPHTHYLMETHYLENE)FURAN-2(5H)-ONE;experimental;unknown;
+P0ABQ4;BE0002010;DB02015;Dihydrofolic Acid;experimental;unknown;
+P0ABQ4;BE0002010;DB02363;2'-Monophosphoadenosine-5'-Diphosphate;experimental;unknown;
+P0ABQ4;BE0002010;DB11596;Levoleucovorin;approved;unknown;
+P0ABQ4;BE0002010;DB03461;2'-Monophosphoadenosine 5'-Diphosphoribose;experimental;unknown;
+P0ABQ4;BE0002010;DB12769;Lometrexol;investigational;unknown;
+P0ABQ4;BE0002010;DB03904;Urea;approved;unknown;
+P0ABQ4;BE0002010;DB07262;1-{[N-(1-IMINO-GUANIDINO-METHYL)]SULFANYLMETHYL}-3-TRIFLUOROMETHYL-BENZENE;experimental;unknown;
+P9WNX1;BE0001944;DB04007;Bromo-WR99210;experimental;unknown;
+P9WNX1;BE0001944;DB00951;Isoniazid;approved;unknown;
+P0A884;BE0001438;DB02031;(6S)-5,6,7,8-tetrahydrofolate;experimental;unknown;
+P0A884;BE0001438;DB02223;Ly231514 Tetra Glu;experimental;unknown;
+P0A884;BE0001438;DB02256;2'-Deoxyuridine;experimental;unknown;
+P0A884;BE0001438;DB02301;5,10-Methylene-6-Hydrofolic Acid;experimental;unknown;
+P0A884;BE0001438;DB02467;L-methionine (S)-S-oxide;experimental;unknown;
+P0A884;BE0001438;DB02752;Tosyl-D-Proline;experimental;unknown;
+P0A884;BE0001438;DB02899;N-Carboxymethionine;experimental;unknown;
+P0A884;BE0001438;DB03038;LY341770;experimental;unknown;
+P0A884;BE0001438;DB03157;N,O-Didansyl-L-Tyrosine;experimental;unknown;
+P0A884;BE0001438;DB03274;2'-5'dideoxyuridine;experimental;unknown;
+P0A884;BE0001438;DB03541;10-Propargyl-5,8-Dideazafolic Acid;experimental;unknown;
+P0A884;BE0001438;DB03558;Sp-876;experimental;unknown;
+P0A884;BE0001438;DB03761;5-Fluoro-2'-Deoxyuridine-5'-Monophosphate;experimental;unknown;
+P0A884;BE0001438;DB03800;2'-deoxyuridylic acid;experimental;unknown;
+P0A884;BE0001438;DB03818;N-[Tosyl-D-Prolinyl]Amino-Ethanethiol;experimental;unknown;
+P0A884;BE0001438;DB04447;1,4-Dithiothreitol;experimental;unknown;
+P0A884;BE0001438;DB04457;2'-Deoxyguanosine-5'-Monophosphate;experimental;unknown;
+P0A884;BE0001438;DB04503;Sp-722;experimental;unknown;
+P0A884;BE0001438;DB04530;S,S-(2-Hydroxyethyl)Thiocysteine;experimental;unknown;
+P0A884;BE0001438;DB04586;2-bromophenol;experimental;unknown;
+P0A884;BE0001438;DB04696;4-CHLORO-3',3''-DIBROMOPHENOL-1,8-NAPHTHALEIN;experimental;unknown;
+P0A884;BE0001438;DB08131;2-{4-[2-(2-AMINO-4-OXO-4,7-DIHYDRO-3H-PYRROLO[2,3-D]PYRIMIDIN-5-YL)-ETHYL]-BENZOYLAMINO}-3-METHYL-BUTYRIC ACID;experimental;unknown;
+P0CI79;BE0004794;DB03761;5-Fluoro-2'-Deoxyuridine-5'-Monophosphate;experimental;unknown;
+P27302;BE0003276;DB01987;Cocarboxylase;approved, experimental;unknown;
+P0A953;BE0000801;DB01034;Cerulenin;approved;yes;inhibitor
+P0A953;BE0000801;DB03017;Lauric Acid;approved, experimental;unknown;
+P0A953;BE0000801;DB03600;Capric acid;experimental;unknown;
+P0A953;BE0000801;DB04302;4-Hydroxy-3,5-Dimethyl-5-(2-Methyl-Buta-1,3-Dienyl)-5h-Thiophen-2-One;experimental;unknown;
+P0A953;BE0000801;DB04519;Caprylic acid;experimental, investigational;unknown;
+P0A953;BE0000801;DB08359;2-PHENYLAMINO-4-METHYL-5-ACETYL THIAZOLE;experimental;unknown;
+P0A953;BE0000801;DB08627;(5R)-4-HYDROXY-3,5-DIMETHYL-5-[(1E,3E)-2-METHYLPENTA-1,3-DIENYL]THIOPHEN-2(5H)-ONE;experimental;unknown;
+P0A953;BE0000801;DB08628;(5R)-5-[(1E)-BUTA-1,3-DIENYL]-4-HYDROXY-3,5-DIMETHYLTHIOPHEN-2(5H)-ONE;experimental;unknown;
+P17443;BE0001454;DB02196;Uridine-Diphosphate-N-Acetylgalactosamine;experimental;unknown;
+P08870;BE0001533;DB01632;Alpha-Phosphoribosylpyrophosphoric Acid;experimental, investigational;unknown;
+P08870;BE0001533;DB02262;Orotic Acid;experimental, investigational;unknown;
+P0AG16;BE0002042;DB01972;Guanosine-5'-Monophosphate;experimental;unknown;
+P0AG16;BE0002042;DB03942;Carboxylic PRPP;experimental;unknown;
+P0AG16;BE0002042;DB04296;5-Oxo-L-Norleucine;experimental;unknown;
+P22939;BE0001517;DB02270;Dimethylallyl S-Thiolodiphosphate;experimental;unknown;
+P22939;BE0001517;DB02508;Isopentyl Pyrophosphate;experimental;unknown;
+P22939;BE0001517;DB04160;Pyrophosphoric acid;approved, experimental;unknown;
+P0AC13;BE0000803;DB00576;Sulfamethizole;approved, investigational, vet_approved;yes;inhibitor
+P0AC13;BE0000803;DB01298;Sulfacytine;approved;yes;inhibitor
+P0AC13;BE0000803;DB00263;Sulfisoxazole;approved, vet_approved;yes;inhibitor
+P0AC13;BE0000803;DB00634;Sulfacetamide;approved;yes;inhibitor
+P0AC13;BE0000803;DB00259;Sulfanilamide;approved;yes;inhibitor
+P0AC13;BE0000803;DB01015;Sulfamethoxazole;approved;yes;inhibitor
+P0AC13;BE0000803;DB01581;Sulfamerazine;approved, vet_approved;yes;inhibitor
+P0AC13;BE0000803;DB01582;Sulfamethazine;approved, investigational, vet_approved;yes;inhibitor
+P0AC13;BE0000803;DB06729;Sulfaphenazole;approved;yes;inhibitor
+P0A820;BE0001499;DB03075;(Diphosphono)Aminophosphonic Acid;experimental;unknown;
+P0A820;BE0001499;DB04395;Phosphoaminophosphonic Acid-Adenylate Ester;experimental;unknown;
+P0A820;BE0001499;DB04554;8-Bromoadenosine-5'-Diphosphate;experimental;unknown;
+P06983;BE0001758;DB04517;Dipyrromethane Cofactor;experimental;unknown;
+P0A751;BE0001252;DB03397;Uridine-Diphosphate-N-Acetylglucosamine;experimental;unknown;
+P33038;BE0001291;DB01879;(S)-2-{Methyl-[2-(Naphthalene-2-Sulfonylamino)-5-(Naphthalene-2-Sulfonyloxy)-Benzoyl]-Amino}-Succinicacid;experimental;unknown;
+P33038;BE0001291;DB02435;Aminomethylcyclohexane;experimental;unknown;
+P33038;BE0001291;DB02995;Cyclohexylammonium Ion;experimental;unknown;
+P33038;BE0001291;DB04174;3'-1-Carboxy-1-Phosphonooxy-Ethoxy-Uridine-Diphosphate-N-Acetylglucosamine;experimental;unknown;
+P33038;BE0001291;DB04474;1-Anilino-8-Naphthalene Sulfonate;experimental;unknown;
+P0A749;BE0000468;DB00828;Fosfomycin;approved;yes;inhibitor
+P17169;BE0001423;DB02007;alpha-D-glucose 6-phosphate;experimental;unknown;
+P17169;BE0001423;DB02445;2-Deoxy-2-Amino Glucitol-6-Phosphate;experimental;unknown;
+P17169;BE0001423;DB02446;Glutamine Hydroxamate;experimental;unknown;
+P17169;BE0001423;DB02657;Glucosamine 6-Phosphate;experimental;unknown;
+P17169;BE0001423;DB03581;Glucose-6-Phosphate;experimental;unknown;
+P17169;BE0001423;DB03814;2-(N-Morpholino)-Ethanesulfonic Acid;experimental;unknown;
+P05041;BE0000597;DB01942;Formic Acid;approved, experimental;unknown;
+Q83LD8;BE0001574;DB03687;4-Diphosphocytidyl-2-C-Methyl-D-Erythritol;experimental;unknown;
+Q83LD8;BE0001574;DB04395;Phosphoaminophosphonic Acid-Adenylate Ester;experimental;unknown;
+P0A6I0;BE0001600;DB02456;Aracytidine 5'-monophosphate;experimental;unknown;
+P0A6I0;BE0001600;DB02883;2',3'-Dideoxycytidine-5'-Monophosphate;experimental;unknown;
+P0A6I0;BE0001600;DB03403;Cytidine-5'-Monophosphate;experimental;unknown;
+P0A6I0;BE0001600;DB04555;Cytidine-5'-Diphosphate;experimental;unknown;
+P69441;BE0001244;DB01717;Bis(Adenosine)-5'-Pentaphosphate;experimental;unknown;
+P43889;BE0004280;DB08344;4-chloro-N-(3-methoxypropyl)-N-[(3S)-1-(2-phenylethyl)piperidin-3-yl]benzamide;experimental;unknown;
+Q46893;BE0001661;DB02431;Cytidine-5'-Triphosphate;experimental;unknown;
+Q46893;BE0001661;DB03687;4-Diphosphocytidyl-2-C-Methyl-D-Erythritol;experimental;unknown;
+Q46893;BE0001661;DB03854;Pentane-1,5-Diamine;experimental;unknown;
+P00634;BE0001896;DB02823;Phosphonoacetic Acid;experimental;unknown;
+P00634;BE0001896;DB03498;Mercaptomethyl Phosphonate;experimental;unknown;
+P00634;BE0001896;DB04031;Serine Vanadate;experimental;unknown;
+P00634;BE0001896;DB04522;Dexfosfoserine;experimental;unknown;
+P39045;BE0003356;DB04742;(2R)-2-{(1R)-2-oxo-1-[(2-thienylacetyl)amino]ethyl}-5,6-dihydro-2h-1,3-thiazine-4-carboxylic acid;experimental;unknown;
+P08506;BE0003685;DB01329;Cefoperazone;approved, investigational;yes;inhibitor
+P08506;BE0003685;DB01331;Cefoxitin;approved;yes;inhibitor
+P08506;BE0003685;DB00430;Cefpiramide;approved;yes;inhibitor
+P08506;BE0003685;DB00274;Cefmetazole;approved, investigational;yes;inhibitor
+P08506;BE0003685;DB00303;Ertapenem;approved, investigational;yes;inhibitor
+P0AD69;BE0003396;DB05659;faropenem medoxomil;investigational;unknown;
+P0AEB3;BE0002475;DB04647;BOC-GAMMA-D-GLU-L-LYS(CBZ)-D-BOROALA;experimental;unknown;
+P0AEB3;BE0002475;DB01147;Cloxacillin;approved, vet_approved;unknown;inhibitor
+P0AEB2;BE0004840;DB00578;Carbenicillin;approved, investigational;yes;inhibitor
+P0AEB2;BE0004840;DB09319;Carindacillin;approved, investigational;yes;inhibitor
+P0AEB2;BE0004840;DB00578;Carbenicillin;approved, investigational;yes;inhibitor
+P0AEB2;BE0004840;DB09319;Carindacillin;approved, investigational;yes;inhibitor
+P05020;BE0001452;DB02129;Dihydroorotic Acid;experimental;unknown;
+P05020;BE0001452;DB02262;Orotic Acid;experimental, investigational;unknown;inhibitor
+P05020;BE0001452;DB03801;Lysine Nz-Carboxylic Acid;experimental;unknown;
+P05020;BE0001452;DB04252;N-Carbamoyl-L-Aspartate;experimental;unknown;
+P08244;BE0001677;DB02890;6-Hydroxyuridine-5'-Phosphate;experimental;unknown;
+P08244;BE0001677;DB03668;1-(5'-Phospho-Beta-D-Ribofuranosyl)Barbituric Acid;experimental;unknown;
+P28305;BE0003132;DB02038;D-[3-hydroxy-2-methyl-5-phosphonooxymethyl-pyridin-4-ylmethyl]-N,O-cycloserylamide;experimental;unknown;
+P26602;BE0001507;DB02130;Vanillic acid;experimental;unknown;
+P26602;BE0001507;DB04242;P-Hydroxybenzoic Acid;experimental;unknown;
+Q59643;BE0001285;DB01942;Formic Acid;approved, experimental;unknown;
+Q59643;BE0001285;DB02828;5-Fluorolevulinic Acid;experimental;unknown;
+P0A6Q5;BE0001829;DB03813;2-Decenoyl N-Acetyl Cysteamine;experimental;unknown;
+P0A6Q3;BE0004016;DB03813;2-Decenoyl N-Acetyl Cysteamine;experimental;unknown;
+P56122;BE0003020;DB03247;Riboflavin Monophosphate;approved;unknown;
+Q9X1K9;BE0001460;DB02370;Nz-(1-Carboxyethyl)-Lysine;experimental;unknown;
+P62617;BE0004106;DB02552;Geranyl Diphosphate;experimental;unknown;
+Q8EBR3;BE0004091;DB07780;FARNESYL DIPHOSPHATE;experimental;unknown;
+P62619;BE0001303;DB01859;4-Diphosphocytidyl-2-C-Methyl-D-Erythritol 2-Phosphate;experimental;unknown;
+P62619;BE0001303;DB02552;Geranyl Diphosphate;experimental;unknown;
+P62619;BE0001303;DB03403;Cytidine-5'-Monophosphate;experimental;unknown;
+P62619;BE0001303;DB03687;4-Diphosphocytidyl-2-C-Methyl-D-Erythritol;experimental;unknown;
+P62619;BE0001303;DB03961;2c-Methyl-D-Erythritol 2,4-Cyclodiphosphate;experimental;unknown;
+P62619;BE0001303;DB04555;Cytidine-5'-Diphosphate;experimental;unknown;
+P50921;BE0001889;DB02726;2-Phosphoglycolic Acid;experimental;unknown;
+P44725;BE0003268;DB04272;Citric Acid;approved, nutraceutical, vet_approved;unknown;
+P0A7Z3;BE0001628;DB04127;beta-D-arabinofuranose 5-phosphate;experimental;unknown;
+P26276;BE0001369;DB02007;alpha-D-glucose 6-phosphate;experimental;unknown;
+P26276;BE0001369;DB02843;alpha-D-glucose-1-phosphate;experimental;unknown;
+P26276;BE0001369;DB02867;D-Mannose 1-Phosphate;experimental;unknown;
+P26276;BE0001369;DB02900;alpha-D-mannose 6-phosphate;experimental;unknown;
+P26276;BE0001369;DB04522;Dexfosfoserine;experimental;unknown;
+P22188;BE0001538;DB02314;Uridine-5'-Diphosphate-N-Acetylmuramoyl-L-Alanine-D-Glutamate;experimental;unknown;
+P22188;BE0001538;DB03590;2,6-Diaminopimelic Acid;experimental;unknown;
+P22188;BE0001538;DB03801;Lysine Nz-Carboxylic Acid;experimental;unknown;
+P45066;BE0001247;DB01673;Uridine-5'-Diphosphate-N-Acetylmuramoyl-L-Alanine;experimental;unknown;
+P45066;BE0001247;DB03909;Adenosine-5'-[Beta, Gamma-Methylene]Triphosphate;experimental;unknown;
+P45066;BE0001247;DB04395;Phosphoaminophosphonic Acid-Adenylate Ester;experimental;unknown;
+P14900;BE0001258;DB01673;Uridine-5'-Diphosphate-N-Acetylmuramoyl-L-Alanine;experimental;unknown;
+P14900;BE0001258;DB02314;Uridine-5'-Diphosphate-N-Acetylmuramoyl-L-Alanine-D-Glutamate;experimental;unknown;
+P14900;BE0001258;DB03801;Lysine Nz-Carboxylic Acid;experimental;unknown;
+P14900;BE0001258;DB08105;N-[(6-butoxynaphthalen-2-yl)sulfonyl]-L-glutamic acid;experimental;unknown;
+P14900;BE0001258;DB08106;N-[(6-butoxynaphthalen-2-yl)sulfonyl]-D-glutamic acid;experimental;unknown;
+P14900;BE0001258;DB08107;N-{[6-(PENTYLOXY)NAPHTHALEN-2-YL]SULFONYL}-D-GLUTAMIC ACID;experimental;unknown;
+P14900;BE0001258;DB08108;N-({6-[(4-CYANOBENZYL)OXY]NAPHTHALEN-2-YL}SULFONYL)-D-GLUTAMIC ACID;experimental;unknown;
+P14900;BE0001258;DB08112;N-({6-[(4-CYANO-2-FLUOROBENZYL)OXY]NAPHTHALEN-2-YL}SULFONYL)-D-GLUTAMIC ACID;experimental;unknown;
+Q83P33;BE0001828;DB02954;(Carboxyhydroxyamino)Ethanoic Acid;experimental;unknown;
+Q83P33;BE0001828;DB04160;Pyrophosphoric acid;approved, experimental;unknown;
+Q83P33;BE0001828;DB04566;Inosinic Acid;experimental;unknown;
+Q8ZIV7;BE0004308;DB02580;1-(2-Methoxy-Ethoxy)-2-{2-[2-(2-Methoxy-Ethoxy]-Ethoxy}-Ethane;experimental;unknown;
+P0A7D4;BE0001441;DB02109;Hadacidin;experimental;unknown;
+P0A7D4;BE0001441;DB02493;Hydantocidin-5'-Phosphate;experimental;unknown;
+P0A7D4;BE0001441;DB02666;(C8-R)-Hydantocidin 5'-Phosphate;experimental;unknown;
+P0A7D4;BE0001441;DB02836;Guanosine 5'-Diphosphate 2':3'-Cyclic Monophosphate;experimental;unknown;
+P0A7D4;BE0001441;DB02954;(Carboxyhydroxyamino)Ethanoic Acid;experimental;unknown;
+P0A7D4;BE0001441;DB03146;2-deazo-6-thiophosphate guanosine-5'-monophosphate;experimental;unknown;
+P0A7D4;BE0001441;DB04315;Guanosine-5'-Diphosphate;experimental;unknown;
+P0A7D4;BE0001441;DB04460;(C8-S)-Hydantocidin 5'-Phosphate;experimental;unknown;
+P0A7D4;BE0001441;DB04566;Inosinic Acid;experimental;unknown;
+P04079;BE0002545;DB04272;Citric Acid;approved, nutraceutical, vet_approved;unknown;

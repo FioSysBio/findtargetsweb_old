@@ -1,0 +1,806 @@
+ACHBS: 2obut_c + h_c + pyr_c --> 2ahbut_c + co2_c
+SA1859
+SA2008
+SA1860
+----------------
+
+ACLS: h_c + 2.0 pyr_c --> alac_DASH_S_c + co2_c
+SA1859
+SA2008
+SA1860
+----------------
+
+ADCL: 4adcho_c --> 4abz_c + h_c + pyr_c
+SA0670
+----------------
+
+ADCS: chor_c + gln_DASH_L_c --> 4adcho_c + glu_DASH_L_c
+SA0669
+----------------
+
+ADKd: damp_c + datp_c <=> 2.0 dadp_c
+SA2027
+----------------
+
+ADMDCr: amet_c + h_c <=> ametam_c + co2_c
+----------------
+
+ADPT: ade_c + prpp_c --> amp_c + ppi_c
+SA1461
+----------------
+
+ADSK: aps_c + atp_c --> adp_c + h_c + paps_c
+SA2456
+----------------
+
+ADSL1: dcamp_c --> amp_c + fum_c
+SA1724
+----------------
+
+ADSL2r: 25aics_c <=> aicar_c + fum_c
+SA1724
+----------------
+
+ADSS: asp_DASH_L_c + gtp_c + imp_c --> dcamp_c + gdp_c + 2.0 h_c + pi_c
+SA0016
+----------------
+
+AICART: 10fthf_c + aicar_c <=> fprica_c + thf_c
+SA0925
+----------------
+
+AIRC2: air_c + atp_c + hco3_c --> 5caiz_c + adp_c + h_c + pi_c
+SA0917
+----------------
+
+AIRC3: 5aizc_c <=> 5caiz_c
+SA0916
+----------------
+
+ANPRT: anth_c + prpp_c --> ppi_c + pran_c
+SA1201
+----------------
+
+ANS: chor_c + gln_DASH_L_c --> anth_c + glu_DASH_L_c + h_c + pyr_c
+SA1199
+SA1200
+SA0668
+----------------
+
+APRAUR: 5apru_c + h_c + nadph_c --> 5aprbu_c + nadp_c
+SA1586
+SA1588
+----------------
+
+ATPPRT: atp_c + prpp_c --> ppi_c + prbatp_c
+SA2471
+----------------
+
+CHORM: chor_c --> pphn_c
+SA1558
+----------------
+
+CHORS: 3psme_c --> chor_c + pi_c
+SA1299
+----------------
+
+CLPNS_SA: 0.04 pg_SA_c <=> 0.02 clpn_SA_c + glyc_c
+SA1155
+SA1891
+----------------
+
+CPPPGO: cpppg3_c + 2.0 h_c + o2_c --> 2.0 co2_c + 2.0 h2o_c + pppg9_c
+SA1412
+----------------
+
+CSNt2: csn_e + h_e --> csn_c + h_c
+----------------
+
+CYSS: acser_c + h2s_c --> ac_c + cys_DASH_L_c + h_c
+SA0471
+SA0418
+----------------
+
+CYSTL: cyst_DASH_L_c + h2o_c --> hcys_DASH_L_c + nh4_c + pyr_c
+SA0346
+----------------
+
+DAPDC: 26dap_DASH_M_c + h_c --> co2_c + lys_DASH_L_c
+SA0119
+SA1232
+----------------
+
+DAPE: 26dap_DASH_LL_c <=> 26dap_DASH_M_c
+----------------
+
+DB4PS: ru5p_DASH_D_c --> db4p_c + for_c + h_c
+SA1587
+----------------
+
+DDPA: e4p_c + h2o_c + pep_c --> 2dda7p_c + pi_c
+SA1558
+----------------
+
+DGK1: atp_c + dgmp_c <=> adp_c + dgdp_c
+SA1052
+----------------
+
+DHAD1: 23dhmb_c --> 3mob_c + h2o_c
+SA1858
+----------------
+
+DHAD2: 23dhmp_c --> 3mop_c + h2o_c
+SA1858
+----------------
+
+DHDPRy: 23dhdp_c + h_c + nadph_c --> nadp_c + thdp_c
+SA1228
+----------------
+
+DHDPS: aspsa_c + pyr_c --> 23dhdp_c + 2.0 h2o_c + h_c
+SA1227
+----------------
+
+DHFR: dhf_c + h_c + nadph_c <=> nadp_c + thf_c
+SA1259
+----------------
+
+DHFS: atp_c + dhpt_c + glu_DASH_L_c --> adp_c + dhf_c + h_c + pi_c
+SA1487
+----------------
+
+DHNPA2: dhnpt_c --> 6hmhpt_c + gcald_c
+SA0473
+----------------
+
+DHPPDA: 25dhpp_c + h2o_c + h_c --> 5apru_c + nh4_c
+SA1589
+----------------
+
+DHPS2: 4abz_c + 6hmhptpp_c --> dhpt_c + ppi_c
+SA0472
+----------------
+
+DHQD: 3dhq_c <=> 3dhsk_c + h2o_c
+SA0756
+----------------
+
+DHQS: 2dda7p_c --> 3dhq_c + pi_c
+SA1298
+----------------
+
+DMATT: dmpp_c + ipdp_c --> grdp_c + ppi_c
+SA1352
+----------------
+
+DPMVD: 5dpmev_c + atp_c --> adp_c + co2_c + ipdp_c + pi_c
+SA0548
+----------------
+
+EX_csn_e: csn_e <=> 
+----------------
+
+EX_fe2_e: fe2_e <=> 
+----------------
+
+EX_nac_e: nac_e <=> 
+----------------
+
+EX_pi_e: pi_e <=> 
+----------------
+
+EX_pro_DASH_L_e: pro_DASH_L_e <=> 
+----------------
+
+EX_so4_e: so4_e <=> 
+----------------
+
+EX_thm_e: thm_e <=> 
+----------------
+
+FCLT: fe2_c + ppp9_c --> 2.0 h_c + pheme_c
+SA1651
+----------------
+
+FE2abc: atp_c + fe2_e + h2o_c --> adp_c + fe2_c + h_c + pi_c
+SA2369
+SA2337
+----------------
+
+FMNAT: atp_c + fmn_c + h_c --> fad_c + ppi_c
+SA1115
+----------------
+
+G1SATi: glu1sa_c --> 5aop_c
+SA1491
+SA1681
+----------------
+
+G3PCT: ctp_c + glyc3p_c + h_c --> cdpglyc_c + ppi_c
+SA0597
+----------------
+
+GALUi: g1p_c + h_c + utp_c --> ppi_c + udpg_c
+SA2288
+----------------
+
+GARFT: 10fthf_c + gar_c <=> fgam_c + h_c + thf_c
+SA0924
+----------------
+
+GCALDD: gcald_c + h2o_c + nad_c --> glyclt_c + 2.0 h_c + nadh_c
+SA2406
+----------------
+
+GK1: atp_c + gmp_c <=> adp_c + gdp_c
+SA1052
+----------------
+
+GLCPcom_SA: 2.0 gtca1_c + 2.0 gtca2_c + 2.0 gtca3_c --> glcp_SA_c
+----------------
+
+GLUPRT: gln_DASH_L_c + h2o_c + prpp_c --> glu_DASH_L_c + ppi_c + pram_c
+SA0922
+----------------
+
+GLUTRR: glutrna_c + h_c + nadph_c --> glu1sa_c + nadp_c + trnaglu_c
+SA1496
+----------------
+
+GLUTRS: atp_c + glu_DASH_L_c + trnaglu_c --> amp_c + glutrna_c + ppi_c
+SA0486
+----------------
+
+GRTT: grdp_c + ipdp_c --> frdp_c + ppi_c
+SA1352
+----------------
+
+GTPCI: gtp_c + h2o_c <=> ahdt_c + for_c + h_c
+SA0683
+----------------
+
+GTPCII: gtp_c + 3.0 h2o_c --> 25dhpp_c + for_c + 2.0 h_c + ppi_c
+SA1587
+----------------
+
+HEMEOS: frdp_c + h2o_c + pheme_c --> hemeO_c + ppi_c
+SA0965
+----------------
+
+HISTD: h2o_c + histd_c + 2.0 nad_c --> 3.0 h_c + his_DASH_L_c + 2.0 nadh_c
+SA2470
+----------------
+
+HISTP: h2o_c + hisp_c --> histd_c + pi_c
+----------------
+
+HMBS: h2o_c + 4.0 ppbng_c --> hmbil_c + 4.0 nh4_c
+SA1494
+----------------
+
+HMGCOARi: 2.0 h_c + hmgcoa_c + 2.0 nadph_c --> coa_c + mev_DASH_R_c + 2.0 nadp_c
+SA2333
+----------------
+
+HMGCOASi: aacoa_c + accoa_c + h2o_c --> coa_c + h_c + hmgcoa_c
+SA2334
+----------------
+
+HPPK2: 6hmhpt_c + atp_c --> 6hmhptpp_c + amp_c + h_c
+SA0474
+----------------
+
+HSTPT: glu_DASH_L_c + imacp_c --> akg_c + hisp_c
+SA2469
+SA0679
+----------------
+
+IG3PS: gln_DASH_L_c + prlp_c --> aicar_c + eig3p_c + glu_DASH_L_c + h_c
+SA2467
+SA2465
+----------------
+
+IGPDH: eig3p_c --> h2o_c + imacp_c
+SA2468
+----------------
+
+IGPS: 2cpr5p_c + h_c --> 3ig3p_c + co2_c + h2o_c
+SA1202
+----------------
+
+ILETA: akg_c + ile_DASH_L_c <=> 3mop_c + glu_DASH_L_c
+SA0512
+----------------
+
+IMPC: h2o_c + imp_c <=> fprica_c
+SA0925
+----------------
+
+IPDDI: ipdp_c <=> dmpp_c
+SA2136
+----------------
+
+IPMD: 3c2hmp_c + nad_c --> 3c4mop_c + h_c + nadh_c
+SA1863
+----------------
+
+IPPMIa: 3c2hmp_c <=> 2ippm_c + h2o_c
+SA1864
+SA1865
+----------------
+
+IPPMIb: 2ippm_c + h2o_c <=> 3c3hmp_c
+SA1864
+SA1865
+----------------
+
+IPPS: 3mob_c + accoa_c + h2o_c --> 3c3hmp_c + coa_c + h_c
+SA0837
+SA1862
+----------------
+
+KARA1i: alac_DASH_S_c + h_c + nadph_c --> 23dhmb_c + nadp_c
+SA1861
+----------------
+
+KARA2i: 2ahbut_c + h_c + nadph_c --> 23dhmp_c + nadp_c
+SA1861
+----------------
+
+KAS1: 14.0 h_c + ibcoa_c + 5.0 malcoa_c + 10.0 nadph_c --> 5.0 co2_c + 6.0 coa_c + fa1_c + 4.0 h2o_c + 10.0 nadp_c
+SA0843
+SA0842
+----------------
+
+KAS11: 17.0 h_c + ivcoa_c + 6.0 malcoa_c + 12.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa11_c + 5.0 h2o_c + 12.0 nadp_c
+SA0843
+SA0842
+----------------
+
+KAS12: 2mbcoa_c + 17.0 h_c + 6.0 malcoa_c + 12.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa12_c + 5.0 h2o_c + 12.0 nadp_c
+SA0843
+SA0842
+----------------
+
+KAS13: accoa_c + 23.0 h_c + 8.0 malcoa_c + 16.0 nadph_c --> 8.0 co2_c + 9.0 coa_c + 7.0 h2o_c + 16.0 nadp_c + ocdca_c
+SA0843
+SA0842
+----------------
+
+KAS19SA: 2mbcoa_c + 20.0 h_c + 7.0 malcoa_c + 14.0 nadph_c --> 7.0 co2_c + 8.0 coa_c + fa19a_c + 6.0 h2o_c + 14.0 nadp_c
+SA0843
+SA0842
+----------------
+
+KAS2: accoa_c + 17.0 h_c + 6.0 malcoa_c + 12.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + 5.0 h2o_c + 12.0 nadp_c + ttdca_c
+SA0843
+SA0842
+----------------
+
+KAS20SA: accoa_c + 26.0 h_c + 9.0 malcoa_c + 18.0 nadph_c --> 9.0 co2_c + 10.0 coa_c + fa20n_c + 8.0 h2o_c + 18.0 nadp_c
+SA0843
+SA0842
+----------------
+
+KAS3: 14.0 h_c + ivcoa_c + 5.0 malcoa_c + 10.0 nadph_c --> 5.0 co2_c + 6.0 coa_c + fa3_c + 4.0 h2o_c + 10.0 nadp_c
+SA0843
+SA0842
+----------------
+
+KAS4: 2mbcoa_c + 14.0 h_c + 5.0 malcoa_c + 10.0 nadph_c --> 5.0 co2_c + 6.0 coa_c + fa4_c + 4.0 h2o_c + 10.0 nadp_c
+SA0843
+SA0842
+----------------
+
+KAS6: 17.0 h_c + ibcoa_c + 6.0 malcoa_c + 12.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa6_c + 5.0 h2o_c + 12.0 nadp_c
+SA0843
+SA0842
+----------------
+
+LEUTA: akg_c + leu_DASH_L_c <=> 4mop_c + glu_DASH_L_c
+SA0512
+----------------
+
+MDRPD: 5mdru1p_c --> dkmpp_c + h2o_c
+----------------
+
+METAT: atp_c + h2o_c + met_DASH_L_c --> amet_c + pi_c + ppi_c
+SA1608
+----------------
+
+METS: 5mthf_c + hcys_DASH_L_c --> h_c + met_DASH_L_c + thf_c
+SA0344
+SA0345
+----------------
+
+MTAN: 5mta_c + h2o_c --> 5mtr_c + ade_c
+SA1427
+----------------
+
+MTHFR2: 2.0 h_c + mlthf_c + nadh_c --> 5mthf_c + nad_c
+----------------
+
+MTRI: 5mdr1p_c <=> 5mdru1p_c
+----------------
+
+MTRK: 5mtr_c + atp_c --> 5mdr1p_c + adp_c + h_c
+----------------
+
+NACUP: nac_e --> nac_c
+----------------
+
+NADK: atp_c + nad_c --> adp_c + h_c + nadp_c
+SA0865
+----------------
+
+NADS1: atp_c + dnad_c + nh4_c --> amp_c + h_c + nad_c + ppi_c
+SA1728
+----------------
+
+NAPRTr: h_c + nac_c + prpp_c <=> nicrnt_c + ppi_c
+SA1729
+----------------
+
+NNATr: atp_c + h_c + nicrnt_c --> dnad_c + ppi_c
+SA1422
+----------------
+
+OIVD1r: 4mop_c + coa_c + nad_c <=> co2_c + ivcoa_c + nadh_c
+SA1346
+SA1347
+SA1348
+----------------
+
+OIVD2: 3mob_c + coa_c + nad_c --> co2_c + ibcoa_c + nadh_c
+SA1346
+SA1347
+SA1348
+----------------
+
+OIVD3: 3mop_c + coa_c + nad_c --> 2mbcoa_c + co2_c + nadh_c
+SA1346
+SA1347
+SA1348
+----------------
+
+OMCDC: 3c4mop_c + h_c --> 4mop_c + co2_c
+SA1863
+----------------
+
+PALASA_SA2: ala_DASH_L_c + 0.02 cdpdag_SA_c <=> cmp_c + h_c + 0.02 pala_SA2_c
+----------------
+
+PAPSR: paps_c + trdrd_c --> 2.0 h_c + pap_c + so3_c + trdox_c
+----------------
+
+PASYN_SA: 0.15 fa11_c + 0.35 fa12_c + 0.186 fa19a_c + 0.013 fa1_c + 0.063 fa20n_c + 0.169 fa3_c + 0.792 fa4_c + 0.033 fa6_c + glyc3p_c + 0.024 hdca_c + 0.116 ocdca_c + 0.004 ttdca_c --> 0.02 pa_SA_c
+----------------
+
+PGLYSA_SA2: 0.02 cdpdag_SA_c + gly_c <=> cmp_c + h_c + 0.02 pgly_SA2_c
+----------------
+
+PGMT: g1p_c <=> g6p_c
+SA1965
+----------------
+
+PGPP_SA: h2o_c + 0.02 pgp_SA_c --> 0.02 pg_SA_c + pi_c
+SA1250
+----------------
+
+PGSA_SA: 0.02 cdpdag_SA_c + glyc3p_c <=> cmp_c + h_c + 0.02 pgp_SA_c
+SA1126
+----------------
+
+PHETA1: akg_c + phe_DASH_L_c <=> glu_DASH_L_c + phpyr_c
+SA2469
+SA0679
+----------------
+
+PLEUSA_SA2: 0.02 cdpdag_SA_c + leu_DASH_L_c <=> cmp_c + h_c + 0.02 pleu_SA2_c
+----------------
+
+PLYSSA_SA2: 0.02 cdpdag_SA_c + lys_DASH_L_c <=> cmp_c + h_c + 0.02 plys_SA2_c
+----------------
+
+PMDPHT: 5aprbu_c + h2o_c --> 4r5au_c + pi_c
+SA1586
+SA1588
+----------------
+
+PMEVK: 5pmev_c + atp_c --> 5dpmev_c + adp_c
+SA0549
+----------------
+
+PPBNGS: 2.0 5aop_c --> 2.0 h2o_c + h_c + ppbng_c
+SA1492
+----------------
+
+PPM: r1p_c <=> r5p_c
+SA0134
+----------------
+
+PPND: nad_c + pphn_c --> 34hpp_c + co2_c + nadh_c
+SA1197
+----------------
+
+PPNDH: h_c + pphn_c --> co2_c + h2o_c + phpyr_c
+SA1731
+----------------
+
+PPPGO: 1.5 o2_c + pppg9_c --> 3.0 h2o_c + ppp9_c
+SA1650
+----------------
+
+PRAGS: atp_c + gly_c + pram_c --> adp_c + gar_c + h_c + pi_c
+SA0926
+----------------
+
+PRAI: pran_c <=> 2cpr5p_c
+SA1203
+----------------
+
+PRAIS: atp_c + fpram_c --> adp_c + air_c + 2.0 h_c + pi_c
+SA0923
+----------------
+
+PRAMPC: h2o_c + prbamp_c --> prfp_c
+SA2464
+----------------
+
+PRASCS: 5aizc_c + asp_DASH_L_c + atp_c <=> 25aics_c + adp_c + h_c + pi_c
+SA0918
+----------------
+
+PRATPP: h2o_c + prbatp_c --> h_c + ppi_c + prbamp_c
+SA2464
+----------------
+
+PRFGS: atp_c + fgam_c + gln_DASH_L_c + h2o_c --> adp_c + fpram_c + glu_DASH_L_c + h_c + pi_c
+SA0920
+SA0921
+SA0919
+----------------
+
+PRMICIi: prfp_c --> prlp_c
+SA2466
+----------------
+
+PRPPS: atp_c + r5p_c <=> amp_c + h_c + prpp_c
+SA0458
+----------------
+
+PSCVT: pep_c + skm5p_c <=> 3psme_c + pi_c
+SA1297
+----------------
+
+PSD_SA: h_c + 0.02 ps_SA_c --> co2_c + 0.02 pe_SA_c
+----------------
+
+PSSA_SA: 0.02 cdpdag_SA_c + ser_DASH_L_c <=> cmp_c + h_c + 0.02 ps_SA_c
+----------------
+
+PYNP1: csn_c + r1p_c --> cytd_c + pi_c
+SA1938
+----------------
+
+RBFK: atp_c + ribflv_c --> adp_c + fmn_c + h_c
+SA1115
+----------------
+
+RBFSa: 4r5au_c + db4p_c --> dmlz_c + 2.0 h2o_c + pi_c
+SA1588
+----------------
+
+RBFSb: 2.0 dmlz_c --> 4r5au_c + ribflv_c
+SA1586
+----------------
+
+RPE: ru5p_DASH_D_c <=> xu5p_DASH_D_c
+SA1065
+----------------
+
+RPI: r5p_c <=> ru5p_DASH_D_c
+SA2127
+----------------
+
+SADT2: atp_c + gtp_c + h2o_c + so4_c --> aps_c + gdp_c + pi_c + ppi_c
+SA0506
+----------------
+
+SA_free_FA: 7.7 fa11_c + 18.1 fa12_c + 19.3 fa3_c + 32.7 fa4_c + 4.7 fa6_c + 10.1 hdca_c --> SA_FREE_FA_c
+----------------
+
+SDPDS: h2o_c + sl26da_c --> 26dap_DASH_LL_c + succ_c
+SA1814
+SA1572
+----------------
+
+SDPTA: akg_c + sl26da_c <=> glu_DASH_L_c + sl2a6o_c
+SA2347
+----------------
+
+SERAT: accoa_c + ser_DASH_L_c <=> acser_c + coa_c
+SA0487
+----------------
+
+SHCHD2: dscl_c + nad_c --> h_c + nadh_c + scl_c
+SA2412
+----------------
+
+SHCHF: fe2_c + scl_c --> 3.0 h_c + sheme_c
+SA2412
+----------------
+
+SHK3Dr: 3dhsk_c + h_c + nadph_c <=> nadp_c + skm_c
+SA1424
+----------------
+
+SHKK: atp_c + skm_c --> adp_c + h_c + skm5p_c
+SA1368
+----------------
+
+SHSL1: cys_DASH_L_c + suchms_c --> cyst_DASH_L_c + h_c + succ_c
+SA0347
+----------------
+
+SHSL4r: h2o_c + suchms_c <=> 2obut_c + h_c + nh4_c + succ_c
+SA0419
+----------------
+
+SPMS: ametam_c + ptrc_c --> 5mta_c + h_c + spmd_c
+----------------
+
+SULR: 3.0 h2o_c + h2s_c + 3.0 nadp_c <=> 5.0 h_c + 3.0 nadph_c + so3_c
+SA2413
+----------------
+
+SULabc: atp_c + h2o_c + so4_e --> adp_c + h_c + pi_c + so4_c
+----------------
+
+TAGO: 2.0 h2o_c + uacgam_c --> acgam_c + 2.0 h_c + pi_c + ump_c
+----------------
+
+TECA1S: acgam_c + 25.0 cdpglyc_c + uacmam_c --> 25.0 cmp_c + gtca1_c + 26.0 h_c + udp_c
+SA0522
+SA0596
+SA0244
+SA0593
+SA0597
+SA0594
+SA0523
+SA0595
+SA0592
+SA0243
+----------------
+
+TECA2S: acgam_c + 25.0 ala_DASH_D_c + 25.0 atp_c + 25.0 cdpglyc_c + uacmam_c --> 25.0 amp_c + 25.0 cmp_c + gtca2_c + 26.0 h_c + 25.0 ppi_c + udp_c
+SA0596
+SA0522
+SA0244
+SA0793
+SA0796
+SA0593
+SA0597
+SA0594
+SA0523
+SA0794
+SA0595
+SA0592
+SA0243
+SA0795
+----------------
+
+TECA3S: acgam_c + 25.0 cdpglyc_c + uacmam_c + 25.0 udpg_c --> 25.0 cmp_c + gtca3_c + 51.0 h_c + 26.0 udp_c
+SA0593
+SA0596
+SA0522
+SA0244
+SA0597
+SA0594
+SA0523
+SA0595
+SA0592
+SA0243
+----------------
+
+TECA4S: 30.0 h2o_c + 30.0 udpacgal_c + 30.0 udpg_c --> 60.0 h_c + tcam_c + 30.0 udp_c + 30.0 ump_c
+SA0593
+SA0522
+SA0596
+SA0244
+SA0597
+SA0594
+SA0523
+SA0595
+SA0592
+SA0243
+----------------
+
+THDPS: h2o_c + succoa_c + thdp_c --> coa_c + sl2a6o_c
+SA1229
+----------------
+
+THMabc: atp_c + h2o_c + thm_e --> adp_c + h_c + pi_c + thm_c
+----------------
+
+THRD_L: thr_DASH_L_c --> 2obut_c + nh4_c
+SA1271
+SA1866
+----------------
+
+TKT2: e4p_c + xu5p_DASH_D_c <=> f6p_c + g3p_c
+SA1177
+----------------
+
+TMDS: dump_c + mlthf_c --> dhf_c + dtmp_c
+SA1260
+SA0311
+----------------
+
+TRDR: h_c + nadph_c + trdox_c --> nadp_c + trdrd_c
+SA2162
+SA0719
+----------------
+
+TRPS1: 3ig3p_c + ser_DASH_L_c --> g3p_c + h2o_c + trp_DASH_L_c
+SA1204
+SA1205
+----------------
+
+TYRTA: akg_c + tyr_DASH_L_c <=> 34hpp_c + glu_DASH_L_c
+SA2469
+SA0679
+----------------
+
+UAG2E: uacgam_c <=> uacmam_c
+SA0150
+SA1913
+SA0159
+----------------
+
+UAG4Ei: uacgam_c --> udpacgal_c
+----------------
+
+UAGCVT: pep_c + uacgam_c --> pi_c + uaccg_c
+SA1902
+SA1926
+----------------
+
+UAPGR: h_c + nadph_c + uaccg_c --> nadp_c + uamr_c
+SA0693
+----------------
+
+UDPG12dgrGT_SA2: 12dgr_SA_c + 50.0 udpg_c --> 3g12dgr_SA2_c + 50.0 udp_c
+----------------
+
+UDPG3g12dgrGT_SA2: 3g12dgr_SA2_c + 50.0 udpg_c --> dgdcg_SA2_c + 50.0 udp_c
+----------------
+
+UNK3: 2kmb_c + glu_DASH_L_c --> akg_c + met_DASH_L_c
+----------------
+
+UPP3MT: 2.0 amet_c + uppg3_c --> 2.0 ahcys_c + dscl_c + h_c
+SA2186
+----------------
+
+UPP3S: hmbil_c --> h2o_c + uppg3_c
+SA1493
+----------------
+
+UPPDC1: 4.0 h_c + uppg3_c --> 4.0 co2_c + cpppg3_c
+SA1652
+----------------
+
+VALTA: akg_c + val_DASH_L_c <=> 3mob_c + glu_DASH_L_c
+SA0512
+----------------
+
+biomass_SA_8a: 0.01 10fthf_c + 0.42 12dgr_SA_c + 1.27 26dap_DASH_LL_c + 0.01 SA_FREE_FA_c + 1.22 acgam1p_c + 0.38 acgam_c + 6.6 ala_DASH_L_c + 3.11 amp_c + 3.88 arg_DASH_L_c + 4.48 asn_DASH_L_c + 4.48 asp_DASH_L_c + 20000.0 atp_c + 2.51 clpn_SA_c + 2.2 cmp_c + 0.79 cys_DASH_L_c + 0.76 damp_c + 0.53 dcmp_c + 0.012068 dgdcg_SA2_c + 0.6 dgmp_c + 0.73 dtmp_c + 0.01 fad_c + 0.23 gam1p_c + 5.3 glcp_SA_c + 8.72 gln_DASH_L_c + 9.68 glu_DASH_L_c + 3.51 gly_c + 4.01 gmp_c + 20000.0 h2o_c + 0.01 hemeO_c + 1.45 his_DASH_L_c + 4.06 ile_DASH_L_c + 5.21 leu_DASH_L_c + 5.45 lys_DASH_L_c + 1.94 met_DASH_L_c + 0.01 mlthf_c + 0.01 nad_c + 0.01 nadp_c + 0.01 pala_SA2_c + 0.89 pe_SA_c + 2.31 pg_SA_c + 0.01 pgly_SA2_c + 3.33 phe_DASH_L_c + 0.01 pleu_SA2_c + 0.15 plys_SA2_c + 2.12 pro_DASH_L_c + 0.01 ptrc_c + 2.6 ser_DASH_L_c + 0.01 sheme_c + 0.01 spmd_c + 2.86 tcam_c + 0.01 thf_c + 0.01 thm_c + 2.54 thr_DASH_L_c + 1.27 trp_DASH_L_c + 2.3 tyr_DASH_L_c + 1.78 uamr_c + 2.39 ump_c + 4.12 val_DASH_L_c --> 20000.0 adp_c + 20000.0 h_c + 20000.0 pi_c
+----------------
+
+sink_ahcys_c: ahcys_c --> 
+----------------
+
+sink_glyclt_c: glyclt_c --> 
+----------------
+

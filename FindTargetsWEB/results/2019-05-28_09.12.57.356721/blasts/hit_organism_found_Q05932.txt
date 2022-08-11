@@ -1,0 +1,1000 @@
+Homo sapiens OX
+Pan troglodytes OX
+Gorilla gorilla gorilla OX
+Cercocebus atys OX
+Papio anubis OX
+Rhinopithecus roxellana OX
+Macaca nemestrina OX
+Macaca mulatta OX
+Pan paniscus OX
+Macaca nemestrina OX
+Homo sapiens OX
+Colobus angolensis palliatus OX
+Pan troglodytes OX
+Gorilla gorilla gorilla OX
+Homo sapiens OX
+Colobus angolensis palliatus OX
+Cercocebus atys OX
+Homo sapiens OX
+Cercocebus atys OX
+Pongo abelii OX
+Mandrillus leucophaeus OX
+Rhinopithecus roxellana OX
+Aotus nancymaae OX
+Papio anubis OX
+Macaca nemestrina OX
+Gorilla gorilla gorilla OX
+Macaca mulatta OX
+Pan troglodytes OX
+Papio anubis OX
+Macaca mulatta OX
+Callithrix jacchus OX
+Propithecus coquereli OX
+Rhinopithecus roxellana OX
+Otolemur garnettii OX
+Chlorocebus sabaeus OX
+Macaca mulatta OX
+Colobus angolensis palliatus OX
+Equus caballus OX
+Rhinopithecus bieti OX
+Cebus capucinus imitator OX
+Canis lupus familiaris OX
+Loxodonta africana OX
+Leptonychotes weddellii OX
+Mandrillus leucophaeus OX
+Aotus nancymaae OX
+Odobenus rosmarus divergens OX
+Sus scrofa OX
+Ailuropoda melanoleuca OX
+Trichechus manatus latirostris OX
+Saimiri boliviensis boliviensis OX
+Propithecus coquereli OX
+Callithrix jacchus OX
+Aotus nancymaae OX
+Ictidomys tridecemlineatus OX
+Enhydra lutris kenyoni OX
+Fukomys damarensis OX
+Dipodomys ordii OX
+Pteropus alecto OX
+Lipotes vexillifer OX
+Ailuropoda melanoleuca OX
+Delphinapterus leucas OX
+Felis catus OX
+Ovis aries OX
+Cricetulus griseus OX
+Balaenoptera acutorostrata scammoni OX
+Myotis lucifugus OX
+Mesocricetus auratus OX
+Physeter macrocephalus OX
+Bos taurus OX
+Mustela putorius furo OX
+Bos taurus OX
+Saimiri boliviensis boliviensis OX
+Callithrix jacchus OX
+Erinaceus europaeus OX
+Sus scrofa OX
+Rhinopithecus bieti OX
+Mus musculus OX
+Leptonychotes weddellii OX
+Cebus capucinus imitator OX
+Cavia porcellus OX
+Sus scrofa OX
+Mus musculus OX
+Trichechus manatus latirostris OX
+Enhydra lutris kenyoni OX
+Delphinapterus leucas OX
+Lipotes vexillifer OX
+Felis catus OX
+Bos taurus OX
+Physeter macrocephalus OX
+Delphinapterus leucas OX
+Physeter macrocephalus OX
+Bos taurus OX
+Mesocricetus auratus OX
+Felis catus OX
+Delphinapterus leucas OX
+Tursiops truncatus OX
+Balaenoptera acutorostrata scammoni OX
+Macaca fascicularis OX
+Mus musculus OX
+Heterocephalus glaber OX
+Mus musculus OX
+Mus musculus OX
+Ursus maritimus OX
+Monodelphis domestica OX
+Sarcophilus harrisii OX
+Tarsius syrichta OX
+Physeter macrocephalus OX
+Pelodiscus sinensis OX
+Pelodiscus sinensis OX
+Alligator mississippiensis OX
+Alligator sinensis OX
+Alligator mississippiensis OX
+Alligator sinensis OX
+Alligator sinensis OX
+Ornithorhynchus anatinus OX
+Lonchura striata domestica OX
+Ficedula albicollis OX
+Amazona aestiva OX
+Callipepla squamata OX
+Xenopus tropicalis OX
+Xenopus laevis OX
+Alligator sinensis OX
+Colinus virginianus OX
+Anolis carolinensis OX
+Patagioenas fasciata monilis OX
+Latimeria chalumnae OX
+Latimeria chalumnae OX
+Danio rerio OX
+Scleropages formosus OX
+Oncorhynchus mykiss OX
+Oryzias latipes OX
+Salmo salar OX
+Alligator sinensis OX
+Alligator sinensis OX
+Rattus norvegicus OX
+Salmo salar OX
+Austrofundulus limnaeus OX
+Astyanax mexicanus OX
+Oreochromis niloticus OX
+Ictalurus punctatus OX
+Gasterosteus aculeatus OX
+Salmo salar OX
+Takifugu rubripes OX
+Salmo salar OX
+Poecilia formosa OX
+Dryobates pubescens OX
+Danio rerio OX
+Xiphophorus maculatus OX
+Takifugu rubripes OX
+Gallus gallus OX
+Corvus brachyrhynchos OX
+Taeniopygia guttata OX
+Ictalurus punctatus OX
+Scleropages formosus OX
+Lepisosteus oculatus OX
+Nomascus leucogenys OX
+Homo sapiens OX
+Macaca mulatta OX
+Pan troglodytes OX
+Macaca nemestrina OX
+Papio anubis OX
+Gorilla gorilla gorilla OX
+Rhinopithecus bieti OX
+Columba livia OX
+Cuculus canorus OX
+Cebus capucinus imitator OX
+Egretta garzetta OX
+Branchiostoma floridae OX
+Nipponia nippon OX
+Salmo salar OX
+Branchiostoma floridae OX
+Homo sapiens OX
+Aptenodytes forsteri OX
+Capitella teleta OX
+Crassostrea gigas OX
+Oryctolagus cuniculus OX
+Lingula unguis OX
+Mizuhopecten yessoensis OX
+Lingula unguis OX
+Lingula unguis OX
+Ixodes scapularis OX
+Strongylocentrotus purpuratus OX
+Cryptotermes secundus OX
+Cryptotermes secundus OX
+Stylophora pistillata OX
+Ictidomys tridecemlineatus OX
+Toxocara canis OX
+Ramazzottius varieornatus OX
+Zootermopsis nevadensis OX
+Amphimedon queenslandica OX
+Basidiobolus meristosporus CBS 931.73 OX
+Homo sapiens OX
+Daphnia pulex OX
+Cavia porcellus OX
+Ciona intestinalis OX
+Helobdella robusta OX
+Mus musculus OX
+Trichoplax sp. H2 OX
+Daphnia magna OX
+Tropilaelaps mercedesae OX
+Nasonia vitripennis OX
+Lottia gigantea OX
+Trichoplax adhaerens OX
+Rhizophagus clarus OX
+Onchocerca volvulus OX
+Glomus cerebriforme OX
+Octopus bimaculoides OX
+Mortierella elongata AG-77 OX
+Lobosporangium transversale OX
+Octopus bimaculoides OX
+Elaeophora elaphi OX
+Basidiobolus meristosporus CBS 931.73 OX
+Octopus bimaculoides OX
+Loa loa OX
+Ciona savignyi OX
+Diploscapter pachys OX
+Rhizophagus irregularis (strain DAOM 197198w) OX
+Rhizophagus irregularis OX
+Rhizophagus sp. MUCL 43196 OX
+Trichuris muris OX
+Brugia malayi OX
+Acromyrmex echinatior OX
+Trachymyrmex zeteki OX
+Atta colombica OX
+Trachymyrmex cornetzi OX
+Atta cephalotes OX
+Trachymyrmex septentrionalis OX
+Scleroderma citrinum Foug A OX
+Ciona intestinalis OX
+Camponotus floridanus OX
+Pediculus humanus subsp. corporis OX
+Dendroctonus ponderosae OX
+Pristionchus pacificus OX
+Tribolium castaneum OX
+Cyphomyrmex costatus OX
+Ooceraea biroi OX
+Apis cerana cerana OX
+Brugia pahangi OX
+Scleroderma citrinum Foug A OX
+Dufourea novaeangliae OX
+Agrilus planipennis OX
+Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003) OX
+Papilio machaon OX
+Pisolithus tinctorius Marx 270 OX
+Coemansia reversa (strain ATCC 12441 / NRRL 1564) OX
+Trametes coccinea BRFM310 OX
+Gonapodya prolifera (strain JEL478) OX
+Gigaspora rosea OX
+Melipona quadrifasciata OX
+Serpula lacrymans var. lacrymans (strain S7.3) OX
+Parastrongyloides trichosuri OX
+Pisolithus microcarpus 441 OX
+Rhizophagus irregularis (strain DAOM 181602 / DAOM 197198 / MUCL 43194) OX
+Stegodyphus mimosarum OX
+Peniophora sp. CONT OX
+Rhizopus microsporus ATCC 52813 OX
+Galerina marginata (strain CBS 339.88) OX
+Oncorhynchus mykiss OX
+Sphaeroforma arctica JP610 OX
+Mucor circinelloides f. lusitanicus CBS 277.49 OX
+Caenorhabditis tropicalis OX
+Dacryopinax primogenitus (strain DJM 731) OX
+Phaseolus vulgaris OX
+Heterobasidion irregulare TC 32-1 OX
+Linderina pennispora OX
+Rhizopus microsporus OX
+Schizopora paradoxa OX
+Cylindrobasidium torrendii FP15055 ss-10 OX
+Orchesella cincta OX
+Ceriporiopsis subvermispora (strain B) OX
+Termitomyces sp. J132 OX
+Leucosporidium creatinivorum OX
+Lucilia cuprina OX
+Macrostomum lignano OX
+Wolfiporia cocos (strain MD-104) OX
+Laccaria bicolor (strain S238N-H82 / ATCC MYA-4686) OX
+Tulasnella calospora MUT 4182 OX
+Serendipita indica (strain DSM 11827) OX
+Rhizopus microsporus OX
+Caenorhabditis elegans OX
+Strongylocentrotus purpuratus OX
+Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880) OX
+Calocera viscosa (strain TUFC12733) OX
+Sistotremastrum suecicum HHB10207 ss-3 OX
+Calocera cornea HHB12733 OX
+Caenorhabditis elegans OX
+Mucor ambiguus OX
+Caenorhabditis elegans OX
+Macrostomum lignano OX
+Hebeloma cylindrosporum h7 OX
+Sistotremastrum niveocremeum HHB9708 OX
+Daedalea quercina L-15889 OX
+Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284) OX
+Vigna radiata var. radiata OX
+Hypsizygus marmoreus OX
+Gloeophyllum trabeum (strain ATCC 11539 / FP-39264 / Madison 617) OX
+Strongyloides venezuelensis OX
+Schizophyllum commune (strain H4-8 / FGSC 9210) OX
+Pleurotus ostreatus PC15 OX
+Anaeromyces robustus OX
+Kluyveromyces marxianus (strain DMKU3-1042 / BCC 29191 / NBRC 104275) OX
+Vigna radiata var. radiata OX
+Coccomyxa subellipsoidea (strain C-169) OX
+Laetiporus sulphureus 93-53 OX
+Jaapia argillacea MUCL 33604 OX
+Fibroporia radiculosa OX
+Mucor circinelloides f. circinelloides (strain 1006PhL) OX
+Zygosaccharomyces bailii (strain CLIB 213 / ATCC 58445 / CBS 680 / CCRC 21525 / NBRC 1098 / NCYC 1416 / NRRL Y-2227) OX
+Naumovozyma dairenensis (strain ATCC 10597 / BCRC 20456 / CBS 421 / NBRC 0211 / NRRL Y-12639) OX
+Trichinella sp. T9 OX
+Octopus bimaculoides OX
+Phycomyces blakesleeanus (strain ATCC 8743b / DSM 1359 / FGSC 10004 / NBRC 33097 / NRRL 1555) OX
+Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) OX
+Oryza brachyantha OX
+Parasitella parasitica OX
+Pisolithus microcarpus 441 OX
+Microbotryum saponariae OX
+Hesseltinella vesiculosa OX
+Anopheles stephensi OX
+Brassica oleracea var. oleracea OX
+Pyrrhoderma noxium OX
+Oryza brachyantha OX
+Laccaria amethystina LaAM-08-1 OX
+Brassica napus OX
+Armillaria solidipes OX
+Selaginella moellendorffii OX
+Caenorhabditis brenneri OX
+Amanita muscaria Koide BX008 OX
+Agaricus bisporus var. burnettii (strain JB137-S8 / ATCC MYA-4627 / FGSC 10392) OX
+Lachancea dasiensis CBS 10888 OX
+Strongylocentrotus purpuratus OX
+Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) OX
+Microbotryum lychnidis-dioicae (strain p1A1 Lamole / MvSl-1064) OX
+Lachancea mirantina OX
+Exidia glandulosa HHB12029 OX
+Phlebia centrifuga OX
+Kwoniella pini CBS 10737 OX
+Capsella rubella OX
+Caenorhabditis nigoni OX
+Caenorhabditis nigoni OX
+Rozella allomycis (strain CSF55) OX
+Agrilus planipennis OX
+Armillaria gallica OX
+Heliothis virescens OX
+Leucoagaricus sp. SymC.cos OX
+Neolentinus lepideus HHB14362 ss-1 OX
+Spizellomyces punctatus (strain DAOM BR117) OX
+Babjeviella inositovora NRRL Y-12698 OX
+Fomitopsis pinicola (strain FP-58527) OX
+Cicer arietinum OX
+Suhomyces tanzawaensis NRRL Y-17324 OX
+Bombyx mori OX
+Candida parapsilosis (strain CDC 317 / ATCC MYA-4646) OX
+Tetrapisispora phaffii (strain ATCC 24235 / CBS 4417 / NBRC 1672 / NRRL Y-8282 / UCD 70-5) OX
+Moniliophthora roreri OX
+Trichinella nativa OX
+Rhodnius prolixus OX
+Armillaria ostoyae OX
+Citrus sinensis OX
+Phlebiopsis gigantea 11061_1 CR5-6 OX
+Leersia perrieri OX
+Ogataea parapolymorpha (strain ATCC 26012 / BCRC 20466 / JCM 22074 / NRRL Y-7560 / DL-1) OX
+Brachypodium distachyon OX
+Cicer arietinum OX
+Suillus luteus UH-Slu-Lm8-n1 OX
+Lachancea lanzarotensis OX
+Kwoniella dejecticola CBS 10117 OX
+Apis mellifera OX
+Trichinella sp. T6 OX
+Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565) OX
+Cryptococcus gattii serotype B (strain R265) OX
+Neocallimastix californiae OX
+Oryza sativa subsp. indica OX
+Cryptococcus gattii serotype B (strain WM276 / ATCC MYA-4071) OX
+Cajanus cajan OX
+Pisolithus tinctorius Marx 270 OX
+Cutaneotrichosporon oleaginosum OX
+Panicum hallii var. hallii OX
+Leersia perrieri OX
+Pneumocystis murina (strain B123) OX
+Botryobasidium botryosum FD-172 SS1 OX
+Agrilus planipennis OX
+Phanerochaete carnosa (strain HHB-10118-sp) OX
+Trichinella nativa OX
+Vigna radiata var. radiata OX
+Brassica oleracea var. oleracea OX
+Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / JCM 1990 / NBRC 0083 / IGC 2968) OX
+Eutrema salsugineum OX
+Triticum aestivum OX
+Amanita thiersii Skay4041 OX
+Moniliophthora roreri (strain MCA 2997) OX
+Aquilegia coerulea OX
+Hordeum vulgare subsp. vulgare OX
+Brassica oleracea var. oleracea OX
+Agrilus planipennis OX
+Geotrichum candidum OX
+Kwoniella mangroviensis CBS 10435 OX
+Postia placenta MAD-698-R-SB12 OX
+Helianthus annuus OX
+Trichinella britovi OX
+Trichinella sp. T8 OX
+Conidiobolus coronatus (strain ATCC 28846 / CBS 209.66 / NRRL 28638) OX
+Strongylocentrotus purpuratus OX
+Lactuca sativa OX
+Rhodosporidium toruloides OX
+Caenorhabditis briggsae OX
+Pyronema omphalodes (strain CBS 100304) OX
+Oryza rufipogon OX
+Glycine max OX
+Hordeum vulgare subsp. vulgare OX
+Pycnoporus cinnabarinus OX
+Rhodotorula graminis (strain WP1) OX
+Triticum aestivum OX
+Hypholoma sublateritium FD-334 SS-4 OX
+Oryza barthii OX
+Oryza meridionalis OX
+Triticum aestivum OX
+Oryza meridionalis OX
+Helianthus annuus OX
+Glycine max OX
+Candida viswanathii OX
+Setaria italica OX
+Oryza glaberrima OX
+Brassica oleracea var. oleracea OX
+Triticum urartu OX
+Lichtheimia corymbifera JMRC:FSU:9682 OX
+Microbotryum silenes-dioicae OX
+Triticum aestivum OX
+Caenorhabditis remanei OX
+Oryza sativa subsp. japonica OX
+Drosophila ananassae OX
+Habropoda laboriosa OX
+Polyporus brumalis OX
+Glycine max OX
+Cucumis sativus OX
+Strongyloides ratti OX
+Syncephalastrum racemosum OX
+Panicum hallii var. hallii OX
+[Candida] pseudohaemulonis OX
+Arabidopsis thaliana OX
+Rhizopus stolonifer OX
+Purpureocillium lilacinum OX
+Drosophila virilis OX
+Sorghum bicolor OX
+Selaginella moellendorffii OX
+Wallemia ichthyophaga (strain EXF-994 / CBS 113033) OX
+Saitoella complicata (strain BCRC 22490 / CBS 7301 / JCM 7358 / NBRC 10748 / NRRL Y-17804) OX
+Capsaspora owczarzaki (strain ATCC 30864) OX
+Pichia sorbitophila (strain ATCC MYA-4447 / BCRC 22081 / CBS 7064 / NBRC 10061 / NRRL Y-12695) OX
+Trichinella sp. T6 OX
+Trichinella zimbabwensis OX
+Rhizopogon vinicolor AM-OR11-026 OX
+Danaus plexippus plexippus OX
+Setaria italica OX
+Oryza sativa subsp. indica OX
+Medicago truncatula OX
+Drosophila persimilis OX
+Kwoniella heveanensis BCC8398 OX
+Brassica napus OX
+Brassica oleracea var. oleracea OX
+Prunus persica OX
+Fusarium sporotrichioides OX
+Musa acuminata subsp. malaccensis OX
+Populus trichocarpa OX
+Kuraishia capsulata CBS 1993 OX
+Ricinus communis OX
+Tetranychus urticae OX
+Brassica napus OX
+Hordeum vulgare subsp. vulgare OX
+Fusarium sp. FIESC_28 OX
+Artemisia annua OX
+Trichinella murrelli OX
+Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880) OX
+Lachancea fermentati OX
+Amorphotheca resinae ATCC 22711 OX
+Arabidopsis thaliana OX
+Eutrema salsugineum OX
+Absidia repens OX
+Trichinella nativa OX
+Trichinella sp. T6 OX
+Prunus persica OX
+Ceratocystis fimbriata CBS 114723 OX
+Musa acuminata subsp. malaccensis OX
+Trichinella sp. T9 OX
+Vigna radiata var. radiata OX
+Vigna radiata var. radiata OX
+Rosa chinensis OX
+Medicago truncatula OX
+Nicotiana tabacum OX
+Brachypodium distachyon OX
+Lactuca sativa OX
+Actinidia chinensis var. chinensis OX
+Eucalyptus grandis OX
+Artemisia annua OX
+Arabidopsis lyrata subsp. lyrata OX
+Drosophila pseudoobscura pseudoobscura OX
+Oryza punctata OX
+Cadophora sp. DSE1049 OX
+Fusarium langsethiae OX
+Physcomitrella patens subsp. patens OX
+Zea mays OX
+Serendipita vermifera MAFF 305830 OX
+Oryza punctata OX
+Klebsormidium nitens OX
+Micromonas pusilla (strain CCMP1545) OX
+Oryza glumipatula OX
+Oryza rufipogon OX
+Cucumis melo OX
+Trichinella patagoniensis OX
+Trichinella nelsoni OX
+Sphaeroforma arctica JP610 OX
+Anopheles gambiae OX
+Oryza glumipatula OX
+Triticum urartu OX
+Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324) OX
+Eremothecium cymbalariae (strain CBS 270.75 / DBVPG 7215 / KCTC 17166 / NRRL Y-17582) OX
+Manihot esculenta OX
+Brassica napus OX
+Schizosaccharomyces japonicus (strain yFS275 / FY16936) OX
+Eucalyptus grandis OX
+Phoenix dactylifera OX
+Hypocrea atroviridis (strain ATCC 20476 / IMI 206040) OX
+Drosophila willistoni OX
+Physcomitrella patens subsp. patens OX
+Kwoniella bestiolae CBS 10118 OX
+Zea mays OX
+Zea mays OX
+Candida viswanathii OX
+[Candida] arabinofermentans NRRL YB-2248 OX
+Glycine max OX
+[Candida] haemulonis OX
+Kockovaella imperatae OX
+Nicotiana tabacum OX
+Pezoloma ericae OX
+Gossypium hirsutum OX
+Candida auris OX
+Nectria haematococca (strain 77-13-4 / ATCC MYA-4622 / FGSC 9596 / MPVI) OX
+Citrus unshiu OX
+Aedes aegypti OX
+Glycine max OX
+Absidia glauca OX
+Brassica rapa subsp. pekinensis OX
+Drosophila ficusphila OX
+Sphaceloma murrayae OX
+Lachancea nothofagi CBS 11611 OX
+Nicotiana sylvestris OX
+Nicotiana tabacum OX
+Cicer arietinum OX
+Fusarium sp. FIESC_12 OX
+Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084) OX
+Oryza barthii OX
+Manihot esculenta OX
+Tilletiaria anomala (strain ATCC 24038 / CBS 436.72 / UBC 951) OX
+Trichoderma asperellum CBS 433.97 OX
+Naematelia encephala OX
+Piloderma croceum F 1598 OX
+Arabidopsis thaliana OX
+Brassica rapa subsp. pekinensis OX
+Drosophila mojavensis OX
+Phoenix dactylifera OX
+Trema orientale OX
+Eutrema salsugineum OX
+Oryza rufipogon OX
+Arabidopsis thaliana OX
+Nicotiana sylvestris OX
+Nicotiana tabacum OX
+Phialocephala scopiformis OX
+Oryza nivara OX
+Medicago truncatula OX
+Fusarium culmorum OX
+Nicotiana attenuata OX
+Diplocarpon rosae OX
+Artemisia annua OX
+Gibberella intermedia OX
+Wickerhamomyces anomalus (strain ATCC 58044 / CBS 1984 / NCYC 433 / NRRL Y-366-8) OX
+Glycine max OX
+Glycine max OX
+Glycine max OX
+Drosophila simulans OX
+Planoprotostelium fungivorum OX
+Uncinocarpus reesii (strain UAMH 1704) OX
+Hypoxylon sp. CI-4A OX
+Oryza glumipatula OX
+Phoenix dactylifera OX
+Yarrowia lipolytica (strain CLIB 122 / E 150) OX
+Rhizopus stolonifer OX
+Meliniomyces bicolor E OX
+Sorghum bicolor OX
+Candida albicans (strain SC5314 / ATCC MYA-2876) OX
+Arabidopsis lyrata subsp. lyrata OX
+Metarhizium album (strain ARSEF 1941) OX
+Spathaspora passalidarum (strain NRRL Y-27907 / 11-Y1) OX
+Macleaya cordata OX
+Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719) OX
+Drosophila sechellia OX
+Wallemia mellicola (strain ATCC MYA-4683 / CBS 633.66) OX
+Tetradesmus obliquus OX
+Strongyloides papillosus OX
+Colletotrichum chlorophyti OX
+Zea mays OX
+Trichoderma longibrachiatum ATCC 18648 OX
+Gossypium hirsutum OX
+Microbotryum intermedium OX
+Fusarium oxysporum OX
+Fusarium oxysporum (strain Fo5176) OX
+Drosophila melanogaster OX
+Clavispora lusitaniae (strain ATCC 42720) OX
+Cryptococcus depauperatus CBS 7841 OX
+Juglans regia OX
+Sclerotinia borealis (strain F-4128) OX
+Hypocrea virens (strain Gv29-8 / FGSC 10586) OX
+Phoenix dactylifera OX
+Glycine max OX
+Gibberella nygamai OX
+Zea mays OX
+Glycine max OX
+Juglans regia OX
+Rhodotorula sp. JG-1b OX
+Phialocephala subalpina OX
+Drosophila melanogaster OX
+Batrachochytrium dendrobatidis (strain JEL423) OX
+Claviceps purpurea (strain 20.1) OX
+Fusarium oxysporum f. sp. cubense (strain race 1) OX
+Fusarium oxysporum f. sp. raphani 54005 OX
+Arabidopsis thaliana OX
+Morus notabilis OX
+Culex quinquefasciatus OX
+Ophiostoma piceae (strain UAMH 11346) OX
+Ancylostoma ceylanicum OX
+Capsella rubella OX
+Amorphotheca resinae ATCC 22711 OX
+Phaseolus vulgaris OX
+Nicotiana sylvestris OX
+Nicotiana tabacum OX
+Hypocrea jecorina (strain QM6a) OX
+Medicago truncatula OX
+Schizosaccharomyces cryophilus (strain OY26 / ATCC MYA-4695 / CBS 11777 / NBRC 106824 / NRRL Y48691) OX
+Trichinella pseudospiralis OX
+Hyphopichia burtonii NRRL Y-1933 OX
+Gibberella moniliformis (strain M3125 / FGSC 7600) OX
+Prunus persica OX
+Drosophila grimshawi OX
+Stachybotrys chlorohalonata (strain IBT 40285) OX
+Pneumocystis jirovecii (strain SE8) OX
+Citrus clementina OX
+Myceliophthora thermophila (strain ATCC 42464 / BCRC 31852 / DSM 1799) OX
+Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545) OX
+Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229) OX
+Testicularia cyperi OX
+Ustilaginoidea virens OX
+Erythranthe guttata OX
+Malassezia sympodialis (strain ATCC 42132) OX
+Colletotrichum orchidophilum OX
+Capsicum annuum OX
+Trichoderma harzianum CBS 226.95 OX
+Medicago truncatula OX
+Ganoderma sinense ZZ0214-1 OX
+Candida maltosa (strain Xu316) OX
+Populus trichocarpa OX
+Fusarium oxysporum f. sp. radicis-cucumerinum OX
+Nadsonia fulvescens var. elongata DSM 6958 OX
+Juglans regia OX
+Arabidopsis thaliana OX
+Candida tropicalis (strain ATCC MYA-3404 / T1) OX
+Paxillus rubicundulus Ve08.2h10 OX
+Trichoderma harzianum OX
+Parasponia andersonii OX
+Jatropha curcas OX
+Coleophoma cylindrospora OX
+Neonectria ditissima OX
+Pneumocystis jirovecii (strain RU7) OX
+Xylona heveae (strain CBS 132557 / TC161) OX
+Phaseolus angularis OX
+Saprolegnia diclina (strain VS20) OX
+Morus notabilis OX
+Medicago truncatula OX
+Capsicum chinense OX
+Thielavia terrestris (strain ATCC 38088 / NRRL 8126) OX
+Trichoderma citrinoviride OX
+Morus notabilis OX
+[Candida] intermedia OX
+Eucalyptus grandis OX
+Escovopsis weberi OX
+Citrus clementina OX
+Ascoidea rubescens DSM 1968 OX
+Hanseniaspora osmophila OX
+Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709) OX
+Medicago truncatula OX
+Amborella trichopoda OX
+Fusarium poae OX
+Rhynchosporium commune OX
+Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX
+Pseudozyma antarctica (strain T-34) OX
+Rhodotorula taiwanensis OX
+Hordeum vulgare subsp. vulgare OX
+Cryptococcus amylolentus CBS 6039 OX
+Hypoxylon sp. CO27-5 OX
+Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276) OX
+Cucumis sativus OX
+Malassezia pachydermatis OX
+Batrachochytrium dendrobatidis (strain JAM81 / FGSC 10211) OX
+Coccidioides immitis RMSCC 2394 OX
+Coccidioides immitis (strain RS) OX
+Exophiala oligosperma OX
+Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) OX
+Stachybotrys chartarum IBT 40288 OX
+Capsella rubella OX
+Absidia repens OX
+Ustilago hordei (strain Uh4875-4) OX
+Aspergillus oryzae (strain ATCC 42149 / RIB 40) OX
+Blastomyces percursus OX
+Puccinia triticina (isolate 1-1 / race 1 (BBBD)) OX
+Phytophthora ramorum OX
+Macleaya cordata OX
+Arthroderma gypseum (strain ATCC MYA-4604 / CBS 118893) OX
+Hordeum vulgare subsp. vulgare OX
+Tolypocladium capitatum OX
+Caenorhabditis japonica OX
+Trema orientale OX
+Drosophila busckii OX
+Cladophialophora carrionii OX
+Neurospora tetrasperma (strain FGSC 2509 / P0656) OX
+Juglans regia OX
+Nelumbo nucifera OX
+Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831) OX
+Colletotrichum sublineola OX
+Drechmeria coniospora OX
+Cephalotus follicularis OX
+Cercospora berteroae OX
+Ramularia collo-cygni OX
+Achlya hypogyna OX
+Talaromyces islandicus OX
+Tolypocladium paradoxum OX
+Colletotrichum fioriniae PJ7 OX
+Nelumbo nucifera OX
+Cucumis melo OX
+Parasponia andersonii OX
+Citrus unshiu OX
+Penicilliopsis zonata CBS 506.65 OX
+Ostreococcus tauri OX
+Meleagris gallopavo OX
+Blastomyces parvus OX
+Nelumbo nucifera OX
+Nelumbo nucifera OX
+Brassica napus OX
+Pseudocercospora eumusae OX
+Colletotrichum salicis OX
+Manihot esculenta OX
+Verticillium longisporum OX
+Marssonina brunnea f. sp. multigermtubi (strain MB_m1) OX
+Spinacia oleracea OX
+Manacus vitellinus OX
+Zymoseptoria tritici (strain CBS 115943 / IPO323) OX
+Cucumis melo OX
+Hordeum vulgare subsp. vulgare OX
+Gossypium hirsutum OX
+Trichoderma gamsii OX
+Trichinella pseudospiralis OX
+Baudoinia panamericana (strain UAMH 10762) OX
+Kalmanozyma brasiliensis (strain GHG001) OX
+fungal sp. No.14919 OX
+Zymoseptoria tritici ST99CH_3D7 OX
+Aspergillus udagawae OX
+Pseudomicrostroma glucosiphilum OX
+Spinacia oleracea OX
+Venturia inaequalis OX
+Verticillium dahliae (strain VdLs.17 / ATCC MYA-4575 / FGSC 10137) OX
+Strongyloides stercoralis OX
+Phytophthora parasitica OX
+Sordaria macrospora (strain ATCC MYA-333 / DSM 997 / K(L3346) / K-hell) OX
+Glycine max OX
+Verticillium longisporum OX
+Ustilago maydis (strain 521 / FGSC 9021) OX
+Cyberlindnera fabianii OX
+Ophiocordyceps unilateralis OX
+Colletotrichum tofieldiae OX
+Polytolypa hystricis UAMH7299 OX
+Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100) OX
+Wickerhamomyces ciferrii (strain F-60-10 / ATCC 14091 / CBS 111 / JCM 3599 / NBRC 0793 / NRRL Y-1031) OX
+Coccidioides posadasii (strain RMSCC 757 / Silveira) OX
+Meira miltonrushii OX
+Phytophthora nicotianae OX
+Phytophthora parasitica (strain INRA-310) OX
+Helianthus annuus OX
+Rutstroemia sp. NJR-2017a WRK4 OX
+Aspergillus arachidicola OX
+Emmonsia sp. CAC-2015a OX
+Rasamsonia emersonii CBS 393.64 OX
+Spinacia oleracea OX
+Trichophyton interdigitale (strain MR816) OX
+Valsa mali var. pyri OX
+Trichophyton equinum (strain ATCC MYA-4606 / CBS 127.97) OX
+Puccinia coronata var. avenae f. sp. avenae OX
+Penicillium sp. 'occitanis' OX
+Cercospora zeina OX
+Rosellinia necatrix OX
+Trichosporon asahii var. asahii (strain CBS 8904) OX
+Pseudomassariella vexata OX
+Aspergillus cristatus OX
+Cajanus cajan OX
+Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) OX
+Amborella trichopoda OX
+Acremonium chrysogenum (strain ATCC 11550 / CBS 779.69 / DSM 880 / JCM 23072 / IMI 49137) OX
+Aspergillus uvarum CBS 121591 OX
+Aspergillus saccharolyticus JOP 1030-1 OX
+Pestalotiopsis fici (strain W106-1 / CGMCC3.15140) OX
+Hyaloscypha variabilis F OX
+Tilletia walkeri OX
+Ceraceosorus bombacis OX
+Aspergillus indologenus CBS 114.80 OX
+Sporisorium reilianum (strain SRZ2) OX
+Ajellomyces capsulatus (strain NAm1 / WU24) OX
+Diaporthe ampelina OX
+Vitis vinifera OX
+Saprolegnia parasitica (strain CBS 223.65) OX
+Trichoderma arundinaceum OX
+Phialophora americana OX
+Lactuca sativa OX
+Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) OX
+Talaromyces atroroseus OX
+Pseudozyma hubeiensis (strain SY62) OX
+Pochonia chlamydosporia 170 OX
+Dothistroma septosporum (strain NZE10 / CBS 128990) OX
+Ajellomyces capsulatus (strain H88) OX
+Ajellomyces capsulatus (strain H143) OX
+Cercospora beticola OX
+Sporothrix schenckii (strain ATCC 58251 / de Perez 2211183) OX
+Daldinia sp. EC12 OX
+Zea mays OX
+Rosa chinensis OX
+Nelumbo nucifera OX
+Microdochium bolleyi OX
+Oryza nivara OX
+Pseudocercospora fijiensis (strain CIRAD86) OX
+Cordyceps fumosorosea ARSEF 2679 OX
+Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006) OX
+Acidomyces richmondensis BFW OX
+Marssonina coronariae OX
+Aphanomyces invadans OX
+Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167) OX
+Jaminaea rosea OX
+Penicillium expansum OX
+Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX
+Glarea lozoyensis (strain ATCC 20868 / MF5171) OX
+Tuber borchii OX
+Exophiala dermatitidis (strain ATCC 34100 / CBS 525.76 / NIH/UT8656) OX
+Oidiodendron maius Zn OX
+Tuber magnatum OX
+Acaromyces ingoldii OX
+Valsa mali OX
+Leersia perrieri OX
+Cladophialophora yegresii CBS 114405 OX
+Agrilus planipennis OX
+Fusarium venenatum OX
+Moelleriella libera RCEF 2490 OX
+Aspergillus lentulus OX
+Phytophthora cactorum OX
+Talaromyces marneffei (strain ATCC 18224 / CBS 334.59 / QM 7333) OX
+Malassezia vespertilionis OX
+Tilletiopsis washingtonensis OX
+Oryza sativa subsp. japonica OX
+Guillardia theta (strain CCMP2712) OX
+Ciona savignyi OX
+Aspergillus oryzae OX
+Aspergillus mulundensis OX
+Gigaspora rosea OX
+Aspergillus thermomutatus OX
+Tolypocladium ophioglossoides CBS 100239 OX
+Hordeum vulgare subsp. vulgare OX
+Hordeum vulgare subsp. vulgare OX
+Periconia macrospinosa OX
+Arthroderma benhamiae (strain ATCC MYA-4681 / CBS 112371) OX
+Gossypium hirsutum OX
+Cucumis melo OX
+Malassezia globosa (strain ATCC MYA-4612 / CBS 7966) OX
+Populus trichocarpa OX
+Candida tenuis (strain ATCC 10573 / BCRC 21748 / CBS 615 / JCM 9827 / NBRC 10315 / NRRL Y-1498 / VKM Y-70) OX
+Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7) OX
+Elsinoe australis OX
+Glycine max OX
+Aspergillus novofumigatus IBT 16806 OX
+Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181) OX
+Penicillium brasilianum OX
+Podospora anserina (strain S / ATCC MYA-4624 / DSM 980 / FGSC 10383) OX
+Sorghum bicolor OX
+Tuber melanosporum (strain Mel28) OX
+Selaginella moellendorffii OX
+Zymoseptoria brevis OX
+Brassica napus OX
+Sclerotinia sclerotiorum (strain ATCC 18683 / 1980 / Ss-1) OX
+Phialophora cf. hyalina BP 5553 OX
+Hyaloscypha variabilis F OX
+Pseudocercospora fijiensis (strain CIRAD86) OX
+Populus trichocarpa OX
+Paracoccidioides lutzii (strain ATCC MYA-826 / Pb01) OX
+Zea mays OX
+Absidia glauca OX
+Emergomyces pasteurianus Ep9510 OX
+Pseudocercospora eumusae OX
+Pyrenochaeta sp. DS3sAY3a OX
+Colletotrichum fructicola (strain Nara gc5) OX
+Puccinia striiformis f. sp. tritici PST-78 OX
+Sporisorium scitamineum OX
+Eutypa lata (strain UCR-EL1) OX
+Penicillium roqueforti (strain FM164) OX
+Aspergillus wentii DTO 134E9 OX
+Diaporthe helianthi OX
+Acyrthosiphon pisum OX
+Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993 OX
+Dictyostelium purpureum OX
+Metarhizium rileyi RCEF 4871 OX
+Penicillium nordicum OX
+Ancylostoma ceylanicum OX
+Helicocarpus griseus UAMH5409 OX
+Ancylostoma ceylanicum OX
+Corchorus capsularis OX
+Penicillium italicum OX
+Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422) OX
+Paracoccidioides brasiliensis (strain Pb18) OX
+Glycine max OX
+Rhizoctonia solani OX
+Meliniomyces bicolor E OX
+Theobroma cacao OX
+Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255) OX
+Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1) OX
+Sorghum bicolor OX
+Penicillium nalgiovense OX
+Cucumis melo OX
+Aspergillus ruber CBS 135680 OX
+Aspergillus glaucus CBS 516.65 OX
+Macrophomina phaseolina (strain MS6) OX
+Rachicladosporium antarcticum OX
+Papilio xuthus OX
+Aspergillus turcosus OX
+Capronia coronata CBS 617.96 OX
+Penicillium patulum OX
+Colletotrichum fructicola (strain Nara gc5) OX
+Phoenix dactylifera OX
+Cryptococcus amylolentus CBS 6039 OX
+Diplodia seriata OX
+Trametes pubescens OX
+Chlorella variabilis OX
+Vitis vinifera OX
+Nicotiana sylvestris OX
+Clohesyomyces aquaticus OX
+Aspergillus terreus (strain NIH 2624 / FGSC A1156) OX
+Aspergillus cristatus OX
+Rachicladosporium sp. CCFEE 5018 OX
+Aspergillus welwitschiae OX
+Trichophyton equinum (strain ATCC MYA-4606 / CBS 127.97) OX
+Trichophyton interdigitale (strain MR816) OX
+Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491) OX
+Hortaea werneckii EXF-2000 OX
+Torrubiella hemipterigena OX
+Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 / NCTC 3858a / NRRL 328 / USDA 3528.7) OX
+Hordeum vulgare subsp. vulgare OX
+Penicillium solitum OX
+Populus trichocarpa OX
+Arthroderma benhamiae (strain ATCC MYA-4681 / CBS 112371) OX
+Aspergillus ibericus CBS 121593 OX
+Blastomyces gilchristii (strain SLH14081) OX
+Coniochaeta ligniaria NRRL 30616 OX
+Rachicladosporium antarcticum OX
+Aspergillus lacticoffeatus (strain CBS 101883) OX
+Aspergillus niger (strain CBS 513.88 / FGSC A1513) OX
+Aspergillus aculeatus ATCC 16872 OX
+Cynara cardunculus var. scolymus OX
+Aspergillus candidus OX
+Aspergillus sclerotioniger CBS 115572 OX
+Dactylellina haptotyla (strain CBS 200.50) OX
+Penicillium arizonense OX
+Penicillium camemberti FM 013 OX
+Citrus unshiu OX
+Aphanomyces invadans OX
+Aspergillus bombycis OX
+Exophiala xenobiotica OX
+Choanephora cucurbitarum OX
+Penicillium oxalicum (strain 114-2 / CGMCC 5302) OX
+Hordeum vulgare subsp. vulgare OX
+Citrus unshiu OX
+Penicillium polonicum OX
+Aspergillus taichungensis OX
+Aspergillus niger OX
+Aspergillus rambellii OX
+Ajellomyces dermatitidis (strain ER-3 / ATCC MYA-2586) OX
+Ceraceosorus guamensis OX
+Aphanomyces invadans OX
+Aspergillus heteromorphus CBS 117.55 OX
+Exophiala sideris OX
+Oryza nivara OX
+Nicotiana sylvestris OX
+Aspergillus tubingensis (strain CBS 134.48) OX
+Sclerotinia borealis (strain F-4128) OX
+Aspergillus brasiliensis (strain CBS 101740 / IMI 381727 / IBT 21946) OX
+Aspergillus sclerotialis OX
+Rutstroemia sp. NJR-2017a BBW OX
+Aspergillus indologenus CBS 114.80 OX
+Penicillium freii OX
+Aspergillus kawachii (strain NBRC 4308) OX
+Aspergillus sclerotiicarbonarius (strain CBS 121057 / IBT 28362) OX

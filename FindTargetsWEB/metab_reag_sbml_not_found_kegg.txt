@@ -1,0 +1,43 @@
+(3r)-3-hydroxyoctadecanoyl-[acyl-carrier protein]
+2,5-diamino-6-hydroxy-4-(5'-phosphoribosylamino)-pyrimidine
+3,4-dihydroxy-2-butanone 4-phosphate
+4-(1-d-ribitylamino)-5-aminouracil
+5-amino-6-(5'-phosphoribitylamino)uracil
+6,7-dimethyl-8-(1-d-ribityl)lumazine
+acetoacetyl-acp
+adp-d-glycero-d-manno-heptose
+adp-l-glycero-d-manno-heptose
+cdpdiacylglycerol
+d-glycero-d-manno-heptose 1,7-bisphosphate
+d-glycero-d-manno-heptose 1-phosphate
+dodecanoyl-acp (n-c12:0acp)
+dtdp-4-dehydro-6-deoxy-l-mannose
+dtdpglucose
+ferrodoxin (oxidized form 4:2)
+ferrodoxin (reduced form 4:2)
+hexadecenoyl-acp (n-c16:1acp)
+kdo2-lipida
+myristoyl-acp (n-c14:0acp)
+n-((r)-4-phosphopantothenoyl)-l-cysteine
+octadecanoyl-acp (n-c18:0acp)
+palmitoyl-acp (n-c16:0acp)
+peptidoglycan subunit of escherichia coli
+pseudomonas aeruginosa kdo-lipida
+pseudomonas aeruginosa kdo2-lipida
+pseudomonas aeruginosa lipid a precursor
+pseudomonas aeruginosa lipid x
+pseudomonas aeruginosa lps core
+pseudomonas aeruginosa lps core precursor 1
+pseudomonas aeruginosa lps core precursor 2
+pseudomonas aeruginosa lps core precursor 3
+pseudomonas aeruginosa lps core precursor 4
+pseudomonas aeruginosa lps core precursor 5
+pseudomonas aeruginosa lps core precursor 6
+pseudomonas aeruginosa lps core precursor 7
+pseudomonas lipid a disaccharide
+tetradecenoyl-acp (n-c14:1acp)
+trans-octadec-2-enoyl-[acyl-carrier-protein]
+udp-2-nh-(3oh-c12:0),3-o-(3oh-c10:0)glucosamine
+udp-3-o-(3oh-c10:0)-d-glucosamine
+udp-3-o-(3oh-c10:0)-n-acetylglucosamine
+udpgalactose

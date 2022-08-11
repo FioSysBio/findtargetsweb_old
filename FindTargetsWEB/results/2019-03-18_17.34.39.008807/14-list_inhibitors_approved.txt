@@ -1,0 +1,10 @@
+P0AC13;BE0000803;DB00576;Sulfamethizole;approved, investigational, vet_approved;yes;inhibitor
+P0AC13;BE0000803;DB01298;Sulfacytine;approved;yes;inhibitor
+P0AC13;BE0000803;DB00263;Sulfisoxazole;approved, vet_approved;yes;inhibitor
+P0AC13;BE0000803;DB00634;Sulfacetamide;approved;yes;inhibitor
+P0AC13;BE0000803;DB00259;Sulfanilamide;approved;yes;inhibitor
+P0AC13;BE0000803;DB01015;Sulfamethoxazole;approved;yes;inhibitor
+P0AC13;BE0000803;DB01581;Sulfamerazine;approved, vet_approved;yes;inhibitor
+P0AC13;BE0000803;DB01582;Sulfamethazine;approved, investigational, vet_approved;yes;inhibitor
+P0AC13;BE0000803;DB06729;Sulfaphenazole;approved;yes;inhibitor
+P0A749;BE0000468;DB00828;Fosfomycin;approved;yes;inhibitor

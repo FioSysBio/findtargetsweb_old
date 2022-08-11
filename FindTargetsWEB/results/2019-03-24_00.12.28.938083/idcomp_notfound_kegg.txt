@@ -1,0 +1,38 @@
+1.02 trans-octadec-2-enoyl-[acyl-carrier-protein] + sn-glycerol 3-phosphate + 0.26 hexadecenoyl-acp (n-c16:1acp) + 0.06 octadecanoyl-acp (n-c18:0acp) + 0.66 palmitoyl-acp (n-c16:0acp) --> 1,2-diacyl-sn-glycerol 3-phosphate + 2.0 acyl carrier protein
+adp-d-glycero-d-manno-heptose --> adp-l-glycero-d-manno-heptose
+1.89832 5-methyltetrahydrofolate + 1.65071304347826 acetyl-coa + 3.79664 amp + 37.0423 atp + 0.491029487842732 cardiolipin + 1.80792380952381 coenzyme a + 42.4822647420835 dna + 1.40616296296296 fad + 6.32773333333333 glycogen + 37.0423 h2o + 1.80792380952381 nicotinamide adenine dinucleotide + 1.80792380952381 nicotinamide adenine dinucleotide - reduced + 1.80792380952381 nicotinamide adenine dinucleotide phosphate + 1.80792380952381 nicotinamide adenine dinucleotide phosphate - reduced + 0.243374358974359 pseudomonas aeruginosa lps core + kdo2-lipida + 0.969519918283963 phosphatidylethanolamine + 0.94916 peptidoglycan subunit of escherichia coli + 0.945378486055777 phosphatidylglycerol + 1.11665882352941 protoheme + 1.70368276276761 protein + 0.945378486055777 phosphatidylserine + 9.4916 putrescine + 6.80389240336195 rna + 5.42377142857143 spermidine + 1.518656 succinyl-coa + 3.16386666666667 thiamine diphosphate + 2.53109333333333 udpglucose --> 37.0423 adp + biomass + 37.0423 h+ + 37.0423 phosphate
+2.0 s-adenosyl-l-methionine + coproporphyrinogen iii + 2.0 ferrodoxin (oxidized form 4:2) + 2.0 nicotinamide adenine dinucleotide phosphate - reduced --> 2.0 co2 + 2.0 5'-deoxyadenosine + 2.0 ferrodoxin (reduced form 4:2) + 2.0 h+ + 2.0 l-methionine + 2.0 nicotinamide adenine dinucleotide phosphate + protoporphyrinogen ix
+2,5-diamino-6-hydroxy-4-(5'-phosphoribosylamino)-pyrimidine + h2o + h+ --> 5-amino-6-(5'-phosphoribosylamino)uracil + ammonium
+adpglucose --> adp + glycogen + h+
+atp + l-glutamate + ammonium --> adp + l-glutamine + h+ + phosphate
+atp + l-glutamate + trna (glu) --> amp + l-glutamyl-trna(glu) + diphosphate
+atp + d-glycero-d-manno-heptose 1-phosphate + h+ --> adp-d-glycero-d-manno-heptose + diphosphate
+d-glycero-d-manno-heptose 1,7-bisphosphate + h2o --> d-glycero-d-manno-heptose 1-phosphate + phosphate
+acetoacetyl-acp + h+ + nicotinamide adenine dinucleotide phosphate - reduced --> (3r)-3-hydroxybutanoyl-[acyl-carrier protein] + nicotinamide adenine dinucleotide phosphate
+h2o + 4.0 porphobilinogen --> hydroxymethylbilane + 4.0 ammonium
+(3r)-3-hydroxyoctadecanoyl-[acyl-carrier protein] --> trans-octadec-2-enoyl-[acyl-carrier-protein] + h2o
+h+ + nicotinamide adenine dinucleotide - reduced + tetradecenoyl-acp (n-c14:1acp) --> myristoyl-acp (n-c14:0acp) + nicotinamide adenine dinucleotide
+dodecanoyl-acp (n-c12:0acp) + h+ + malonyl-[acyl-carrier protein] --> 3-oxotetradecanoyl-[acyl-carrier protein] + acyl carrier protein + co2
+h+ + malonyl-[acyl-carrier protein] + myristoyl-acp (n-c14:0acp) --> 3-oxohexadecanoyl-[acp] + acyl carrier protein + co2
+h+ + malonyl-[acyl-carrier protein] + palmitoyl-acp (n-c16:0acp) --> 3-oxooctadecanoyl-[acp] + acyl carrier protein + co2
+trans-octadec-2-enoyl-[acyl-carrier-protein] + h+ + nicotinamide adenine dinucleotide - reduced --> nicotinamide adenine dinucleotide + octadecanoyl-acp (n-c18:0acp)
+adp-l-glycero-d-manno-heptose + pseudomonas aeruginosa kdo2-lipida --> adp + pseudomonas aeruginosa lps core precursor 1 + kdo2-lipida
+adp-l-glycero-d-manno-heptose + pseudomonas aeruginosa lps core precursor 1 + kdo2-lipida --> adp + pseudomonas aeruginosa lps core precursor 2 + kdo2-lipida
+pseudomonas aeruginosa lps core precursor 2 + kdo2-lipida + udpgalactose --> pseudomonas aeruginosa lps core precursor 3 + kdo2-lipida + udp
+pseudomonas aeruginosa lps core precursor 3 + kdo2-lipida + 3.0 udpglucose --> pseudomonas aeruginosa lps core precursor 4 + kdo2-lipida + 3.0 udp
+2.0 dtdp-6-deoxy-l-mannose + pseudomonas aeruginosa lps core precursor 4 + kdo2-lipida --> 2.0 dtdp + pseudomonas aeruginosa lps core precursor 5 + kdo2-lipida
+pseudomonas aeruginosa lps core precursor 5 + kdo2-lipida + udpglucose --> pseudomonas aeruginosa lps core precursor 6 + kdo2-lipida + udp
+3.0 atp + pseudomonas aeruginosa lps core precursor 6 + kdo2-lipida --> 3.0 adp + 3.0 h+ + pseudomonas aeruginosa lps core precursor 7 + kdo2-lipida
+l-alanine + carbamoyl phosphate + pseudomonas aeruginosa lps core precursor 7 + kdo2-lipida --> h2o + pseudomonas aeruginosa lps core + kdo2-lipida + phosphate
+2.0 dodecanoyl-acp (n-c12:0acp) + pseudomonas aeruginosa lipid a precursor --> 2.0 acyl carrier protein + pseudomonas aeruginosa lipid a
+pseudomonas aeruginosa lipid x + udp-2-nh-(3oh-c12:0),3-o-(3oh-c10:0)glucosamine --> h+ + pseudomonas lipid a disaccharide + udp
+cmp-3-deoxy-d-manno-octulosonate + pseudomonas aeruginosa kdo-lipida --> cmp + h+ + pseudomonas aeruginosa kdo2-lipida
+atp + pseudomonas lipid a disaccharide --> adp + h+ + pseudomonas aeruginosa lipid a precursor
+(r)-3-hydroxydodecanoyl-[acyl-carrier protein] + udp-3-o-(3oh-c10:0)-d-glucosamine --> acyl carrier protein + h+ + udp-2-nh-(3oh-c12:0),3-o-(3oh-c10:0)glucosamine
+h2o + udp-3-o-(3oh-c10:0)-n-acetylglucosamine --> acetate + udp-3-o-(3oh-c10:0)-d-glucosamine
+h2o + udp-2-nh-(3oh-c12:0),3-o-(3oh-c10:0)glucosamine --> 2.0 h+ + pseudomonas aeruginosa lipid x + ump
+5-amino-6-(5'-phosphoribitylamino)uracil + h2o --> 4-(1-d-ribitylamino)-5-aminouracil + phosphate
+n-((r)-4-phosphopantothenoyl)-l-cysteine + h+ --> co2 + pantetheine 4'-phosphate
+4-(1-d-ribitylamino)-5-aminouracil + 3,4-dihydroxy-2-butanone 4-phosphate --> 6,7-dimethyl-8-(1-d-ribityl)lumazine + 2.0 h2o + phosphate
+2.0 6,7-dimethyl-8-(1-d-ribityl)lumazine --> 4-(1-d-ribitylamino)-5-aminouracil + riboflavin
+dtdpglucose --> dtdp-4-dehydro-6-deoxy-d-glucose + h2o

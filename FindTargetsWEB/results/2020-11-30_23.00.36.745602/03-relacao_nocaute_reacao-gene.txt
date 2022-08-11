@@ -1,0 +1,996 @@
+2DMMQ8abc: 2dmmq8_e + atp_c + h2o_c --> 2dmmq8_c + adp_c + h_c + pi_c
+----------------
+
+2MBCOATA: 2mbcoa_c + ACP_c <=> 2mbutACP_c + coa_c
+g5
+----------------
+
+3HAD10M12: 10m3hddcaACP_c --> 10mtddec2eACP_c + h2o_c
+g8
+----------------
+
+3HAD11M12: 11m3hddcaACP_c --> 11mtddec2eACP_c + h2o_c
+g8
+----------------
+
+3HAD12M14: 12m3hmyrsACP_c --> 12mtmrs2eACP_c + h2o_c
+g8
+----------------
+
+3HAD13M14: 13m3hmyrsACP_c --> 13mtmrs2eACP_c + h2o_c
+g8
+----------------
+
+3HAD14M16: 14m3hpalmACP_c --> 14mtpalm2eACP_c + h2o_c
+g8
+----------------
+
+3HAD15M16: 15m3hpalmACP_c --> 15mtpalm2eACP_c + h2o_c
+g8
+----------------
+
+3HAD4M6: 4m3hhexACP_c --> 4mthex2eACP_c + h2o_c
+g8
+----------------
+
+3HAD5M6: 5m3hhexACP_c --> 5mthex2eACP_c + h2o_c
+g8
+----------------
+
+3HAD6M8: 6m3hocACP_c --> 6mtoct2eACP_c + h2o_c
+g8
+----------------
+
+3HAD7M8: 7m3hocACP_c --> 7mtoct2eACP_c + h2o_c
+g8
+----------------
+
+3HAD8M10: 8m3hdcaACP_c --> 8mtdec2eACP_c + h2o_c
+g8
+----------------
+
+3HAD9M10: 9m3hdcaACP_c --> 9mtdec2eACP_c + h2o_c
+g8
+----------------
+
+3OAR10M12: 10m3oddcaACP_c + h_c + nadph_c <=> 10m3hddcaACP_c + nadp_c
+g11
+----------------
+
+3OAR11M12: 11m3oddcaACP_c + h_c + nadph_c <=> 11m3hddcaACP_c + nadp_c
+g11
+----------------
+
+3OAR12M14: 12m3omyrsACP_c + h_c + nadph_c <=> 12m3hmyrsACP_c + nadp_c
+g11
+----------------
+
+3OAR13M14: 13m3omyrsACP_c + h_c + nadph_c <=> 13m3hmyrsACP_c + nadp_c
+g11
+----------------
+
+3OAR14M16: 14m3opalmACP_c + h_c + nadph_c <=> 14m3hpalmACP_c + nadp_c
+g11
+----------------
+
+3OAR15M16: 15m3opalmACP_c + h_c + nadph_c <=> 15m3hpalmACP_c + nadp_c
+g11
+----------------
+
+3OAR4M6: 4m3ohexACP_c + h_c + nadph_c <=> 4m3hhexACP_c + nadp_c
+g11
+----------------
+
+3OAR5M6: 5m3ohexACP_c + h_c + nadph_c <=> 5m3hhexACP_c + nadp_c
+g11
+----------------
+
+3OAR6M8: 6m3oocACP_c + h_c + nadph_c <=> 6m3hocACP_c + nadp_c
+g11
+----------------
+
+3OAR7M8: 7m3oocACP_c + h_c + nadph_c <=> 7m3hocACP_c + nadp_c
+g11
+----------------
+
+3OAR8M10: 8m3odcaACP_c + h_c + nadph_c <=> 8m3hdcaACP_c + nadp_c
+g11
+----------------
+
+3OAR9M10: 9m3odcaACP_c + h_c + nadph_c <=> 9m3hdcaACP_c + nadp_c
+g11
+----------------
+
+3OAS10M12: 10mddcaACP_c + h_c + malACP_c --> 12m3omyrsACP_c + ACP_c + co2_c
+g12
+g13
+----------------
+
+3OAS11M12: 11mddcaACP_c + h_c + malACP_c --> 13m3omyrsACP_c + ACP_c + co2_c
+g12
+g13
+----------------
+
+3OAS12M14: 12mmyrsACP_c + h_c + malACP_c --> 14m3opalmACP_c + ACP_c + co2_c
+g12
+g13
+----------------
+
+3OAS13M14: 13mmyrsACP_c + h_c + malACP_c --> 15m3opalmACP_c + ACP_c + co2_c
+g12
+g13
+----------------
+
+3OAS3M4: 3mbutACP_c + h_c + malACP_c --> 5m3ohexACP_c + ACP_c + co2_c
+g12
+g13
+----------------
+
+3OAS4M3O6: 2mbutACP_c + h_c + malACP_c --> 4m3ohexACP_c + ACP_c + co2_c
+g12
+g13
+----------------
+
+3OAS4M6: 4mhexACP_c + h_c + malACP_c --> 6m3oocACP_c + ACP_c + co2_c
+g12
+g13
+----------------
+
+3OAS5M6: 5mhexACP_c + h_c + malACP_c --> 7m3oocACP_c + ACP_c + co2_c
+g12
+g13
+----------------
+
+3OAS6M8: 6mocACP_c + h_c + malACP_c --> 8m3odcaACP_c + ACP_c + co2_c
+g12
+g13
+----------------
+
+3OAS7M8: 7mocACP_c + h_c + malACP_c --> 9m3odcaACP_c + ACP_c + co2_c
+g12
+g13
+----------------
+
+3OAS8M10: 8mdcaACP_c + h_c + malACP_c --> 10m3oddcaACP_c + ACP_c + co2_c
+g12
+g13
+----------------
+
+3OAS9M10: 9mdcaACP_c + h_c + malACP_c --> 11m3oddcaACP_c + ACP_c + co2_c
+g12
+g13
+----------------
+
+ACBIPGT: adocbip_c + gtp_c + h_c --> agdpcbi_c + ppi_c
+g8
+----------------
+
+ACGAMT: uacgam_c + udcpp_c --> ump_c + unaga_c
+g8
+----------------
+
+ACOAAGPATAI17: 1aihpdecg3p_c + aihpdcoa_c --> coa_c + paai17_c
+g33
+----------------
+
+ACOAAGPATI17: 1ihpdecg3p_c + ihpdcoa_c --> coa_c + pai17_c
+g33
+----------------
+
+ACOATA: ACP_c + accoa_c <=> acACP_c + coa_c
+g12
+g13
+----------------
+
+ACPS1: apoACP_c + coa_c --> ACP_c + h_c + pap_c
+g35
+----------------
+
+ADOCBIK: adocbi_c + atp_c --> adocbip_c + adp_c + h_c
+g8
+----------------
+
+ADOCBLS: agdpcbi_c + rdmbzi_c --> adocbl_c + gmp_c + h_c
+g8
+----------------
+
+AIHDUDPMG: 12daihdglyc_c + udpg_c <=> h_c + m12dahglyc_c + udp_c
+g8
+----------------
+
+AIHDUPDG: m12dahglyc_c + udpg_c <=> diglcpgai17_c + h_c + udp_c
+g8
+----------------
+
+AIHPDCOATA: 14mpalmACP_c + coa_c <=> ACP_c + aihpdcoa_c
+g5
+----------------
+
+ALAALA: 2.0 ala_D_c + atp_c --> adp_c + alaala_c + h_c + pi_c
+g8
+----------------
+
+ALAPGPL: 45.0 ala_D_c + 45.0 atp_c + prl45tca_c --> 45.0 amp_c + 45.0 h2o_c + 45.0 ppi_c + prl45tcaala_c
+g71
+g72
+g73
+g74
+----------------
+
+ALAR: ala_L_c <=> ala_D_c
+g75
+----------------
+
+ANPRT: anth_c + prpp_c --> ppi_c + pran_c
+g81
+----------------
+
+ARGSL: argsuc_c <=> arg_L_c + fum_c
+g93
+----------------
+
+ARGSSr: asp_L_c + atp_c + citr_L_c <=> amp_c + argsuc_c + h_c + ppi_c
+g94
+----------------
+
+BPNT: h2o_c + pap_c --> amp_c + pi_c
+g8
+----------------
+
+C180SN: actACP_c + 23.0 h_c + 7.0 malACP_c + 16.0 nadph_c --> 7.0 ACP_c + 7.0 co2_c + 8.0 h2o_c + 16.0 nadp_c + ocdcaACP_c
+g8
+----------------
+
+CAt4i: ca2_e + h_c --> ca2_c + h_e
+g8
+----------------
+
+CBIAT: atp_c + cbi_c + h_c <=> adocbi_c + pppi_c
+g8
+----------------
+
+CBPS: 2.0 atp_c + gln_L_c + h2o_c + hco3_c --> 2.0 adp_c + cbp_c + glu_L_c + 2.0 h_c + pi_c
+g114
+g113
+----------------
+
+CDPGLYCGPT: acbdma14gapuc_c + 45.0 cdpglyc_c <=> 45.0 cmp_c + 45.0 h_c + prl45tca_c
+g8
+----------------
+
+CGLYabc: atp_c + cgly_e + h2o_c --> adp_c + cgly_c + h_c + pi_c
+g63
+g66
+g67
+g65
+g69
+g64
+g68
+----------------
+
+CHORS: 3psme_c --> chor_c + pi_c
+g120
+----------------
+
+CLPNS180: 2.0 pg180_c <=> clpn180_c + glyc_c
+g121
+----------------
+
+CLPNSAI17: 2.0 pgai17_c <=> clpnai17_c + glyc_c
+g121
+----------------
+
+CLPNSI17: 2.0 pgi17_c <=> clpni17_c + glyc_c
+g121
+----------------
+
+COBALTt5: cobalt2_c <=> cobalt2_e
+g123
+g124
+----------------
+
+Cuabc: atp_c + cu2_e + h2o_c --> adp_c + cu2_c + h_c + pi_c
+g115
+----------------
+
+DAPabc: 26dap_M_e + atp_c + h2o_c --> 26dap_M_c + adp_c + h_c + pi_c
+g8
+----------------
+
+DASYN180: ctp_c + h_c + pa180_c --> cdpdodecg_c + ppi_c
+g141
+----------------
+
+DASYNAI17: ctp_c + h_c + paai17_c --> cdpdaihpdecg_c + ppi_c
+g141
+----------------
+
+DASYNI17: ctp_c + h_c + pai17_c --> cdpdihpdecg_c + ppi_c
+g141
+----------------
+
+DDPA: e4p_c + h2o_c + pep_c --> 2dda7p_c + pi_c
+g143
+g8
+g144
+----------------
+
+DHFOR2: dhf_c + nadp_c <=> fol_c + nadph_c
+g151
+g150
+----------------
+
+DHFR: dhf_c + h_c + nadph_c <=> nadp_c + thf_c
+g153
+g152
+----------------
+
+DHQS: 2dda7p_c --> 3dhq_c + pi_c
+g164
+----------------
+
+DHQTi: 3dhq_c --> 3dhsk_c + h2o_c
+g165
+----------------
+
+DMATT: dmpp_c + ipdp_c --> grdp_c + ppi_c
+g166
+g8
+----------------
+
+DPCOAK: atp_c + dpcoa_c --> adp_c + coa_c + h_c
+g168
+----------------
+
+DTMPK: atp_c + dtmp_c --> adp_c + dtdp_c
+g172
+----------------
+
+EAR10M12: 10mtddec2eACP_c + h_c + nadph_c --> 10mddcaACP_c + nadp_c
+g8
+----------------
+
+EAR11M12: 11mtddec2eACP_c + h_c + nadph_c --> 11mddcaACP_c + nadp_c
+g8
+----------------
+
+EAR12M14: 12mtmrs2eACP_c + h_c + nadph_c --> 12mmyrsACP_c + nadp_c
+g8
+----------------
+
+EAR13M14: 13mtmrs2eACP_c + h_c + nadph_c --> 13mmyrsACP_c + nadp_c
+g8
+----------------
+
+EAR14M16: 14mtpalm2eACP_c + h_c + nadph_c --> 14mpalmACP_c + nadp_c
+g8
+----------------
+
+EAR15M16: 15mtpalm2eACP_c + h_c + nadph_c --> 15mpalmACP_c + nadp_c
+g8
+----------------
+
+EAR4M6: 4mthex2eACP_c + h_c + nadph_c --> 4mhexACP_c + nadp_c
+g8
+----------------
+
+EAR5M6: 5mthex2eACP_c + h_c + nadph_c --> 5mhexACP_c + nadp_c
+g8
+----------------
+
+EAR6M8: 6mtoct2eACP_c + h_c + nadph_c --> 6mocACP_c + nadp_c
+g8
+----------------
+
+EAR7M8: 7mtoct2eACP_c + h_c + nadph_c --> 7mocACP_c + nadp_c
+g8
+----------------
+
+EAR8M10: 8mtdec2eACP_c + h_c + nadph_c --> 8mdcaACP_c + nadp_c
+g8
+----------------
+
+EAR9M10: 9mtdec2eACP_c + h_c + nadph_c --> 9mdcaACP_c + nadp_c
+g8
+----------------
+
+EX_26dap_M_LPAREN_e_RPAREN_: 26dap_M_e <=> 
+----------------
+
+EX_2dmmq8_LPAREN_e_RPAREN_: 2dmmq8_e <=> 
+----------------
+
+EX_biomass_LPAREN_e_RPAREN_: biomass_c --> 
+----------------
+
+EX_ca2_LPAREN_e_RPAREN_: ca2_e <=> 
+----------------
+
+EX_cgly_LPAREN_e_RPAREN_: cgly_e <=> 
+----------------
+
+EX_cl_LPAREN_e_RPAREN_: cl_e <=> 
+----------------
+
+EX_cobalt2_LPAREN_e_RPAREN_: cobalt2_e <=> 
+----------------
+
+EX_cu2_LPAREN_e_RPAREN_: cu2_e <=> 
+----------------
+
+EX_fol_LPAREN_e_RPAREN_: fol_e <=> 
+----------------
+
+EX_his_L_LPAREN_e_RPAREN_: his_L_e <=> 
+----------------
+
+EX_k_LPAREN_e_RPAREN_: k_e <=> 
+----------------
+
+EX_mg2_LPAREN_e_RPAREN_: mg2_e <=> 
+----------------
+
+EX_mn2_LPAREN_e_RPAREN_: mn2_e <=> 
+----------------
+
+EX_mqn8_LPAREN_e_RPAREN_: mqn8_e <=> 
+----------------
+
+EX_orn_LPAREN_e_RPAREN_: orn_e <=> 
+----------------
+
+EX_pheme_LPAREN_e_RPAREN_: pheme_e <=> 
+----------------
+
+EX_pnto_R_LPAREN_e_RPAREN_: pnto_R_e <=> 
+----------------
+
+EX_q8_LPAREN_e_RPAREN_: q8_e <=> 
+----------------
+
+EX_ribflv_LPAREN_e_RPAREN_: ribflv_e <=> 
+----------------
+
+EX_sheme_LPAREN_e_RPAREN_: sheme_e <=> 
+----------------
+
+EX_so4_LPAREN_e_RPAREN_: so4_e <=> 
+----------------
+
+EX_spmd_LPAREN_e_RPAREN_: spmd_e <=> 
+----------------
+
+EX_succ_LPAREN_e_RPAREN_: succ_e <=> 
+----------------
+
+EX_thm_LPAREN_e_RPAREN_: thm_e <=> 
+----------------
+
+EX_zn2_LPAREN_e_RPAREN_: zn2_e <=> 
+----------------
+
+FMNAT: atp_c + fmn_c + h_c --> fad_c + ppi_c
+g190
+----------------
+
+FOLt: fol_e + h_e <=> fol_c + h_c
+g8
+----------------
+
+G3PATAI17: aihpdcoa_c + glyc3p_c --> 1aihpdecg3p_c + coa_c
+g202
+g201
+----------------
+
+G3PATI17: glyc3p_c + ihpdcoa_c --> 1ihpdecg3p_c + coa_c
+g202
+g201
+----------------
+
+G3PCT: ctp_c + glyc3p_c + h_c --> cdpglyc_c + ppi_c
+g8
+----------------
+
+GGTA: cgly_c + glu_L_c --> gthrd_c + h2o_c
+g8
+----------------
+
+GLUR: glu_D_c <=> glu_L_c
+g234
+----------------
+
+GRTT: grdp_c + ipdp_c --> frdp_c + ppi_c
+g166
+g8
+----------------
+
+H2CO3D: co2_c + h2o_c <=> h_c + hco3_c
+g252
+----------------
+
+HEMEti: atp_c + h2o_c + pheme_e --> adp_c + h_c + pheme_c + pi_c
+g8
+----------------
+
+HISt2r: h_e + his_L_e <=> h_c + his_L_c
+----------------
+
+HYPSUCORNS: orn_c + succ_c --> h2o_c + sucorn_c
+----------------
+
+IGPS: 2cpr5p_c + h_c --> 3ig3p_c + co2_c + h2o_c
+g263
+----------------
+
+IHDUDPG: m12dihglyc_c + udpg_c <=> diglcpgi17_c + h_c + udp_c
+g8
+----------------
+
+IHDUDPMG: 12dihdglyc_c + udpg_c <=> h_c + m12dihglyc_c + udp_c
+g8
+----------------
+
+IHPDCOATA: 15mpalmACP_c + coa_c <=> ACP_c + ihpdcoa_c
+g5
+----------------
+
+IVCOATA: ACP_c + ivcoa_c <=> 3mbutACP_c + coa_c
+g5
+----------------
+
+KAS14: acACP_c + h_c + malACP_c --> ACP_c + actACP_c + co2_c
+g12
+g13
+----------------
+
+MCOATA: ACP_c + malcoa_c <=> coa_c + malACP_c
+g5
+----------------
+
+METAT: atp_c + h2o_c + met_L_c --> amet_c + pi_c + ppi_c
+g302
+----------------
+
+MK8t: mqn8_c <=> mqn8_e
+----------------
+
+MNabc: atp_c + h2o_c + mn2_e --> adp_c + h_c + mn2_c + pi_c
+g310
+g8
+g312
+g311
+----------------
+
+NAPRT: h_c + nac_c + prpp_c --> nicrnt_c + ppi_c
+g317
+----------------
+
+NNDMBRT: dmbzid_c + nicrnt_c --> 5prdmbz_c + h_c + nac_c
+g8
+----------------
+
+OIVD1r: 4mop_c + coa_c + nad_c <=> co2_c + ivcoa_c + nadh_c
+g8
+----------------
+
+OIVD3: 3mop_c + coa_c + nad_c --> 2mbcoa_c + co2_c + nadh_c
+g8
+----------------
+
+ORNt2r: h_e + orn_e <=> h_c + orn_c
+----------------
+
+PAAI17P: h2o_c + paai17_c --> 12daihdglyc_c + pi_c
+----------------
+
+PAI17P: h2o_c + pai17_c --> 12dihdglyc_c + pi_c
+----------------
+
+PAPA180: h2o_c + pa180_c --> 12dgr180_c + pi_c
+----------------
+
+PAPPT3: udcpp_c + ugmda_c --> uagmda_c + ump_c
+g117
+----------------
+
+PEPGLY: PGPm1_c + h_c + uaagmda_c --> PGP_c + co2_c + udcpdp_c
+g342
+g341
+g340
+----------------
+
+PGPGT: prl45tca_c + 45.0 udpg_c <=> 45.0 h_c + prl45tcaglc_c + 45.0 udp_c
+g8
+----------------
+
+PGPP180: h2o_c + pgp180_c --> pg180_c + pi_c
+g352
+----------------
+
+PGPPAI17: h2o_c + pgpai17_c --> pgai17_c + pi_c
+g352
+----------------
+
+PGPPI17: h2o_c + pgpi17_c --> pgi17_c + pi_c
+g352
+----------------
+
+PGSA180: cdpdodecg_c + glyc3p_c --> cmp_c + h_c + pgp180_c
+g353
+----------------
+
+PGSAAI17: cdpdaihpdecg_c + glyc3p_c --> cmp_c + h_c + pgpai17_c
+g353
+----------------
+
+PGSAI17: cdpdihpdecg_c + glyc3p_c --> cmp_c + h_c + pgpi17_c
+g353
+----------------
+
+PNTK: atp_c + pnto_R_c --> 4ppan_c + adp_c + h_c
+g362
+----------------
+
+PNTOabc: atp_c + h2o_c + pnto_R_e --> adp_c + h_c + pi_c + pnto_R_c
+----------------
+
+PPA: h2o_c + ppi_c --> h_c + 2.0 pi_c
+g363
+----------------
+
+PPCDC: 4ppcys_c + h_c --> co2_c + pan4p_c
+g364
+----------------
+
+PRAI: pran_c <=> 2cpr5p_c
+g370
+----------------
+
+PRPPS: atp_c + r5p_c <=> amp_c + h_c + prpp_c
+g376
+g375
+----------------
+
+PSCVT: pep_c + skm5p_c <=> 3psme_c + pi_c
+g377
+----------------
+
+PSD180: h_c + ps180_c --> co2_c + pe180_c
+g8
+----------------
+
+PSDAI17: h_c + psai17_c --> co2_c + peai17_c
+g8
+----------------
+
+PSDI17: h_c + psi17_c --> co2_c + pei17_c
+g8
+----------------
+
+PSSA180: cdpdodecg_c + ser_L_c --> cmp_c + h_c + ps180_c
+g8
+----------------
+
+PSSAAI17: cdpdaihpdecg_c + ser_L_c --> cmp_c + h_c + psai17_c
+g8
+----------------
+
+PSSAI17: cdpdihpdecg_c + ser_L_c --> cmp_c + h_c + psi17_c
+g8
+----------------
+
+PTPAT: atp_c + h_c + pan4p_c --> dpcoa_c + ppi_c
+g380
+----------------
+
+Q8abc: atp_c + h2o_c + q8_e --> adp_c + h_c + pi_c + q8_c
+----------------
+
+RBFK: atp_c + ribflv_c --> adp_c + fmn_c + h_c
+g190
+----------------
+
+RIBFLVt2r: h_e + ribflv_e <=> h_c + ribflv_c
+g394
+----------------
+
+RZ5PP: 5prdmbz_c + h2o_c --> pi_c + rdmbzi_c
+g8
+----------------
+
+SHEMEabc: atp_c + h2o_c + sheme_e --> adp_c + h_c + pi_c + sheme_c
+----------------
+
+SHK3Dr: 3dhsk_c + h_c + nadph_c <=> nadp_c + skm_c
+g402
+----------------
+
+SHKK: atp_c + skm_c --> adp_c + h_c + skm5p_c
+g403
+----------------
+
+SO4t2: h_e + so4_e <=> h_c + so4_c
+g8
+----------------
+
+SPMDabc: atp_c + h2o_c + spmd_e --> adp_c + h_c + pi_c + spmd_c
+g382
+g8
+g383
+g381
+g384
+----------------
+
+SUCCITRDSs: h2o_c + succitr_L_c --> citr_L_c + h_c + succ_c
+----------------
+
+SUCCt2r: h_e + succ_e <=> h_c + succ_c
+----------------
+
+SUCORNTC: cbp_c + sucorn_c --> pi_c + succitr_L_c
+----------------
+
+SUDPDGT: m12dsglyc_c + udpg_c --> diglcpg180_c + h_c + udp_c
+g8
+----------------
+
+SUDPMGT: 12dgr180_c + udpg_c --> h_c + m12dsglyc_c + udp_c
+g8
+----------------
+
+TECA1S180: 24.0 cdpglyc_c + diglcpg180_c <=> 24.0 cmp_c + 24.0 h_c + sttca1_c
+g8
+----------------
+
+TECA1SAI17: 24.0 cdpglyc_c + diglcpgai17_c <=> ai17tca1_c + 24.0 cmp_c + 24.0 h_c
+g8
+----------------
+
+TECA1SI17: 24.0 cdpglyc_c + diglcpgi17_c <=> 24.0 cmp_c + 24.0 h_c + i17tca1_c
+g8
+----------------
+
+TECA2S180: sttca1_c + 24.0 udpg_c <=> 24.0 h_c + sttcaglc_c + 24.0 udp_c
+g8
+----------------
+
+TECA2SAI17: ai17tca1_c + 24.0 udpg_c <=> ai17tcaglc_c + 24.0 h_c + 24.0 udp_c
+g8
+----------------
+
+TECA2SI17: i17tca1_c + 24.0 udpg_c <=> 24.0 h_c + i17tcaglc_c + 24.0 udp_c
+g8
+----------------
+
+TECA3S180: 24.0 ala_D_c + 24.0 atp_c + sttca1_c --> 24.0 amp_c + 24.0 h2o_c + 24.0 ppi_c + sttcaala_D_c
+g74
+----------------
+
+TECA3SAI17: ai17tca1_c + 24.0 ala_D_c + 24.0 atp_c --> ai17tcaala_D_c + 24.0 amp_c + 24.0 h2o_c + 24.0 ppi_c
+g74
+----------------
+
+TECA3SI17: 24.0 ala_D_c + 24.0 atp_c + i17tca1_c --> 24.0 amp_c + 24.0 h2o_c + i17tcaala_D_c + 24.0 ppi_c
+g74
+----------------
+
+TECA4S: h2o_c + 30.0 udpacgal_c + 30.0 udpg_c <=> tcam_c + 30.0 udp_c + 30.0 ump_c
+g8
+----------------
+
+TECA5S180: sttca1_c + 24.0 uacgam_c <=> 24.0 h_c + sttcaacgam_c + 24.0 udp_c
+g8
+----------------
+
+TECA5SAI17: ai17tca1_c + 24.0 uacgam_c <=> ai17tcaacgam_c + 24.0 h_c + 24.0 udp_c
+g8
+----------------
+
+TECA5SI17: i17tca1_c + 24.0 uacgam_c <=> 24.0 h_c + i17tcaacgam_c + 24.0 udp_c
+g8
+----------------
+
+TECAAE: PGPm1_c + prl45tcaala_c <=> glyc45tcaala_D_c + udcpp_c
+g8
+----------------
+
+TECAGE: PGPm1_c + prl45tcaglc_c <=> glyc45tcaglc_c + udcpp_c
+g8
+----------------
+
+TECAUE: PGPm1_c + prl45tca_c <=> glyc45tca_c + udcpp_c
+g8
+----------------
+
+THMabc: atp_c + h2o_c + thm_e --> adp_c + h_c + pi_c + thm_c
+g8
+g413
+g412
+----------------
+
+UAAGDS: 26dap_M_c + atp_c + uamag_c --> adp_c + h_c + pi_c + ugmd_c
+g8
+----------------
+
+UACMAMAT: uacmam_c + unaga_c <=> acbdma14gapuc_c + h_c + udp_c
+g8
+----------------
+
+UAG2E: uacgam_c <=> uacmam_c
+g428
+----------------
+
+UAG4E: uacgam_c <=> udpacgal_c
+g429
+----------------
+
+UAGCVT_r: pep_c + uacgam_c <=> pi_c + uaccg_c
+g431
+g430
+----------------
+
+UAGDP: acgam1p_c + h_c + utp_c --> ppi_c + uacgam_c
+g200
+----------------
+
+UAGPT3: uacgam_c + uagmda_c --> h_c + uaagmda_c + udp_c
+g432
+----------------
+
+UAMAGS: atp_c + glu_D_c + uama_c --> adp_c + h_c + pi_c + uamag_c
+g433
+----------------
+
+UAMAS: ala_L_c + atp_c + uamr_c --> adp_c + h_c + pi_c + uama_c
+g434
+----------------
+
+UAPGR: h_c + nadph_c + uaccg_c --> nadp_c + uamr_c
+g435
+----------------
+
+UDCPDP: h2o_c + udcpdp_c --> h_c + pi_c + udcpp_c
+g178
+----------------
+
+UDCPDPS: frdp_c + 8.0 ipdp_c --> 8.0 ppi_c + udcpdp_c
+g196
+----------------
+
+UGMDDS: alaala_c + atp_c + ugmd_c --> adp_c + h_c + pi_c + ugmda_c
+g437
+----------------
+
+UMPK: atp_c + ump_c <=> adp_c + udp_c
+g438
+----------------
+
+biomass129: 0.0079397 10fthf_c + 0.0079397 2dmmq8_c + 0.0079397 5mthf_c + 0.0079397 ACP_c + 0.0018061 PGP_c + 0.0079397 adocbl_c + 0.0018061 ai17tca1_c + 0.0018061 ai17tcaacgam_c + 0.0018061 ai17tcaala_D_c + 0.0018061 ai17tcaglc_c + 0.26756 ala_L_c + 0.0079397 amet_c + 0.1934 arg_L_c + 0.14833 asn_L_c + 0.14833 asp_L_c + 41.2914 atp_c + 0.0079397 ca2_c + 0.0079397 cl_c + 0.0085871 clpn180_c + 0.0085871 clpnai17_c + 0.0085871 clpni17_c + 0.0079397 coa_c + 0.0079397 cobalt2_c + 0.026124 ctp_c + 0.0079397 cu2_c + 0.056954 cys_L_c + 0.01582 datp_c + 0.011056 dctp_c + 0.011056 dgtp_c + dnarep_c + 0.01582 dttp_c + 0.0079397 fad_c + 0.0079397 fe2_c + 0.0079397 fe3_c + 0.26101 gln_L_c + 0.26101 glu_L_c + 0.40933 gly_c + 0.0018061 glyc45tca_c + 0.0018061 glyc45tcaala_D_c + 0.0018061 glyc45tcaglc_c + 0.0079397 gthrd_c + 0.042403 gtp_c + 41.257 h_c + 0.081948 his_L_c + 0.0018061 i17tca1_c + 0.0018061 i17tcaacgam_c + 0.0018061 i17tcaala_D_c + 0.0018061 i17tcaglc_c + 0.27043 ile_L_c + 0.0079397 k_c + 0.34746 leu_L_c + 0.3237 lys_L_c + 0.1135 met_L_c + 0.0079397 mg2_c + 0.0079397 mn2_c + 0.0079397 mqn8_c + 0.0079397 nad_c + 0.0079397 nadp_c + 0.0085871 pe180_c + 0.0085871 peai17_c + 0.0085871 pei17_c + 0.0085871 pg180_c + 0.0085871 pgai17_c + 0.0085871 pgi17_c + 0.17619 phe_L_c + 0.0079397 pheme_c + 0.16103 pro_L_c + proteinsynth_c + 0.0079397 ptrc_c + 0.0079397 pydx5p_c + 0.0079397 q8_c + 0.0079397 ribflv_c + rnatrans_c + 0.21675 ser_L_c + 0.0079397 sheme_c + 0.0079397 so4_c + 0.0079397 spmd_c + 0.0018061 sttca1_c + 0.0018061 sttcaacgam_c + 0.0018061 sttcaala_D_c + 0.0018061 sttcaglc_c + 0.0018061 tcam_c + 0.0079397 thf_c + 0.0079397 thmpp_c + 0.18684 thr_L_c + 0.054496 trp_L_c + 0.11104 tyr_L_c + 0.0018061 udcpdp_c + 0.028225 utp_c + 0.30772 val_L_c + 0.0079397 zn2_c --> 0.0072242 PGPm1_c + 41.257 adp_c + 0.0079397 apoACP_c + biomass_c + 0.0079397 cbi_c + 0.0079397 dmbzid_c + 45.354 h2o_c + 41.2491 pi_c + 0.1849 ppi_c
+----------------
+
+dreplication:  --> dnarep_c
+g454
+g473
+g464
+g455
+g474
+g465
+g456
+g475
+g466
+g457
+g476
+g467
+g458
+g8
+g468
+g459
+g469
+g460
+g470
+g461
+g471
+g462
+g472
+g463
+----------------
+
+pbiosynthesis:  --> proteinsynth_c
+g482
+g518
+g483
+g519
+g520
+g484
+g481
+g521
+g485
+g486
+g522
+g487
+g523
+g524
+g488
+g525
+g489
+g526
+g490
+g491
+g527
+g492
+g528
+g529
+g493
+g530
+g494
+g531
+g495
+g532
+g496
+g497
+g533
+g534
+g498
+g232
+g499
+g535
+g500
+g536
+g501
+g537
+g235
+g502
+g538
+g539
+g503
+g8
+g540
+g504
+g541
+g505
+g506
+g542
+g543
+g507
+g544
+g508
+g545
+g509
+g546
+g510
+g547
+g511
+g512
+g548
+g477
+g549
+g513
+g550
+g514
+g478
+g515
+g479
+g480
+g516
+g517
+----------------
+
+r2137: cl_e <=> cl_c
+g557
+----------------
+
+rtranscription:  --> rnatrans_c
+g562
+g567
+g558
+g563
+g568
+g559
+g564
+g560
+g565
+g561
+g566
+g8
+----------------
+

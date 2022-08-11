@@ -1,0 +1,500 @@
+Homo sapiens OX
+Pan paniscus OX
+Gorilla gorilla gorilla OX
+Pan troglodytes OX
+Pan paniscus OX
+Pan troglodytes OX
+Cercocebus atys OX
+Macaca mulatta OX
+Rhinopithecus bieti OX
+Macaca nemestrina OX
+Papio anubis OX
+Macaca mulatta OX
+Cercocebus atys OX
+Rhinopithecus bieti OX
+Callithrix jacchus OX
+Chlorocebus sabaeus OX
+Macaca mulatta OX
+Cebus capucinus imitator OX
+Callithrix jacchus OX
+Cercocebus atys OX
+Macaca nemestrina OX
+Papio anubis OX
+Macaca mulatta OX
+Colobus angolensis palliatus OX
+Macaca nemestrina OX
+Cebus capucinus imitator OX
+Otolemur garnettii OX
+Gorilla gorilla gorilla OX
+Aotus nancymaae OX
+Tarsius syrichta OX
+Cebus capucinus imitator OX
+Gorilla gorilla gorilla OX
+Equus caballus OX
+Nomascus leucogenys OX
+Odobenus rosmarus divergens OX
+Nomascus leucogenys OX
+Trichechus manatus latirostris OX
+Neomonachus schauinslandi OX
+Homo sapiens OX
+Dipodomys ordii OX
+Ailuropoda melanoleuca OX
+Enhydra lutris kenyoni OX
+Mustela putorius furo OX
+Ursus arctos horribilis OX
+Macaca nemestrina OX
+Macaca mulatta OX
+Myotis lucifugus OX
+Rhinopithecus roxellana OX
+Mesocricetus auratus OX
+Vulpes vulpes OX
+Canis lupus familiaris OX
+Felis catus OX
+Delphinapterus leucas OX
+Neophocaena asiaeorientalis asiaeorientalis OX
+Balaenoptera acutorostrata scammoni OX
+Saimiri boliviensis boliviensis OX
+Lipotes vexillifer OX
+Mus musculus OX
+Macaca fascicularis OX
+Balaenoptera acutorostrata scammoni OX
+Balaenoptera acutorostrata scammoni OX
+Balaenoptera acutorostrata scammoni OX
+Rattus norvegicus OX
+Canis lupus familiaris OX
+Bos indicus x Bos taurus OX
+Canis lupus familiaris OX
+Cavia porcellus OX
+Bos taurus OX
+Rattus norvegicus OX
+Macaca mulatta OX
+Fukomys damarensis OX
+Equus caballus OX
+Loxodonta africana OX
+Ovis aries OX
+Capra hircus OX
+Capra hircus OX
+Rattus norvegicus OX
+Rattus norvegicus OX
+Ursus arctos horribilis OX
+Ursus arctos horribilis OX
+Canis lupus familiaris OX
+Canis lupus familiaris OX
+Ursus arctos horribilis OX
+Vulpes vulpes OX
+Felis catus OX
+Vombatus ursinus OX
+Ornithorhynchus anatinus OX
+Delphinapterus leucas OX
+Delphinapterus leucas OX
+Ornithorhynchus anatinus OX
+Loxodonta africana OX
+Tursiops truncatus OX
+Vombatus ursinus OX
+Sarcophilus harrisii OX
+Xenopus tropicalis OX
+Xenopus tropicalis OX
+Alligator sinensis OX
+Xenopus tropicalis OX
+Pelodiscus sinensis OX
+Alligator sinensis OX
+Alligator sinensis OX
+Meleagris gallopavo OX
+Xenopus laevis OX
+Xenopus tropicalis OX
+Xenopus tropicalis OX
+Patagioenas fasciata monilis OX
+Xenopus tropicalis OX
+Xenopus tropicalis OX
+Alligator mississippiensis OX
+Patagioenas fasciata monilis OX
+Ficedula albicollis OX
+Alligator mississippiensis OX
+Ovis aries OX
+Callipepla squamata OX
+Gopherus agassizii OX
+Alligator sinensis OX
+Xenopus tropicalis OX
+Ursus maritimus OX
+Lepisosteus oculatus OX
+Hirundo rustica rustica OX
+Gopherus agassizii OX
+Gopherus agassizii OX
+Xenopus tropicalis OX
+Ursus americanus OX
+Perca flavescens OX
+Seriola dumerili OX
+Charadrius vociferus OX
+Oryzias melastigma OX
+Seriola lalandi dorsalis OX
+Salmo salar OX
+Oreochromis niloticus OX
+Labrus bergylta OX
+Salmo salar OX
+Kryptolebias marmoratus OX
+Salmo salar OX
+Oryzias melastigma OX
+Salmo salar OX
+Oreochromis niloticus OX
+Tetraodon nigroviridis OX
+Neolamprologus brichardi OX
+Gopherus agassizii OX
+Latimeria chalumnae OX
+Salmo salar OX
+Gopherus agassizii OX
+Salmo salar OX
+Scophthalmus maximus OX
+Anas platyrhynchos platyrhynchos OX
+Austrofundulus limnaeus OX
+Cuculus canorus OX
+Egretta garzetta OX
+Lates calcarifer OX
+Ursus americanus OX
+Ursus americanus OX
+Danio rerio OX
+Lates calcarifer OX
+Oryzias melastigma OX
+Austrofundulus limnaeus OX
+Poecilia formosa OX
+Danio rerio OX
+Tetraodon nigroviridis OX
+Oncorhynchus mykiss OX
+Salmo salar OX
+Salmo salar OX
+Salmo salar OX
+Salmo salar OX
+Austrofundulus limnaeus OX
+Salmo salar OX
+Mastacembelus armatus OX
+Stegastes partitus OX
+Salmo salar OX
+Salmo salar OX
+Aptenodytes forsteri OX
+Amphiprion ocellaris OX
+Salmo salar OX
+Salmo salar OX
+Poecilia formosa OX
+Lates calcarifer OX
+Cyprinodon variegatus OX
+Poecilia latipinna OX
+Nipponia nippon OX
+Lates calcarifer OX
+Oryzias latipes OX
+Gasterosteus aculeatus OX
+Amphilophus citrinellus OX
+Ursus americanus OX
+Esox lucius OX
+Acanthochromis polyacanthus OX
+Maylandia zebra OX
+Ursus americanus OX
+Amphiprion percula OX
+Gallus gallus OX
+Meleagris gallopavo OX
+Gallus gallus OX
+Pundamilia nyererei OX
+Xenopus tropicalis OX
+Gallus gallus OX
+Xenopus laevis OX
+Gallus gallus OX
+Pelodiscus sinensis OX
+Hucho hucho OX
+Electrophorus electricus OX
+Pygocentrus nattereri OX
+Hucho hucho OX
+Hucho hucho OX
+Xenopus tropicalis OX
+Ictalurus punctatus OX
+Ursus arctos horribilis OX
+Hucho hucho OX
+Cynoglossus semilaevis OX
+Equus caballus OX
+Hucho hucho OX
+Electrophorus electricus OX
+Anas platyrhynchos platyrhynchos OX
+Electrophorus electricus OX
+Canis lupus familiaris OX
+Mus musculus OX
+Mus musculus OX
+Anas platyrhynchos platyrhynchos OX
+Meleagris gallopavo OX
+Ursus arctos horribilis OX
+Xenopus tropicalis OX
+Hirundo rustica rustica OX
+Equus caballus OX
+Anas platyrhynchos platyrhynchos OX
+Mesocricetus auratus OX
+Mesocricetus auratus OX
+Rattus norvegicus OX
+Dipodomys ordii OX
+Felis catus OX
+Balaenoptera acutorostrata scammoni OX
+Canis lupus familiaris OX
+Vulpes vulpes OX
+Vombatus ursinus OX
+Enhydra lutris kenyoni OX
+Bos taurus OX
+Ursus arctos horribilis OX
+Ursus maritimus OX
+Anas platyrhynchos platyrhynchos OX
+Equus caballus OX
+Pongo abelii OX
+Rattus norvegicus OX
+Saimiri boliviensis boliviensis OX
+Anas platyrhynchos platyrhynchos OX
+Corvus brachyrhynchos OX
+Mustela putorius furo OX
+Ursus americanus OX
+Sus scrofa OX
+Sus scrofa OX
+Dipodomys ordii OX
+Lepisosteus oculatus OX
+Odobenus rosmarus divergens OX
+Odobenus rosmarus divergens OX
+Balaenoptera acutorostrata scammoni OX
+Ursus americanus OX
+Ailuropoda melanoleuca OX
+Canis lupus familiaris OX
+Lipotes vexillifer OX
+Lipotes vexillifer OX
+Lipotes vexillifer OX
+Physeter macrocephalus OX
+Vulpes vulpes OX
+Vulpes vulpes OX
+Balaenoptera acutorostrata scammoni OX
+Colobus angolensis palliatus OX
+Colobus angolensis palliatus OX
+Vombatus ursinus OX
+Macaca nemestrina OX
+Macaca nemestrina OX
+Macaca fascicularis OX
+Macaca fascicularis OX
+Mandrillus leucophaeus OX
+Mandrillus leucophaeus OX
+Chlorocebus sabaeus OX
+Cercocebus atys OX
+Cercocebus atys OX
+Enhydra lutris kenyoni OX
+Enhydra lutris kenyoni OX
+Bos taurus OX
+Bos taurus OX
+Bos indicus x Bos taurus OX
+Enhydra lutris kenyoni OX
+Alligator sinensis OX
+Ursus maritimus OX
+Rhinopithecus roxellana OX
+Ursus arctos horribilis OX
+Hucho hucho OX
+Cebus capucinus imitator OX
+Cebus capucinus imitator OX
+Pan paniscus OX
+Pan paniscus OX
+Pan troglodytes OX
+Pan troglodytes OX
+Delphinapterus leucas OX
+Neophocaena asiaeorientalis asiaeorientalis OX
+Delphinapterus leucas OX
+Felis catus OX
+Ictidomys tridecemlineatus OX
+Ictidomys tridecemlineatus OX
+Cavia porcellus OX
+Saimiri boliviensis boliviensis OX
+Saimiri boliviensis boliviensis OX
+Homo sapiens OX
+Homo sapiens OX
+Tarsius syrichta OX
+Neomonachus schauinslandi OX
+Collichthys lucidus OX
+Balaenoptera acutorostrata scammoni OX
+Myotis lucifugus OX
+Sus scrofa OX
+Lipotes vexillifer OX
+Vombatus ursinus OX
+Callithrix jacchus OX
+Bos taurus OX
+Bos indicus x Bos taurus OX
+Colobus angolensis palliatus OX
+Saimiri boliviensis boliviensis OX
+Macaca nemestrina OX
+Macaca fascicularis OX
+Neophocaena asiaeorientalis asiaeorientalis OX
+Mandrillus leucophaeus OX
+Aotus nancymaae OX
+Cercocebus atys OX
+Rhinopithecus roxellana OX
+Anas platyrhynchos platyrhynchos OX
+Cebus capucinus imitator OX
+Canis lupus familiaris OX
+Pan paniscus OX
+Rhinopithecus roxellana OX
+Pan troglodytes OX
+Ovis aries OX
+Ovis aries OX
+Anas platyrhynchos platyrhynchos OX
+Canis lupus familiaris OX
+Equus caballus OX
+Equus caballus OX
+Felis catus OX
+Felis catus OX
+Vulpes vulpes OX
+Cavia porcellus OX
+Monodelphis domestica OX
+Ursus arctos horribilis OX
+Ursus maritimus OX
+Enhydra lutris kenyoni OX
+Otolemur garnettii OX
+Homo sapiens OX
+Callithrix jacchus OX
+Taeniopygia guttata OX
+Erinaceus europaeus OX
+Ursus americanus OX
+Pan paniscus OX
+Aotus nancymaae OX
+Aotus nancymaae OX
+Ovis aries OX
+Homo sapiens OX
+Oryctolagus cuniculus OX
+Ailuropoda melanoleuca OX
+Felis catus OX
+Felis catus OX
+Ictalurus punctatus OX
+Oryctolagus cuniculus OX
+Aotus nancymaae OX
+Pygocentrus nattereri OX
+Trichechus manatus latirostris OX
+Xenopus tropicalis OX
+Bos taurus OX
+Electrophorus electricus OX
+Macaca fascicularis OX
+Cercocebus atys OX
+Cebus capucinus imitator OX
+Pan paniscus OX
+Pan paniscus OX
+Pan troglodytes OX
+Erinaceus europaeus OX
+Ictalurus punctatus OX
+Rhinopithecus roxellana OX
+Pygocentrus nattereri OX
+Trichechus manatus latirostris OX
+Macaca nemestrina OX
+Mandrillus leucophaeus OX
+Cebus capucinus imitator OX
+Xenopus tropicalis OX
+Ictalurus punctatus OX
+Lates calcarifer OX
+Balaenoptera acutorostrata scammoni OX
+Cyprinodon variegatus OX
+Austrofundulus limnaeus OX
+Saimiri boliviensis boliviensis OX
+Haplochromis burtoni OX
+Sus scrofa OX
+Collichthys lucidus OX
+Lates calcarifer OX
+Bos taurus OX
+Callithrix jacchus OX
+Xiphophorus maculatus OX
+Lates calcarifer OX
+Aotus nancymaae OX
+Austrofundulus limnaeus OX
+Pygocentrus nattereri OX
+Lates calcarifer OX
+Austrofundulus limnaeus OX
+Platysternon megacephalum OX
+Macaca mulatta OX
+Labrus bergylta OX
+Papio anubis OX
+Austrofundulus limnaeus OX
+Scophthalmus maximus OX
+Haplochromis burtoni OX
+Xenopus tropicalis OX
+Salmo salar OX
+Xiphophorus maculatus OX
+Danio rerio OX
+Electrophorus electricus OX
+Salmo salar OX
+Mastacembelus armatus OX
+Capra hircus OX
+Rhinopithecus roxellana OX
+Rhinopithecus roxellana OX
+Electrophorus electricus OX
+Salmo salar OX
+Salmo salar OX
+Anabas testudineus OX
+Stegastes partitus OX
+Tetraodon nigroviridis OX
+Mandrillus leucophaeus OX
+Xenopus tropicalis OX
+Salmo salar OX
+Salmo salar OX
+Physeter macrocephalus OX
+Electrophorus electricus OX
+Seriola lalandi dorsalis OX
+Mandrillus leucophaeus OX
+Ursus maritimus OX
+Salmo salar OX
+Oryzias melastigma OX
+Salmo salar OX
+Canis lupus familiaris OX
+Salmo salar OX
+Lates calcarifer OX
+Electrophorus electricus OX
+Salmo salar OX
+Acanthochromis polyacanthus OX
+Perca flavescens OX
+Salmo salar OX
+Salmo salar OX
+Salmo salar OX
+Maylandia zebra OX
+Electrophorus electricus OX
+Salmo salar OX
+Gorilla gorilla gorilla OX
+Poecilia latipinna OX
+Neolamprologus brichardi OX
+Gorilla gorilla gorilla OX
+Trichechus manatus latirostris OX
+Tetraodon nigroviridis OX
+Seriola dumerili OX
+Gorilla gorilla gorilla OX
+Lates calcarifer OX
+Lates calcarifer OX
+Electrophorus electricus OX
+Kryptolebias marmoratus OX
+Taeniopygia guttata OX
+Pundamilia nyererei OX
+Tetraodon nigroviridis OX
+Papio anubis OX
+Canis lupus familiaris OX
+Amphiprion ocellaris OX
+Colobus angolensis palliatus OX
+Papio anubis OX
+Gasterosteus aculeatus OX
+Poecilia mexicana OX
+Hucho hucho OX
+Poecilia mexicana OX
+Papio anubis OX
+Manacus vitellinus OX
+Electrophorus electricus OX
+Papio anubis OX
+Hucho hucho OX
+Papio anubis OX
+Papio anubis OX
+Cercocebus atys OX
+Lates calcarifer OX
+Danionella translucida OX
+Nomascus leucogenys OX
+Hucho hucho OX
+Papio anubis OX
+Equus caballus OX
+Lates calcarifer OX
+Danionella translucida OX
+Electrophorus electricus OX
+Loxodonta africana OX
+Colobus angolensis palliatus OX
+Colobus angolensis palliatus OX
+Lates calcarifer OX
+Electrophorus electricus OX
+Hucho hucho OX
+Hucho hucho OX
+Xenopus tropicalis OX
+Electrophorus electricus OX
+Electrophorus electricus OX
+Xenopus tropicalis OX

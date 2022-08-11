@@ -1,0 +1,96 @@
+0.51 2tocdACP_c + 0.5 glyc3p_c + 0.13 hdeACP_c + 0.03 ocdACP_c + 0.33 palmACP_c --> 0.01 12dag3p_PA_c + ACP_c
+2obut_c + h_c + pyr_c --> 2ahbut_c + co2_c
+h_c + 2.0 pyr_c --> alac__S_c + co2_c
+4adcho_c --> 4abz_c + h_c + pyr_c
+chor_c + gln__L_c --> 4adcho_c + glu__L_c
+adphep__D__44__D_c --> adphep__L__44__D_c
+alac__S_c + h_c + nadph_c --> 23dhmb_c + nadp_c
+ahdt_c + 3.0 h2o_c --> dhnpt_c + 2.0 h_c + 3.0 pi_c
+5apru_c + h_c + nadph_c --> 5aprbu_c + nadp_c
+2beACP_c + h_c + nadh_c --> butACP_c + nad_c
+2tddACP_c + h_c + nadh_c --> ddcaACP_c + nad_c
+2tdeACP_c + h_c + nadh_c --> decACP_c + nad_c
+23dhmb_c --> 3mob_c + h2o_c
+23dhmp_c --> 2o3mpt_c + h2o_c
+dhf_c + h_c + nadph_c --> nadp_c + thf_c
+atp_c + dhpt_c + glu__L_c --> adp_c + dhf_c + h_c + pi_c
+dhnpt_c --> 2ahhmp_c + gcald_c
+25dhpp_c + h2o_c + h_c --> 5apru_c + nh4_c
+2ahhmd_c + 4abz_c --> dhpt_c + ppi_c
+ctp_c + kdo_c --> ckdo_c + ppi_c
+atp_c + dpcoa_c --> adp_c + coa_c + h_c
+2dhp_c + h_c + nadph_c --> nadp_c + pant__R_c
+gcald_e --> 
+atp_c + fmn_c + h_c --> fad_c + ppi_c
+accoa_c + gam1p_c --> acgam1p_c + coa_c + h_c
+dttp_c + g1p_c + h_c --> dtdpglc_c + ppi_c
+f6p_c + gln__L_c --> gam6p_c + glu__L_c
+glutrna_c + h_c + nadph_c --> glu1sa_c + nadp_c + trnaglu_c
+atp_c + gmh1p_c + h_c --> adphep__D__44__D_c + ppi_c
+atp_c + gmh7p_c --> adp_c + gmh17bp_c + h_c
+gmh17bp_c + h2o_c --> gmh1p_c + pi_c
+co2_c + h2o_c --> h_c + hco3_c
+2theACP_c + h_c + nadh_c --> hexACP_c + nad_c
+3oxhdACP_c + h_c + nadph_c --> 3hpaACP_c + nadp_c
+3oxocdacp_c + h_c + nadph_c --> 3hocdacp_c + nadp_c
+3oxtdACP_c + h_c + nadph_c --> 3htdACP_c + nadp_c
+3c2hmp_c + nad_c --> 4mop_c + co2_c + nadh_c
+2ahbut_c + h_c + nadph_c --> 23dhmp_c + nadp_c
+h2o_c + kdo8p_c --> kdo_c + pi_c
+ara5p_c + h2o_c + pep_c --> kdo8p_c + pi_c
+h_c + nadh_c + tdeACP_c --> myrsACP_c + nad_c
+butACP_c + h_c + malACP_c --> 3oxhACP_c + ACP_c + co2_c
+h_c + hexACP_c + malACP_c --> 3oxocACP_c + ACP_c + co2_c
+h_c + malACP_c + octACP_c --> 3oxdeACP_c + ACP_c + co2_c
+decACP_c + h_c + malACP_c --> 3oxddACP_c + ACP_c + co2_c
+ddcaACP_c + h_c + malACP_c --> 3oxtdACP_c + ACP_c + co2_c
+h_c + malACP_c + myrsACP_c --> 3oxhdACP_c + ACP_c + co2_c
+h_c + malACP_c + palmACP_c --> 3oxocdacp_c + ACP_c + co2_c
+3mob_c + h2o_c + mlthf_c --> 2dhp_c + thf_c
+atp_c + nad_c --> adp_c + h_c + nadp_c
+atp_c + h_c + nicrnt_c --> dnad_c + ppi_c
+2.0 h_c + prpp_c + quln_c --> co2_c + nicrnt_c + ppi_c
+2tocdACP_c + h_c + nadh_c --> nad_c + ocdACP_c
+2toceACP_c + h_c + nadh_c --> nad_c + octACP_c
+ala__B_c + atp_c + pant__R_c --> amp_c + h_c + pnto__R_c + ppi_c
+udcpp_c + ugmda_c --> uagmda_c + ump_c
+0.045754 5mthf_c + 0.007686 PA_core_lipidA_c + 4.5e-05 accoa_c + 0.446559 ala__L_c + 0.000915 amp_c + 0.25714 arg__L_c + 0.20955 asn__L_c + 0.20955 asp__L_c + 41.84827 atp_c + 1e-06 ca2_c + 9.6e-05 cdlp_PA_c + 1e-06 cl_c + 5e-06 coa_c + 0.1153 ctp_c + 0.079612 cys__L_c + 0.022602 datp_c + 0.023243 dctp_c + 0.023243 dgtp_c + 0.022602 dttp_c + 4.5e-05 fad_c + 0.22877 gln__L_c + 0.22877 glu__L_c + 0.532577 gly_c + 0.140922 glycogen_c + 0.185761 gtp_c + 41.6918 h2o_c + 0.082357 his__L_c + 0.252562 ile__L_c + 0.391654 leu__L_c + 0.298316 lys__L_c + 0.133601 met__L_c + 1e-06 mn2_c + 0.001967 nad_c + 4.5e-05 nadh_c + 0.000118 nadp_c + 0.000366 nadph_c + 0.001462 pe_PA_c + 0.025256 peptido_EC_c + 0.000353 pg_PA_c + 0.161054 phe__L_c + 1e-06 pheme_c + 0.192166 pro__L_c + 3.9e-05 ps_PA_c + 0.032027 ptrc_c + 0.18759 ser__L_c + 0.006405 spmd_c + 2e-06 succoa_c + 0.220534 thr__L_c + 0.049414 trp__L_c + 0.119875 tyr__L_c + 0.002745 udpg_c + 0.124451 utp_c + 0.367862 val__L_c --> 41.6918 adp_c + 41.691389 h_c + 41.693631 pi_c + 0.668191 ppi_c
+PA_KDO2lipidA_c + adphep__L__44__D_c --> PA_core1_lipidA_c + adp_c
+PA_core1_lipidA_c + adphep__L__44__D_c --> PA_core2_lipidA_c + adp_c
+PA_core2_lipidA_c + udpgal_c --> PA_core3_lipidA_c + udp_c
+PA_core3_lipidA_c + 3.0 udpg_c --> PA_core4_lipidA_c + 3.0 udp_c
+PA_core4_lipidA_c + 2.0 dtdp6dm_c --> PA_core5_lipidA_c + 2.0 dtdp_c
+PA_core5_lipidA_c + udpg_c --> PA_core6_lipidA_c + udp_c
+PA_core6_lipidA_c + 3.0 atp_c --> PA_core7_lipidA_c + 3.0 adp_c + 3.0 h_c
+PA_core7_lipidA_c + ala__L_c + cbp_c --> PA_core_lipidA_c + h2o_c + pi_c
+PA_lipidX_c + PA_u23ga_c --> PA_lipidAds_c + h_c + udp_c
+PA_lipidA_c + ckdo_c --> PA_KDOlipidA_c + cmp_c + h_c
+PA_KDOlipidA_c + ckdo_c --> PA_KDO2lipidA_c + cmp_c + h_c
+PA_lipidAds_c + atp_c --> PA_lipidApre_c + adp_c + h_c
+3hddACP_c + PA_u3hga_c --> ACP_c + PA_u23ga_c + h_c
+3hdeACP_c + uacgam_c --> ACP_c + PA_u3aga_c
+PA_u3aga_c + h2o_c --> PA_u3hga_c + ac_c
+PA_u23ga_c + h2o_c --> PA_lipidX_c + 2.0 h_c + ump_c
+5aprbu_c + h2o_c --> 4r5au_c + pi_c
+atp_c + pnto__R_c --> 4ppan_c + adp_c + h_c
+2.0 5aop_c --> 2.0 h2o_c + h_c + ppbng_c
+4ppcys_c + h_c --> co2_c + pan4p_c
+4ppan_c + ctp_c + cys__L_c --> 4ppcys_c + cmp_c + h_c + ppi_c
+uaagmda_c --> h_c + peptido_EC_c + udcpdp_c
+0.02 ps_PA_c --> co2_c + 0.02 pe_PA_c
+atp_c + h_c + pan4p_c --> dpcoa_c + ppi_c
+atp_c + ribflv_c --> adp_c + fmn_c + h_c
+4r5au_c + db4p_c --> dmlz_c + 2.0 h2o_c + pi_c
+2.0 dmlz_c --> 4r5au_c + ribflv_c
+r5p_c --> db4p_c + for_c + h_c
+dtdpglc_c --> dtdpddg_c + h2o_c
+dump_c + mlthf_c --> dhf_c + dtmp_c
+26dap__M_c + atp_c + uamag_c --> adp_c + h_c + pi_c + ugmd_c
+pep_c + uacgam_c --> pi_c + uaccg_c
+acgam1p_c + h_c + utp_c --> ppi_c + uacgam_c
+uacgam_c + uagmda_c --> h_c + uaagmda_c + udp_c
+atp_c + glu__D_c + uama_c --> adp_c + h_c + pi_c + uamag_c
+ala__L_c + atp_c + uamr_c --> adp_c + h_c + pi_c + uama_c
+h_c + nadph_c + uaccg_c --> nadp_c + uamr_c
+h2o_c + udcpdp_c --> h_c + pi_c + udcpp_c
+alaala_c + atp_c + ugmd_c --> adp_c + h_c + pi_c + ugmda_c

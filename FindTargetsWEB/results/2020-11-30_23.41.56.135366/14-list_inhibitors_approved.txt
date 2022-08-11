@@ -1,0 +1,3 @@
+P06715;BE0000298;DB00336;Nitrofural;approved, investigational, vet_approved;yes;inhibitor
+P66010;BE0000474;DB00548;Azelaic Acid;approved;yes;inhibitor
+P41972;BE0000804;DB00410;Mupirocin;approved, investigational, vet_approved;yes;inhibitor

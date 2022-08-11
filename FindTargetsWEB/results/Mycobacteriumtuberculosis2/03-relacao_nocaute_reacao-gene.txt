@@ -1,0 +1,946 @@
+BIOMASSe: 47.0 ATP_c + 0.022 DNA_c + 0.186 LAM_c + 0.208 MAPC_c + 0.006 PE_c + 0.04 PIMS_c + 0.214 PROTEIN_c + 0.035 P__L__GLX_c + 0.036 RNA_c + 0.05 SMALLMOLECULES_c + 0.016 TAGbio_c --> 47.0 ADP_c + BIOMASS_c + 47.0 PI_c
+orphan
+----------------
+
+DNA: 4.44 ATP_c + 0.557 DATP_c + 1.061 DCTP_c + 1.061 DGTP_c + 0.557 DTTP_c --> 4.44 ADP_c + DNA_c + 4.44 PI_c + 3.24 PPI_c
+orphan
+----------------
+
+LAM: 4.5 ARAFDPP_c + 0.064 LM_c --> 4.5 DPP_c + LAM_c
+Rv3793
+----------------
+
+LM: 0.2 AC3PIM2_c + 3.6 PPM_c --> 3.6 DPP_c + LM_c
+orphan
+----------------
+
+MAPC: 0.008 ARABINOGALACTAN_PEPTIDOGLYCAN_c + 0.238 TREHALOSEMONOMYCOLATE_c --> MAPC_c + 0.238 TRE_c
+Rv1886c
+Rv0129c
+Rv3804c
+----------------
+
+PE: 1.23 PS_c --> 1.23 CO2_c + PE_c
+Rv0437c
+----------------
+
+PIMS: 0.082 AC2PIM1_c + 0.082 AC2PIM2_c + 0.082 AC3PIM5_c + 0.082 AC4PIM6_c + 0.082 AC4PIM7_c --> PIMS_c
+orphan
+----------------
+
+PROT: 1.324 ALA_c + 0.696 ARG_c + 0.213 ASN_c + 0.537 ASP_c + 40.74 ATP_c + 0.094 CYS_c + 0.283 GLN_c + 0.429 GLU_c + 0.958 GLY_c + 0.208 HIS_c + 0.389 ILE_c + 0.899 LEU_c + 0.192 LYS_c + 0.173 MET_c + 0.26 PHE_c + 0.56 PRO_c + 0.541 SER_c + 0.556 THR_c + 0.132 TRP_c + 0.187 TYR_c + 0.832 VAL_c --> PROTEIN_c
+orphan
+----------------
+
+P__L__GLX: 3.4 GLN_c + 3.4 GLU_c --> P__L__GLX_c
+Rv2220
+----------------
+
+R106: METTHF_c + NADP_c <=> METHF_c + NADPH_c
+Rv3356c
+----------------
+
+R107: METHF_c <=> FTHF_c
+Rv3356c
+----------------
+
+R12: MAN1P_c <=> MAN6P_c
+Rv3257c
+Rv3308
+----------------
+
+R124: FE3_c + NADPH_c <=> FE2_c + NADP_c
+Rv3106
+----------------
+
+R13: GTP_c + MAN1P_c --> GDPMAN_c + PI_c
+Rv3264c
+----------------
+
+R14: DPP_c + GDPMAN_c --> GDP_c + PPM_c
+Rv2051c
+----------------
+
+R146: ORN_c --> CO2_c + PTRSC_c
+Rv2531c
+----------------
+
+R147: PTRSC_c + SAM_c --> 5MTA_c + SPRMD_c
+Rv2601
+----------------
+
+R176: ASP_c --> CO2_c + bALA_c
+Rv3601c
+----------------
+
+R22: bDG6P_c <=> IP_c
+Rv0046c
+Rv2612c
+Rv1822
+----------------
+
+R23: IP_c --> MI_c + PI_c
+Rv2701c
+----------------
+
+R237: DAPIM_c <=> MDAPIM_c
+Rv2726c
+----------------
+
+R259: ATP_c + MET_c --> PI_c + PPI_c + SAM_c
+Rv1392
+----------------
+
+R260: SAH_c --> ADN_c + HCYS_c
+Rv3248c
+----------------
+
+R270: E4P_c + PEP_c --> 3DDAH7P_c + PI_c
+Rv2178c
+----------------
+
+R271: 3DDAH7P_c --> DQT_c + PI_c
+Rv2538c
+----------------
+
+R272: DQT_c --> DHSK_c
+Rv2537c
+----------------
+
+R273: DHSK_c + NADPH_c --> NADP_c + SME_c
+Rv2552c
+----------------
+
+R274: ATP_c + SME_c --> ADP_c + SME3P_c
+Rv2539c
+----------------
+
+R275: PEP_c + SME3P_c --> 3PSME_c + PI_c
+Rv3227
+----------------
+
+R276: 3PSME_c --> CHOR_c + PI_c
+Rv2540c
+----------------
+
+R287: ATP_c + R5P_c <=> AMP_c + PRPP_c
+Rv1017c
+----------------
+
+R293: ATP_c + UMP_c <=> ADP_c + UDP_c
+Rv1712
+----------------
+
+R294: ATP_c + UDP_c <=> ADP_c + UTP_c
+Rv2445c
+----------------
+
+R297: CDP_c + O2_c + RTHIO_c --> DCDP_c + OTHIO_c
+Rv3048c
+Rv3051c
+----------------
+
+R299: ATP_c + DCDP_c --> ADP_c + DCTP_c
+Rv2445c
+----------------
+
+R30: MLT_c <=> TRE_c
+orphan
+----------------
+
+R301: DUTP_c --> DUMP_c + PPI_c
+Rv2697c
+----------------
+
+R304: ATP_c + DTMP_c <=> ADP_c + DTDP_c
+Rv3247c
+----------------
+
+R305: ATP_c + DTDP_c <=> ADP_c + DTTP_c
+Rv2445c
+----------------
+
+R306: ATP_c + CDP_c <=> ADP_c + CTP_c
+Rv2445c
+----------------
+
+R307: ATP_c + CMP_c <=> ADP_c + CDP_c
+Rv1712
+----------------
+
+R310: NADPH_c + OTHIO_c --> NAD_c + RTHIO_c
+Rv3913
+----------------
+
+R313: GLN_c + PRPP_c --> GLU_c + PPI_c + PRAM_c
+Rv0808
+----------------
+
+R314: ATP_c + GLY_c + PRAM_c --> ADP_c + GAR_c + PI_c
+Rv0772
+----------------
+
+R315: FTHF_c + GAR_c --> FGAR_c + THF_c
+Rv0956
+----------------
+
+R316: ATP_c + FGAR_c + GLN_c --> ADP_c + FGAM_c + GLU_c + PI_c
+Rv0803
+----------------
+
+R317: ATP_c + FGAM_c --> ADP_c + AIR_c + PI_c
+Rv0809
+----------------
+
+R32: FOR_c + NAD_c --> CO2_c + NADH_c
+Rv2900c
+----------------
+
+R332: 5MTA_c + PI_c --> AD_c + MTR1P_c
+Rv0535
+----------------
+
+R338b: DR1P_c <=> R5P_c
+Rv3068c
+----------------
+
+R351: AMP_c + ATP_c <=> 2.0 ADP_c
+Rv0733
+----------------
+
+R352: ADP_c + O2_c + RTHIO_c --> DADP_c + OTHIO_c
+Rv3048c
+Rv3051c
+----------------
+
+R359: GDP_c + O2_c + RTHIO_c --> DGDP_c + OTHIO_c
+Rv3048c
+Rv3051c
+----------------
+
+R361: ATP_c + DGDP_c <=> ADP_c + DGTP_c
+Rv2445c
+----------------
+
+R377: ATP_c + NAD_c --> ADP_c + NADP_c
+Rv1695
+----------------
+
+R38: G6P_c <=> G1P_c
+Rv3068c
+----------------
+
+R381: GTP_c --> D6RP5P_c + FOR_c + PPI_c
+Rv1415
+Rv1940
+----------------
+
+R382: D6RP5P_c --> A6RP5P_c + NH3_c
+Rv1409
+Rv2671
+----------------
+
+R383: A6RP5P_c + NADPH_c --> A6RP5P2_c + NADP_c
+Rv2671
+Rv1409
+----------------
+
+R384: A6RP5P2_c --> A6RP_c + PI_c
+orphan
+----------------
+
+R385: RL5P_c --> DB4P_c + FOR_c
+Rv1940
+----------------
+
+R386: A6RP_c + DB4P_c --> D8RL_c + PI_c
+Rv1416
+----------------
+
+R387: 2.0 D8RL_c --> A6RP_c + RIBFLAV_c
+Rv1412
+----------------
+
+R388: ATP_c + RIBFLAV_c --> ADP_c + FMN_c
+Rv2786c
+----------------
+
+R389: ATP_c + FMN_c --> FAD_c + PPI_c
+Rv2786c
+----------------
+
+R390: METTHF_c + OMVAL_c --> AKP_c + THF_c
+Rv2225
+----------------
+
+R391: AKP_c + NADPH_c --> NADP_c + PANT_c
+Rv2573
+----------------
+
+R392: ATP_c + PANT_c + bALA_c --> AMP_c + PNTO_c + PPI_c
+Rv3602c
+----------------
+
+R393: ATP_c + PNTO_c --> 4PPNTO_c + ADP_c
+Rv1092c
+----------------
+
+R394: 4PPNTO_c + CTP_c + CYS_c --> 4PPNCYS_c + CMP_c + PPI_c
+Rv1391
+----------------
+
+R395: 4PPNCYS_c --> 4PPNTE_c + CO2_c
+Rv1391
+----------------
+
+R396: 4PPNTE_c + ATP_c --> DPCOA_c + PPI_c
+Rv2965c
+----------------
+
+R397: ATP_c + DPCOA_c --> ADP_c + COA_c
+Rv1631
+----------------
+
+R398: COA_c --> ACP_c
+Rv2523c
+Rv2794c
+----------------
+
+R411: CYS_c + FE2_c --> ALA_c + FERO_c
+Rv1464
+Rv3025c
+----------------
+
+R412: CHOR_c <=> ICHOR_c
+Rv2386c
+Rv3215
+----------------
+
+R413: AKG_c + ICHOR_c --> CO2_c + PYR_c + SHCHC_c
+Rv0555
+----------------
+
+R414: SHCHC_c --> OSB_c
+orphan
+----------------
+
+R415: ATP_c + COA_c + OSB_c --> AMP_c + OSBCOA_c + PPI_c
+Rv0542c
+Rv0553
+----------------
+
+R416: OSBCOA_c --> COA_c + DHN_c
+Rv0548c
+----------------
+
+R417: DHN_c + NPP_c --> CO2_c + DMK_c + PPI_c
+Rv0534c
+----------------
+
+R418: DMK_c + SAM_c --> MKH2_c + SAH_c
+orphan
+----------------
+
+R425: CO2_c --> HCO3_c
+Rv3588c
+Rv1284
+----------------
+
+R426: ATP_c + BIOTIN_c --> AMP_c + BIOTIN__BCCP_c + PPI_c
+Rv3279c
+----------------
+
+R427: ATP_c + BIOTIN__BCCP_c + HCO3_c --> ADP_c + BIOTIN__CO2_c + PI_c
+Rv3285
+Rv2501c
+Rv0973c
+----------------
+
+R427b: OCTANOYL__ACP_c --> ACP_c + APO__LIPO_c
+Rv2217
+----------------
+
+R427c: APO__LIPO_c + 2.0 H2S_c + 2.0 SAM_c --> 2.0 DA_c + LIPO_c + 2.0 MET_c
+Rv2218
+----------------
+
+R428: ATP_c + GLU_c --> AMP_c + PPI_c + TRNA__GLU_c
+Rv2992c
+----------------
+
+R429: NADPH_c + TRNA__GLU_c --> GLU1SEMIALD_c + NADP_c
+Rv0509
+----------------
+
+R430: GLU1SEMIALD_c --> 5__AMINO__LEVULINATE_c
+Rv0524
+----------------
+
+R431: 2.0 5__AMINO__LEVULINATE_c --> PORPHOBILILOGIN_c
+Rv0512
+----------------
+
+R432: 4.0 PORPHOBILILOGIN_c --> HYDROXYMETHYLBILANE_c + 4.0 NH3_c
+Rv0510
+----------------
+
+R433: HYDROXYMETHYLBILANE_c --> UROPORPHYRINOGEN__III_c
+Rv0511
+----------------
+
+R434: UROPORPHYRINOGEN__III_c --> 4.0 CO2_c + COPROPORPHYRINOGEN__III_c
+Rv2678c
+----------------
+
+R437: 1.5 O2_c + PROTOPORPHYRINOGEN_c --> PROTOPORPHYRIN__IX_c
+Rv1300
+Rv2677
+----------------
+
+R438: FE2_c + PROTOPORPHYRIN__IX_c --> PROTOHEME__FE2_c
+Rv1485
+----------------
+
+R439: FPP_c + PROTOHEME__FE2_c --> HEME__FE2_c + PPI_c
+orphan
+----------------
+
+R466: TS__PROTEIN_c --> TS__COSH__TYR_c
+orphan
+----------------
+
+R467: AIR_c --> AHMMP_c
+Rv0423c
+----------------
+
+R468: AHMMP_c + ATP_c --> ADP_c + AMPMP_c
+Rv0422c
+----------------
+
+R469: AMPMP_c + ATP_c --> ADP_c + MAHMPPP_c
+Rv0422c
+----------------
+
+R470: DX5P_c + TS__COSH__TYR_c --> HEMT_c + TS__PROTEIN_c
+Rv0417
+----------------
+
+R471: ATP_c + HEMT_c --> ADP_c + MPET_c
+orphan
+----------------
+
+R472: MAHMPPP_c + MPET_c --> PPI_c + THIP_c
+Rv0414c
+----------------
+
+R473: THIP_c --> PI_c + THI_c
+orphan
+----------------
+
+R486: 2.0 COA_c --> MBT__HOLO_c
+Rv2523c
+----------------
+
+R495: ACCOA_c + BIOTIN__CO2_c --> 0.999 BIOTIN_c + MALCOA_c
+Rv2502c
+Rv0974c
+Rv0904c
+Rv2247
+Rv3280
+Rv3799c
+----------------
+
+R496: ACCOA_c + ACP_c <=> ACACP_c + COA_c
+Rv2244
+Rv2243
+Rv0649
+----------------
+
+R497b: ACACP_c + 4.0 MALACP_c + 8.0 NADPH_c --> 4.0 ACP_c + 4.0 CO2_c + 8.0 NADP_c + OCTANOYL__ACP_c
+Rv2524c
+----------------
+
+R508: BIOTIN__CO2_c + HEXACOSANOYL__COA_c --> BIOTIN_c + HEXACOSANOYL__COA__CO2_c
+Rv3280
+Rv3799c
+Rv3285
+----------------
+
+R583: 0.1 9__HEXADECENOYL__COA_c + 0.1 9__OCTADECENOYL__COA_c + 0.1 EICOSANOYL__COA_c + GL3P_c + 0.1 HEXACOSANOYL__COA_c + 0.2 HEXADECANOYL__COA_c + 0.1 NONADECANOYL__COA_c + 0.1 OCTADECANOYL__COA_c + 0.1 PENTADECANOYL__COA_c + 0.1 TETRACOSANOYL__COA_c --> AGL3P_c + COA_c
+Rv1551
+Rv2482c
+----------------
+
+R587: 0.1 9__HEXADECENOYL__COA_c + 0.1 9__OCTADECENOYL__COA_c + AGL3P_c + 0.1 EICOSANOYL__COA_c + 0.1 HEXACOSANOYL__COA_c + 0.2 HEXADECANOYL__COA_c + 0.1 NONADECANOYL__COA_c + 0.1 OCTADECANOYL__COA_c + 0.1 PENTADECANOYL__COA_c + 0.1 TETRACOSANOYL__COA_c --> COA_c + PA_c
+Rv2483c
+Rv2182c
+----------------
+
+R588: CTP_c + PA_c <=> CDPDG_c + PPI_c
+Rv2881c
+----------------
+
+R589: CDPDG_c + SER_c <=> CMP_c + PS_c
+Rv0436c
+----------------
+
+R594: GL3P_c + HEXADECANOYL__ACP_c --> A160GL3P_c + ACP_c
+Rv2482c
+----------------
+
+R595: A160GL3P_c + TUBERCULOSTEROYL__ACP_c --> ACP_c + PA__TBA_c
+Rv2483c
+Rv2182c
+----------------
+
+R596: CTP_c + PA__TBA_c --> CDPDAG__TBA_c + PPI_c
+Rv2881c
+----------------
+
+R597: CDPDAG__TBA_c + MI_c --> CMP_c + PI__TBA_c
+Rv2612c
+----------------
+
+R598: GDPMAN_c + PI__TBA_c --> AC1PIM1_c + GDP_c
+Rv2610c
+----------------
+
+R599: AC1PIM1_c + HEXADECANOYL__ACP_c <=> AC2PIM1_c + ACP_c
+Rv2611c
+----------------
+
+R602: AC1PIM1_c + GDPMAN_c --> AC1PIM2_c + GDP_c
+Rv0557
+----------------
+
+R603: AC1PIM2_c + HEXADECANOYL__ACP_c <=> AC2PIM2_c + ACP_c
+Rv2611c
+----------------
+
+R604: AC2PIM2_c + HEXADECANOYL__ACP_c <=> AC3PIM2_c + ACP_c
+Rv2611c
+----------------
+
+R606: AC1PIM2_c + GDPMAN_c --> AC1PIM3_c + GDP_c
+orphan
+----------------
+
+R607: AC1PIM3_c + HEXADECANOYL__ACP_c <=> AC2PIM3_c + ACP_c
+Rv2611c
+----------------
+
+R608: AC2PIM3_c + HEXADECANOYL__ACP_c <=> AC3PIM3_c + ACP_c
+Rv2611c
+----------------
+
+R610: AC3PIM3_c + PPM_c --> AC3PIM4_c + DPP_c
+orphan
+----------------
+
+R611: AC3PIM4_c + PPM_c --> AC3PIM5_c + DPP_c
+orphan
+----------------
+
+R612: AC3PIM5_c + HEXADECANOYL__ACP_c <=> AC4PIM5_c + ACP_c
+Rv2611c
+----------------
+
+R613: AC4PIM5_c + PPM_c --> AC4PIM6_c + DPP_c
+Rv1500
+----------------
+
+R614: AC4PIM6_c + PPM_c --> AC4PIM7_c + DPP_c
+orphan
+----------------
+
+R618: ACP_c + MALCOA_c --> COA_c + MALACP_c
+Rv2244
+Rv2243
+Rv0649
+----------------
+
+R620: EICOSANOYL__COA_c + MALACP_c --> BETA__KETO__C22__ACYL__ACP_c + CO2_c + COA_c
+Rv0533c
+----------------
+
+R621: BETA__KETO__C22__ACYL__ACP_c + NADPH_c --> D__3__HYDROXY__C22__ACYL__ACP_c + NADP_c
+Rv1350
+Rv1483
+Rv2002
+Rv0242c
+Rv2766c
+----------------
+
+R622: D__3__HYDROXY__C22__ACYL__ACP_c --> TRANS__DELTA__2__ENOYL__C22__ACYL__ACP_c
+Rv0098
+Rv0130
+----------------
+
+R623: TRANS__DELTA__2__ENOYL__C22__ACYL__ACP_c --> CIS__DELTA__3__ENOYL__C22__ACYL__ACP_c
+Rv1141c
+Rv1142
+----------------
+
+R624: CIS__DELTA__3__ENOYL__C22__ACYL__ACP_c + 5.0 MALACP_c + 10.0 NADPH_c --> 5.0 ACP_c + CIS__DELTA__13__ENOYL__C32__ACYL__ACP_c + 5.0 CO2_c + 10.0 NADP_c
+Rv0130
+Rv1483
+Rv2766c
+Rv1350
+Rv1484
+Rv2245
+Rv0098
+Rv2002
+Rv0242c
+Rv2246
+----------------
+
+R625: CIS__DELTA__13__ENOYL__C32__ACYL__ACP_c + MALACP_c + NADPH_c --> ACP_c + CIS__DELTA__2__3_COMMA_15__ENOYL__C34__ACYL__ACP_c + CO2_c + NADP_c
+Rv0130
+Rv1483
+Rv2766c
+Rv1142c
+Rv1350
+Rv0098
+Rv2245
+Rv2002
+Rv1141c
+Rv0242c
+Rv2246
+----------------
+
+R626: CIS__DELTA__2__3_COMMA_15__ENOYL__C34__ACYL__ACP_c + 8.0 MALACP_c + 16.0 NADPH_c --> 8.0 ACP_c + CIS__DELTA__2__19_COMMA_31__ENOYL__C50__ACYL__ACP_c + 8.0 CO2_c + 16.0 NADP_c
+Rv0130
+Rv1483
+Rv2766c
+Rv1350
+Rv2245
+Rv1484
+Rv0098
+Rv2002
+Rv0242c
+Rv2246
+----------------
+
+R627: CIS__DELTA__2__19_COMMA_31__ENOYL__C50__ACYL__ACP_c + 2.0 NADP_c + 2.0 SAM_c --> CYCLOPROPYL__MEROACYL__ACP_c + 2.0 NADPH_c + 2.0 SAH_c
+Rv0503c
+Rv0643c
+----------------
+
+R628: CIS__DELTA__3__ENOYL__C22__ACYL__ACP_c + 8.0 MALACP_c + 16.0 NADPH_c --> 8.0 ACP_c + CIS__DELTA__19__ENOYL__C38__ACYL__ACP_c + 8.0 CO2_c + 16.0 NADP_c
+Rv0130
+Rv1483
+Rv2766c
+Rv1350
+Rv0098
+Rv2245
+Rv1484
+Rv2002
+Rv0242c
+Rv2246
+----------------
+
+R629: CIS__DELTA__19__ENOYL__C38__ACYL__ACP_c + MALACP_c + NADPH_c --> ACP_c + CIS__DELTA__2__3_COMMA_21__ENOYL__C40__ACYL__ACP_c + CO2_c + NADP_c
+Rv0130
+Rv1483
+Rv2766c
+Rv1350
+Rv1142c
+Rv2245
+Rv0098
+Rv2002
+Rv1141c
+Rv0242c
+Rv2246
+----------------
+
+R630: CIS__DELTA__2__3_COMMA_21__ENOYL__C40__ACYL__ACP_c + 8.0 MALACP_c + 16.0 NADPH_c --> 8.0 ACP_c + CIS__DELTA__2__19_COMMA_37__ENOYL__C56__ACYL__ACP_c + 8.0 CO2_c + 16.0 NADP_c
+Rv0130
+Rv1483
+Rv2766c
+Rv1350
+Rv2245
+Rv0098
+Rv1484
+Rv2002
+Rv0242c
+Rv2246
+----------------
+
+R631: CIS__DELTA__2__19_COMMA_37__ENOYL__C56__ACYL__ACP_c + SAM_c --> CIS__DELTA__37__ENOYL__METHY__HYDROXY__C56__ACYL__ACP_c + SAH_c
+Rv0642c
+----------------
+
+R632: CIS__DELTA__37__ENOYL__METHY__HYDROXY__C56__ACYL__ACP_c + 2.0 NADP_c + 2.0 SAM_c --> CIS__METHOXY__MEROACYL__ACP_c + 2.0 NADPH_c + 2.0 SAH_c
+Rv0643c
+Rv0644c
+----------------
+
+R633: CIS__DELTA__37__ENOYL__METHY__HYDROXY__C56__ACYL__ACP_c + 2.0 NADP_c + SAM_c --> CIS__KETO__MEROACYL__ACP_c + 2.0 NADPH_c + SAH_c
+Rv0644c
+----------------
+
+R634: CIS__DELTA__37__ENOYL__METHY__HYDROXY__C56__ACYL__ACP_c + NADP_c + SAM_c --> CIS__DELTA__37__ENOYL__DIMETHY__HYDROXY__C56__ACYL__ACP_c + NADPH_c + SAH_c
+Rv0645c
+----------------
+
+R635: CIS__DELTA__37__ENOYL__DIMETHY__HYDROXY__C56__ACYL__ACP_c + 2.0 NADP_c + 2.0 SAM_c --> 2.0 NADPH_c + 2.0 SAH_c + TRANS__METHOXY__MEROACYL__ACP_c
+Rv0503c
+Rv0643c
+----------------
+
+R636: CIS__DELTA__37__ENOYL__DIMETHY__HYDROXY__C56__ACYL__ACP_c + 2.0 NADP_c + SAM_c --> 2.0 NADPH_c + SAH_c + TRANS__KETO__MEROACYL__ACP_c
+Rv0503c
+----------------
+
+R637: ATP_c + 0.05 CIS__KETO__MEROACYL__ACP_c + 0.05 CIS__METHOXY__MEROACYL__ACP_c + 0.8 CYCLOPROPYL__MEROACYL__ACP_c + 0.05 TRANS__KETO__MEROACYL__ACP_c + 0.05 TRANS__METHOXY__MEROACYL__ACP_c --> ACP_c + MEROACYL__AMP_c + PI_c
+Rv3801c
+----------------
+
+R638: HEXACOSANOYL__COA__CO2_c + MEROACYL__AMP_c --> AMP_c + C78__3__OXY__MYCOLATE__ENZ_c + CO2_c + COA_c
+Rv3800c
+----------------
+
+R639: C78__3__OXY__MYCOLATE__ENZ_c + NADPH_c --> C78MYCOLATE__ENZ_c
+orphan
+----------------
+
+R640: C78MYCOLATE__ENZ_c + PPM_c --> C78MYCOLATE__PP_c
+Rv3802c
+----------------
+
+R641: C78MYCOLATE__PP_c + TRE6P_c --> PPM_c + TREHALOSEMONOMYCOLATE__P_c
+Rv0774c
+Rv0519c
+Rv1288
+----------------
+
+R642: TREHALOSEMONOMYCOLATE__P_c --> PI_c + TREHALOSEMONOMYCOLATE_LPAREN_CY_RPAREN__c
+Rv2006
+Rv3400
+----------------
+
+R643: COA_c --> MAS_c
+orphan
+----------------
+
+R649: HEXADECANOYL__ACP_c + 2.0 NADPH_c + SMMALONYLCOA_c --> CO2_c + COA_c + 2.0 NADP_c + TUBERCULOSTEROYL__ACP_c
+Rv2940c
+----------------
+
+R678: G3P_c + PYR_c --> CO2_c + DX5P_c
+Rv3379c
+Rv2682c
+----------------
+
+R679: DX5P_c + NADPH_c --> MDE4P_c + NADP_c
+Rv2870c
+----------------
+
+R680: CTP_c + MDE4P_c --> CDPMDE_c + PPI_c
+Rv3582c
+----------------
+
+R681: ATP_c + CDPMDE_c --> 2PCDPMDE_c + ADP_c
+Rv1011
+----------------
+
+R682: 2PCDPMDE_c --> CMP_c + MDECPP_c
+Rv3581c
+----------------
+
+R683: MDECPP_c + NADH_c --> HMB4PP_c + NAD_c
+Rv2868c
+----------------
+
+R684: HMB4PP_c + NADH_c --> IPP_c + NAD_c
+Rv3382c
+Rv1110
+----------------
+
+R685: IPP_c <=> DMPP_c
+Rv1745c
+----------------
+
+R686: DMPP_c + IPP_c --> GPP_c + PPI_c
+Rv2173
+Rv3383c
+Rv3398c
+----------------
+
+R687: GPP_c + IPP_c --> FPP_c + PPI_c
+Rv1086
+----------------
+
+R688: FPP_c + IPP_c --> GGPP_c + PPI_c
+Rv3398c
+----------------
+
+R689: GGPP_c + IPP_c --> PPI_c + PPPP_c
+Rv3398c
+----------------
+
+R690: IPP_c + PPPP_c --> HPPP_c + PPI_c
+orphan
+----------------
+
+R691: HPPP_c + IPP_c --> HEPPP_c + PPI_c
+Rv0562
+----------------
+
+R692: HEPPP_c + IPP_c --> OPP_c + PPI_c
+orphan
+----------------
+
+R693: IPP_c + OPP_c --> NPP_c + PPI_c
+orphan
+----------------
+
+R695: DPP_c + PRPP_c --> DPPPR_c + PPI_c
+Rv3806c
+----------------
+
+R696: DPPPR_c --> DPPR_c + PI_c
+orphan
+----------------
+
+R697: DPPR_c --> ARAFDPP_c
+Rv3790
+Rv3791
+----------------
+
+R699: ATP_c + 2.0 DALA_c --> ADP_c + ALAALA_c + PI_c
+Rv2981c
+----------------
+
+R700: DPP_c + UDPNAG_c --> NAGDPP_c + UMP_c
+orphan
+----------------
+
+R701: DTDPRHAM_c + NAGDPP_c --> DTDP_c + RHAMNAGDPP_c
+Rv3265c
+Rv1525
+----------------
+
+R702: RHAMNAGDPP_c + 30.0 UDPGALF_c <=> GALACTANDPP_c + 30.0 UDP_c
+Rv3808c
+----------------
+
+R705: ARAFDPP_c + GALACTANDPP_c <=> ARA_LSQBKT1_RSQBKTGALACTANDPP_c + DPP_c
+Rv3792
+----------------
+
+R706: 70.0 ARAFDPP_c + ARA_LSQBKT1_RSQBKTGALACTANDPP_c <=> ARABINOGALACTANDPP_c + 70.0 DPP_c
+Rv3794
+Rv3795
+----------------
+
+R707: DTTP_c + G1P_c --> DTDPGLC_c + PPI_c
+Rv0334
+----------------
+
+R708: DTDPGLC_c <=> DTDP4DH6DGLC_c
+Rv3634c
+Rv3468
+Rv3464
+Rv3784
+----------------
+
+R709: DTDP4DH6DGLC_c --> DTDP4DH6DMAN_c
+Rv3465
+----------------
+
+R710: DTDP4DH6DMAN_c + NADPH_c --> DTDPRHAM_c + NADP_c
+Rv3260c
+----------------
+
+R711: UDPGAL_c --> UDPGALF_c
+Rv3809c
+----------------
+
+R715: GA1P_c <=> GA6P_c
+Rv3068c
+----------------
+
+R716: ACCOA_c + GA1P_c <=> COA_c + NAGA1P_c
+orphan
+----------------
+
+R717: NAGA1P_c + UTP_c --> PPI_c + UDPNAG_c
+Rv1018c
+----------------
+
+R718: PEP_c + UDPNAG_c <=> UDPNAGPEE_c
+Rv1315
+----------------
+
+R719: NADPH_c + UDPNAGPEE_c --> NADP_c + UDPNAM_c
+Rv0482
+----------------
+
+R722: NADPH_c + UDPNAM_c --> NADP_c + UDPNGM_c
+Rv3818
+----------------
+
+R723: ALA_c + ATP_c + 0.3 UDPNAM_c + 0.7 UDPNGM_c <=> ADP_c + PI_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTALA_c
+Rv2152c
+----------------
+
+R724: ATP_c + DGLU_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTALA_c --> ADP_c + PI_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTALAGLU_c
+Rv2155c
+----------------
+
+R725: ATP_c + MDAPIM_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTALAGLU_c --> ADP_c + PI_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTAGMDAPIM_c
+Rv2158c
+----------------
+
+R726: ALAALA_c + ATP_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTAGMDAPIM_c --> ADP_c + PI_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTAGMDAPIMAA_c
+Rv2157c
+----------------
+
+R727: DPP_c + UDP_LSQBKTNAM_COLON_NGM_RSQBKTAGMDAPIMAA_c <=> LIPID1_c + UMP_c
+Rv2156c
+----------------
+
+R728: LIPID1_c + UDPNAG_c --> LIPID2_c + UDP_c
+Rv2153c
+----------------
+
+R729: ATP_c + LIPID2_c + NH3_c --> ADP_c + LIPID2__AMIDATED_c + PI_c
+orphan
+----------------
+
+R730: LIPID2__AMIDATED_c --> DPP_c + PEPTIDOGLYCAN_c
+orphan
+----------------
+
+R731: ARABINOGALACTANDPP_c + 30.0 PEPTIDOGLYCAN_c --> ARABINOGALACTAN_PEPTIDOGLYCAN_c + DPP_c
+orphan
+----------------
+
+R804:  --> O2_c
+orphan
+----------------
+
+RNA: 1.98 ATP_c + 0.708 CTP_c + 1.13 GTP_c + 0.641 UTP_c --> 1.25 ADP_c + 1.25 PI_c + 3.21 PPI_c + RNA_c
+orphan
+----------------
+
+SM_MOL: 0.012 ACP_c + 0.163 COA_c + 0.159 FAD_c + 0.001 FE2_c + 0.001 FE3_c + 0.001 FERI_c + 0.001 FERO_c + 0.274 FMN_c + 0.01 HEME__FE2_c + 0.01 HEME__FE3_c + 0.012 LIPO_c + 0.163 MAS_c + 0.012 MBT__HOLO_c + 0.146 MK_c + 0.01 MTR1P_c + 0.168 NADP_c + 0.188 NAD_c + 0.01 SPRMD_c --> SMALLMOLECULES_c
+orphan
+----------------
+
+TMM: 0.48 ATP_c + 0.48 TREHALOSEMONOMYCOLATE_LPAREN_CY_RPAREN__c --> 0.48 ADP_c + 0.48 PI_c + TREHALOSEMONOMYCOLATE_c
+Rv1349
+Rv1686c
+Rv1747
+Rv1272c
+Rv1687c
+Rv0194
+Rv1819c
+Rv1348
+Rv1273c
+----------------
+
+added_biomass_sink: BIOMASS_c --> 
+----------------
+
